@@ -1,30 +1,49 @@
 ---
-title: "Bitácora de Proyectos de Inversión Pública"
-subtitle: "Séptimo Ciclo - 2026"
-author: "Erick Fabricio Condoy Seraquive"
+title: "LPI: Laboratorio de Proyectos de Inversión"
+subtitle: "Infraestructura de Investigación - VII Ciclo"
+page-layout: full
 ---
 
-# Introducción al LPI (Laboratorio de Proyectos)
+# Bienvenido al Laboratorio (LPI)
 
-Este repositorio constituye la infraestructura técnica para el seguimiento y reporte de la materia de **Proyectos de Inversión Pública (Ciclo 7)**. Bajo la doctrina del **Laboratorio de Proyectos de Inversión (LPI)**, se busca la excelencia en la formulación y evaluación técnica-social.
+Este es tu centro de mando para la asignatura de **Proyectos de Inversión Pública**. Aquí se consolida la evidencia académica y el desarrollo técnico de tu proyecto de ciclo.
 
-## Objetivos del Repositorio
+::: {.grid}
 
-1.  **Formulación Analítica**: Gestión parametrizada de estudios de mercado y técnicos.
-2.  **Evaluación Social Automatizada**: Aplicación de precios sombra y tasas sociales mediante scripts.
-3.  **Docencia Reproducible**: Trazabilidad total desde el sílabo hasta los reportes finales.
+::: {.g-col-12 .g-col-md-6}
+### [Evidencia Académica]{.text-primary}
+Seguimiento estricto del sílabo y tareas programadas.
 
-## Estructura de Documentación
+- [**Unidad 1**]{.text-success}: Diagnóstico y Marco Normativo.
+    - [ACD-01: Marco Normativo en Proyectos](docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
+- [**Unidad 2**]: Metodología del Marco Lógico (En progreso).
+- [**Unidad 3**]: Evaluación y Seguimiento (Pendiente).
+:::
 
-Para entender la operatividad del sistema, consulte:
-- [README.md](README.md): Visión general y filosofía.
-- [ARCHITECTURE.md](ARCHITECTURE.md): Capas del sistema y diseño técnico.
-- [ROADMAP.md](ROADMAP.md): Plan de avance según las unidades del sílabo.
-- [SESSION_REPORT.md](SESSION_REPORT.md): Control de avance diario.
+::: {.g-col-12 .g-col-md-6}
+### [Investigación Core]{.text-danger}
+Tu proyecto maestro de inversión pública.
 
-## Unidades del Proyecto
+- [**Proyecto Maestro 2026**](docs/projects/Master-Project-LPI/README.md)
+    - Formulación Técnica.
+    - Evaluación Social y Precios Sombra.
+    - Análisis de Sostenibilidad.
+:::
 
-- **Unidad 1**: Identificación y Diagnóstico.
-- **Unidad 2**: Formulación Técnica.
-- **Unidad 3**: Evaluación Económica y Social.
-- **Unidad 4**: Gestión y Monitoreo. 
+:::
+
+---
+
+## Infraestructura Técnica
+
+Consulta la documentación del sistema para entender la arquitectura del laboratorio:
+
+| Documento | Descripción |
+|-----------|-------------|
+| [ARCHITECTURE.md](ARCHITECTURE.md) | Capas de datos, lógica y visualización. |
+| [ROADMAP.md](ROADMAP.md) | Cronograma de actividades y metas. |
+| [README.md](README.md) | Guía de inicio rápido y estándares. |
+
+---
+
+> *"La planificación es el proceso de preparar un conjunto de decisiones para la acción en el futuro, dirigida al logro de objetivos por medios óptimos."* — **Yehezkel Dror**

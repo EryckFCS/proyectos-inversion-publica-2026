@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LPI - Proyectos de Inversión"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Laboratorio"
+        contents:
+          - index.qmd
+          - ARCHITECTURE.md
+          - ROADMAP.md
+      - section: "Evidencia (Syllabus)"
+        contents:
+          - section: "Unidad 1: Diagnóstico"
+            contents:
+              - docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd
+          - section: "Unidad 2: Marco Lógico"
+            contents:
+              - text: "Pendiente"
+                file: docs/evidence/U2-Marco-Logico/README.md
+          - section: "Unidad 3: Evaluación"
+            contents:
+              - text: "Pendiente"
+                file: docs/evidence/U3-Seguimiento-Evaluacion/README.md
+      - section: "Investigación (Core)"
+        contents:
+          - docs/projects/Master-Project-LPI/README.md
+
+execute:
+  engine: jupyter
+  echo: false
+  warning: false
+  freeze: auto
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    embed-resources: true
+    self-contained: true
+    mermaid-format: svg
+  pdf:
+    documentclass: article
+    fontsize: 12pt

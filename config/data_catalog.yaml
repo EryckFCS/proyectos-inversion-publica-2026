@@ -1,0 +1,51 @@
+# LPI: Catálogo Maestro de Datos e Integridad Forense
+# Este archivo registra la procedencia e integridad de las fuentes primarias del laboratorio.
+
+datasets:
+  marco_normativo_nacional:
+    owner: "Asamblea Nacional / Registro Oficial"
+    status: "Verified"
+    files:
+      - id: "CONST_2008"
+        name: "Constitución de la República del Ecuador"
+        path: "data/raw/marco_normativo/01_Leyes_Constitucion/Constitucion_Republica_Ecuador_2008.pdf"
+        sha256: "9eb4df16b945ce127e89285261ae6d4db75221e60630e46d68923d4cc27f0a96"
+        source: "https://www.asambleanacional.gob.ec/"
+
+      - id: "COOTAD"
+        name: "Código de Organización Territorial (COOTAD)"
+        path: "data/raw/marco_normativo/01_Leyes_Constitucion/COOTAD_Codigo_Organizacion_Territorial.pdf"
+        sha256: "39d7ad8119823d6dd260344c4b3f3afb7fac969bf605c1a5de376c20dd562cb5"
+        source: "https://www.asambleanacional.gob.ec/"
+
+      - id: "COPFP"
+        name: "Código de Planificación y Finanzas Públicas (COPFP)"
+        path: "data/raw/marco_normativo/01_Leyes_Constitucion/COPFP_Codigo_Planificacion_Finanzas_Publicas.pdf"
+        sha256: "fe6ae3123ba60d929eb14eeadbcc752e7a6e183f623c005373badb71f990ebed"
+        source: "https://www.asambleanacional.gob.ec/"
+
+  planes_desarrollo:
+    owner: "Secretaría Nacional de Planificación"
+    status: "Verified"
+    files:
+      - id: "PND_2025"
+        name: "Plan Nacional de Desarrollo 2025-2029"
+        path: "data/raw/marco_normativo/02_Planes_Desarrollo/Plan_Nacional_Desarrollo_2025_2029.pdf"
+        sha256: "3f1ec68778bb79951ef614f69d249ce050fdde565a99b75fbaceabac460f91e5"
+        source: "https://www.planificacion.gob.ec/"
+
+      - id: "PDOT_LOJA"
+        name: "PDOT Provincia de Loja 2023-2027"
+        path: "data/raw/marco_normativo/02_Planes_Desarrollo/PDOT_Loja_2023_2027.pdf"
+        sha256: "af18910d63fce39a13a94e5695670998b8047c647cbf20c095f6e980f03054e5"
+        source: "https://prefecturaloja.gob.ec/"
+
+  metodologias_pip:
+    owner: "Ministerio de Economía y Finanzas"
+    status: "Verified"
+    files:
+      - id: "GUIA_PIP"
+        name: "Guía Metodológica PIP"
+        path: "data/raw/marco_normativo/03_Guias_Manuales/Metodologias/Guia_Metodologica_PIP.pdf"
+        sha256: "e8b4fd3e8959239cacffd354434b083505c1611932283cd05cc316ea149d4294"
+        source: "https://www.finanzas.gob.ec/"

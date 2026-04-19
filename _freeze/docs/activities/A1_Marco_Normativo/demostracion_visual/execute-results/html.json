@@ -1,0 +1,12 @@
+{
+  "hash": "4aeb945e53ed3bb81f8425b67de92ccb",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Demostración de Capacidades Visuales Quarto\"\nauthor: \"Antigravity Assistant\"\nformat: html\n---\n\n## 1. Diagramas de Flujo (Mermaid)\nEste diagrama resume la jerarquía normativa:\n\n```mermaid\ngraph TD\n    A[Constitución 2008] -- Define Deber de Planificar --> B[PND 2025-2029]\n    B -- Instrumento Rector de Inversión --> C[COPFP]\n    C -- Regula Finanzas y PAI --> D[Presupuesto General]\n    A -- Otorga Competencias --> E[COOTAD]\n    E -- Exige Alineación --> B\n    E -- Gestiona --> F[PDOT Loja]\n    F -- Ejecuta Inversión en Territorio --> G[Proyectos de Inversión]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:4px\n    style B fill:#bbf,stroke:#333\n    style G fill:#bfb,stroke:#333,stroke-width:2px\n```\n\n## 2. Gráficos Dinámicos (Python + Jupyter)\nResultados del análisis presupuestario:\n\n::: {#28ccc675 .cell execution_count=1}\n\n::: {.cell-output .cell-output-display}\n![](demostracion_visual_files/figure-html/cell-2-output-1.png){width=667 height=357}\n:::\n:::\n\n\n## 3. Tablas Enriquecidas\nPresentación de datos estructurados:\n\n::: {#893a47d7 .cell execution_count=2}\n\n::: {.cell-output .cell-output-stdout}\n```\n|   Año |   Inversión (Millones $) |\n|------:|-------------------------:|\n|  2025 |                      450 |\n|  2026 |                      520 |\n|  2027 |                      610 |\n|  2028 |                      750 |\n|  2029 |                      890 |\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "demostracion_visual_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

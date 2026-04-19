@@ -7,14 +7,8 @@ Art. 279.- El sistema nacional descentralizado de planificación participativa o
 planificación para el desarrollo. El sistema se conformará por un Consejo Nacional de
 Planificación, que integrará a los distintos niveles de gobierno, con participación
 ciudadana, y tendrá una secretaría técnica, que lo coordinará. Este consejo tendrá por
-https://edicioneslegales.com.ec/
 
-Pág. 96 de 163
-
-Todos los derechos reservados. Prohibida su reproducción parcial o total.
-Piense en el medio ambiente. Imprima solo de ser necesario.
-
-objetivo dictar los lineamientos y las políticas que orienten al sistema y aprobar el Plan
+objetivo dictar los lineamientos y las políticas que orienten al sistema y aprobar el Plan
 Nacional de Desarrollo, y será presidido por la Presidenta o Presidente de la República.
 Los consejos de planificación en los gobiernos autónomos descentralizados estarán
 presididos por sus máximos representantes e integrados de acuerdo con la ley.
@@ -60,21 +54,17 @@ Art. 295.- La Función Ejecutiva presentará a la Asamblea Nacional la proforma
 presupuestaria anual y la programación presupuestaria cuatrianual durante los primeros
 noventa días de su gestión y, en los años siguientes, sesenta días antes del inicio del año
 fiscal respectivo. La Asamblea Nacional aprobará u observará, en los treinta días
-https://edicioneslegales.com.ec/
 
-Pág. 101 de 163
-
-Todos los derechos reservados. Prohibida su reproducción parcial o total.
 ```
 ---
 ## 2. PLAN NACIONAL DE DESARROLLO (2025-2029) - ESTRUCTURA
 ```text
-PLAN
+PLAN
 NACIONAL DE
 DESARROLLO
 2025-2029
 
-CONSEJO NACIONAL
+CONSEJO NACIONAL
 DE PLANIFICACIÓN
 Daniel Roy-Gilchrist Noboa Azin
 Presidente Constitucional de la República del Ecuador
@@ -150,7 +140,7 @@ en cumplimiento con el Código Orgánico de Planificación y Finanzas Públicas.
 Fue presentado por Diana Ramírez, Secretaria Nacional de Planificación y aprobado en sesión del 21 de agosto de 2025,
 mediante Resolución Nro. 012-2025-CNP.
 
-Elaboración del Plan Nacional de Desarrollo “Ecuador no se detiene” 2025- 2029
+Elaboración del Plan Nacional de Desarrollo “Ecuador no se detiene” 2025- 2029
 Secretaría Nacional de Planificación, 2025
 ISBN: 978-9942-7433-0-5
 Diseño y Diagramación: Aquattro
@@ -187,7 +177,7 @@ Plan Nacional de Desarrollo como la guía; la Estrategia Territorial Nacional co
 el contexto y realidades de la población; y la Visión de Largo Plazo, como el sueño que queremos alcanzar. De seguro,
 marcará un hito para el desarrollo del Nuevo Ecuador que no se detiene.
 
-CONTENIDOS
+CONTENIDOS
 
 PROCESO DE PARTICIPACIÓN CIUDADANA PARA LA CONSTRUCCIÓN DEL PLAN
 NACIONAL DE DESARROLLO 2025-2029
@@ -280,7 +270,7 @@ Metodología de elaboración de la Estrategia Territorial Nacional
 
 22
 
-Descripción e interpretación de las características actuales y
+Descripción e interpretación de las características actuales y
 potenciales del territorio nacional
 Articulación territorial y gobernanza multinivel
 Modelo Territorial Actual
@@ -326,48 +316,11 @@ BIBLIOGRAFÍA
 
 382
 
-GR ÁFICOS
+GR ÁFICOS
 
-Gráfico 1. Elementos del nuevo Plan Nacional de Desarrollo 2025 - 2029
-Gráfico 2. Árbol de aportes
-Gráfico 3. Asamblea Ciudadana Plurinacional e Intercultural para el Buen Vivir
-Gráfico 4. Eventos tipo 1
-Gráfico 5. Eventos tipo 2
-Gráfico 6. Eventos tipo 3
-Gráfico 7. Página web de recolección de aportes
-Gráfico 8. Agenda general de los espacios participativos
-Gráfico 9. Construcción Participativa
-Gráfico 10. Actores de participación ciudadana
-Gráfico 11. Problemáticas abordadas
-Gráfico 12. Tasa de crecimiento del PIB, 2014-2025
-Gráfico 13. Inflación en América Latina y el Caribe y en el Mundo, 2019-2024
-Gráfico 14. Deuda pública bruta del gobierno central, por país, diciembre de 2023 y
 septiembre de 2024
-Gráfico 15. Tasa de pobreza extrema en Ecuador y América Latina, 2010-2023
-Gráfico 16. Años de escolaridad en Ecuador, 1990-2024
-Gráfico 17. Evolución Índice de Desarrollo Humano de Ecuador, 1990-2023
-Gráfico 18. Prevalencia de la desnutrición crónica en niños y niñas menores a
 5 años de edad
-Gráfico 19. Indicadores de gobernanza en Ecuador y América Latina y el Caribe, 2023
-Gráfico 20. Pirámide poblacional, 2025
-Gráfico 21. Distribución poblacional por provincia, 2025
-Gráfico 22. Producto Interno Bruto y tasa de variación, 2018-2024
-Gráfico 23. Evolución de la inflación anual, 2018-2024
-Gráfico 24. Indicadores del mercado laboral en porcentaje, 2019–2024
-Gráfico 25. Inversión Extranjera Directa, 2018–2024
-Gráfico 26. Ejes Visión de Largo Plazo
-Gráfico 27. Variables estratégicas definidas por SNU y SNP
-Gráfico 28. Fases del proceso de construcción ejercicio Visión de Largo Plazo
-Gráfico 29. Pobreza extrema por ingresos, 2018-2024
-Gráfico 30. Pobreza por Necesidades Básicas Insatisfechas, 2018-2024
-Gráfico 31. Pobreza multidimensional, 2018-2024
-Gráfico 32. Atenciones en los servicios de inclusión social, 2021-2025
-Gráfico 33. Prevalencia de desnutrición crónica en niñas/os menores de 2 años
 según autoidentificación étnica, 2024
-Gráfico 34. Déficit habitacional, 2018-2024
-Gráfico 35. Tasa neta de matrícula de educación en EGB
-Gráfico 36. Tasa neta de matrícula de educación en Bachillerato
-Gráfico 37. Delitos contra la propiedad de mayor incidencia, 2019 - 2024
 
 22
 24
@@ -407,58 +360,12 @@ Gráfico 37. Delitos contra la propiedad de mayor incidencia, 2019 - 2024
 92
 100
 
-Gráfico 38. Denuncias de secuestros “Consumados y Tentativos”, 2019-2024
-Gráfico 39. Denuncias de extorsiones “Consumadas y Tentativas”, 2019 - 2024
-Gráfico 40. Sustancias catalogadas sujetas a fiscalización aprehendidas, 2017-2023
-Gráfico 41. Tráfico de drogas por tipo de tendencia (consumo interno /
 tráfico internacional), 2017-2023
-Gráfico 42. Toneladas de SCSF depositadas y destruidas, 2020-2024
-Gráfico 43. Homicidios intencionales, 2019–2024
-Gráfico 44. Población Penitenciaria del Ecuador, 2025
-Gráfico 45. Población Penitenciaria por caracterización judicial, abril 2025
-Gráfico 46. Hacinamiento, Población Penitenciaria y Capacidad Instalada, 2020-2024
-Gráfico 47. Muertes por Violencia Intracarcelaria, 2020-2024
-Gráfico 48. Emergencias gestionadas, 2018-2024
-Gráfico 49. Emergencias coordinadas por servicio, 2021-2024
-Gráfico 50. Flujos Migratorios Anuales, 2018-2024
-Gráfico 51. Comparativo de inadmisiones de ciudadanos extranjeros, 2018-2024
-Gráfico 52. Flujo de remesas, 2017-2024
-Gráfico 53. Comparativo por tipo de violencia contra la mujer o miembros
 del núcleo familiar, 2023 y 2024
-Gráfico 54. Número de víctimas de femicidio, 2018-2025
-Gráfico 55. Número de víctimas de femicidio por grupo de edad, 2019-2025
-Gráfico 56. Tasa de variación anual del Producto Interno Bruto, 2010-2024
-Gráfico 57. Tasa de crecimiento del Valor agregado Bruto no Petrolero, 2010-2024
-Gráfico 58. Indicadores del mercado laboral a nivel nacional, 2018-2024
-Gráfico 59. Valor Agregado Bruto real de Acuicultura y Pesca de Camarón, 2019-2024
-Gráfico 60. Aporte del sector agropecuario al PIB Real (PIB real anual), 2018-2024
-Gráfico 61. Número de entidades de la economía popular y solidaria, a febrero de 2025
-Gráfico 62. Evolución Exportaciones No Tradicionales, 2019-2023
-Gráfico 63. Inversión Extranjera Directa, 2014-2024
-Gráfico 64. Evolución mensual de las reservas internacionales, 2018- enero 2025
-Gráfico 65. Cobertura del servicio eléctrico, 2015 - 2024
-Gráfico 66. Demanda de energía (GWh), 2021-2025
-Gráfico 67. Demanda de potencia (MW), 2021-2025
-Gráfico 68. Exportaciones Mineras, 2018–2024
-Gráfico 69. Cuentas De Internet Fijo y Móvil, 2010 – 2024
-Gráfico 70. Red Vial Estatal del Ecuador
-Gráfico 71. Beneficiarios de los procesos de formación, 2024
-Gráfico 72. Mecanismos implementados de control social y veedores
 acreditados, 2021 – 2024
-Gráfico 73. Cumplimiento presentación de informes de Rendición de
 Cuentas de autoridades electas por voto popular, 2019 - 2023
-Gráfico 74. Cumplimiento presentación de informes de Rendición de
 Cuentas instituciones, 2019-2023*
-Gráfico 75. Operativos de control a nivel nacional, 2024
-Gráfico 76. Índice de percepción de la calidad de los servicios públicos, 2018-2024
-Gráfico 77. Instituciones que implementan buenas prácticas relacionadas
 con la calidad de los servicios públicos, 2021-2024
-Gráfico 78. Reconocimientos por nivel de madurez, 2015-2024
-Gráfico 79. Plan de Acción 2022-2024 | Estadística de Compromisos, 2022-2024
-Gráfico 80. Índice de Percepción de Corrupción en Ecuador, 2012-2024
-Gráfico 81. Tendencia de la AOD US dólares, Millones, 2003-2023
-Gráfico 82. Tendencia de la AOD en América Latina y el Caribe, 2003-2023
-Gráfico 83. Índice de vulnerabilidad ND-GAIN, 2022
 
 101
 102
@@ -507,57 +414,14 @@ Gráfico 83. Índice de vulnerabilidad ND-GAIN, 2022
 194
 202
 
-Gráfico 84. Variables utilizadas en los modelos geográficos de la red de
 asentamientos humanos
-Gráfico 85. Variables utilizadas en los modelos geográficos de la dinámica social
-Gráfico 86. Variables utilizadas en los modelos geográficos de las actividades
 económico productivas
-Gráfico 87. Variables utilizadas en los modelos geográficos de ambiente y biodiversidad
-Gráfico 88. Variables utilizadas en los modelos geográficos de exposición
 frente a amenazas naturales
-Gráfico 89. Variables utilizadas en los modelos geográficos de seguridad
-Gráfico 90. Dendrograma resultante del proceso AHC
-Gráfico 91. Porcentaje de variación de población intercensal
-Gráfico 92. Clasificación de población por número de habitantes
-Gráfico 93. Densidad poblacional por parroquia
-Gráfico 94. Sectores económicos a nivel parroquial
-Gráfico 95. Distribución de los asentamientos humanos al 2025
-Gráfico 96. Red vial a nivel nacional
-Gráfico 97. Patrón de distribución espacial de la población
-Gráfico 98. Accesibilidad a servicios públicos
-Gráfico 99. Tasa de Pobreza Multidimensional 2022-2024
-Gráfico 100. Prevalencia de desnutrición crónica infantil a nivel provincial en
 niñas y niños menores de 2 años
-Gráfico 101. Priorización cantonal para intervención intersectorial
-Gráfico 102. Déficit de vivienda cualitativo y cuantitativo
-Gráfico 103. Condiciones de la vivienda
-Gráfico 104. Valor Agregado Bruto provincial
-Gráfico 105. Sector económico dominante
-Gráfico 106. Nivel de concentración ocupacional por provincia
-Gráfico 107.Número de personas productoras de la AFC incorporadas en
 el registro del Sello Agricultura Familiar Campesina, 2020–2025
-Gráfico 108. Acceso a crédito agropecuario por provincia y sexo
-Gráfico 109. Porcentaje de hogares con acceso a electricidad
-Gráfico 110. Porcentaje de hogares con acceso a electricidad por provincia
-Gráfico 111. Viviendas sin acceso a algún tipo de servicio higiénico, por provincia
-Gráfico 112. Porcentaje de hogares con acceso a internet
-Gráfico 113. Densidad vial por provincia
-Gráfico 114. Instituciones de Educación Superior por cada 100.000 habitantes,
 nivel provincial
-Gráfico 115. Contribución del Valor Agregado Bruto del Turismo al VAB Local
-Gráfico 116. Distribución de atractivos turísticos inventariados en Ecuador
-Gráfico 117. Distribución porcentual del acceso al financiamiento por provincia
 y por sexo, monto total
-Gráfico 118. Monto promedio otorgado por provincia y sexo
-Gráfico 119. Variación porcentual de la recaudación tributaria por provincia,
 2024 respecto a 2023
-Gráfico 120. Divisoria de aguas y demarcaciones hidrográficas
-Gráfico 121. Espacios marítimos y Región Insular del Ecuador
-Gráfico 122. Tasa de crecimiento poblacional a nivel provincial
-Gráfico 123. Cobertura vegetal y usos del suelo a nivel provincial
-Gráfico 124. Deforestación neta por provincia en el Ecuador continental
-Gráfico 125. Porcentaje de áreas protegidas terrestres a nivel provincial
-Gráfico 126. Presencia de bosques y vegetación protectores por provincia
 en el Ecuador continental
 
 238
@@ -604,169 +468,93 @@ en el Ecuador continental
 305
 306
 
-Gráfico 127. Carbono por estrato de bosque a nivel continental
 307
-Gráfico 128. Degradación del suelo en el Ecuador continental
 308
-Gráfico 129. Huella ecológica provincial per cápita
 309
-Gráfico 130. Biocapacidad per cápita provincial
 310
-Gráfico 131. Déficit o reserva ecológica per cápita
 311
-Gráfico 132. Áreas de conservación ambiental comunitaria e individual
 314
-Gráfico 133. Presencia de áreas bajo acciones de restauración por provincia
 315
-Gráfico 134. Áreas prioritarias de restauración, porcentaje por provincia
 316
-Gráfico 135. Áreas de protección hídrica, porcentaje por provincia
 317
-Gráfico 136. ACUS, porcentaje por provincia
 318
-Gráfico 137. Susceptibilidad frente a amenazas naturales a nivel nacional
 323
-Gráfico 138. Elementos esenciales expuestos a inundaciones en el Ecuador continental 325
-Gráfico 139. Elementos esenciales expuestos a sequías en el Ecuador continental
 326
-Gráfico 140. Elementos esenciales expuestos a peligros volcánicos en el
 Ecuador continental
 327
-Gráfico 141. Elementos esenciales expuestos a susceptibilidad sísmica en el Ecuador
 continental
 328
-Gráfico 142. Elementos esenciales expuestos a movimientos en masa a
 nivel continental
 329
-Gráfico 143. Elementos esenciales expuestos a incendios en el Ecuador continental
 330
-Gráfico 144. Intensidad delictiva provincial
 340
-Gráfico 145. Áreas de mayor incidencia de eventos delincuenciales en los
 espacios marítimos
 341
-Gráfico 146. Factor riesgo: Pobreza por NBI a nivel provincial
 342
-Gráfico 147. Factor riesgo: Desempleo juvenil a nivel provincial
 343
-Gráfico 148. Factor riesgo: Deserción escolar a nivel provincial
 344
-Gráfico 149. Planificación e implementación de la presencia institucional en
 territorio 2024 (zonas de planificación)
 347
-Gráfico 150. Porcentaje de implementación de la presencia institucional en territorio
 347
-Gráfico 151. Clasificación provincial respecto del diagnóstico territorial estratégico
 350
-Gráfico 152. Asentamientos humanos consolidados y tipologías rurales
 352
-Gráfico 153. Espacios marítimos del Ecuador y sus potencialidades
 353
-Gráfico 154. Modelo Territorial Actual del Ecuador
 353
-Gráfico 155. Directrices ETN 2025 – 2029
 354
-Gráfico 156. Evolución del Plan Anual de Inversiones (2017-2024), en millones de USD
 368
-Gráfico 157. Vinculación PND y ODS
 375
-Gráfico 158. Proceso de alineación de metas con ODS
 376
-Gráfico 159. Porcentaje de alineación de las metas del Plan con los ODS
 377
-Gráfico 160. Alineación metas PND con Agenda 2030
 378
 
-TABL AS
+TABL AS
 
-Tabla 1. Principales problemáticas abordadas
 34
-Tabla 2. Proporción de la población según rangos de edad, 2010 y 2025
 55
-Tabla 3. Número de estudiantes con escolaridad inconclusa matriculados
 90
-Tabla 4. Energía eléctrica generada e importada, 2024
 162
-Tabla 5. Autoridades electas por dignidad y sexo, 2025
 182
-Tabla 6. Entidades públicas que implementan el modelo de Gobierno Abierto, 2020-2024 188
-Tabla 7. Personas afectadas directamente distribuidas según eventos peligrosos,
 2019-2025
 202
-Tabla 8. Ponderación de datos analizados en el MTA
 240
-Tabla 9. Rangos de tamaño poblacional
 244
-Tabla 10. Rangos de densidad poblacional
 245
-Tabla 11. Principales hallazgos de la tipología económica territorial por sector
 246
-Tabla 12. Tasa de empleo por sector económico a nivel provincial
 276
-Tabla 13. Estado de las competencias a nivel provincial
 348
-Tabla 14. Estado de las competencias a nivel cantonal
 348
-Tabla 15. Estado de las competencias a nivel cantonal
 348
-Tabla 16. Clasificación provincial
 350
-Tabla 17. Lineamientos territoriales de la Directriz 1 de la ETN 2025–2029
 357
-Tabla 18. Lineamientos territoriales de la Directriz 2 de la ETN 2025 – 2029
 360
-Tabla 19. Lineamientos territoriales de la Directriz 3 de la ETN 2025 – 2029
 362
-Tabla 20. Plan Plurianual de Inversiones (2025-2028) – en millones de USD
 371
 
-MAPAS
+MAPAS
 
-Mapa 1. Territorio continental, insular y espacios marítimos del Ecuador
 235
-Mapa 2. Jerarquía funcional de asentamientos humanos consolidados
 252
-Mapa 3. Zonificación de asentamientos humanos dispersos
 254
-Mapa 4. Tasa de pobreza por ingresos a nivel provincial
 256
-Mapa 5. Modelo de salud
 260
-Mapa 6. Modelo de educación
 264
-Mapa 7. Modelo de hábitat y vivienda a nivel provincial
 268
-Mapa 8. Modelo de migración a nivel provincial
 271
-Mapa 9. Modelo de la dinámica social a nivel provincial
 273
-Mapa 10. Modelo de estructura económica territorial
 290
-Mapa 11. Modelo de aptitud productiva y financiamiento agropecuaria a nivel provincial 292
-Mapa 12. Modelo infraestructura estratégica a nivel provincial
 294
-Mapa 13. Modelo económico productivo a nivel provincial
 296
-Mapa 14. Modelo de presión ambiental a nivel provincial
 304
-Mapa 15. Modelo estado ambiental
 312
-Mapa 16. Modelo de respuesta ambiental
 319
-Mapa 17. Modelo ambiental y biodiversidad
 321
-Mapa 18. Exposición de la población frente a predominancia de amenazas naturales
 332
-Mapa 19. Predominancia de amenazas por superficie cantonal
 334
-Mapa 20. Exposición de infraestructuras frente a predominancia de amenazas naturales 336
-Mapa 21. Exposición de elementos esenciales frente a amenazas naturales
 (relacionadas con zonas de susceptibilidad muy alta, alta o mayor peligro)
 338
-Mapa 22. Perfil territorial de la actividad delictiva
 345
 
-```
+```
 ---
 ## 3. COOTAD - ARTÍCULOS SELECCIONADOS
 ```text
@@ -784,10 +572,6 @@ d) La organización territorial del Estado ecuatoriano equitativa y solidaria, q
 e) La afirmación del carácter intercultural y plurinacional del Estado ecuatoriano;
 f) La democratización de la gestión del gobierno central y de los gobiernos autónomos descentralizados, mediante el impulso de la participación ciudadana;
 g) La delimitación del rol y ámbito de acción de cada nivel de gobierno, para evitar la duplicación de funciones y optimizar la administración estatal;
-
-Página 1 de 87
-
-Fiel Web (www.fielweb.com) :: Ediciones Legales, 2015
 
 h) La definición de mecanismos de articulación, coordinación y corresponsabilidad entre los distintos niveles de gobierno para una adecuada planificación y gestión pública;
 --
@@ -852,10 +636,6 @@ c) Planificar, construir y mantener la vialidad urbana;
 d) Prestar los servicios públicos de agua potable, alcantarillado, depuración de aguas residuales, manejo de desechos sólidos, actividades de saneamiento ambiental y aquellos que establezca la ley;
 e) Crear, modificar, exonerar o suprimir mediante ordenanzas, tasas, tarifas y contribuciones especiales de mejoras;
 f) Planificar, regular y controlar el tránsito y el transporte terrestre dentro de su circunscripción cantonal;
-
-Página 13 de 87
-
-Fiel Web (www.fielweb.com) :: Ediciones Legales, 2015
 
 g) Planificar, construir y mantener la infraestructura física y los equipamientos de salud y educación, así como los espacios públicos destinados al desarrollo social, cultural y deportivo, de acuerdo
 --
@@ -957,9 +737,7 @@ Territorial.- (Reformado por el Art. 42 de la Ley s/n, R.O. 253-S, 24-VII-2020).
 las metas propuestas en sus planes y evaluarán su cumplimiento para establecer los
 correctivos o modificaciones que se requieran.
 
-Página 20 de 80
-
-El ente rector de la planificación nacional, conjuntamente con los gobiernos
+El ente rector de la planificación nacional, conjuntamente con los gobiernos
 autónomos descentralizados, formulará los lineamientos de carácter general para el
 cumplimiento de esta disposición, los mismos que serán aprobados por el Consejo
 Nacional de Planificación.
@@ -1009,9 +787,8 @@ cuatrianual, los techos presupuestarios institucionales y de gasto.
 En lo referente al Presupuesto General del Estado y empresas públicas de la Función
 Ejecutiva, el ente rector de las finanzas públicas emitirá las directrices sobre
 los techos presupuestarios globales, institucionales y de gasto considerando las
-Página 21 de 80
 
-prioridades institucionales definidas, su alineación a los objetivos del Plan
+prioridades institucionales definidas, su alineación a los objetivos del Plan
 Nacional de Desarrollo y la progresividad y garantía de derechos constitucionales.
 Para las entidades no contenidas en el inciso anterior, esta competencia le
 corresponderá al órgano que cada nivel de gobierno determine.
@@ -1057,9 +834,8 @@ establece la Constitución de la República y la Ley;
 legales; y, en ausencia de disposición expresa, se realizará por parte de cada uno
 de sus directorios.
 Únicamente los programas y proyectos incluidos en el Plan Anual de Inversiones
-Página 22 de 80
 
-podrán recibir recursos del Presupuesto General del Estado.
+podrán recibir recursos del Presupuesto General del Estado.
 Art. (...).- Programas de preservación de capital del Presupuesto General del
 Estado.- (Agregado por el Art. 7 de la Ley s/n, R.O. 253-S, 27-VII-2020).- Se
 entenderá como programa de preservación de capital el que preserve o aumente la
@@ -1107,9 +883,8 @@ DE LA PLANIFICACIÓN DE LA COOPERACIÓN INTERNACIONAL NO REEMBOLSABLE
 Art. 65.- Cooperación Internacional No Reembolsable.- Se entiende por cooperación
 internacional no reembolsable al mecanismo por el cual la República del Ecuador
 otorga, recibe, transfiere o intercambia recursos, bienes, servicios, capitales,
-Página 23 de 80
 
-conocimientos y/o tecnología, con el objeto de contribuir o complementar las
+conocimientos y/o tecnología, con el objeto de contribuir o complementar las
 iniciativas nacionales para el logro de los objetivos de la planificación.
 La cooperación internacional no reembolsable proviene de fuentes externas de
 carácter público y/o privado de entidades y organismos que realicen ese tipo de
@@ -1164,9 +939,8 @@ DE LAS FINANZAS PÚBLICAS
 Título I
 DEL SISTEMA NACIONAL DE FINANZAS PÚBLICAS
 Art. 70.- Sistema Nacional de Finanzas Públicas (SINFIP).- El SINFIP comprende el
-Página 24 de 80
 
-conjunto de normas, políticas, instrumentos, procesos, actividades, registros y
+conjunto de normas, políticas, instrumentos, procesos, actividades, registros y
 operaciones que las entidades y organismos del Sector Público, deben realizar con
 el objeto de gestionar en forma programada los ingresos, gastos y financiamiento
 públicos, con sujeción al Plan Nacional de Desarrollo y a las políticas públicas
@@ -1209,9 +983,8 @@ Desarrollo.
 la República;
 3. (Sustituido por el num. 3 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Precautelar el cumplimiento de los objetivos de política económica y fiscal
 prevista en la Constitución de la República y las leyes, en el ámbito de su
-Página 25 de 80
 
-competencia;
+competencia;
 4. Analizar las limitaciones, riesgos, potencialidades y consecuencias fiscales que
 puedan afectar a la sostenibilidad de las finanzas públicas y a la consistencia del
 desempeño fiscal e informar al respecto a las autoridades pertinentes de la función
@@ -1254,9 +1027,8 @@ evaluaciones relacionados con la situación fiscal del país;
 público y/o privado, la información sobre la utilización de los recursos públicos;
 en coordinación con la Secretaria Nacional de Planificación y Desarrollo;
 14. Participar y asesorar en la elaboración de proyectos de ley o decretos que
-Página 26 de 80
 
-tengan incidencia en los recursos del Sector Público;
+tengan incidencia en los recursos del Sector Público;
 15. (Reformado por el num. 1 del Art. 5 de la Ley s/n, R.O. 150-2S, 29-XII-2017).Dictaminar en forma previa, obligatoria y vinculante sobre todo proyecto de ley,
 decreto, acuerdo, resolución, o cualquier otro instrumento legal o administrativo
 que tenga impacto en los recursos públicos o que genere obligaciones no
@@ -1315,9 +1087,7 @@ público del Presupuesto General del Estado, y designar negociadores, manteniend
 debida coordinación con las entidades del Estado a cuyo cargo estará la ejecución
 de los proyectos o programas financiados con deuda pública;
 
-Página 27 de 80
-
-26. Participar a nombre del Estado, en procesos de negociación de cooperación
+26. Participar a nombre del Estado, en procesos de negociación de cooperación
 internacional no reembolsable originada en canje o conversión de deuda pública por
 proyectos de interés público, que se acuerden con los acreedores;
 27. Aprobar o rechazar la concesión de garantías de la República del Ecuador, para
@@ -1361,9 +1131,7 @@ tendrán la misma fuerza y efecto que si los hubiere hecho el titular o la titul
 de esta Cartera de Estado y la responsabilidad corresponderá al funcionario
 delegado.
 
-Página 28 de 80
-
-Para el cumplimiento de sus deberes y atribuciones, el ente rector del SINFIP
+Para el cumplimiento de sus deberes y atribuciones, el ente rector del SINFIP
 tendrá jurisdicción coactiva, que se ejercerá de acuerdo con la ley.
 Art. 76.- Recursos Públicos.- Se entienden por recursos públicos los definidos en
 el Art. 3 de la ley de la Contraloría General del Estado.
@@ -1414,9 +1182,8 @@ Egresos no-permanentes: Son los egresos de recursos públicos que el Estado a tr
 de sus entidades, instituciones y organismos, efectúan con carácter temporal, por
 una situación específica, excepcional o extraordinaria que no requiere repetición
 permanente. Los egresos no-permanentes pueden generar directamente acumulación de
-Página 29 de 80
 
-capital bruto o activos públicos o disminución de pasivos. Por ello, los egresos no
+capital bruto o activos públicos o disminución de pasivos. Por ello, los egresos no
 permanentes incluyen los gastos de mantenimiento realizados exclusivamente para
 reponer el desgaste del capital.
 Art. 80.- Garantía de recursos de las entidades públicas.- (Reformado por el num.
@@ -1466,9 +1233,8 @@ el ente rector de las finanzas públicas deberá preparar y expedir anualmente l
 política de prevención, mitigación y gestión de riesgos fiscales con cobertura del
 Sector Público no Financiero, la que se anexará a la proforma del Presupuesto
 General del Estado.
-Página 30 de 80
 
-La política de prevención, mitigación y gestión de riesgos fiscales conforme lo
+La política de prevención, mitigación y gestión de riesgos fiscales conforme lo
 previsto en este articulo, respetará en todo momento las competencias definidas por
 la Constitución y la Ley, así como la autonomía de los Gobiernos Autónomos
 Descentralizados y entidades de la Seguridad Social, incluidas las financieras. Los
@@ -1519,9 +1285,8 @@ programación fiscal.
 La Programación Macroeconómica se emitirá en conjunto con el Banco Central del
 Ecuador y será presentada hasta el 15 de abril de cada año.
 Art. 87.- Programación fiscal plurianual y anual.- (Sustituido por el Art. 15 de la
-Página 31 de 80
 
-Ley s/n, R.O. 253-S, 24-VII-2020).-La programación fiscal del Sector Público no
+Ley s/n, R.O. 253-S, 24-VII-2020).-La programación fiscal del Sector Público no
 Financiero y Seguridad Social consolidada y la programación fiscal para cada sector
 referido en la clasificación del artículo innumerado a continuación del artículo 8
 de este Código, será anual y plurianual para un periodo no menor de cuatro años.
@@ -1573,9 +1338,8 @@ proyecciones fiscales para al menos cuatro años; límites, objetivos y metas
 fiscales que serán obligatorios para el periodo fiscal siguiente e indicativos para
 los siguientes tres años; estrategias fiscales para la gestión de la mitigación de
 riesgos fiscales; evaluación de las principales variaciones de los supuestos
-Página 32 de 80
 
-macroeconómicos y fiscales respecto de las proyecciones del año previo; análisis de
+macroeconómicos y fiscales respecto de las proyecciones del año previo; análisis de
 seguimiento y monitoreo de riesgos fiscales; y, análisis de sostenibilidad fiscal.
 Para la aplicación de lo previsto en este articulo, se estará a lo que en materia
 de autonomía y el principio de transparencia de la Administración Pública
@@ -1627,7 +1391,7 @@ Autónomos Descentralizados ingresarán a los respectivos Presupuestos de cada
 Gobierno Autónomo Descentralizado conforme a la ley.
 Art(...).-(Agregado por el num. 2 del Art. 42 de la Ley s/n, R.O. 309-S, 21-VIIIPágina 33 de 80
 
-2018).-Se entenderá por excedentes los valores que las empresas públicas hayan
+2018).-Se entenderá por excedentes los valores que las empresas públicas hayan
 generado como superávit una vez que se encuentren cubiertos todos los costos y
 gastos de la empresa, así como las obligaciones por pagar, ya sea al cierre del
 ejercicio fiscal anterior, o proyectados al cierre del ejercicio fiscal en curso.
@@ -1677,9 +1441,8 @@ Art. 96.- Etapas del ciclo presupuestario.- El ciclo presupuestario es de
 cumplimiento obligatorio para todas las entidades y organismos del sector público y
 comprende las siguientes etapas:
 1. Programación presupuestaria.
-Página 34 de 80
 
-2. Formulación presupuestaria.
+2. Formulación presupuestaria.
 3. Aprobación presupuestaria.
 4. Ejecución presupuestaria.
 5. Evaluación y seguimiento presupuestario.
@@ -1725,9 +1488,8 @@ cualquier otra modalidad de delegación al sector privado, el ente rector de las
 finanzas públicas, podrá certificar y comprometer recursos originados en pagos por
 disponibilidad o aportes públicos por los periodos establecidos en los contratos de
 asociación público - privada o delegación al sector privado.
-Página 35 de 80
 
-Las entidades que conforman el Presupuesto General del Estado, con base en estos
+Las entidades que conforman el Presupuesto General del Estado, con base en estos
 limites, podrán otorgar certificación y establecer compromisos financieros
 plurianuales.
 Para las entidades por fuera del Presupuesto General del Estado, los limites
@@ -1785,9 +1547,8 @@ la Ley s/n, R.O. 253-S, 24-VII-2020).- Cada entidad y organismo sujeto al
 Presupuesto General del Estado formulará la proforma del presupuesto institucional,
 en la que se incluirán todos los egresos necesarios para su gestión. En lo referido
 a los programas y proyectos de inversión, únicamente se incluirán los que hubieren
-Página 36 de 80
 
-sido incorporados en el Plan Anual de Inversión (PAI), o que hubieren obtenido la
+sido incorporados en el Plan Anual de Inversión (PAI), o que hubieren obtenido la
 prioridad por parte del ente rector de la planificación, de conformidad con la
 normativa vigente. Dichas proformas deben elaborarse de conformidad con el Plan
 Nacional de Desarrollo, la programación fiscal y las directrices presupuestarias.
@@ -1840,9 +1601,8 @@ una exposición general sobre su justificación, contenido y límite de endeudam
 para su consideración y presentación a la Asamblea Nacional. Además, se adjuntará
 de ser del caso, una propuesta de Disposiciones Presupuestarias Generales
 relacionadas directa y exclusivamente con la ejecución presupuestaria.
-Página 37 de 80
 
-Art. 104.- Prohibición de donaciones.- Prohíbase a las entidades y organismos del
+Art. 104.- Prohibición de donaciones.- Prohíbase a las entidades y organismos del
 sector público realizar donaciones o asignaciones no reembolsables, por cualquier
 concepto, a personas naturales, organismos o personas jurídicas de derecho privado,
 con excepción de aquellas que correspondan a los casos regulados por el Presidente
@@ -1892,9 +1652,8 @@ Art. 111.- Consistencia de los Presupuestos.- Las entidades y organismos que no
 pertenecen al Presupuesto General del Estado no podrán aprobar presupuestos que
 impliquen:
 1. Transferencias de recursos desde el Presupuesto General del Estado que no hayan
-Página 38 de 80
 
-estado previamente consideradas en dicho presupuesto.
+estado previamente consideradas en dicho presupuesto.
 2. Supuestos diferentes de los que se utilizan para la formulación del Presupuesto
 General del Estado; y, costos e inversiones incompatibles con dicho presupuesto, en
 los casos pertinentes.
@@ -1953,9 +1712,8 @@ igual o superior a cinco años podrán ser dadas de baja mediante informe favora
 de la máxima autoridad de cada entidad y se deberá poner en conocimiento al ente
 rector de las finanzas públicas, siempre que no existan soportes que justifiquen o
 permitan comprobar la regularidad de su registro o cuando no se mantenga
-Página 39 de 80
 
-reclamación o litigio pendiente.
+reclamación o litigio pendiente.
 Del mismo modo, en cualquier momento se podrá incluir en la contabilidad pública a
 requerimiento de parte interesada, cualquier obligación, que hubiese sido
 previamente retirada de conformidad con el inciso anterior, cuando esta se hubiere
@@ -2006,9 +1764,8 @@ consideradas en dicho presupuesto.
 Sólo el ente rector de las finanzas públicas podrá establecer limitaciones a la
 gestión de fuentes de financiamiento durante la ejecución presupuestaria, el
 cumplimiento del Artículo 79, se comprobará únicamente en los agregados de: las
-Página 40 de 80
 
-proformas presupuestarias públicas, los presupuestos aprobados y los presupuestos
+proformas presupuestarias públicas, los presupuestos aprobados y los presupuestos
 liquidados, en base a una verificación anual.
 Art. (...).- Modificación al Presupuesto General del Estado por parte de la
 Asamblea Nacional.- (Agregado por el Art. 27 de la Ley s/n, R.O. 253-S, 24-VII2020).- El Presidente de la República, a requerimiento del ente rector de las
@@ -2058,9 +1815,8 @@ Autónomos Descentralizados, presentará semestralmente un informe sobre la ejec
 presupuestaria a sus respectivos órganos legislativos.
 Art. 120.- Normativa aplicable.- Las disposiciones sobre el seguimiento y la
 evaluación financiera de la ejecución presupuestaria serán dictadas por el ente
-Página 41 de 80
 
-rector de las finanzas públicas y tendrán el carácter de obligatorio para las
+rector de las finanzas públicas y tendrán el carácter de obligatorio para las
 entidades y organismos que integran el sector público.
 Sección VI
 CLAUSURA Y LIQUIDACIÓN PRESUPUESTARIA
@@ -2108,9 +1864,8 @@ Además constituyen endeudamiento público, las obligaciones no pagadas y regist
 de los presupuestos clausurados, así como las deudas contraídas con las entidades
 de la Seguridad Social ecuatorianas (IESS, ISSFA, ISSPOL). Bajo ningún mecanismo se
 podrá desconocer la deuda de ejercicios clausurados con estas instituciones.
-Página 42 de 80
 
-Se excluye del endeudamiento público las siguientes transacciones o instrumentos:
+Se excluye del endeudamiento público las siguientes transacciones o instrumentos:
 1. Los convenios de pago que contemplen o no costos, cuya entrada en vigencia no
 provoca de forma inmediata una extinción de las obligaciones ni traspaso de
 propiedad;
@@ -2154,9 +1909,8 @@ contraigan deuda pública, con las provisiones que se requieran para su pago.
 2. Por la emisión de bonos que estén vinculados con obligaciones de pago
 debidamente instrumentadas.
 3. Por la suscripción de contratos de garantía para asegurar el debido uso de las
-Página 43 de 80
 
-contribuciones no reembolsables que recibe la entidad correspondiente.
+contribuciones no reembolsables que recibe la entidad correspondiente.
 4. Por contingentes asumidos por el Sector Público, de conformidad con la ley, u
 otras obligaciones asumidas en el marco de convenios con organismos internacionales
 de crédito.
@@ -2199,9 +1953,8 @@ sentencias judiciales o laudos arbitrales ejecutoriados.
 Las entidades públicas que voluntariamente se acojan a este mecanismo de pago y
 reciban pagos de obligaciones con títulos de deuda pública y certificados de
 tesorería, podrán negociar tales títulos a valor de mercado, aún si su valor de
-Página 44 de 80
 
-mercado se ubique por encima o por debajo de valor par. No se podrán negociar estos
+mercado se ubique por encima o por debajo de valor par. No se podrán negociar estos
 títulos por debajo del valor de mercado.
 Este mecanismo de pago podrá utilizarse hasta por un monto máximo equivalente al
 tres por ciento (3%) del Producto Interno Bruto (PIB). El ente rector de las
@@ -2251,9 +2004,8 @@ Art. 132.- Registro de las operaciones de endeudamiento.- Los títulos de deuda
 pública, sean estos contratos, convenios u otros instrumentos representativos de la
 operación de endeudamiento público, deben registrarse en el ente rector de las
 finanzas públicas.
-Página 45 de 80
 
-Art. 133.- Créditos contratados por el Estado a favor de empresas públicas y/o
+Art. 133.- Créditos contratados por el Estado a favor de empresas públicas y/o
 entidades financieras públicas.- (Reformado por el Art. 42 de la Ley s/n, R.O. 253S, 24-VII-2020).- En caso de empresas públicas y entidades financieras públicas que
 tengan programas y proyectos de inversión en infraestructura o con capacidad de
 pago, calificados como prioritarios por el ente rector de la planificación
@@ -2305,9 +2057,8 @@ actos, contratos, convenios o documentación serán declarados secretos y reserv
 por aquél Ministerio, carácter que se mantendrá hasta que se proporcione la
 información previa a la subasta o transacción respectiva en el mercado de valores
 en el caso de colocación y recompra, o hasta que culmine la operación respectiva.
-Página 46 de 80
 
-Inmediatamente después, toda la información será publicada.
+Inmediatamente después, toda la información será publicada.
 Toda persona que utilice o se beneficie de la información y/o documentación
 relacionada con los actos, contratos o convenios referidos en el párrafo anterior,
 será reprimida según lo previsto en la Ley.
@@ -2353,9 +2104,8 @@ Deuda y Financiamiento, los siguientes:
 operaciones de endeudamiento público.
 Se excluyen los contratos de mutuo de deuda pública interna de los Gobiernos
 Autónomos Descentralizados y la deuda flotante.
-Página 47 de 80
 
-En el caso de los contratos de mutuo de deuda pública suscritos con organismos
+En el caso de los contratos de mutuo de deuda pública suscritos con organismos
 multilaterales, gobiernos, créditos comerciales y contratos de préstamo de
 proveedor cuyo monto no supere el 0.15% del Presupuesto General del Estado, que no
 requiera garantía soberana, no deberá contar con el análisis y recomendación del
@@ -2402,9 +2152,8 @@ financieras de colocación.
 Las emisiones de títulos valores incluidas las titularizaciones de otras entidades
 públicas, financieras y no financieras, requerirán de la aprobación del ente rector
 de las finanzas públicas.
-Página 48 de 80
 
-En el caso de emisiones de títulos valores de la banca pública cuyo monto anual
+En el caso de emisiones de títulos valores de la banca pública cuyo monto anual
 supere el 0.15% del Presupuesto General del Estado deberá contar con el análisis y
 recomendación del ente rector de las finanzas públicas.
 Art. 143.- Escritura de emisión.- Autorizada legalmente una emisión de bonos o de
@@ -2451,9 +2200,8 @@ Para el otorgamiento de garantía soberana, se deberá establecer e instrumentar
 mecanismos necesarios para la restitución de los valores que el Estado pudiere
 llegar a pagar en su calidad de garante, en caso de incumplimiento del deudor.
 En ningún caso se otorgará garantías por parte del Estado o de sus entidades a
-Página 49 de 80
 
-favor de personas naturales o jurídicas de derecho privado, inclusive las que no
+favor de personas naturales o jurídicas de derecho privado, inclusive las que no
 tengan finalidad de lucro, con excepción de la banca pública y aquellas empresas de
 derecho privado con al menos un 70% de acciones del Estado.
 Las garantías otorgadas se registrarán como deuda contingente, y solo constituirán
@@ -2505,17 +2253,16 @@ financieros y unidades ejecutoras responsables de la administración de sus
 presupuestos, dispondrán de datos e información contable y presupuestaria
 individualizada, con los detalles que establecerá para el efecto el ente rector de
 las finanzas públicas.
-Página 50 de 80
 
-```
+```
 ---
 ## 5. PDOT PROVINCIA DE LOJA - ESTRUCTURA
 ```text
 1
 
-2
+2
 
-INDICE
+INDICE
 INTRODUCCIÓN.................................................................................................................................................... 1
 1. CARACTERIZACIÓN GENERAL .......................................................................................................................... 1
 1.1.
@@ -2618,7 +2365,7 @@ POBREZA Y DESIGUALDAD ..........................................................
 SEGURIDAD Y CONVIVENCIA CIUDADANA ..................................................................................114
 3
 
-2.4.
+2.4.
 ECONÓMICO PRODUCTIVO .................................................................................................................115
 2.4.2.
 ACTIVIDADES ECONÓMICAS Y PRODUCTIVAS ............................................................................115
@@ -2744,7 +2491,7 @@ MODELO TERRITORIAL ACTUAL ......................................................
 
 4
 
-4.1.
+4.1.
 VISION ..................................................................................................................................................227
 4.2.
 OBJETIVOS DE DESARROLLO ...............................................................................................................227
@@ -2871,7 +2618,7 @@ PARLAMENTO PROVINCIAL PARTICIPATIVO ............................................
 ARTICULACIÓN INTERINSTITUCIONAL ........................................................................................413
 5
 
-8.1.4.
+8.1.4.
 
 ARTICULACIÓN INSTITUCIONAL ..................................................................................................414
 
@@ -2954,7 +2701,7 @@ Tabla 16: Tipos de Conexiones ..................................................
 Tabla 17: Generadores de energía eléctrica por tipo y potencia...................................................................... 86
 6
 
-Tabla 18: Población provincial ........................................................................................................................... 92
+Tabla 18: Población provincial ........................................................................................................................... 92
 Tabla 19: Tasa de crecimiento poblacional ....................................................................................................... 92
 Tabla 20: Porcentaje de hombres y mujeres por cantón .................................................................................. 95
 Tabla 21: Rangos de edades .............................................................................................................................. 95
@@ -3004,7 +2751,7 @@ Tabla 64: Zonificación agroecológica económica óptima y moderada por product
 Tabla 65: Programas Y Proyectos Desarrollo Productivo ................................................................................430
 7
 
-Tabla 66: Programas Y Proyectos Riego Y Gestión Ambiental ........................................................................431
+Tabla 66: Programas Y Proyectos Riego Y Gestión Ambiental ........................................................................431
 Tabla 67: Programas Y Proyectos Vialidad Y Obras Civiles ..............................................................................431
 Tabla 68: Programas Y Proyectos Acción Social ..............................................................................................431
 Tabla 69: Programas Y Proyectos Planificación Y Participación ......................................................................431
@@ -3052,7 +2799,7 @@ Mapa 38: Atractivos Turísticos ................................................
 Mapa 39: zonificación forestal ........................................................................................................................149
 8
 
-Mapa 40: Concesiones Mineras ......................................................................................................................152
+Mapa 40: Concesiones Mineras ......................................................................................................................152
 Mapa 41: Sistemas Productivos.......................................................................................................................154
 Mapa 42: Tamaño De Parcelas ........................................................................................................................155
 Mapa 43: Estimación de superficie sembrada de los cultivos de arroz y maíz amarillo duro. Primer período
@@ -3100,7 +2847,7 @@ Gráfico 3: Cobertura vegetal ..................................................
 Gráfico 4: Amenazas Naturales ......................................................................................................................... 40
 9
 
-Gráfico 5: Concesiones de agua ........................................................................................................................ 57
+Gráfico 5: Concesiones de agua ........................................................................................................................ 57
 Gráfico 6: Población urbana y rural ................................................................................................................... 63
 Gráfico 7: Distribución De Población ................................................................................................................ 70
 Gráfico 8: Rango Poblacional ............................................................................................................................. 71
@@ -3150,7 +2897,7 @@ Gráfico 50: variación del empleo asegurado a diciembre. ......................
 Gráfico 51: Variación Mensual Del Empleo Asegurado 2022 .........................................................................127
 10
 
-Gráfico 52: Brecha De Género En El Empleo Asegurado ................................................................................127
+Gráfico 52: Brecha De Género En El Empleo Asegurado ................................................................................127
 Gráfico 53: Créditos público y privado anual para el sector agropecuario. ...................................................128
 Gráfico 54: Número mensual de operaciones financieras por género. ..........................................................129
 Gráfico 55: Monto de créditos, mensual por género......................................................................................129
@@ -3178,7 +2925,7 @@ Gráfico 76: Instrumentos De Planificación ....................................
 
 11
 
-Ing. Mario Mancino Valdivieso
+Ing. Mario Mancino Valdivieso
 PREFECTO DE LA PROVINCIA DE LOJA
 Abg. María José Sotomayor Godoy
 VICEPREFECTA DE LA PROVINCIA DE LOJA
@@ -3246,5 +2993,4 @@ ALCALDE DEL CANTÓN MACARÁ
 
 12
 
-
 ```

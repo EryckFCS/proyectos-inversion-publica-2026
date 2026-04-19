@@ -1,0 +1,18 @@
+# LPI: Parámetros Nacionales de Inversión Pública (Ecuador)
+# Fuente: Normativa SENPLADES / Ministerio de Economía y Finanzas
+
+evaluacion_social:
+  tasa_social_descuento: 0.12  # Estándar nacional para proyectos sociales
+  factores_correccion:
+    mano_obra_no_calificada: 0.65  # Factor para desempleo/subempleo
+    mano_obra_calificada: 1.0
+    divisas: 1.0  # Economía dolarizada
+    bienes_transables: 0.95
+
+metodologia:
+  horizonte_evaluacion_estandar: 10  # Años por defecto
+  moneda: "USD"
+
+institucional:
+  universidad: "Universidad Nacional de Loja"
+  entorno: "Laboratorio LPI v3.0"

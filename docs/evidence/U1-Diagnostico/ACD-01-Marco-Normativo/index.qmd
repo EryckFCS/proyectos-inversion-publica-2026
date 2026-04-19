@@ -1,0 +1,129 @@
+---
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "PROYECTOS DE INVERSIÓN PÚBLICA"
+assignment: "ACTIVIDAD 1 PARA VALORACIÓN DE LA ACTIVIDAD CONTACTO CON EL DOCENTE"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "Econ. José Job Chamba"
+submission_date: "19 de abril de 2026"
+format:
+  pdf:
+    include-in-header: ../../../../writing/templates/in-header.tex
+    documentclass: article
+    fontsize: 12pt
+    toc: false
+    number-sections: true
+    colorlinks: true
+  docx:
+    reference-doc: ../../../../writing/templates/template.docx
+bibliography: ../../../../writing/references.bib
+csl: ../../../../writing/apa.csl
+---
+
+\begin{center}
+    \textbf{ {{< meta university >}} } \\
+    \textbf{ {{< meta faculty >}} } \\
+    \textbf{ {{< meta school >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta course >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta assignment >}} } \\
+    \vspace{0.8cm}
+    \textbf{ {{< meta author >}} } \\
+    \vspace{0.3cm}
+    \textbf{DOCENTE: {{< meta professor >}} } \\
+    \textbf{FECHA: {{< meta submission_date >}} }
+\end{center}
+
+\activarFormatoCuerpo
+
+\vspace{0.5cm}
+
+# Análisis de Noticia de Actualidad
+
+**Noticia:** *Guerra de Aranceles entre Ecuador y Colombia 2026 y su impacto en el comercio binacional*
+
+**Enlace de la fuente:** https://www.datasur.com/guerra-aranceles-ecuador-colombia-2026/
+
+Este conflicto comercial surgido en abril de 2026 genera cambios drásticos en la estabilidad económica nacional. A continuación se presenta un análisis detallado de los factores que inciden en el bienestar poblacional basado en el reporte de @datasur2026aranceles:
+
+### Análisis por Factores de Incidencia
+
+*   **Factor Económico:** La imposición de aranceles del 100% genera una distorsión profunda en los costos de producción nacional debido a que Ecuador importa una cantidad significativa de bienes intermedios desde Colombia. Aunque las cifras oficiales reportan un superávit comercial, este resultado no obedece a un crecimiento en la eficiencia exportadora nacional, sino a una contracción forzada del consumo de insumos clave. Esta situación eleva los costos operativos de industrias estratégicas como la plástica y química, reduciendo sistemáticamente su competitividad en el mercado andino y limitando la generación de empleo formal.
+
+*   **Factor Social:** La incidencia en el bienestar ciudadano es negativa a través del canal de transmisión de precios al consumidor final. El encarecimiento de materias primas y productos terminados importados se traslada directamente a las perchas de los mercados locales, incrementando la inflación en artículos de primera necesidad. Este fenómeno presiona con mayor fuerza el presupuesto de las familias con menores ingresos, quienes deben destinar una proporción más alta de su salario para cubrir necesidades básicas, lo cual profundiza las brechas de desigualdad social en el país.
+
+*   **Factor Político:** La medida se enmarca en una estrategia de presión diplomática binacional para exigir mayores controles de seguridad en la frontera compartida. No obstante, el costo político interno es considerable, ya que genera fricciones constantes con gremios importadores y cámaras de comercio que dependen del flujo transfronterizo. La soberanía económica se ejerce mediante la restricción agresiva, lo cual puede comprometer la firma de acuerdos comerciales futuros y debilitar el liderazgo de Ecuador en organismos de integración regional.
+
+*   **Factor Tecnológico y Productivo:** Se evidencia una brecha tecnológica crítica en la industria local que impide la sustitución rápida de los insumos colombianos. La dependencia de procesos de fabricación específicos y maquinaria diseñada para estándares de materia prima del país vecino frena la capacidad de respuesta productiva ante este choque externo. El conflicto pone de manifiesto la falta de inversión en innovación tecnológica nacional, dejando al parque industrial en una posición de vulnerabilidad ante decisiones arancelarias de terceros países.
+
+*   **Factor Cultural:** La integración regional y la confianza mutua se ven debilitadas por una percepción de hostilidad comercial que rompe los lazos de vecindad histórica. El intercambio cultural que fluye naturalmente a través del comercio fronterizo se reduce, limitando la integración de los mercados que comparten dinámicas de vida cotidiana y tradiciones comunes. Este alejamiento comercial fomenta una cultura de aislamiento que contradice los principios de unidad latinoamericana promovidos en las últimas décadas.
+
+*   **Factor Ambiental:** La desarticulación de las cadenas de suministro regionales obliga a las empresas a buscar proveedores en mercados geográficamente más distantes. Esto incrementa de manera directa la huella de carbono asociada al transporte de carga por rutas marítimas o aéreas de largo recorrido. Además, genera una presión logística inusual sobre los puertos nacionales, cuya infraestructura ambiental no estaba planificada para absorber cambios repentinos y masivos en los flujos de mercaderías líquidas y sólidas.
+
+### Resumen Visual de Incidencia
+
+```mermaid
+graph LR
+    Root((Guerra Arancelaria 2026))
+    Root --- Econ[Económico]
+    Root --- Soc[Social]
+    Root --- Pol[Político]
+    Root --- Tech[Tecnológico]
+    Root --- Amb[Ambiental]
+    
+    Econ --- E1[Costos Producción]
+    Econ --- E2[Competitividad]
+    Soc --- S1[Inflación]
+    Soc --- S2[Desigualdad]
+    Pol --- P1[Tensión Binacional]
+    Tech --- T1[Dependencia Insumos]
+    Amb --- A1[Huella de Carbono]
+    
+    style Root fill:#f96,stroke:#333,stroke-width:4px
+    style Econ fill:#fff4dd
+    style Soc fill:#fff4dd
+    style Pol fill:#fff4dd
+    style Tech fill:#fff4dd
+    style Amb fill:#fff4dd
+```
+
+# Análisis del Marco Normativo y Sistema de Planificación
+
+El marco normativo ecuatoriano establece la planificación como la columna vertebral de la gestión pública. A continuación se analizan los puntos críticos que vinculan la normativa con los proyectos de inversión:
+
+## Fundamentación Constitucional
+
+La Constitución de la República del Ecuador (2008) define en su **Art. 3, Num. 5** que planificar el desarrollo nacional es un deber primordial del Estado para erradicar la pobreza y promover el desarrollo sustentable. Esta obligatoriedad se instrumentaliza a través del **Sistema Nacional Descentralizado de Planificación Participativa (SNDPP)** (Art. 279), el cual articula la inversión pública con el Plan Nacional de Desarrollo (Art. 280), asegurando que el Presupuesto General del Estado se ajuste estrictamente a las metas de planificación (Art. 293).
+
+## Articulación Multinivel (COOTAD)
+
+El Código Orgánico de Organización Territorial (COOTAD) establece la autonomía de los Gobiernos Autónomos Descentralizados (GAD) pero los obliga a una planificación articulada. Los artículos **42 (Provincial)**, **55 (Municipal)** y **65 (Parroquial)** otorgan la competencia exclusiva de planificar el desarrollo territorial, vinculando los proyectos de inversión local con los objetivos nacionales y las demandas ciudadanas a través del presupuesto participativo.
+
+## Gestión Técnica de la Inversión (COPFP)
+
+El Código Orgánico de Planificación y Finanzas Públicas (COPFP) define la **Inversión Pública** en su Art. 55 como el medio para incrementar la riqueza y capacidades sociales del Estado. Establece que los proyectos deben ser parte del **Plan Anual de Inversiones (PAI)** (Art. 57) y contar obligatoriamente con estudios de viabilidad (Art. 56) y dictamen de prioridad del ente rector antes de su ejecución.
+
+# Alineación Estratégica con Planes de Desarrollo
+
+La viabilidad técnica de un proyecto de inversión pública depende de su alineación con los instrumentos rectores a nivel nacional y provincial.
+
+## Plan Nacional de Desarrollo (2025-2029)
+
+El Plan Nacional de Desarrollo “Ecuador no se detiene” organiza la prioridad estatal en cinco ejes estratégicos:
+1. **Eje Social:** Erradicación de la pobreza y servicios básicos.
+2. **Eje Económico:** Competitividad y fomento del empleo formal.
+3. **Eje Ambiental:** Transición ecológica y gestión hídrica.
+4. **Eje Institucional:** Transparencia y seguridad ciudadana.
+5. **Eje de Riesgos:** Gestión de desastres y resiliencia territorial (eje prioritario en el actual periodo).
+
+## Plan de Desarrollo y Ordenamiento Territorial (PDOT) Loja
+
+A nivel local, la Prefectura de Loja estructura su planificación mediante cinco sistemas complementarios (Físico-Ambiental, Asentamientos Humanos, Socio-Cultural, Económico-Productivo y Político-Institucional). Esta estructura permite territorializar la inversión, priorizando la conectividad vial y el fomento productivo agrícola, áreas críticas para la competitividad regional.
+
+# Conclusiones
+
+La institucionalización del marco normativo garantiza que la inversión pública en Ecuador no sea un proceso discrecional, sino una respuesta articulada a metas de desarrollo preestablecidas. La cadena de mando legal (Constitución $\rightarrow$ COPFP/COOTAD $\rightarrow$ PND $\rightarrow$ PDOT) asegura que cada dólar invertido cuente con un respaldo técnico de planificación y una justificación social orientada al Buen Vivir.
+
+# Referencias

@@ -3,41 +3,50 @@
 Este documento detalla el plan de trabajo sincronizado con el sílabo de la materia y la infraestructura de reporte automatizado.
 
 ## 🎯 Objetivos Estratégicos
-1.  Automatizar la generación de perfiles de proyecto IMRyD.
-2.  Implementar una librería robusta para evaluación social en Python.
-3.  Mantener un repositorio auditable para todas las entregas del ciclo.
+
+1. Automatizar la generación de reportes académicos bajo estándares APA 7.
+2. Implementar una librería robusta para evaluación social en Python (LPI-Lib).
+3. Mantener un repositorio auditable y reproducible bajo arquitectura de **Bóvedas Atómicas**.
+
+---
+
+## 🚀 Visión de Evolución (LPI Maturity Levels)
+
+Para transformar este repositorio en una potencia de investigación, seguiremos estos niveles de madurez:
+
+| Nivel | Nombre | Objetivo | Estado |
+|:---:|:---|:---|:---:|
+| **1** | **Estructura** | Organización básica Quarto y Git. | ✅ |
+| **2** | **Bóvedas Atómicas** | Aislamiento de tareas y activos para escalabilidad. | ✅ |
+| **3** | **Inteligencia Central** | Lógica y parámetros compartidos en `src/` (SOT). | ✅ |
+| **4** | **Linaje de Datos** | Trazabilidad forense desde el dato Raw al reporte. | ✅ |
+| **5** | **Segundo Cerebro** | Integración RAG / Búsqueda Semántica en notas. | ✅ |
+| **6** | **CI/CD Académico** | Publicación automática y validación de calidad. | ✅ |
 
 ---
 
 ## 🛠️ Estado del Proyecto
 
-### Fase 1: Identificación y Diagnóstico 🟢 (En curso)
-- [x] Configuración de infraestructura base (Carpetas, Git, uv).
-- [ ] Definición del problema y árbol de objetivos en scripts (`src/tasks/T01...`).
+### Fase A: Infraestructura y Autonomía (Completado) ✨
+- [x] Arquitectura de **Bóvedas Atómicas** (Aislamiento total de actividades).
+- [x] **Inteligencia Central** (Motor de evaluación y parámetros unificados).
+- [x] **Linaje de Datos Forense** (Auditoría de integridad SHA256).
+- [x] **Segundo Cerebro (RAG)** (Consultas semánticas normativas offline).
+- [x] **CI/CD Académico** (Publicación automática en GitHub Actions).
+
+### Fase 1: Diagnósticos y Marco Normativo 🟢 (En curso)
+- [x] **Actividad ACD-01: Marco Normativo** (Completado).
 - [ ] Análisis de involucrados y diagnóstico territorial.
-
-### Fase 2: Formulación Técnica y de Mercado 🔴 (Pendiente)
 - [ ] Modelado de proyección de demanda y oferta.
-- [ ] Localización, ingeniería y presupuesto del proyecto.
-- [ ] Estructura institucional y financiera.
-
-### Fase 3: Evaluación y Selección 🔴 (Pendiente)
-- [ ] Estructura de flujos de caja y cálculos de indicadores.
-- [ ] Aplicación de factores de corrección para evaluación social.
-- [ ] Análisis de sensibilidad y de riesgo (Monte Carlo).
-
-### Fase 4: Reporte E2E y Publicación 🔴 (Pendiente)
-- [ ] Integración con Quarto para exportación a Word/PDF.
-- [ ] Generación de anexos técnicos automatizados.
 
 ---
 
-## 📐 Unidades del Sílabo (Checklist Académico)
+## 📐 Unidades del Sílabo
 
-- **Unidad 1**: Marco Conceptual e Identificación.
-- **Unidad 2**: Estudio de Mercado y Aspectos Técnicos.
-- **Unidad 3**: Evaluación de Proyectos y Análisis de Riesgo.
-- **Unidad 4**: Programación de la Ejecución y Monitoreo. 
+- [x] **Unidad 1**: Diagnósticos y necesidades. (Infraestructura 100%)
+- [ ] **Unidad 2**: Metodología del marco lógico.
+- [ ] **Unidad 3**: Estrategia de seguimiento y evaluación.
 
 ---
-*Última actualización: 18 de abril de 2026.*
+
+*Última actualización: 19 de abril de 2026. Estatus: Ecosistema LPI 100% Funcional.*

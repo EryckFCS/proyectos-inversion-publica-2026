@@ -2,38 +2,56 @@
 
 Este documento define la infraestructura técnica para la materia de **Proyectos de Inversión Pública (PIP)**, basada en los estándares del CIE.
 
-## 🏛️ Capas del Sistema
+## 🏛️ Estructura de Directorios
+
+El repositorio se organiza siguiendo una lógica de ingeniería de datos y reporte académico:
+
+### Gestión y Configuración
+- **`config/`**: Archivos de configuración (.yaml, .json) para parámetros globales del sistema.
+- **`src/`**: Código fuente principal (Core, Lib, Tasks).
+- **`scripts/`**: Utilidades para automatización, despliegue y migración de datos.
+- **`tests/`**: Suite de pruebas unitarias e integración para validar la lógica de cálculo.
+
+### Zona de Datos
+- **`data/`**: Organización para auditoría académica.
+    - `raw/`: Datos originales sin procesar.
+    - `curation/`: Datos limpios y normalizados.
+    - `analytic/`: Resultados finales y matrices de flujos.
+
+### Reportes e Investigación (docs/)
+- **`docs/evidence/`**: Portafolio de evidencias académicas (Syllabus).
+    - `UX-Nombre/`: Carpeta por unidad.
+    - `ACD-XX/`: Bóveda atómica por actividad (index.qmd + assets).
+- **`docs/projects/`**: Investigación central y proyectos de largo plazo.
+- **`writing/`**: Recursos de redacción global (APA 7, CSL, plantillas LaTeX).
+- **`deliveries/`**: Repositorio de versiones finales firmadas y publicadas.
+
+### Operación Local (Excluidos de Git)
+- **`logs/`**: Registros detallados de ejecución del sistema para depuración técnica.
+- **`scratch/`**: Espacio de trabajo volátil para guiones de prueba y borradores rápidos.
+
+---
+
+## 🏛️ Capas del Sistema (src/)
 
 ### 1. Núcleo (Core) (`src/core/`)
 Implementa las invariantes del marco de inversión pública:
 - **`config.py`**: Gestión dinámica de rutas y perfiles de proyecto.
-- **`precios_sociales.py`**: Repositorio de factores de corrección (mano de obra, divisas, tasa social de descuento) oficiales de SENPLADES o entidades reguladoras.
-- **`utils.py`**: Funciones auxiliares para normalización de datos territoriales.
+- **`precios_sociales.py`**: Factores de corrección oficiales (mano de obra, divisas, tasa social).
+- **`utils.py`**: Funciones auxiliares para normalización de datos.
 
 ### 2. Motor de Evaluación (Library) (`src/lib/`)
-Lógica de cálculo agnóstica al proyecto específico:
-- **`formulacion.py`**: Algoritmos para proyección de demanda, balance oferta-demanda y determinación de brechas.
-- **`evaluacion.py`**: Cálculo matricial de indicadores financieros y sociales (VAN, TIR, RBC, VAC).
-- **`data_doctor.py`**: Validador de consistencia en flujos de caja y metadatos de proyectos.
-
-### 3. Zona de Datos (`data/`)
-Organización para auditoría académica:
-- **`raw/`**: Datos de diagnósticos, censos o estudios de campo sin procesar.
-- **`curation/`**: Salida de scripts de limpieza y normalización.
-- **`analytic/`**: Matrices de flujos de caja y resultados finales de evaluación.
-
-### 4. Orquestación y Tareas (`src/tasks/` y `src/orchestration/`)
-Scripts de ejecución siguiendo el sílabo:
-- **`Txx-Ux-PIP-[Tema].py`**: Scripts individuales por unidad de aprendizaje.
-- **`Mxx-Ux-PIP-Master_Build.py`**: Orquestadores de unidad para entregas finales.
+- **`formulacion.py`**: Proyecciones de demanda y brechas.
+- **`evaluacion.py`**: Indicadores financieros y sociales (VAN, TIR, RBC).
+- **`data_doctor.py`**: Validador de consistencia de flujos y metadatos.
 
 ---
 
 ## 📐 Doctrina de Modelado
 
-1.  **Separación de Flujos**: El flujo de caja financiero y el flujo social deben mantenerse desacoplados mediante capas de corrección.
-2.  **Transparencia de Parámetros**: Prohibido el uso de "Magic Numbers". Todas las tasas y parámetros deben provenir de `src/core/precios_sociales.py`.
-3.  **Auditoría Forense**: Todo cálculo debe ser trazable hasta la fuente original de los datos en `data/raw/`.
+1.  **Separación de Flujos**: El flujo de caja financiero y el flujo social deben mantenerse desacoplados.
+2.  **Transparencia de Parámetros**: Prohibido el uso de "Magic Numbers".
+3.  **Auditoría Forense**: Todo cálculo debe ser trazable hasta la fuente en `data/raw/`.
 
 ---
 
@@ -41,8 +59,8 @@ Scripts de ejecución siguiendo el sílabo:
 
 El sistema está optimizado para su ejecución con `uv`.
 ```bash
-uv pip install -e .
+uv run quarto render docs/
 ```
 
 ---
-*LPI - Estándar v1.0. 2026.*
+*LPI - Estándar v2.0 (Reseach-Driven Architecture). 2026. Estructura Completa Verificada.*

@@ -1,6 +1,5 @@
 import hashlib
-import pytest
-from pathlib import Path
+
 
 def test_image_hashing_consistency():
     """Verifica que el hashing SHA-256 sea consistente para las mismas muestras."""
@@ -10,11 +9,12 @@ def test_image_hashing_consistency():
     assert hash1 == hash2
     assert hash1 == "5b3397652358a6663a0225ee76466d4e4fd6c58d484d1aa25170bb617d6bb086"
 
+
 def test_deduplication_logic():
     """Verifica la lógica de conjunto para deduplicación."""
     seen_hashes = set()
     sample_hash = "abc123hash"
-    
+
     # Primera vez: debe agregarse
     if sample_hash not in seen_hashes:
         seen_hashes.add(sample_hash)
@@ -22,7 +22,7 @@ def test_deduplication_logic():
     else:
         added = False
     assert added is True
-    
+
     # Segunda vez: debe detectarse como duplicado
     if sample_hash not in seen_hashes:
         added = True

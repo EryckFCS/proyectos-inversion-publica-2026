@@ -20,3 +20,14 @@ Todas las modificaciones notables en este proyecto serán documentadas en este a
 - Estructura de 4 capas inspirada en el Centro de Investigación Econométrica (CIE).
 - Soporte para Python 3.12 vía `uv`.
 - Configuración básica para reportes en Quarto.
+
+## [0.2.0] - 2026-04-19
+### Added
+- Soporte para diagramas Mermaid simplificados en Quarto.
+- Configuración de HTML autocontenido (self-contained).
+- Sistema de notas de estudio vinculado a normativa ecuatoriana.
+
+### Fixed
+- Error de renderizado de Mermaid en motores Jupyter.
+- Conflicto de rutas en bibliografía bibtex y estilos CSL.
+- Seguimiento accidental de archivos temporales de Quarto en Git.

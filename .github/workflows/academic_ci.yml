@@ -1,0 +1,52 @@
+name: "Academic CI/CD Portafolio LPI"
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Sync Dependencies
+        run: uv sync
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: 🛡️ Phase 1: Security & Integrity Audit (Level 4)
+        run: |
+          uv run python scripts/audit_lab.py
+        # Este paso detendrá el build si el hash de los datos ha sido alterado.
+
+      - name: 🧠 Phase 2: Knowledge Brain Sync (Level 5)
+        run: |
+          # Solo sincroniza si el cerebro no está persistido o para asegurar frescura
+          uv run python scripts/sync_brain.py
+
+      - name: 📝 Phase 3: Quarto Rendering
+        run: |
+          quarto render
+
+      - name: 🚀 Phase 4: Deploy to GitHub Pages
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site

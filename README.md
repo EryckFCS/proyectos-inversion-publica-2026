@@ -1,106 +1,49 @@
-# 🏗️ LPI - Laboratorio de Proyectos de Inversión 2026
+# Laboratorio de Inversión Pública (LPI) v5.0
 
-## Proyectos de Inversión Pública (Ciclo 7) - Universidad Nacional de Loja
+![Build Status](https://img.shields.io/github/actions/workflow/status/EryckFCS/proyectos-inversion-publica-2026/academic_ci.yml?branch=main&label=Build&style=for-the-badge)
+![Data Integrity](https://img.shields.io/badge/Data%20Integrity-Verified-green?style=for-the-badge&logo=auditfree)
+![Research Level](https://img.shields.io/badge/Research%20Level-Level%206%20(Autonomous)-blueviolet?style=for-the-badge)
 
-El **Laboratorio de Proyectos de Inversión (LPI)** es una extensión del ecosistema CIE diseñada para la formulación y evaluación técnica, económica y social de proyectos de inversión pública. 
+Infraestructura técnica para el análisis, formulación y evaluación de proyectos de inversión en el séptimo ciclo de la Carrera de Economía (UNL).
 
-> [!IMPORTANT]
-> **Alcance del Repositorio**: Este espacio está destinado exclusivamente a la gestión, desarrollo y presentación de trabajos, investigaciones y actividades relacionadas con la asignatura de **Proyectos de Inversión Pública**. No se integrarán contenidos de otras áreas para preservar la coherencia temática del laboratorio.
+## 🚀 Filosofía de Trabajo: Arquitectura v2.0
 
-Este repositorio integra el análisis econométrico con marcos normativos de contratación pública y metodologías de evaluación costo-beneficio, permitiendo una gestión de proyectos basada en evidencia reproducible.
+Este repositorio no es una carpeta de tareas personal; es un **Laboratorio de Investigación** diseñado para ser escalable, reproducible y auditable. 
 
----
+Utilizamos un sistema de **Bóvedas Atómicas**: cada actividad académica es un módulo independiente que contiene su propio código, datos locales y reportes, evitando el desorden organizacional a largo plazo.
 
-## 📜 Filosofía de Ingeniería
+## 📂 Organización del Laboratorio
 
-Nuestra operatividad se rige por tres principios innegociables:
-
-1.  **Public Investment Integrity**: Validación rigurosa de precios sociales, tasas de descuento y flujos de caja. El sistema detecta inconsistencias en la viabilidad financiera antes de proceder a la fase de evaluación social.
-2.  **Evidence-Based Formulation**: Integración de datos territoriales y diagnósticos de campo en el motor de formulación.
-3.  **Reproducibilidad Social**: El cálculo del Valor Actual Neto Social (VANS) y la Tasa Interna de Retorno Social (TIRS) debe ser auditable y reproducible mediante scripts.
-
----
-
-## 🏗️ Arquitectura de 4 Capas
-
-El sistema se organiza de forma modular para permitir la gestión integral del ciclo del proyecto:
-
-```mermaid
-graph TD
-    subgraph "Capa 1: Núcleo (Core)"
-      C1[config.py] --> C2[precios_sociales.py]
-      C2 --> C3[utils.py]
-    end
-
-    subgraph "Capa 2: Motor de Proyectos (Library)"
-      L1[formulacion.py] --> L2[evaluacion_social.py]
-      L2 --> L3[impacto_territorial.py]
-    end
-
-    subgraph "Capa 3: Gestión de Datos (Data)"
-      D1[data/raw/diagnostico/] --> D2[data/curation/indicadores/]
-      D2 --> D3[data/analytic/flujos_caja/]
-    end
-
-    subgraph "Capa 4: Orquestación (Tasks)"
-      T1[Master_Build.py] --> T2[Individual Tasks]
-    end
-
-    C3 --> L1
-    L3 --> T2
-    D3 --> T1
+```text
+.
+├── docs/
+│   ├── evidence/        # Portafolio de evidencias (Sílabo)
+│   │   └── U1-Diag.../   # Unidad 1: Bóvedas ACD, APE, AA
+│   └── projects/        # Investigación Core (Proyecto Maestro)
+├── src/                 # Motor de cálculo del laboratorio
+├── data/                # Capas de datos (Raw -> Analytic)
+└── writing/             # Recursos globales (APA 7, Plantillas)
 ```
 
----
+## 🛠️ Requisitos de Operación
 
-## 🚀 Guía de Inicio para el Investigador
+El laboratorio depende de **[uv](https://astral.sh/uv)** para la gestión de entornos y **[Quarto](https://quarto.org/)** para el renderizado de reportes.
 
-### 1. Configuración del Laboratorio
-El LPI utiliza `uv` para la gestión de dependencias y el entorno virtual:
+### Renderizado de Reportes
+Para generar el portafolio completo con navegación lateral:
 ```bash
-# Instalar dependencias
-uv sync
-
-# Activar venv
-source .venv/bin/activate
+uv run quarto render
 ```
 
-### 2. Variables de Entorno
-Es obligatorio exportar el `PYTHONPATH` para habilitar el motor interno:
+Para renderizar una actividad específica:
 ```bash
-export PYTHONPATH=src
+uv run quarto render docs/evidence/UX/.../index.qmd
 ```
 
-### 3. Ejecución de Tareas por Unidad
-Cada unidad del sílabo tiene un Master Build que secuencia la formulación:
-```bash
-# Ejecutar toda la Unidad 1: Identificación y Diagnóstico
-python src/orchestration/M01-U1-PIP-Master_Build.py
-```
+## 📐 Estándares de Calidad
+- **Citas**: Formato APA 7mo Manual mediante BibTeX.
+- **Visualización**: Gráficos paramétricos en Matplotlib/Seaborn y diagramas Mermaid.
+- **Trazabilidad**: Todo resultado en `docs/` debe ser reproducible mediante scripts en `src/`.
 
 ---
-
-## 📂 Estándares de la Tareas (Nomenclatura)
-
-Las tareas deben nombrarse siguiendo el estándar institucional:
-`[Tarea]-[Unidad]-[Materia]-[Tema].py` (Ej: `T01-U1-PIP-Diagnostico_Loja.py`).
-
----
-
-## 📚 Recursos Académicos
-
-Para mantener la raíz del repositorio limpia y enfocada en lo esencial, los materiales de soporte se organizan en:
-- **[Sílabo de la Materia](docs/syllabus/SYLLABUS.pdf)**: Guía oficial del curso.
-- **[Lecturas y Referencias](docs/readings/)**: Material bibliográfico y artículos técnicos.
-
----
-
-## 🧪 Verificación de Calidad (QA)
-
-Antes de cada entrega, se debe validar que los cálculos de VAN/TIR son estables:
-```bash
-python -m pytest
-```
-
----
-*Laboratorio de Proyectos de Inversión - Facultad Jurídica, Social y Administrativa. UNL.*
+*LPI - Seventh Cycle Economics. UNL 2026. Excellence in Public Investment Research.*

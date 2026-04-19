@@ -9,7 +9,14 @@ wheels/
 # Virtual environments
 .venv
 
+# Quarto internals & temporary files
 /.quarto/
-**/*.quarto_ipynb
+**/*.quarto_ipynb*
+**/*_files/
+**/*_cache/
+
+# Project data artifacts (exclusion of binary vector stores and processed images)
 data/processed/images/
 data/processed/vector_store/
+
+**/*.quarto_ipynb

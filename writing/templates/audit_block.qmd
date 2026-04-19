@@ -1,0 +1,22 @@
+::: {.callout-note appearance="simple"}
+## 🛡️ Auditoría Forense de Datos (LPI v4.0)
+
+Este documento ha sido generado bajo el protocolo de **Linaje de Datos del LPI**. 
+Toda la evidencia normativa citada ha sido verificada contra el catálogo maestro mediante firmas digitales SHA256.
+
+```{python}
+#| echo: false
+#| results: asis
+import sys
+from pathlib import Path
+
+# Ajuste dinámico de path según profundidad del reporte
+sys.path.append(str(Path.cwd().parent.parent.parent.parent))
+
+from src.lib.audit import generate_report_audit_summary
+
+# IDs de archivos usados en este reporte (Ejemplo: Constitución y COPFP)
+files_used = ['CONST_2008', 'COOTAD', 'COPFP']
+print(generate_report_audit_summary(files_used))
+```
+:::

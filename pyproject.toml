@@ -25,6 +25,7 @@ dependencies = [
     "pytesseract>=0.3.13",
     "pypdf>=6.10.2",
     "capital-workstation-libs",
+    "ipywidgets>=8.1.8",
 ]
 
 [tool.uv.sources]
@@ -33,4 +34,5 @@ capital-workstation-libs = { path = "../../../../../Capital_Workstation/capital-
 [dependency-groups]
 dev = [
     "pytest>=9.0.3",
+    "ruff>=0.15.11",
 ]
