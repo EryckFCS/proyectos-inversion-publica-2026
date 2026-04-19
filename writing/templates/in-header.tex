@@ -1,0 +1,54 @@
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{geometry}
+
+% Configuración de márgenes para cumplir con estándares académicos
+\geometry{
+  a4paper,
+  left=30mm,
+  right=30mm,
+  top=40mm,
+  bottom=30mm,
+  headheight=25mm
+}
+
+\pagestyle{fancy}
+\fancyhf{} % Limpiar encabezado y pie de página
+
+% Encabezado con logos
+\fancyhead[L]{
+  \includegraphics[height=2cm]{assets/logos/logo_unl.png}
+}
+
+\fancyhead[R]{
+  \includegraphics[height=1.8cm]{assets/logos/logo_economia.jpg}
+}
+
+% Texto central en el encabezado (opcional, si se desea más formalismo)
+\fancyhead[C]{
+  \small
+  \textbf{UNIVERSIDAD NACIONAL DE LOJA} \\
+  FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
+  CARRERA DE ECONOMÍA
+}
+
+% Línea divisoria en encabezado
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Pie de página con numeración
+\fancyfoot[C]{\thepage}
+
+% Asegurar que la primera página (título) también tenga el encabezado
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyhead[L]{\includegraphics[height=2cm]{assets/logos/logo_unl.png}}
+  \fancyhead[R]{\includegraphics[height=1.8cm]{assets/logos/logo_economia.jpg}}
+  \fancyhead[C]{
+    \small
+    \textbf{UNIVERSIDAD NACIONAL DE LOJA} \\
+    FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
+    CARRERA DE ECONOMÍA
+  }
+  \renewcommand{\headrulewidth}{0.4pt}
+  \fancyfoot[C]{\thepage}
+}

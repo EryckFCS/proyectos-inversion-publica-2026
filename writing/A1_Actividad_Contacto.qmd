@@ -9,9 +9,8 @@ school: "Carrera de Economía"
 instructor: "Docente de la Materia"
 format:
   pdf:
+    include-in-header: templates/in-header.tex
     documentclass: article
-    margin-left: 3cm
-    margin-right: 3cm
     toc: true
     number-sections: true
     colorlinks: true
