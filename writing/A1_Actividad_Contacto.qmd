@@ -1,0 +1,58 @@
+---
+title: "Actividad 1: Marco Normativo y Análisis de Bienestar"
+subtitle: "Proyectos de Inversión Pública - Unidad 1"
+author: "Erick Fabricio Condoy Seraquive"
+date: "2026-04-18"
+format:
+  pdf:
+    documentclass: article
+    margin-left: 3cm
+    margin-right: 3cm
+  docx:
+    reference-doc: templates/template.docx
+bibliography: references.bib
+csl: apa.csl
+---
+
+# 1. Análisis de Noticia de Actualidad
+
+**Noticia:** *Crisis Energética y Racionamientos en Ecuador (Abril 2026)*
+
+La noticia identificada corresponde a la crisis de generación eléctrica que afecta al Ecuador durante el presente mes de abril de 2026. Este evento es un caso de estudio crítico sobre cómo diversos factores inciden en el bienestar de la población [@primicias2026crisis].
+
+## Factores de Incidencia
+
+| Factor | Impacto en el Bienestar |
+|:---|:---|
+| **Económico** | Incremento de costos operativos para el sector industrial (uso de motores privados) y posible alza en precios de productos básicos. |
+| **Social** | Malestar por racionamientos, interrupción de servicios de salud y educación, e inseguridad en horarios nocturnos. |
+| **Ambiental** | Dependencia de la generación térmica (fósil) ante la sequía en el complejo Paute, alejándose de la matriz de energía limpia. |
+| **Político** | Crisis de credibilidad en la gestión de la infraestructura estatal y debates sobre la privatización del sector. |
+| **Tecnológico** | Evidencia de la obsolescencia en las redes de distribución en la Costa y necesidad de inversión en energías renovables no convencionales. |
+
+**Fuente:** [Ver Noticia en Primicias.ec](https://www.primicias.ec)
+
+---
+
+# 2. Marco Normativo de la Planificación en Ecuador
+
+Tras la revisión de los documentos fundamentales depositados en el repositorio LPI, se presentan los hallazgos principales:
+
+## 2.1 Constitución de la República (2008)
+La planificación es un deber primordial del Estado (Art. 3). Se establece el **Sistema Nacional Descentralizado de Planificación Participativa** (Art. 279), donde el **Plan Nacional de Desarrollo** [@constitucion2008] es el eje rector de la inversión pública (Art. 280).
+
+## 2.2 COOTAD
+Estructura la autonomía de los GADs. Los artículos analizados (1-65) definen las competencias exclusivas para la gestión del desarrollo local y la obligatoriedad de articular los planes locales con el sistema nacional [@cootad2010].
+
+## 2.3 COOPFIP
+Vincula la planificación con la sostenibilidad de las finanzas públicas. El énfasis en las páginas 20-50 recae en la programación plurianual de la inversión y la gestión de proyectos mediante el banco de proyectos del Estado [@coopfip2010].
+
+## 2.4 Plan Nacional de Desarrollo (2025-2027)
+Se observa una estructura multicriterio que prioriza la reactivación productiva y la seguridad ciudadana, alineando los proyectos de inversión con los Objetivos de Desarrollo Sostenible (ODS).
+
+## 2.5 PDOT Loja (2023-2027)
+El plan provincial organiza el territorio mediante nodos de desarrollo, identificando la conectividad vial y la gestión ambiental como prioridades para la provincia.
+
+---
+
+# Referencias
