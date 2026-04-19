@@ -1,49 +1,49 @@
-# Laboratorio de Inversión Pública (LPI) v5.0
+# Laboratorio de Proyectos de Inversión Pública (LPI)
+## Universidad Nacional de Loja | Séptimo Ciclo de Economía
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/EryckFCS/proyectos-inversion-publica-2026/academic_ci.yml?branch=main&label=Build&style=for-the-badge)
-![Data Integrity](https://img.shields.io/badge/Data%20Integrity-Verified-green?style=for-the-badge&logo=auditfree)
-![Research Level](https://img.shields.io/badge/Research%20Level-Level%206%20(Autonomous)-blueviolet?style=for-the-badge)
+![Data Integrity](https://img.shields.io/badge/Integridad%20de%20Datos-Verificada-green?style=for-the-badge)
+![Nivel de Investigación](https://img.shields.io/badge/Nivel%20de%20Investigación-5-blueviolet?style=for-the-badge)
 
-Infraestructura técnica para el análisis, formulación y evaluación de proyectos de inversión en el séptimo ciclo de la Carrera de Economía (UNL).
+## ¿Qué es el LPI?
+El **Laboratorio de Proyectos de Inversión Pública (LPI)** es un entorno de trabajo diseñado para que la teoría económica no se quede solo en el papel. Es el espacio donde centralizamos toda la investigación, el análisis normativo y el modelado técnico necesario para entender cómo se gestiona la inversión en el Ecuador. 
 
-## 🚀 Filosofía de Trabajo: Arquitectura v2.0
+Este laboratorio ha sido creado para transformar la forma en que abordamos la materia, pasando de una simple entrega de documentos a una gestión profesional del conocimiento económico.
 
-Este repositorio no es una carpeta de tareas personal; es un **Laboratorio de Investigación** diseñado para ser escalable, reproducible y auditable. 
+## ¿A qué necesidad responde? (El punto de dolor)
+El manejo de proyectos de inversión pública en el mundo real es complejo, disperso y exige un orden impecable. Los problemas que atacamos con este sistema son:
+- **La dispersión de la información**: Es común que la normativa, los datos y los informes terminen regados en mil carpetas. Aquí, todo tiene un lugar lógico y conectado.
+- **La falta de trazabilidad**: Muchas veces no sabemos de dónde salió un dato o qué ley sustenta un informe. Aquí, cada dato tiene su "partida de nacimiento" (linaje) y cada conclusión tiene un respaldo normativo verificado.
+- **La complejidad normativa**: En el Ecuador, las reglas cambian (COOTAD, COPFP, guías de SENPLADES). El laboratorio centraliza este conocimiento para que no sea un obstáculo, sino una base sólida.
 
-Utilizamos un sistema de **Bóvedas Atómicas**: cada actividad académica es un módulo independiente que contiene su propio código, datos locales y reportes, evitando el desorden organizacional a largo plazo.
+## Objetivos del Laboratorio
+Buscamos que la formación en este ciclo sea de alto nivel, con tres metas claras:
+1. **Centralizar el Pensamiento Crítico**: Unificar en un solo lugar la normativa nacional con el análisis técnico-científico.
+2. **Garantizar la Rigurosidad**: Que cada tabla, gráfico o informe que generemos sea confiable y esté técnicamente bien fundamentado.
+3. **Preparación para el Campo Profesional**: Manejar la información con la misma seriedad y estructura que exige el Sistema Nacional de Inversión Pública (SNIP).
 
-## 📂 Organización del Laboratorio
+## ¿Cómo está organizado?
+El laboratorio se divide en áreas claras para que el trabajo fluya sin confusiones:
 
-```text
-.
-├── docs/
-│   ├── evidence/        # Portafolio de evidencias (Sílabo)
-│   │   └── U1-Diag.../   # Unidad 1: Bóvedas ACD, APE, AA
-│   └── projects/        # Investigación Core (Proyecto Maestro)
-├── src/                 # Motor de cálculo del laboratorio
-├── data/                # Capas de datos (Raw -> Analytic)
-└── writing/             # Recursos globales (APA 7, Plantillas)
-```
+- **`docs/evidence/`**: El corazón del portafolio. Aquí se documentan las actividades de Diagnóstico, Marco Lógico y Evaluación. Cada intervención tiene su espacio dedicado con sus informes y respaldos.
+- **`src/` & `scripts/`**: El motor técnico. Aquí vive la lógica que procesa los datos, los evaluadores automáticos y las herramientas de inteligencia que ayudan a consultar la normativa.
+- **`config/`**: El "manual de reglas". Donde definimos los parámetros, metas y fuentes oficiales para que todo el laboratorio hable el mismo idioma.
 
-## 🛠️ Requisitos de Operación
+## Guía Rápida para el Usuario
+Para mantener el laboratorio funcionando y generar los reportes actualizados:
 
-El laboratorio depende de **[uv](https://astral.sh/uv)** para la gestión de entornos y **[Quarto](https://quarto.org/)** para el renderizado de reportes.
-
-### Renderizado de Reportes
-Para generar el portafolio completo con navegación lateral:
 ```bash
+# Para actualizar los reportes del portafolio (Quarto)
 uv run quarto render
+
+# Para verificar que la información es íntegra y no hay errores
+uv run python scripts/audit_lab.py
 ```
 
-Para renderizar una actividad específica:
-```bash
-uv run quarto render docs/evidence/UX/.../index.qmd
-```
-
-## 📐 Estándares de Calidad
-- **Citas**: Formato APA 7mo Manual mediante BibTeX.
-- **Visualización**: Gráficos paramétricos en Matplotlib/Seaborn y diagramas Mermaid.
-- **Trazabilidad**: Todo resultado en `docs/` debe ser reproducible mediante scripts en `src/`.
+## Compromisos de Calidad
+- **Normas APA 7**: Rigor en el uso de fuentes y citas.
+- **Reproducibilidad**: Si algo cambia en los datos o la ley, el laboratorio se actualiza de forma coherente en todo el sistema.
+- **Excelencia en Gestión**: Orden, claridad y sustento técnico en cada paso.
 
 ---
-*LPI - Seventh Cycle Economics. UNL 2026. Excellence in Public Investment Research.*
+*LPI - Economía UNL 2026. Investigación con rigor para el desarrollo nacional.*
