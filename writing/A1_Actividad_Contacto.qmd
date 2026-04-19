@@ -1,58 +1,61 @@
 ---
-title: "Actividad 1: Marco Normativo y Análisis de Bienestar"
-subtitle: "Proyectos de Inversión Pública - Unidad 1"
+title: "Actividad 1: Marco Normativo y Análisis de Factores de Bienestar"
+subtitle: "Planificación y Gestión de Proyectos de Inversión Pública"
 author: "Erick Fabricio Condoy Seraquive"
 date: "2026-04-18"
+university: "Universidad Nacional de Loja"
+faculty: "Facultad Jurídica, Social y Administrativa"
+school: "Carrera de Economía"
+instructor: "Docente de la Materia"
 format:
   pdf:
     documentclass: article
     margin-left: 3cm
     margin-right: 3cm
+    toc: true
+    number-sections: true
+    colorlinks: true
   docx:
     reference-doc: templates/template.docx
 bibliography: references.bib
 csl: apa.csl
 ---
 
-# 1. Análisis de Noticia de Actualidad
+\newpage
 
-**Noticia:** *Crisis Energética y Racionamientos en Ecuador (Abril 2026)*
+# Introducción
 
-La noticia identificada corresponde a la crisis de generación eléctrica que afecta al Ecuador durante el presente mes de abril de 2026. Este evento es un caso de estudio crítico sobre cómo diversos factores inciden en el bienestar de la población [@primicias2026crisis].
+El presente informe desarrolla la primera actividad de contacto con el docente de la unidad 1, centrada en el análisis de los factores que inciden en el bienestar ciudadano a partir de la realidad nacional y el marco normativo que rige la inversión pública en el Ecuador. Para este análisis, se han incorporado las reformas reglamentarias más recientes de 2026 y los lineamientos técnicos vigentes de la Secretaría Nacional de Planificación.
 
-## Factores de Incidencia
+# Análisis de Noticia de Actualidad
 
-| Factor | Impacto en el Bienestar |
+**Noticia:** *Ecuador entra en una nueva fase de su crisis eléctrica con menos agua y más dependencia del diésel*
+
+La crisis energética de abril de 2026 representa un fenómeno complejo que afecta directamente los pilares del desarrollo nacional. A continuación, se detallan los factores de incidencia identificados en el reporte de @primicias2026crisis:
+
+## Factores de Incidencia en el Bienestar
+
+| Factor | Análisis de Impacto |
 |:---|:---|
-| **Económico** | Incremento de costos operativos para el sector industrial (uso de motores privados) y posible alza en precios de productos básicos. |
-| **Social** | Malestar por racionamientos, interrupción de servicios de salud y educación, e inseguridad en horarios nocturnos. |
-| **Ambiental** | Dependencia de la generación térmica (fósil) ante la sequía en el complejo Paute, alejándose de la matriz de energía limpia. |
-| **Político** | Crisis de credibilidad en la gestión de la infraestructura estatal y debates sobre la privatización del sector. |
-| **Tecnológico** | Evidencia de la obsolescencia en las redes de distribución en la Costa y necesidad de inversión en energías renovables no convencionales. |
+| **Económico** | Incremento en los costos de producción por el uso de generación privada y afectación a la competitividad industrial. |
+| **Social** | Malestar ciudadano por racionamientos inesperados e inseguridad en espacios públicos sin iluminación. |
+| **Ambiental** | Retroceso en la transición ecológica al incrementar la quema de combustibles fósiles (diésel) ante la falta de caudal hídrico. |
+| **Político** | Desafíos en la gobernanza del sector eléctrico y necesidad de reformas estructurales en el marco de la seguridad energética. |
+| **Tecnológico** | Evidencia de la brecha en infraestructura de transmisión y la urgencia de modernizar el despacho nacional de carga. |
 
-**Fuente:** [Ver Noticia en Primicias.ec](https://www.primicias.ec)
+# Marco Normativo de la Planificación e Inversión
 
----
+Tras la auditoría documental realizada en el laboratorio institucional (LPI), se analizan los siguientes instrumentos legales:
 
-# 2. Marco Normativo de la Planificación en Ecuador
+## Constitución de la República y Leyes Orgánicas
+La Constitución [@constitucion2008] y el COOPFIP [@coopfip2010] establecen la obligatoriedad de que todo proyecto de inversión esté alineado al Plan Nacional de Desarrollo. Es fundamental destacar la reciente @reformaCOOPFIP2026 (Decreto 287), que optimiza los procesos de programación fiscal para proyectos plurianuales.
 
-Tras la revisión de los documentos fundamentales depositados en el repositorio LPI, se presentan los hallazgos principales:
+## Instrumentos Técnicos (Secretaría Nacional de Planificación)
+El registro y priorización de proyectos se realiza a través del SIPeIP, cuyo funcionamiento se detalla en el @manualSIPeIP2025. Los proyectos deben cumplir estrictamente con la metodología de identificación y formulación para asegurar la eficiencia en el uso de los recursos públicos.
 
-## 2.1 Constitución de la República (2008)
-La planificación es un deber primordial del Estado (Art. 3). Se establece el **Sistema Nacional Descentralizado de Planificación Participativa** (Art. 279), donde el **Plan Nacional de Desarrollo** [@constitucion2008] es el eje rector de la inversión pública (Art. 280).
+# Conclusiones
+La planificación del desarrollo en Ecuador es un proceso técnico-normativo robusto pero vulnerable a choques externos como la crisis energética. La integración de la normativa técnica actualizada permite una gestión más transparente y efectiva de los proyectos de inversión pública.
 
-## 2.2 COOTAD
-Estructura la autonomía de los GADs. Los artículos analizados (1-65) definen las competencias exclusivas para la gestión del desarrollo local y la obligatoriedad de articular los planes locales con el sistema nacional [@cootad2010].
-
-## 2.3 COOPFIP
-Vincula la planificación con la sostenibilidad de las finanzas públicas. El énfasis en las páginas 20-50 recae en la programación plurianual de la inversión y la gestión de proyectos mediante el banco de proyectos del Estado [@coopfip2010].
-
-## 2.4 Plan Nacional de Desarrollo (2025-2027)
-Se observa una estructura multicriterio que prioriza la reactivación productiva y la seguridad ciudadana, alineando los proyectos de inversión con los Objetivos de Desarrollo Sostenible (ODS).
-
-## 2.5 PDOT Loja (2023-2027)
-El plan provincial organiza el territorio mediante nodos de desarrollo, identificando la conectividad vial y la gestión ambiental como prioridades para la provincia.
-
----
+\newpage
 
 # Referencias
