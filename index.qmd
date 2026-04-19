@@ -1,0 +1,30 @@
+---
+title: "Bitácora de Proyectos de Inversión Pública"
+subtitle: "Séptimo Ciclo - 2026"
+author: "Erick Fabricio Condoy Seraquive"
+---
+
+# Introducción al LPI (Laboratorio de Proyectos)
+
+Este repositorio constituye la infraestructura técnica para el seguimiento y reporte de la materia de **Proyectos de Inversión Pública (Ciclo 7)**. Bajo la doctrina del **Laboratorio de Proyectos de Inversión (LPI)**, se busca la excelencia en la formulación y evaluación técnica-social.
+
+## Objetivos del Repositorio
+
+1.  **Formulación Analítica**: Gestión parametrizada de estudios de mercado y técnicos.
+2.  **Evaluación Social Automatizada**: Aplicación de precios sombra y tasas sociales mediante scripts.
+3.  **Docencia Reproducible**: Trazabilidad total desde el sílabo hasta los reportes finales.
+
+## Estructura de Documentación
+
+Para entender la operatividad del sistema, consulte:
+- [README.md](README.md): Visión general y filosofía.
+- [ARCHITECTURE.md](ARCHITECTURE.md): Capas del sistema y diseño técnico.
+- [ROADMAP.md](ROADMAP.md): Plan de avance según las unidades del sílabo.
+- [SESSION_REPORT.md](SESSION_REPORT.md): Control de avance diario.
+
+## Unidades del Proyecto
+
+- **Unidad 1**: Identificación y Diagnóstico.
+- **Unidad 2**: Formulación Técnica.
+- **Unidad 3**: Evaluación Económica y Social.
+- **Unidad 4**: Gestión y Monitoreo. 
