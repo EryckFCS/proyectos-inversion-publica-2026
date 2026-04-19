@@ -37,13 +37,15 @@ El repositorio se organiza siguiendo una lógica de ingeniería de datos y repor
 ### 1. Núcleo (Core) (`src/core/`)
 Implementa las invariantes del marco de inversión pública:
 - **`config.py`**: Gestión dinámica de rutas y perfiles de proyecto.
-- **`precios_sociales.py`**: Factores de corrección oficiales (mano de obra, divisas, tasa social).
-- **`utils.py`**: Funciones auxiliares para normalización de datos.
+- **`precios_sociales.py`**: [NUEVO] Gestor de factores de corrección (mano de obra, divisas, tasa social).
+- **`lineage.py`**: Motor de integridad forense y trazabilidad de fuentes.
+- **`brain.py`**: Nodo central de consulta de normativa (RAG-based).
 
 ### 2. Motor de Evaluación (Library) (`src/lib/`)
-- **`formulacion.py`**: Proyecciones de demanda y brechas.
-- **`evaluacion.py`**: Indicadores financieros y sociales (VAN, TIR, RBC).
-- **`data_doctor.py`**: Validador de consistencia de flujos y metadatos.
+- **`formulacion.py`**: [NUEVO] Proyecciones de demanda, cálculo de brechas y déficit.
+- **`evaluacion.py`**: Indicadores financieros y sociales robustos (VAN, TIR, RBC).
+- **`data_doctor.py`**: Validador de consistencia de flujos y auditoría de integridad.
+- **`research.py`**: Utilidades para búsqueda y síntesis académica.
 
 ---
 

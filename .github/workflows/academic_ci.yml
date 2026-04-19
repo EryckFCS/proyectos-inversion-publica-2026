@@ -30,17 +30,17 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: 🛡️ Phase 1: Security & Integrity Audit (Level 4)
+      - name: 🛡️ Immunity Layer: Master Build Orchestration (Levels 4 & 5)
         run: |
-          uv run python scripts/audit_lab.py
-        # Este paso detendrá el build si el hash de los datos ha sido alterado.
+          uv run python src/orchestration/M01-U1-PIP-Master_Build.py
+        # Este paso unifica la validación de Integridad (Lineage) y Lógica (Pytest)
+        # El build fallará si el MasterOrchestrator detecta cualquier anomalía.
 
-      - name: 🧠 Phase 2: Knowledge Brain Sync (Level 5)
+      - name: 🧠 Phase 3: Knowledge Brain Sync
         run: |
-          # Solo sincroniza si el cerebro no está persistido o para asegurar frescura
           uv run python scripts/sync_brain.py
 
-      - name: 📝 Phase 3: Quarto Rendering
+      - name: 📝 Phase 4: Quarto Rendering
         run: |
           quarto render
 

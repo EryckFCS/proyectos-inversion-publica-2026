@@ -44,7 +44,18 @@ async def sync_knowledge():
 
     for f_info in verified_files:
         pdf_path = f_info["full_path"]
+        source_id = f_info["id"]
         print(f"📖 Aprendiendo de: {f_info['name']}...")
+
+        # --- CAPA DE INMUNIDAD: Limpieza de Memoria Previa ---
+        try:
+            col = brain.memory.client.get_collection(name=brain.collection)
+            # Eliminar fragmentos previos de esta misma fuente para evitar desincronización
+            col.delete(where={"source_id": source_id})
+            print(f"   🧹 Memoria purgada para la fuente: {source_id}")
+        except Exception as e:
+            print(f"   ⚠️ No se pudo purgar la memoria previa: {e}")
+        # -----------------------------------------------------
 
         # Extraer texto
         text, _ = await processor.extract_text(pdf_path)
