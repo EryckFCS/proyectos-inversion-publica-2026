@@ -4,6 +4,9 @@
 
 El **Laboratorio de Proyectos de Inversión (LPI)** es una extensión del ecosistema CIE diseñada para la formulación y evaluación técnica, económica y social de proyectos de inversión pública. 
 
+> [!IMPORTANT]
+> **Alcance del Repositorio**: Este espacio está destinado exclusivamente a la gestión, desarrollo y presentación de trabajos, investigaciones y actividades relacionadas con la asignatura de **Proyectos de Inversión Pública**. No se integrarán contenidos de otras áreas para preservar la coherencia temática del laboratorio.
+
 Este repositorio integra el análisis econométrico con marcos normativos de contratación pública y metodologías de evaluación costo-beneficio, permitiendo una gestión de proyectos basada en evidencia reproducible.
 
 ---

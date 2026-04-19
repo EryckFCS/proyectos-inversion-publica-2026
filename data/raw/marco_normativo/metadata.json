@@ -1,0 +1,63 @@
+{
+  "project": "Proyectos de Inversión Pública",
+  "subject": "Marco Normativo Nacional y Local",
+  "review_date": "2026-04-19",
+  "library": [
+    {
+      "id": "CONST_2008",
+      "name": "Constitución de la República del Ecuador",
+      "version": "Actualizada 2008 con enmiendas",
+      "path": "01_Leyes_Constitucion/Constitucion_Republica_Ecuador_2008.pdf",
+      "task_relevance": "Pregunta 2.1 - Planificación"
+    },
+    {
+      "id": "COOTAD",
+      "name": "Código Orgánico de Organización Territorial, Autonomía y Descentralización",
+      "version": "Actualizada 2021",
+      "path": "01_Leyes_Constitucion/COOTAD_Codigo_Organizacion_Territorial.pdf",
+      "task_relevance": "Pregunta 2.3 - Artículos específicos"
+    },
+    {
+      "id": "COPFP",
+      "name": "Código Orgánico de Planificación y Finanzas Públicas",
+      "version": "Consolidada con reformas 2021",
+      "path": "01_Leyes_Constitucion/COPFP_Codigo_Planificacion_Finanzas_Publicas.pdf",
+      "task_relevance": "Pregunta 2.4 - Páginas 20-50"
+    },
+    {
+      "id": "COPFP_REFORMA",
+      "name": "Reforma al Código Orgánico de Planificación y Finanzas Públicas",
+      "version": "2026",
+      "path": "01_Leyes_Constitucion/COPFP_Reforma_2026.pdf",
+      "task_relevance": "Marco actualizado de inversión"
+    },
+    {
+      "id": "PND_2025_2029",
+      "name": "Plan Nacional de Desarrollo 'Ecuador No Se Detiene'",
+      "period": "2025 - 2029",
+      "path": "02_Planes_Desarrollo/Plan_Nacional_Desarrollo_2025_2029.pdf",
+      "task_relevance": "Pregunta 2.2 - Estructura"
+    },
+    {
+      "id": "PDOT_LOJA",
+      "name": "Plan de Desarrollo y Ordenamiento Territorial de la Provincia de Loja",
+      "period": "2023 - 2027",
+      "path": "02_Planes_Desarrollo/PDOT_Loja_2023_2027.pdf",
+      "task_relevance": "Pregunta 2.5 - Estructura provincial"
+    },
+    {
+      "id": "GUIA_PIP",
+      "name": "Guía Metodológica para la Presentación de Proyectos de Inversión Pública",
+      "author": "SNP / MEF",
+      "path": "03_Guias_Manuales/Metodologias/Guia_Metodologica_PIP.pdf",
+      "task_relevance": "Gestión de proyectos"
+    },
+    {
+      "id": "MANUAL_SIPeIP",
+      "name": "Manual de Usuario del Sistema Integral de Planificación e Inversión Pública",
+      "version": "2025",
+      "path": "03_Guias_Manuales/SIPeIP/Manual_Usuario_SIPeIP_2025.pdf",
+      "task_relevance": "Operatividad técnica"
+    }
+  ]
+}

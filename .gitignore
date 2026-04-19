@@ -11,3 +11,5 @@ wheels/
 
 /.quarto/
 **/*.quarto_ipynb
+data/processed/images/
+data/processed/vector_store/

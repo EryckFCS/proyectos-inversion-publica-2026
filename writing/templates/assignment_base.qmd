@@ -1,0 +1,47 @@
+---
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "NOMBRE DE LA ASIGNATURA"
+assignment: "TÍTULO DE LA ACTIVIDAD"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "NOMBRE DEL DOCENTE"
+submission_date: "Loja, [DÍA] de [MES] de 2026"
+format:
+  pdf:
+    include-in-header: templates/in-header.tex
+    documentclass: article
+    fontsize: 12pt
+    toc: false
+    number-sections: true
+    colorlinks: true
+  docx:
+    reference-doc: templates/template.docx
+bibliography: references.bib
+# csl: apa.csl
+---
+
+\begin{center}
+    \textbf{ {{< meta university >}} } \\
+    \textbf{ {{< meta faculty >}} } \\
+    \textbf{ {{< meta school >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta course >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta assignment >}} } \\
+    \vspace{0.8cm}
+    \textbf{ {{< meta author >}} } \\
+    \vspace{0.3cm}
+    \textbf{DOCENTE: {{< meta professor >}} } \\
+    \textbf{FECHA: {{< meta submission_date >}} }
+\end{center}
+
+\activarFormatoCuerpo
+
+\vspace{0.5cm}
+
+# Desarrollo
+
+[Insertar el cuerpo del trabajo aquí]
+
+# Referencias

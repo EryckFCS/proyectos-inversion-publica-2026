@@ -17,23 +17,17 @@
 
 % Encabezado con logos
 \fancyhead[L]{
-  \includegraphics[height=2cm]{assets/logos/logo_unl.png}
+  \includegraphics[height=1.2cm]{assets/logos/logo_unl.png}
 }
 
 \fancyhead[R]{
-  \includegraphics[height=1.8cm]{assets/logos/logo_economia.jpg}
+  \includegraphics[height=1.2cm]{assets/logos/logo_economia.jpg}
 }
 
-% Texto central en el encabezado (opcional, si se desea más formalismo)
-\fancyhead[C]{
-  \small
-  \textbf{UNIVERSIDAD NACIONAL DE LOJA} \\
-  FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
-  CARRERA DE ECONOMÍA
-}
+\fancyhead[C]{} % Vaciar texto central
 
 % Línea divisoria en encabezado
-\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrulewidth}{0pt}
 
 % Pie de página con numeración
 \fancyfoot[C]{\thepage}
@@ -41,14 +35,50 @@
 % Asegurar que la primera página (título) también tenga el encabezado
 \fancypagestyle{plain}{
   \fancyhf{}
-  \fancyhead[L]{\includegraphics[height=2cm]{assets/logos/logo_unl.png}}
-  \fancyhead[R]{\includegraphics[height=1.8cm]{assets/logos/logo_economia.jpg}}
-  \fancyhead[C]{
-    \small
-    \textbf{UNIVERSIDAD NACIONAL DE LOJA} \\
-    FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
-    CARRERA DE ECONOMÍA
-  }
-  \renewcommand{\headrulewidth}{0.4pt}
+  \fancyhead[L]{\includegraphics[height=1.2cm]{assets/logos/logo_unl.png}}
+  \fancyhead[R]{\includegraphics[height=1.2cm]{assets/logos/logo_economia.jpg}}
+  \fancyhead[C]{}
+  \renewcommand{\headrulewidth}{0pt}
   \fancyfoot[C]{\thepage}
 }
+
+% --- Configuración Técnica y Estética ---
+\usepackage{mathptmx} % Estándar Times New Roman (Altamente compatible)
+\usepackage[T1]{fontenc}
+\usepackage{indentfirst} 
+\usepackage{setspace} % Para control fino del interlineado
+\usepackage{ragged2e} % Para alineación izquierda que preserva sangrías
+
+% Sangría estándar APA
+\setlength{\parindent}{1.27cm}
+
+% Alineación a la izquierda (sin justificar) preservando la sangría
+\RaggedRight
+
+% Eliminar espacio adicional entre párrafos
+\setlength{\parskip}{0pt}
+
+% Comando para activar el formato de cuerpo (APA) después del título
+\newcommand{\activarFormatoCuerpo}{
+  \doublespacing
+}
+
+% --- Estandarización de Títulos APA 7 (Todo en 12pt / \normalsize) ---
+\usepackage{titlesec}
+
+% Nivel 1: Centrado, Negrita, Tamaño Normal
+\titleformat{\section}
+  {\normalfont\normalsize\bfseries\centering}{\thesection}{1em}{}
+
+% Nivel 2: Alineado a la izquierda, Negrita, Tamaño Normal
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+
+% Nivel 3: Alineado a la izquierda, Negrita, Cursiva, Tamaño Normal
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\itshape}{\thesubsubsection}{1em}{}
+
+% Ajustar espaciado de títulos para interlineado doble
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}

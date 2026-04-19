@@ -1,0 +1,36 @@
+---
+title: "Validación de Recuperación RAG"
+subtitle: "Marco Normativo - Proyectos de Inversión Pública"
+author: "{{< meta author >}}"
+format: pdf
+---
+
+## Ejemplo de Recuperación Dinámica
+
+Este documento demuestra cómo el sistema RAG puede recuperar artículos específicos de forma determinística desde ChromaDB.
+
+### Consulta: Art. 42 del COOTAD (Competencias de Gobiernos Provinciales)
+
+```{python}
+#| echo: false
+#| output: asis
+import sys
+from pathlib import Path
+
+# Ajustar path para importar desde scripts si es necesario
+sys.path.append(str(Path("../../../scripts")))
+from normative_query import query_article
+
+result = query_article("Art. 42 COOTAD")
+print(result)
+```
+
+### Consulta: Planificación en la Constitución (Art. 280)
+
+```{python}
+#| echo: false
+#| output: asis
+result = query_article("Art. 280 Constitución")
+print(result)
+```
+

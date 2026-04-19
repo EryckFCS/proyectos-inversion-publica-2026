@@ -1,17 +1,18 @@
 ---
-title: "Actividad 1: Marco Normativo y Análisis de Factores de Bienestar"
-subtitle: "Planificación y Gestión de Proyectos de Inversión Pública"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "PROYECTOS DE INVERSIÓN PÚBLICA"
+assignment: "ACTIVIDAD 1 PARA VALORACIÓN DE LA ACTIVIDAD CONTACTO CON EL DOCENTE"
 author: "Erick Fabricio Condoy Seraquive"
-date: "2026-04-18"
-university: "Universidad Nacional de Loja"
-faculty: "Facultad Jurídica, Social y Administrativa"
-school: "Carrera de Economía"
-instructor: "Docente de la Materia"
+professor: "Econ. José Job Chamba"
+submission_date: "19 de abril de 2026"
 format:
   pdf:
     include-in-header: templates/in-header.tex
     documentclass: article
-    toc: true
+    fontsize: 12pt
+    toc: false
     number-sections: true
     colorlinks: true
   docx:
@@ -20,41 +21,45 @@ bibliography: references.bib
 csl: apa.csl
 ---
 
-\newpage
+\begin{center}
+    \textbf{ {{< meta university >}} } \\
+    \textbf{ {{< meta faculty >}} } \\
+    \textbf{ {{< meta school >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta course >}} } \\
+    \vspace{0.5cm}
+    \textbf{ {{< meta assignment >}} } \\
+    \vspace{0.8cm}
+    \textbf{ {{< meta author >}} } \\
+    \vspace{0.3cm}
+    \textbf{DOCENTE: {{< meta professor >}} } \\
+    \textbf{FECHA: {{< meta submission_date >}} }
+\end{center}
 
-# Introducción
+\activarFormatoCuerpo
 
-El presente informe desarrolla la primera actividad de contacto con el docente de la unidad 1, centrada en el análisis de los factores que inciden en el bienestar ciudadano a partir de la realidad nacional y el marco normativo que rige la inversión pública en el Ecuador. Para este análisis, se han incorporado las reformas reglamentarias más recientes de 2026 y los lineamientos técnicos vigentes de la Secretaría Nacional de Planificación.
+\vspace{0.5cm}
 
 # Análisis de Noticia de Actualidad
 
-**Noticia:** *Ecuador entra en una nueva fase de su crisis eléctrica con menos agua y más dependencia del diésel*
+**Noticia:** *Guerra de Aranceles entre Ecuador y Colombia 2026 y su impacto en el comercio binacional*
 
-La crisis energética de abril de 2026 representa un fenómeno complejo que afecta directamente los pilares del desarrollo nacional. A continuación, se detallan los factores de incidencia identificados en el reporte de @primicias2026crisis:
+**Enlace de la fuente:** https://www.datasur.com/guerra-aranceles-ecuador-colombia-2026/
 
-## Factores de Incidencia en el Bienestar
+Este conflicto comercial surgido en abril de 2026 genera cambios drásticos en la estabilidad económica nacional. A continuación se presenta un análisis detallado de los factores que inciden en el bienestar poblacional basado en el reporte de @datasur2026aranceles:
 
-| Factor | Análisis de Impacto |
-|:---|:---|
-| **Económico** | Incremento en los costos de producción por el uso de generación privada y afectación a la competitividad industrial. |
-| **Social** | Malestar ciudadano por racionamientos inesperados e inseguridad en espacios públicos sin iluminación. |
-| **Ambiental** | Retroceso en la transición ecológica al incrementar la quema de combustibles fósiles (diésel) ante la falta de caudal hídrico. |
-| **Político** | Desafíos en la gobernanza del sector eléctrico y necesidad de reformas estructurales en el marco de la seguridad energética. |
-| **Tecnológico** | Evidencia de la brecha en infraestructura de transmisión y la urgencia de modernizar el despacho nacional de carga. |
+### Análisis por Factores de Incidencia
 
-# Marco Normativo de la Planificación e Inversión
+*   **Factor Económico:** La imposición de aranceles del 100% genera una distorsión profunda en los costos de producción nacional debido a que Ecuador importa una cantidad significativa de bienes intermedios desde Colombia. Aunque las cifras oficiales reportan un superávit comercial, este resultado no obedece a un crecimiento en la eficiencia exportadora nacional, sino a una contracción forzada del consumo de insumos clave. Esta situación eleva los costos operativos de industrias estratégicas como la plástica y química, reduciendo sistemáticamente su competitividad en el mercado andino y limitando la generación de empleo formal.
 
-Tras la auditoría documental realizada en el laboratorio institucional (LPI), se analizan los siguientes instrumentos legales:
+*   **Factor Social:** La incidencia en el bienestar ciudadano es negativa a través del canal de transmisión de precios al consumidor final. El encarecimiento de materias primas y productos terminados importados se traslada directamente a las perchas de los mercados locales, incrementando la inflación en artículos de primera necesidad. Este fenómeno presiona con mayor fuerza el presupuesto de las familias con menores ingresos, quienes deben destinar una proporción más alta de su salario para cubrir necesidades básicas, lo cual profundiza las brechas de desigualdad social en el país.
 
-## Constitución de la República y Leyes Orgánicas
-La Constitución [@constitucion2008] y el COOPFIP [@coopfip2010] establecen la obligatoriedad de que todo proyecto de inversión esté alineado al Plan Nacional de Desarrollo. Es fundamental destacar la reciente @reformaCOOPFIP2026 (Decreto 287), que optimiza los procesos de programación fiscal para proyectos plurianuales.
+*   **Factor Político:** La medida se enmarca en una estrategia de presión diplomática binacional para exigir mayores controles de seguridad en la frontera compartida. No obstante, el costo político interno es considerable, ya que genera fricciones constantes con gremios importadores y cámaras de comercio que dependen del flujo transfronterizo. La soberanía económica se ejerce mediante la restricción agresiva, lo cual puede comprometer la firma de acuerdos comerciales futuros y debilitar el liderazgo de Ecuador en organismos de integración regional.
 
-## Instrumentos Técnicos (Secretaría Nacional de Planificación)
-El registro y priorización de proyectos se realiza a través del SIPeIP, cuyo funcionamiento se detalla en el @manualSIPeIP2025. Los proyectos deben cumplir estrictamente con la metodología de identificación y formulación para asegurar la eficiencia en el uso de los recursos públicos.
+*   **Factor Tecnológico y Productivo:** Se evidencia una brecha tecnológica crítica en la industria local que impide la sustitución rápida de los insumos colombianos. La dependencia de procesos de fabricación específicos y maquinaria diseñada para estándares de materia prima del país vecino frena la capacidad de respuesta productiva ante este choque externo. El conflicto pone de manifiesto la falta de inversión en innovación tecnológica nacional, dejando al parque industrial en una posición de vulnerabilidad ante decisiones arancelarias de terceros países.
 
-# Conclusiones
-La planificación del desarrollo en Ecuador es un proceso técnico-normativo robusto pero vulnerable a choques externos como la crisis energética. La integración de la normativa técnica actualizada permite una gestión más transparente y efectiva de los proyectos de inversión pública.
+*   **Factor Cultural:** La integración regional y la confianza mutua se ven debilitadas por una percepción de hostilidad comercial que rompe los lazos de vecindad histórica. El intercambio cultural que fluye naturalmente a través del comercio fronterizo se reduce, limitando la integración de los mercados que comparten dinámicas de vida cotidiana y tradiciones comunes. Este alejamiento comercial fomenta una cultura de aislamiento que contradice los principios de unidad latinoamericana promovidos en las últimas décadas.
 
-\newpage
+*   **Factor Ambiental:** La desarticulación de las cadenas de suministro regionales obliga a las empresas a buscar proveedores en mercados geográficamente más distantes. Esto incrementa de manera directa la huella de carbono asociada al transporte de carga por rutas marítimas o aéreas de largo recorrido. Además, genera una presión logística inusual sobre los puertos nacionales, cuya infraestructura ambiental no estaba planificada para absorber cambios repentinos y masivos en los flujos de mercaderías líquidas y sólidas.
 
 # Referencias
