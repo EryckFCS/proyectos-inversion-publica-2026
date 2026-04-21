@@ -5,18 +5,26 @@ build/
 dist/
 wheels/
 *.egg-info
+.coverage
+htmlcov/
+.pytest_cache/
 
 # Virtual environments
 .venv
 
-# Quarto internals & temporary files
+# Quarto internals, temporary files, and output
 /.quarto/
 **/*.quarto_ipynb*
 **/*_files/
 **/*_cache/
+_site/
 
-# Project data artifacts (exclusion of binary vector stores and processed images)
+# Project data artifacts
 data/processed/images/
 data/processed/vector_store/
 
-**/*.quarto_ipynb
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z

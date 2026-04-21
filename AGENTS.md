@@ -32,6 +32,16 @@ Consumirla antes de cualquier acción:
 
 ---
 
+## Arquitectura de Bóvedas (Vaults)
+
+Este nodo implementa el sistema de **Bóvedas de Conocimiento**, donde cada unidad del sílabo se gestiona como una unidad de evidencia reproducible:
+
+- `docs/evidence/`: Almacén de workshops, informes y aplicaciones técnicas de PIP.
+- `docs/readings/`: Bóveda de lecturas y marco normativo (SNIP, PNB).
+- `docs/syllabus/`: Marco académico y normativo de la materia.
+
+---
+
 ## Ley de Nodo Puro (Obligatoria)
 
 1. **No reimplementar** lógica que ya exista en `ecs_quantitative`.

@@ -1,0 +1,12 @@
+{
+  "hash": "6a114bb9ded4c601c3d88e594fd5ccae",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "::: {.callout-note appearance=\"simple\"}\n## 🛡️ Auditoría Forense de Datos (LPI v4.0)\n\nEste documento ha sido generado bajo el protocolo de **Linaje de Datos del LPI**. \nToda la evidencia normativa citada ha sido verificada contra el catálogo maestro mediante firmas digitales SHA256.\n\n::: {.cell results='asis' execution_count=1}\n\n::: {.cell-output .cell-output-stdout}\n```\n\n::: {.callout-note appearance=\"simple\"}\n**Certificado de Integridad LPI v5.0**\n\n- **Fecha de Auditoría**: 2026-04-20 17:48\n- **Fuentes Verificadas**: 3/3\n- **Estado de Datos**: 🟢 ÍNTEGRO mediante SHA256 Match\n:::\n\n```\n:::\n:::\n\n\n:::\n\n",
+    "supporting": [
+      "audit_block_files/figure-pdf"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

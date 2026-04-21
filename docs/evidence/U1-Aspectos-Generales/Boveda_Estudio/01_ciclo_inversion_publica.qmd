@@ -1,0 +1,141 @@
+---
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "PROYECTOS DE INVERSIÓN PÚBLICA"
+assignment: "Bóveda de Estudio: Aspectos Generales y Ciclo del Proyecto"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "Econ. José Job Chamba"
+submission_date: "21 de abril de 2026"
+bibliography: ../../../../writing/references.bib
+csl: ../../../../writing/apa.csl
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    code-fold: true
+  pdf:
+    output-file: "Boveda-Aspectos-Generales-PIP.pdf"
+---
+
+# Introducción a los Proyectos de Inversión Pública
+
+Los Proyectos de Inversión Pública (PIP) son el brazo ejecutor de la planificación estatal. No son simples gastos de capital, sino intervenciones diseñadas para transformar una parcela de la realidad, resolviendo déficits específicos y mejorando el bienestar social a través de la producción de bienes o prestación de servicios.
+
+## Marco Conceptual: Desarrollo y Planificación
+
+Según @downes2001, la **planificación del desarrollo** implica la formulación de un programa de acción a cargo de las autoridades políticas y económicas para cumplir metas nacionales en plazos específicos. 
+
+En el contexto ecuatoriano, la planificación se caracteriza por ser:
+- **Flexible**: Se adapta a las necesidades y cambios del entorno.
+- **Abierta**: Permite rectificaciones constantes.
+- **Descentralizada**: Sirve al territorio al que va dirigido.
+- **Autogestionada**: Implica al colectivo en su administración.
+
+### Jerarquía de la Inversión
+
+Para que la inversión sea eficiente, debe existir una coherencia vertical:
+
+1.  **Plan**: Máxima directriz política y estratégica (ej. Plan Nacional de Desarrollo). Define el "qué".
+2.  **Programa**: Conjunto coordinado de proyectos que persiguen objetivos específicos. Define el "cómo".
+3.  **Proyecto**: La unidad operativa mínima y más específica. Define el "con qué" y "cuándo".
+
+---
+
+# El Ciclo de Vida del Proyecto de Inversión Pública
+
+El ciclo de un proyecto no es lineal, sino circular y retroalimentado. Garantiza que la inversión pública pase por filtros técnicos rigurosos antes de comprometer recursos estatales.
+
+```{mermaid}
+%%| label: fig-ciclo-pip
+%%| fig-cap: "Ciclo Integral del Proyecto de Inversión Pública en Ecuador"
+graph LR
+    A[<b>IDEA</b><br/>Identificación de Problema] --> B{{<b>PRE-INVERSIÓN</b>}}
+    subgraph PreInversion [Maduración Técnica]
+        B --> B1(Perfil)
+        B1 --> B2(Pre-factibilidad)
+        B2 --> B3(Factibilidad)
+    end
+    B3 --> C{{<b>INVERSIÓN</b>}}
+    subgraph Inversion [Ejecución]
+        C --> C1(Estudios Definitivos)
+        C1 --> C2(Ejecución Física)
+        C2 --> C3(Liquidación)
+    end
+    C3 --> D{{<b>POST-INVERSIÓN</b>}}
+    subgraph PostInversion [Resultados]
+        D --> D1(Operación y Mantenimiento)
+        D1 --> D2(Evaluación Ex-Post)
+    end
+    D2 --> E(Retroalimentación)
+    E --> A
+    E --> F[FIN / Impacto Logrado]
+```
+
+## 1. Fase de Pre-inversión: El Proceso de Maduración
+
+Es la fase donde se transforma la **idea** en un proyecto técnico sustentable. Se busca reducir la incertidumbre mediante estudios progresivos:
+
+*   **Perfil**: Se basa en información secundaria y estimaciones globales. 
+    *   *Ejemplo (Infraestructura)*: "Queremos mejorar la conectividad en Macará. El perfil estima que un puente costaría $2 millones basándose en obras similares."
+    *   *Ejemplo (Saneamiento)*: "Proyecto de agua potable para El Cisne. Se estima el costo por conexión basándose en la densidad poblacional del último censo."
+*   **Pre-factibilidad**: Analiza diferentes alternativas técnicas para resolver el problema (ej. puente colgante vs. puente de concreto) y selecciona la mejor basándose en criterios de costo-beneficio.
+    *   *Ejemplo (Infraestructura)*: "Se comparan dos rutas para el acceso al puente. Se descarta la ruta A por riesgo geológico elevado."
+    *   *Ejemplo (Saneamiento)*: "Evaluación de fuentes de captación: ¿Pozo profundo o captación superficial del río? Se elige el pozo por requerir menor tratamiento químico."
+*   **Factibilidad**: Es el estudio final que garantiza que el proyecto es viable en todas sus dimensiones (técnica, económica, social, ambiental y legal). 
+    *   *Ejemplo (Infraestructura)*: "Estudio detallado de ingeniería y diseño final de la cimentación del puente."
+    *   *Ejemplo (Saneamiento)*: "Diseño hidráulico definitivo de la planta de tratamiento y red de distribución con certificación de viabilidad técnica de SENAGUA/MAATE."
+
+## 2. Fase de Inversión: De los Planos a la Realidad
+
+Una vez que el proyecto cuenta con el **Dictamen de Prioridad** y se asignan recursos en el Plan Anual de Inversiones (PAI), inicia la ejecución técnica y financiera.
+
+*   **Estudios Definitivos / Expedientes Técnicos**: Elaboración de planos finales "as-built", especificaciones técnicas exactas para la licitación.
+    *   *Ejemplo (Infraestructura)*: "Cronograma valorado detallado y pliegos de contratación para el puente."
+    *   *Ejemplo (Saneamiento)*: "Planos detallados de excavación y tendido de tubería de alta presión para la red matriz."
+*   **Ejecución Física y Financiera**: Es la construcción de la obra o la implementación del servicio conforme a las normas de contratación pública.
+    *   *Ejemplo (Infraestructura)*: "Hincado de pilotes y fundición de losa bajo supervisión de fiscalización."
+    *   *Ejemplo (Saneamiento)*: "Instrucción de los tanques de reserva e instalación de micromedidores domiciliarios."
+*   **Liquidación**: Cierre administrativo que formaliza el fin de la etapa de inversión y la entrega de la obra a la entidad operadora.
+    *   *Ejemplo (Infraestructura)*: "Suscripción del acta entrega-recepción definitiva tras verificar especificaciones."
+    *   *Ejemplo (Saneamiento)*: "Pruebas de presión en toda la red y traspaso administrativo a la Junta Administradora de Agua (JAAP)."
+
+## 3. Fase de Post-inversión: El Retorno Social
+
+Esta fase es donde la población empieza a recibir el beneficio. Es la etapa más larga del ciclo.
+
+*   **Operación y Mantenimiento (O&M)**: Acciones necesarias para que el activo no se deteriore y siga cumpliendo su fin social.
+    *   *Ejemplo (Infraestructura)*: "Presupuesto anual para pintura y limpieza de drenajes del puente."
+    *   *Ejemplo (Saneamiento)*: "Compra mensual de cloro, pago de energía eléctrica de las bombas y mantenimiento de filtros."
+*   **Evaluación Ex-post**: Se realiza años después de la inauguración para verificar si se cumplieron los objetivos iniciales. 
+    *   *Ejemplo (Infraestructura)*: "Medición del ahorro en tiempo de viaje para agricultores tras 3 años."
+    *   *Ejemplo (Saneamiento)*: "Verificación de la reducción de enfermedades gastrointestinales en los niños de la parroquia beneficiaria."
+
+---
+
+# Marco Normativo Ecuatoriano (SNDPP)
+
+La gestión de los PIP en Ecuador no es discrecional; se rige por:
+
+- **Constitución de la República (Art. 279-280)**: Establece el Sistema Nacional Descentralizado de Planificación Participativa.
+- **COPFIP (Art. 10-12)**: Vincula la planificación con las finanzas públicas. Exige que todo gasto de inversión esté articulado al Plan Nacional de Desarrollo (PND).
+- **COOTAD**: Define las competencias exclusivas de los GAD en planificación territorial.
+
+> [!TIP]
+> **Diferencia Clave**: La inversión pública busca la rentabilidad **social** (bienestar), mientras que la privada busca la rentabilidad **financiera** (flujo de caja).
+
+# Tipologías de Proyectos en PIP
+
+| Tipo | Propósito | Ejemplo |
+|:---|:---|:---|
+| **Productivos** | Instalar capacidad transformadora. | Planta procesadora de balanceado en el sur de Loja. |
+| **Infraestructura** | Generar condiciones facilitadoras. | Sistema de riego Zapotillo. |
+| **Sociales** | Satisfacer necesidades básicas. | Hospitales, Unidades Educativas del Milenio. |
+| **Estudios Básicos** | Fortalecer la capacidad generadora de otros proyectos. | Mapa cartográfico de suelos para ordenamiento territorial. |
+
+---
+
+# Conclusión para el Estudio
+
+El éxito de un proyecto de inversión pública depende de su **articulación**. Un proyecto aislado del PND o del PDOT local carece de sustento legal para recibir financiamiento. El ciclo del proyecto asegura que cada dólar invertido sea el resultado de un diagnóstico riguroso y no de una decisión política improvisada.
