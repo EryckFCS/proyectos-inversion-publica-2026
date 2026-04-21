@@ -7,16 +7,10 @@ Toda la evidencia normativa citada ha sido verificada contra el catálogo maestr
 ```{python}
 #| echo: false
 #| results: asis
-import sys
-from pathlib import Path
-
-# Ajuste dinámico de path según profundidad del reporte
-sys.path.append(str(Path.cwd().parent.parent.parent.parent))
-
-from src.lib.audit import generate_report_audit_summary
+from ecs_quantitative.reporting.quarto import generate_integrity_block
 
 # IDs de archivos usados en este reporte (Ejemplo: Constitución y COPFP)
 files_used = ['CONST_2008', 'COOTAD', 'COPFP']
-print(generate_report_audit_summary(files_used))
+print(generate_integrity_block(len(files_used), len(files_used), subject="LPI"))
 ```
 :::

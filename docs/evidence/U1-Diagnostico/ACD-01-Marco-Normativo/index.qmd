@@ -3,42 +3,18 @@ university: "UNIVERSIDAD NACIONAL DE LOJA"
 faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
 school: "CARRERA DE ECONOMÍA"
 course: "PROYECTOS DE INVERSIÓN PÚBLICA"
-assignment: "ACTIVIDAD 1 PARA VALORACIÓN DE LA ACTIVIDAD CONTACTO CON EL DOCENTE"
+assignment: "ACD 1: Marco Normativo y Sistemas de Planificación Nacional"
 author: "Erick Fabricio Condoy Seraquive"
 professor: "Econ. José Job Chamba"
 submission_date: "19 de abril de 2026"
-format:
-  pdf:
-    include-in-header: ../../../../writing/templates/in-header.tex
-    documentclass: article
-    fontsize: 12pt
-    toc: false
-    number-sections: true
-    colorlinks: true
-  docx:
-    reference-doc: ../../../../writing/templates/template.docx
 bibliography: ../../../../writing/references.bib
 csl: ../../../../writing/apa.csl
+header-includes:
+  - \usepackage{pdflscape}
+format:
+  pdf:
+    output-file: "ACD-01-Marco-Normativo.pdf"
 ---
-
-\begin{center}
-    \textbf{ {{< meta university >}} } \\
-    \textbf{ {{< meta faculty >}} } \\
-    \textbf{ {{< meta school >}} } \\
-    \vspace{0.5cm}
-    \textbf{ {{< meta course >}} } \\
-    \vspace{0.5cm}
-    \textbf{ {{< meta assignment >}} } \\
-    \vspace{0.8cm}
-    \textbf{ {{< meta author >}} } \\
-    \vspace{0.3cm}
-    \textbf{DOCENTE: {{< meta professor >}} } \\
-    \textbf{FECHA: {{< meta submission_date >}} }
-\end{center}
-
-\activarFormatoCuerpo
-
-\vspace{0.5cm}
 
 # Análisis de Noticia de Actualidad
 
@@ -64,30 +40,14 @@ Este conflicto comercial surgido en abril de 2026 genera cambios drásticos en l
 
 ### Resumen Visual de Incidencia
 
-```mermaid
-graph LR
-    Root((Guerra Arancelaria 2026))
-    Root --- Econ[Económico]
-    Root --- Soc[Social]
-    Root --- Pol[Político]
-    Root --- Tech[Tecnológico]
-    Root --- Amb[Ambiental]
-    
-    Econ --- E1[Costos Producción]
-    Econ --- E2[Competitividad]
-    Soc --- S1[Inflación]
-    Soc --- S2[Desigualdad]
-    Pol --- P1[Tensión Binacional]
-    Tech --- T1[Dependencia Insumos]
-    Amb --- A1[Huella de Carbono]
-    
-    style Root fill:#f96,stroke:#333,stroke-width:4px
-    style Econ fill:#fff4dd
-    style Soc fill:#fff4dd
-    style Pol fill:#fff4dd
-    style Tech fill:#fff4dd
-    style Amb fill:#fff4dd
-```
+\begin{landscape}
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{mapa-impacto-multidimensional.png}
+\caption{Resumen Visual de Incidencia: Mapa de Impacto Multidimensional}
+\label{fig-incidencia}
+\end{figure}
+\end{landscape}
 
 # Análisis del Marco Normativo y Sistema de Planificación
 

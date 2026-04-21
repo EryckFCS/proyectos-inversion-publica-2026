@@ -1,52 +1,26 @@
-# 🗺️ Roadmap: Proyectos de Inversión Pública 2026
+# Roadmap del Nodo PIP
 
-Este documento detalla el plan de trabajo sincronizado con el sílabo de la materia y la infraestructura de reporte automatizado.
+## Hecho
 
-## 🎯 Objetivos Estratégicos
+- U1 publicada y enlazada desde la página principal.
+- Auditoría y sincronización apuntan al cerebro central.
+- El indexador normativo ya no usa un vector store local.
+- La suite de pytest cubre configuración, cerebro, investigación, formulación, RAG, auditoría y orquestación.
 
-1. Automatizar la generación de reportes académicos bajo estándares APA 7.
-2. Implementar una librería robusta para evaluación social en Python (LPI-Lib).
-3. Mantener un repositorio auditable y reproducible bajo arquitectura de **Bóvedas Atómicas**.
+## En curso
 
----
+- Limpiar la navegación Quarto para que solo exponga U1.
+- Revisar la plantilla de auditoría y los scripts heredados.
+- Mantener la documentación alineada con el catálogo real.
 
-## 🚀 Visión de Evolución (LPI Maturity Levels)
+## Pendiente
 
-Para transformar este repositorio en una potencia de investigación, seguiremos estos niveles de madurez:
+- Construir la evidencia de U2: marco lógico.
+- Construir la evidencia de U3: seguimiento y evaluación.
+- Publicar cualquier proyecto maestro solo cuando exista un artefacto real, no como placeholder.
 
-| Nivel | Nombre | Objetivo | Estado |
-|:---:|:---|:---|:---:|
-| **1** | **Estructura** | Organización básica Quarto y Git. | ✅ |
-| **2** | **Bóvedas Atómicas** | Aislamiento de tareas y activos para escalabilidad. | ✅ |
-| **3** | **Inteligencia Central** | Lógica y parámetros compartidos en `src/` (SOT). | ✅ |
-| **4** | **Linaje de Datos** | Trazabilidad forense desde el dato Raw al reporte. | ✅ |
-| **5** | **Segundo Cerebro** | Integración RAG / Búsqueda Semántica en notas. | ✅ |
-| **6** | **CI/CD Académico** | Publicación automática y validación de calidad. | ✅ |
+## Criterio de mantenimiento
 
----
-
-## 🛠️ Estado del Proyecto
-
-### Fase A: Infraestructura y Autonomía (Completado) ✨
-- [x] Arquitectura de **Bóvedas Atómicas** (Aislamiento total de actividades).
-- [x] **Inteligencia Central** (Motor de evaluación y parámetros unificados).
-- [x] **Linaje de Datos Forense** (Auditoría de integridad SHA256).
-- [x] **Segundo Cerebro (RAG)** (Consultas semánticas normativas offline).
-- [x] **CI/CD Académico** (Publicación automática en GitHub Actions).
-
-### Fase 1: Diagnósticos y Marco Normativo 🟢 (En curso)
-- [x] **Actividad ACD-01: Marco Normativo** (Completado).
-- [ ] Análisis de involucrados y diagnóstico territorial.
-- [ ] Modelado de proyección de demanda y oferta.
-
----
-
-## 📐 Unidades del Sílabo
-
-- [x] **Unidad 1**: Diagnósticos y necesidades. (Infraestructura 100%)
-- [ ] **Unidad 2**: Metodología del marco lógico.
-- [ ] **Unidad 3**: Estrategia de seguimiento y evaluación.
-
----
-
-*Última actualización: 19 de abril de 2026. Estatus: Ecosistema LPI 100% Funcional.*
+- Si una pieza sirve para más de un nodo, va al núcleo central.
+- Si una pieza solo documenta el curso, se queda aquí.
+- Si una ruta no existe, no se publica en la navegación principal.

@@ -1,68 +1,28 @@
-# Arquitectura Técnica: LPI - Laboratorio de Proyectos de Inversión
+# Arquitectura Técnica del Nodo PIP
 
-Este documento define la infraestructura técnica para la materia de **Proyectos de Inversión Pública (PIP)**, basada en los estándares del CIE.
+Este repositorio opera como nodo puro. La lógica general vive en `ecs_quantitative`; aquí solo se mantienen las fronteras académicas y los wrappers mínimos que necesita la materia.
 
-## 🏛️ Estructura de Directorios
+## Capas reales
 
-El repositorio se organiza siguiendo una lógica de ingeniería de datos y reporte académico:
+- `config/`: `params.yaml` y `data_catalog.yaml`
+- `data/raw/marco_normativo/`: corpus normativo auditado
+- `docs/evidence/`: evidencia académica. Hoy solo se publica U1
+- `src/core/`: `config.py` y `brain.py`
+- `src/lib/`: `formulacion.py` y `research.py`
+- `src/orchestration/`: `M01-U1-PIP-Master_Build.py`
+- `scripts/`: `sync_brain.py`, `normative_indexer.py`, `normative_query.py`, `audit_lab.py`
+- `writing/templates/`: bloques Quarto como `audit_block.qmd`
 
-### Gestión y Configuración
-- **`config/`**: Archivos de configuración (.yaml, .json) para parámetros globales del sistema.
-- **`src/`**: Código fuente principal (Core, Lib, Tasks).
-- **`scripts/`**: Utilidades para automatización, despliegue y migración de datos.
-- **`tests/`**: Suite de pruebas unitarias e integración para validar la lógica de cálculo.
+## Contratos
 
-### Zona de Datos
-- **`data/`**: Organización para auditoría académica.
-    - `raw/`: Datos originales sin procesar.
-    - `curation/`: Datos limpios y normalizados.
-    - `analytic/`: Resultados finales y matrices de flujos.
+- `src.core.brain.LaboratorioBrain` encapsula `AgentMemory` central.
+- `src.lib.research` formatea contexto y citas desde `LaboratorioBrain`.
+- `scripts/normative_indexer.py` indexa en el cerebro central; no crea persistencia local.
+- `src/orchestration/M01-U1-PIP-Master_Build.py` usa `LineageEngine` de `ecs_quantitative.core.audit`.
+- `scripts/audit_lab.py` localiza la librería central por import, no por ruta fija.
 
-### Reportes e Investigación (docs/)
-- **`docs/evidence/`**: Portafolio de evidencias académicas (Syllabus).
-    - `UX-Nombre/`: Carpeta por unidad.
-    - `ACD-XX/`: Bóveda atómica por actividad (index.qmd + assets).
-- **`docs/projects/`**: Investigación central y proyectos de largo plazo.
-- **`writing/`**: Recursos de redacción global (APA 7, CSL, plantillas LaTeX).
-- **`deliveries/`**: Repositorio de versiones finales firmadas y publicadas.
+## Límites
 
-### Operación Local (Excluidos de Git)
-- **`logs/`**: Registros detallados de ejecución del sistema para depuración técnica.
-- **`scratch/`**: Espacio de trabajo volátil para guiones de prueba y borradores rápidos.
-
----
-
-## 🏛️ Capas del Sistema (src/)
-
-### 1. Núcleo (Core) (`src/core/`)
-Implementa las invariantes del marco de inversión pública:
-- **`config.py`**: Gestión dinámica de rutas y perfiles de proyecto.
-- **`precios_sociales.py`**: [NUEVO] Gestor de factores de corrección (mano de obra, divisas, tasa social).
-- **`lineage.py`**: Motor de integridad forense y trazabilidad de fuentes.
-- **`brain.py`**: Nodo central de consulta de normativa (RAG-based).
-
-### 2. Motor de Evaluación (Library) (`src/lib/`)
-- **`formulacion.py`**: [NUEVO] Proyecciones de demanda, cálculo de brechas y déficit.
-- **`evaluacion.py`**: Indicadores financieros y sociales robustos (VAN, TIR, RBC).
-- **`data_doctor.py`**: Validador de consistencia de flujos y auditoría de integridad.
-- **`research.py`**: Utilidades para búsqueda y síntesis académica.
-
----
-
-## 📐 Doctrina de Modelado
-
-1.  **Separación de Flujos**: El flujo de caja financiero y el flujo social deben mantenerse desacoplados.
-2.  **Transparencia de Parámetros**: Prohibido el uso de "Magic Numbers".
-3.  **Auditoría Forense**: Todo cálculo debe ser trazable hasta la fuente en `data/raw/`.
-
----
-
-## 🛠️ Entorno de Desarrollo
-
-El sistema está optimizado para su ejecución con `uv`.
-```bash
-uv run quarto render docs/
-```
-
----
-*LPI - Estándar v2.0 (Reseach-Driven Architecture). 2026. Estructura Completa Verificada.*
+- No hay wrapper local para `lineage` ni para evaluación financiera.
+- La navegación pública no expone U2/U3 hasta que tengan evidencia real.
+- El vector store autorizado es `~/.capital/brain/vector_store`.

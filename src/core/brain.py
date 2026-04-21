@@ -1,13 +1,4 @@
-import sys
-from pathlib import Path
-
-# La ruta central es compartida por todos los nodos de la federación
-CENTRAL_BRAIN_PATH = Path("~/.capital/brain/vector_store").expanduser()
-
-try:
-    from ecs_quantitative.memory.agent_memory import AgentMemory
-except ImportError:
-    AgentMemory = None
+from ecs_quantitative.memory.agent_memory import AgentMemory
 
 
 class LaboratorioBrain:
@@ -16,26 +7,21 @@ class LaboratorioBrain:
     Accede al conocimiento semántico federado en la estación de trabajo.
     """
 
-    def __init__(self, collection="pip_marco_normativo"):
-        self.persist_path = CENTRAL_BRAIN_PATH
+    def __init__(self, collection="marco_normativo"):
+        # AgentMemory usa por defecto ~/.capital/brain/vector_store
         self.collection = collection
-
-        if AgentMemory:
-            self.memory = AgentMemory(
-                persist_path=self.persist_path, collection_name=self.collection
-            )
-        else:
+        try:
+            self.memory = AgentMemory(collection_name=self.collection)
+        except Exception as e:
             self.memory = None
-            print("⚠️ Advertencia: Memoria Central no disponible.")
+            print(f"⚠️ Error al conectar con la Memoria Central: {e}")
 
     def search(self, query, top_n=3):
         """Realiza una búsqueda semántica federada."""
         if not self.memory:
             return []
-        
-        return self.memory.recall(
-            query=query, n_results=top_n, collection=self.collection
-        )
+
+        return self.memory.recall(query=query, n_results=top_n, collection=self.collection)
 
     def get_context(self, query, top_n=3):
         """Genera un bloque de contexto institucional para reportes."""

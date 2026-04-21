@@ -1,33 +1,47 @@
-import sys
 from pathlib import Path
 
-# Asegurar descubrimiento de src
-sys.path.append(str(Path(__file__).parent.parent))
+import ecs_quantitative
+from ecs_quantitative.audit.engine import AuditEngine
 
-from src.core.lineage import lineage_engine
+# Rutas de la infraestructura federada
+LIBS_SRC = Path(ecs_quantitative.__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).parent.parent
 
 
-def audit_all():
-    print("🛡️ Auditoría Forense LPI v4.0")
+def run_central_audit():
+    print("🛡️ Auditoría de Gobernanza Federada v7.4.0")
     print("=" * 50)
 
-    catalog = lineage_engine.catalog
-    all_files = []
+    if not LIBS_SRC.exists():
+        print(f"❌ Error: No se encontró la fuente de la librería central en {LIBS_SRC}")
+        return
 
-    for category_name, category_data in catalog.get("datasets", {}).items():
-        print(f"\n📁 Categoría: {category_name}")
-        for f in category_data.get("files", []):
-            status, msg = lineage_engine.verify_file(f["id"])
-            icon = "✅" if status else "❌"
-            print(f"  {icon} {f['name']:<40} | {msg}")
-            all_files.append(status)
+    # 1. Inicializar motor central
+    engine = AuditEngine(core_dir=LIBS_SRC)
+
+    # 2. Auditar este nodo (PIP)
+    print(f"🔍 Analizando nodo: {PROJECT_ROOT.name}...")
+    stats = engine.audit_project(PROJECT_ROOT)
+
+    # 3. Reportar resultados
+    print("\n📊 Resultados de Auditoría:")
+    print(f"  - Archivos analizados: {stats['files']}")
+    print(f"  - Líneas de código (LOC): {stats['loc']}")
+    print(f"  - Estado del ciclo de vida: {stats['lifecycle']}")
+
+    if stats["redundancies"]:
+        print("\n⚠️  REDUNDANCIAS DETECTADAS (Candidatos a migración central):")
+        for r in stats["redundancies"]:
+            print(f"  [-] {r}")
+
+    if stats["hardcoded_paths"]:
+        print("\n🚨 RUTAS HARDCODED DETECTADAS (Riesgo de portabilidad):")
+        for p in stats["hardcoded_paths"]:
+            print(f"  [!] {p}")
 
     print("\n" + "=" * 50)
-    if all(all_files):
-        print("🎉 ESTADO: LABORATORIO ÍNTEGRO. No se detectan alteraciones.")
-    else:
-        print("⚠️ ALERTA: Se han detectado inconsistencias en los datos.")
+    print("✨ Auditoría completada. Consulta AGENTS.md para más detalles de gobernanza.")
 
 
 if __name__ == "__main__":
-    audit_all()
+    run_central_audit()

@@ -1,4 +1,14 @@
-# Notas de Estudio: Planificación en la Constitución (2008)
+---
+title: "Notas de Estudio: Planificación en la Constitución (2008)"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "PROYECTOS DE INVERSIÓN PÚBLICA"
+assignment: "ACD 1: Marco Normativo y Sistemas de Planificación Nacional"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "Econ. José Job Chamba"
+submission_date: "19 de abril de 2026"
+---
 
 Documento de soporte para la Actividad 1 - Proyectos de Inversión Pública.
 
@@ -78,7 +88,7 @@ Documento de soporte para la Actividad 1 - Proyectos de Inversión Pública.
 
 ---
 
-# 2. Plan Nacional de Desarrollo (2025-2029): "Ecuador no se detiene"
+## 2. Plan Nacional de Desarrollo (2025-2029): "Ecuador no se detiene"
 
 ## Identificación General
 
@@ -97,7 +107,7 @@ El plan se organiza en 5 áreas críticas que definen la prioridad de la inversi
 4. **Eje Institucional**: Seguridad ciudadana, transparencia y eficiencia del Estado.
 5. **Eje Riesgos**: Gestión de desastres, adaptación al cambio climático y resiliencia territorial.
 
-## Análisis para Proyectos de Inversión
+### Análisis para Proyectos de Inversión (PND)
 
 - **Alineación Obligatoria**: Todo proyecto de inversión pública (central o local) debe "engancharse" a uno de los objetivos de estos ejes para recibir dictamen de prioridad.
 - **Instrumentos Derivados**: Del PND se desprenden la **Estrategia Territorial Nacional (ETN)** y la **Visión de Largo Plazo (2035)**.
@@ -108,7 +118,7 @@ El plan se organiza en 5 áreas críticas que definen la prioridad de la inversi
 
 ---
 
-# 3. Código Orgánico de Organización Territorial (COOTAD)
+## 3. Código Orgánico de Organización Territorial (COOTAD)
 
 Este código regula la gestión de los **Gobiernos Autónomos Descentralizados (GAD)** y establece su rol como ejecutores de la inversión pública en territorio.
 
@@ -132,7 +142,7 @@ Estos artículos son casi idénticos en su numeral "a", otorgando la competencia
 - **Art. 55 (Municipal)**: Planificar el desarrollo cantonal y regular el uso del suelo urbano y rural.
 - **Art. 65 (Parroquial)**: Planificar el desarrollo parroquial en coordinación con los niveles superiores.
 
-## Análisis para Proyectos de Inversión
+### Análisis para Proyectos de Inversión (COOTAD)
 
 - **Articulación Obligatoria**: La planificación local no puede ir en contra de la nacional. Un GAD no puede "inventar" un proyecto que contradiga el PND.
 - **Uso de Suelo (Art. 55)**: El nivel municipal es crítico para infraestructuras, ya que es quien otorga el permiso de uso de suelo.
@@ -143,7 +153,7 @@ Estos artículos son casi idénticos en su numeral "a", otorgando la competencia
 
 ---
 
-# 4. Código Orgánico de Planificación y Finanzas Públicas (COPFP)
+## 4. Código Orgánico de Planificación y Finanzas Públicas (COPFP)
 
 Este código es el "manual de instrucciones" que conecta la teoría de la planificación con la realidad del dinero (presupuesto). Regula el Sistema Nacional Descentralizado de Planificación Participativa (SNDPP).
 
@@ -169,7 +179,7 @@ Este código es el "manual de instrucciones" que conecta la teoría de la planif
 - **Art. 49 (Sujeción)**: Los Planes de Desarrollo y Ordenamiento Territorial (PDOT) son referentes **obligatorios** para elaborar presupuestos.
 - **Art. 51 (Cumplimiento)**: Los GADs deben reportar anualmente el cumplimiento de sus metas a la Secretaría Nacional de Planificación. El incumplimiento puede afectar la asignación de recursos.
 
-## Análisis para Proyectos de Inversión
+### Análisis para Proyectos de Inversión (COPFP)
 
 - **El Candado Legal**: El COPFP establece que la programación presupuestaria es "instrumento complementario" de la planificación (Art. 52). Primero se planifica, luego se presupuesta.
 - **Criterio de Priorización**: Los proyectos que reciben recursos son aquellos que han sido debidamente "priorizados, programados y territorializados" (Art. 57).
@@ -179,7 +189,7 @@ Este código es el "manual de instrucciones" que conecta la teoría de la planif
 
 ---
 
-# 5. PDOT Provincia de Loja (Estructura de Planificación Local)
+## 5. PDOT Provincia de Loja (Estructura de Planificación Local)
 
 El Plan de Desarrollo y Ordenamiento Territorial (PDOT) es el instrumento que aterriza la normativa nacional al territorio específico de la provincia de Loja.
 

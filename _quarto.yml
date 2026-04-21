@@ -11,6 +11,7 @@ website:
       - section: "Laboratorio"
         contents:
           - index.qmd
+          - docs/README.md
           - ARCHITECTURE.md
           - ROADMAP.md
       - section: "Evidencia (Syllabus)"
@@ -18,23 +19,21 @@ website:
           - section: "Unidad 1: Diagnóstico"
             contents:
               - docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd
-          - section: "Unidad 2: Marco Lógico"
-            contents:
-              - text: "Pendiente"
-                file: docs/evidence/U2-Marco-Logico/README.md
-          - section: "Unidad 3: Evaluación"
-            contents:
-              - text: "Pendiente"
-                file: docs/evidence/U3-Seguimiento-Evaluacion/README.md
-      - section: "Investigación (Core)"
-        contents:
-          - docs/projects/Master-Project-LPI/README.md
 
 execute:
   engine: jupyter
   echo: false
   warning: false
   freeze: auto
+
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+course: "PROYECTOS DE INVERSIÓN PÚBLICA"
+assignment: "Laboratorio de Proyectos de Inversión Pública"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "Econ. José Job Chamba"
+submission_date: "19 de abril de 2026"
 
 format:
   html:
@@ -46,5 +45,13 @@ format:
     self-contained: true
     mermaid-format: svg
   pdf:
-    documentclass: article
-    fontsize: 12pt
+    pdf-engine: lualatex
+    template: /home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/templates/academic_task.tex
+    mermaid-format: png
+    toc: false
+    number-sections: true
+    citeproc: true
+
+bibliography: 
+  - /home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/references.bib
+csl: /home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/templates/apa_7.csl

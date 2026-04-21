@@ -1,7 +1,7 @@
 def proyectar_demanda(demanda_inicial, tasa_crecimiento, periodos):
     """
     Proyecta la demanda de un servicio público basándose en una tasa de crecimiento.
-    
+
     Args:
         demanda_inicial (float): Valor inicial de la demanda (Año 0).
         tasa_crecimiento (float): Tasa de crecimiento anual (ej. 0.02 para 2%).
@@ -12,7 +12,7 @@ def proyectar_demanda(demanda_inicial, tasa_crecimiento, periodos):
     """
     proyeccion = [demanda_inicial]
     for _ in range(1, periodos + 1):
-        demanda_inicial *= (1 + tasa_crecimiento)
+        demanda_inicial *= 1 + tasa_crecimiento
         proyeccion.append(demanda_inicial)
     return proyeccion
 

@@ -26,6 +26,8 @@ dependencies = [
     "pypdf>=6.10.2",
     "capital-workstation-libs",
     "ipywidgets>=8.1.8",
+    "scikit-learn>=1.7.2",
+    "linearmodels>=7.0",
 ]
 
 [tool.uv.sources]
@@ -34,5 +36,11 @@ capital-workstation-libs = { path = "../../../../../Capital_Workstation/capital-
 [dependency-groups]
 dev = [
     "pytest>=9.0.3",
+    "pytest-cov>=6.0.0",
     "ruff>=0.15.11",
+    "mypy>=1.12.0",
 ]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

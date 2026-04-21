@@ -16,6 +16,18 @@ def search_citations(topic):
     results = brain_engine.search(topic, top_n=2)
     citations = []
 
+    if isinstance(results, list):
+        for item in results:
+            if not isinstance(item, dict):
+                continue
+
+            meta = item.get("metadata", {})
+            source = meta.get("source_name", meta.get("source_id", "Fuente"))
+            content = item.get("content", "")
+            citations.append(f'"{content}" ({source})')
+
+        return citations
+
     if isinstance(results, dict) and "documents" in results and results["documents"]:
         for i, text in enumerate(results["documents"][0]):
             meta = results["metadatas"][0][i]

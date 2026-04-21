@@ -1,7 +1,8 @@
 ---
 title: "Validación de Recuperación RAG"
 subtitle: "Marco Normativo - Proyectos de Inversión Pública"
-author: "{{< meta author >}}"
+assignment: "Validación de Recuperación RAG"
+author: "Erick Fabricio Condoy Seraquive"
 format: pdf
 ---
 
@@ -13,24 +14,28 @@ Este documento demuestra cómo el sistema RAG puede recuperar artículos especí
 
 ```{python}
 #| echo: false
-#| output: asis
 import sys
 from pathlib import Path
 
 # Ajustar path para importar desde scripts si es necesario
-sys.path.append(str(Path("../../../scripts")))
-from normative_query import query_article
+sys.path.append(str(Path("../../../../../").resolve()))
+from scripts.normative_query import query_article
 
 result = query_article("Art. 42 COOTAD")
-print(result)
+lines = result.splitlines()
+print("\n".join(lines[:30]))
+if len(lines) > 30:
+	print("\n[Salida truncada]")
 ```
 
 ### Consulta: Planificación en la Constitución (Art. 280)
 
 ```{python}
 #| echo: false
-#| output: asis
 result = query_article("Art. 280 Constitución")
-print(result)
+lines = result.splitlines()
+print("\n".join(lines[:30]))
+if len(lines) > 30:
+	print("\n[Salida truncada]")
 ```
 

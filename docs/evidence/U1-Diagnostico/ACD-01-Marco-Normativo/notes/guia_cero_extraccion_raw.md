@@ -1,7 +1,16 @@
-# GUÍA CERO: EXTRACCIÓN LITERAL DE MARCO NORMATIVO
-Documento de referencia con texto raw para la Actividad 1 de Proyectos de Inversión Pública.
 ---
+title: "Guía Cero: Extracción Literal de Marco Normativo"
+assignment: "ACD 1: Marco Normativo y Sistemas de Planificación Nacional"
+author: "Erick Fabricio Condoy Seraquive"
+professor: "Econ. José Job Chamba"
+submission_date: "19 de abril de 2026"
+---
+
+Documento de referencia con texto raw para la Actividad 1 de Proyectos de Inversión Pública.
+***
+
 ## 1. CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR (2008)
+
 ```text
 Art. 279.- El sistema nacional descentralizado de planificación participativa organizará la
 planificación para el desarrollo. El sistema se conformará por un Consejo Nacional de
@@ -56,8 +65,11 @@ noventa días de su gestión y, en los años siguientes, sesenta días antes del
 fiscal respectivo. La Asamblea Nacional aprobará u observará, en los treinta días
 
 ```
----
+
+***
+
 ## 2. PLAN NACIONAL DE DESARROLLO (2025-2029) - ESTRUCTURA
+
 ```text
 PLAN
 NACIONAL DE
@@ -555,8 +567,11 @@ MAPAS
 345
 
 ```
----
+
+***
+
 ## 3. COOTAD - ARTÍCULOS SELECCIONADOS
+
 ```text
 Art. 1.- Ámbito.­ Este Código establece la organización político­administrativa del Estado ecuatoriano en el territorio; el régimen de los diferentes niveles de gobiernos autónomos descentralizados
 y los regímenes especiales, con el fin de garantizar su autonomía política, administrativa y financiera. Además, desarrolla un modelo de descentralización obligatoria y progresiva a través del sistema
@@ -684,9 +699,11 @@ ORGANIZACIÓN TERRITORIAL, AUTONOMÍA Y DESCENTRALIZACIÓN
 5.- Ley s/n (Segundo Suplemento del Registro Oficial 283, 7-VII-2014)
 6.- Ley s/n (Tercer Suplemento del Registro Oficial 418, 16-I-2015).
 ```
----
+
+***
+
 ## 4. COPFP - PÁGINAS 20 A 50
-```text
+
 para la asignación y regulación del uso y ocupación del suelo en los planes de
 ordenamiento territorial cantonal y/o distrital;
 b ) Los planes de ordenamiento territorial cantonal y/o distrital definirán y
@@ -823,14 +840,15 @@ la garantía de derechos.
 Para las entidades que no forman parte del Presupuesto General del Estado, así como
 para las universidades y escuelas politécnicas, el otorgamiento de dicha prioridad
 se realizará de la siguiente manera:
+
 1. Para el caso de las empresas públicas, a través de sus respectivos directorios;
 2 Para el caso de universidades y escuelas politécnicas, por parte de su máxima
 autoridad;
-3. Para el caso de los gobiernos autónomos descentralizados, por parte de la máxima
+2. Para el caso de los gobiernos autónomos descentralizados, por parte de la máxima
 autoridad ejecutiva del gobierno autónomo descentralizado, en el marco de lo que
 establece la Constitución de la República y la Ley;
-4. Para el caso de la seguridad social, por parte de su máxima autoridad; y,
-5. Para el caso de la banca pública, de conformidad con sus respectivos marcos
+3. Para el caso de la seguridad social, por parte de su máxima autoridad; y,
+4. Para el caso de la banca pública, de conformidad con sus respectivos marcos
 legales; y, en ausencia de disposición expresa, se realizará por parte de cada uno
 de sus directorios.
 Únicamente los programas y proyectos incluidos en el Plan Anual de Inversiones
@@ -955,6 +973,7 @@ o Presidente de la República, quien la ejercerá a través del Ministerio a car
 las finanzas públicas, que será el ente rector del SINFIP.
 Art. 72.- Objetivos específicos del SINFIP.- El SINFIP tendrá como objetivos
 específicos los siguientes:
+
 1. La sostenibilidad, estabilidad y consistencia de la gestión de las finanzas
 públicas;
 2. La efectividad de la recaudación de los ingresos públicos;
@@ -975,13 +994,13 @@ Art. 74.- Deberes y atribuciones del ente rector del SINFIP.- El ente rector del
 SINFIP, como ente estratégico para el país y su desarrollo, tiene las siguientes
 atribuciones y deberes, que serán cumplidos por el Ministro(a) a cargo de las
 finanzas públicas:
-1. (Sustituido por el num. 1 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Formular y proponer, para la aprobación de la o el Presidente de la República, los
+9. (Sustituido por el num. 1 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Formular y proponer, para la aprobación de la o el Presidente de la República, los
 lineamientos de política económica y fiscal inherentes a ingresos, gastos y
 financiamiento, en procura de los objetivos del SINFIP y del Plan Nacional de
 Desarrollo.
-2. (Sustituido por el num. 2 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Ejecutar la política económica y fiscal aprobada por el Presidente o Presidenta de
+10. (Sustituido por el num. 2 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Ejecutar la política económica y fiscal aprobada por el Presidente o Presidenta de
 la República;
-3. (Sustituido por el num. 3 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Precautelar el cumplimiento de los objetivos de política económica y fiscal
+11. (Sustituido por el num. 3 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Precautelar el cumplimiento de los objetivos de política económica y fiscal
 prevista en la Constitución de la República y las leyes, en el ámbito de su
 
 competencia;
@@ -1082,32 +1101,32 @@ operaciones
 
 de
 
-25. Realizar las negociaciones y contratación de operaciones de endeudamiento
+1. Realizar las negociaciones y contratación de operaciones de endeudamiento
 público del Presupuesto General del Estado, y designar negociadores, manteniendo la
 debida coordinación con las entidades del Estado a cuyo cargo estará la ejecución
 de los proyectos o programas financiados con deuda pública;
 
-26. Participar a nombre del Estado, en procesos de negociación de cooperación
+2. Participar a nombre del Estado, en procesos de negociación de cooperación
 internacional no reembolsable originada en canje o conversión de deuda pública por
 proyectos de interés público, que se acuerden con los acreedores;
-27. Aprobar o rechazar la concesión de garantías de la República del Ecuador, para
+3. Aprobar o rechazar la concesión de garantías de la República del Ecuador, para
 endeudamientos de las entidades y organismos del sector público;
-28. Efectúa/ el seguimiento y evaluación de la gestión fiscal del Estado;
-29. Participar en las comisiones de costeo de recursos para la transferencia de
+4. Efectúa/ el seguimiento y evaluación de la gestión fiscal del Estado;
+5. Participar en las comisiones de costeo de recursos para la transferencia de
 competencias a los Gobiernos Autónomos Descentralizados;
-30. Preparar y elaborar estadísticas fiscales y consolidar la información
+6. Preparar y elaborar estadísticas fiscales y consolidar la información
 presupuestaria, contable, financiera y de deuda pública de las entidades sujetas a
 este código;
-31. Elaborar y mantener actualizados los registros de los entes financieros
+7. Elaborar y mantener actualizados los registros de los entes financieros
 públicos y registro de los responsables de la gestión financiera;
-32. Armonizar, homogeneizar y consolidar la contabilidad en el sector público;
-33. Elaborar los Estados Financieros Consolidados de las entidades y organismos que
+8. Armonizar, homogeneizar y consolidar la contabilidad en el sector público;
+9. Elaborar los Estados Financieros Consolidados de las entidades y organismos que
 forman parte del Sector Público no Financiero;
-34. Elaborar y proporcionar la información fiscal necesaria para la formulación de
+10. Elaborar y proporcionar la información fiscal necesaria para la formulación de
 las cuentas nacionales y las cuentas fiscales;
-35. Custodiar las acciones y títulos valores que se generen en la gestión pública,
+11. Custodiar las acciones y títulos valores que se generen en la gestión pública,
 sin perjuicio de las atribuciones legales de otras entidades del sector público;
-36. (Reformado por el num. 9 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020; y,
+12. (Reformado por el num. 9 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020; y,
 por el Art. 110 de la Ley s/n, R.O. 587-3S, 29-XI-2021).- Realizar las
 transferencias y pagos de las obligaciones solicitadas por las entidades y
 organismos del sector público contraídas sobre la base de la programación y la
@@ -1117,10 +1136,10 @@ de la administración pública central no mantengan obligaciones pendientes con 
 Servicio de Rentas Internas, salvo que los mismos soliciten acogerse a lo
 establecido en el artículo 13 de la Ley Orgánica para la Optimización y Eficiencia
 de Trámites Administrativos;
-37. (Agregado por el num. 10 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Fijar políticas generales respecto de procedimientos de tesorería, convenios y
+13. (Agregado por el num. 10 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII-2020).Fijar políticas generales respecto de procedimientos de tesorería, convenios y
 otros acuerdos que impliquen egresos públicos, con las excepciones previstas en
 este Código.
-38. (Reenumerado por el num. 11 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII2020).- Las demás que le fueren asignadas por la ley o por actos administrativos de
+14. (Reenumerado por el num. 11 del Art. 9 de la Ley s/n, R.O. 253-S, 24-VII2020).- Las demás que le fueren asignadas por la ley o por actos administrativos de
 la Función Ejecutiva.
 Art. 75.- Delegación de facultades.- (Reformado por la Disposición Reformatoria
 Tercera, num. 2 del Código Orgánico Monetario y Financiero; R.O. 332-2S, 12-IX2014).- La Ministra(o) a cargo de las finanzas públicas podrá delegar por escrito
@@ -1250,6 +1269,7 @@ macroeconómicas internas y externas, gestión de empresas públicas, gestión d
 pública, implementación de asociaciones público-privadas, desastres naturales,
 entre otras causas.
 La gestión de riesgos tendrá las siguientes fases:
+
 1. Levantamiento y análisis de riesgos;
 2. Medición y monitoreo permanente de los riesgos relevantes;
 3. Emisión de acciones y planes de mitigación;
@@ -1319,6 +1339,7 @@ o disposición por parte del gobierno central sobre estos fondos.
 Art. 88.- Fases de la programación fiscal plurianual y anual.- (Sustituido por el
 Art. 16 de la Ley s/n, R.O. 253-S, 24-VII-2020).- La programación Fiscal tendrá las
 siguientes fases:
+
 1. Determinación del escenario fiscal base,
 2. Articulación con el Plan Nacional de Desarrollo,
 3. Formulación de lineamientos para la programación fiscal,
@@ -1440,6 +1461,7 @@ Nacional de Desarrollo y las políticas públicas.
 Art. 96.- Etapas del ciclo presupuestario.- El ciclo presupuestario es de
 cumplimiento obligatorio para todas las entidades y organismos del sector público y
 comprende las siguientes etapas:
+
 1. Programación presupuestaria.
 
 2. Formulación presupuestaria.
@@ -1651,6 +1673,7 @@ inicia el primer día de enero y concluye el 31 de diciembre de cada año.
 Art. 111.- Consistencia de los Presupuestos.- Las entidades y organismos que no
 pertenecen al Presupuesto General del Estado no podrán aprobar presupuestos que
 impliquen:
+
 1. Transferencias de recursos desde el Presupuesto General del Estado que no hayan
 
 estado previamente consideradas en dicho presupuesto.
@@ -1704,7 +1727,7 @@ pagos
 sin
 técnicas de
 
-2. Cuando se reciban de terceros obras, bienes o servicios adquiridos por autoridad
+1. Cuando se reciban de terceros obras, bienes o servicios adquiridos por autoridad
 competente, mediante acto administrativo válido, haya habido o no compromiso
 previo.
 Las obligaciones registradas en la contabilidad pública que tengan una antigüedad
@@ -1866,6 +1889,7 @@ de la Seguridad Social ecuatorianas (IESS, ISSFA, ISSPOL). Bajo ningún mecanism
 podrá desconocer la deuda de ejercicios clausurados con estas instituciones.
 
 Se excluye del endeudamiento público las siguientes transacciones o instrumentos:
+
 1. Los convenios de pago que contemplen o no costos, cuya entrada en vigencia no
 provoca de forma inmediata una extinción de las obligaciones ni traspaso de
 propiedad;
@@ -1903,12 +1927,12 @@ ocurrencia de una o más condiciones previstas en el instrumento legal que lo
 generó. Un pasivo contingente solo se constituirá en deuda pública, en el monto
 correspondiente a la parte de la obligación que fuera exigible.
 Los pasivos contingentes podrán originarse:
-1. Cuando el Gobierno Central, a nombre de la República del Ecuador, otorga la
+7. Cuando el Gobierno Central, a nombre de la República del Ecuador, otorga la
 garantía soberana a favor de entidades y organismos del sector público que
 contraigan deuda pública, con las provisiones que se requieran para su pago.
-2. Por la emisión de bonos que estén vinculados con obligaciones de pago
+8. Por la emisión de bonos que estén vinculados con obligaciones de pago
 debidamente instrumentadas.
-3. Por la suscripción de contratos de garantía para asegurar el debido uso de las
+9. Por la suscripción de contratos de garantía para asegurar el debido uso de las
 
 contribuciones no reembolsables que recibe la entidad correspondiente.
 4. Por contingentes asumidos por el Sector Público, de conformidad con la ley, u
@@ -1924,6 +1948,7 @@ Art. 125.- (Derogado por el Art. 33 de la Ley s/n, R.O. 253-S, 24-VII-2020).
 Art. 126.- Destino del endeudamiento.- Las entidades del sector público que
 requieran operaciones de endeudamiento público lo harán exclusivamente para
 financiar:
+
 1. Programas.
 2. Proyectos de inversión:
 2.1 para infraestructura; y,
@@ -2099,6 +2124,7 @@ El Comité de Deuda y Financiamiento será corresponsable de las condiciones
 financieras de los procesos de endeudamiento que apruebe.
 Art. 140.- Deberes del Comité de Deuda y Financiamiento.- Son deberes del Comité de
 Deuda y Financiamiento, los siguientes:
+
 1. Dictar directrices para la gestión de deuda pública.
 2. Normar, analizar y aprobar los términos y condiciones financieras de las
 operaciones de endeudamiento público.
@@ -2124,6 +2150,7 @@ operaciones de endeudamiento público de las entidades del sector público deber
 observar las disposiciones de este código y estará a cargo del ente rector de las
 finanzas públicas, el que en forma previa a la autorización del Comité de Deuda y
 Financiamiento, deberá verificar:
+
 1. Que con la operación no se exceda el límite de endeudamiento previsto en este
 Código ni el fijado por la Asamblea Nacional, para el respectivo ejercicio fiscal
 anual.
@@ -2254,16 +2281,17 @@ presupuestos, dispondrán de datos e información contable y presupuestaria
 individualizada, con los detalles que establecerá para el efecto el ente rector de
 las finanzas públicas.
 
-```
 ---
+
 ## 5. PDOT PROVINCIA DE LOJA - ESTRUCTURA
-```text
+
 1
 
 2
 
 INDICE
 INTRODUCCIÓN.................................................................................................................................................... 1
+
 1. CARACTERIZACIÓN GENERAL .......................................................................................................................... 1
 1.1.
 CONTEXTO HISTÓRICO ............................................................................................................................ 1
@@ -2289,7 +2317,7 @@ PLANES DE DESARROLLO Y ORDENAMIENTO TERRITORIAL CANTONALES .....................
 
 PLAN DE TRABAJO 2023-2027....................................................................................................... 21
 
-2. ANÁLISIS POR SISTEMAS ................................................................................................................................ 23
+1. ANÁLISIS POR SISTEMAS ................................................................................................................................ 23
 2.1.
 FÍSICO AMBIENTAL ................................................................................................................................ 23
 2.1.1.
@@ -2676,7 +2704,7 @@ ARTICULACIÓN TERRITORIAL INTERNA ..............................................
 
 MATRICES DE PROGRAMAS Y PROYECTOS POR COMPETENCIA ................................................430
 
-9. ANEXOS ........................................................................................................................................................432
+1. ANEXOS ........................................................................................................................................................432
 9.1.
 
 GLOSARIO INEC....................................................................................................................................434
@@ -2992,5 +3020,3 @@ Francisco Arcesio Azuero Astudillo
 ALCALDE DEL CANTÓN MACARÁ
 
 12
-
-```

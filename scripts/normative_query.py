@@ -1,32 +1,29 @@
 import sys
-from pathlib import Path
 from ecs_quantitative.memory.agent_memory import AgentMemory
 
 
 def query_article(query_text, collection="marco_normativo", n=1):
     """
-    Consulta rápida al Vector Store para recuperar fragmentos normativos.
+    Consulta rápida al Vector Store CENTRAL para recuperar fragmentos normativos.
     """
-    persist_path = Path("data/processed/vector_store")
-    if not persist_path.exists():
-        return "Error: Base de datos RAG no encontrada. Ejecuta indexer primero."
-
     try:
-        memory = AgentMemory(persist_path=persist_path, collection_name=collection)
+        # AgentMemory usa automáticamente ~/.capital/brain/vector_store
+        memory = AgentMemory(collection_name=collection)
         results = memory.recall(query=query_text, n_results=n, collection=collection)
 
         if not results:
-            return f"No se encontró información para: {query_text}"
+            return f"No se encontró información para: {query_text} en la memoria central."
 
         output = []
         for res in results:
-            source = res["metadata"].get("source_id", "Unknown")
+            meta = res.get("metadata", {})
+            source = meta.get("source_name", meta.get("source_id", "Unknown"))
             content = res["content"]
-            output.append(f"--- [FUENTE: {source}] ---\n{content}")
+            output.append(f"--- [FUENTE CENTRAL: {source}] ---\n{content}")
 
         return "\n\n".join(output)
     except Exception as e:
-        return f"Error en consulta RAG: {e}"
+        return f"❌ Error en consulta RAG Central: {e}"
 
 
 if __name__ == "__main__":

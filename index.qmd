@@ -1,49 +1,34 @@
 ---
 title: "LPI: Laboratorio de Proyectos de Inversión"
-subtitle: "Infraestructura de Investigación - VII Ciclo"
+subtitle: "Nodo federado de la asignatura"
 page-layout: full
 ---
 
-# Bienvenido al Laboratorio (LPI)
+# Bienvenido al laboratorio
 
-Este es tu centro de mando para la asignatura de **Proyectos de Inversión Pública**. Aquí se consolida la evidencia académica y el desarrollo técnico de tu proyecto de ciclo.
+Este repositorio concentra la evidencia pública del sílabo y las utilidades técnicas del nodo PIP. La navegación visible solo expone lo que ya existe y está verificado.
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-### [Evidencia Académica]{.text-primary}
-Seguimiento estricto del sílabo y tareas programadas.
+### Evidencia académica
 
-- [**Unidad 1**]{.text-success}: Diagnóstico y Marco Normativo.
-    - [ACD-01: Marco Normativo en Proyectos](docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
-- [**Unidad 2**]: Metodología del Marco Lógico (En progreso).
-- [**Unidad 3**]: Evaluación y Seguimiento (Pendiente).
+- [Unidad 1](docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
+- [Índice académico](docs/README.md)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### [Investigación Core]{.text-danger}
-Tu proyecto maestro de inversión pública.
+### Infraestructura técnica
 
-- [**Proyecto Maestro 2026**](docs/projects/Master-Project-LPI/README.md)
-    - Formulación Técnica.
-    - Evaluación Social y Precios Sombra.
-    - Análisis de Sostenibilidad.
+- [README](README.md)
+- [Arquitectura](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Auditoría](scripts/audit_lab.py)
+- [Orquestador](src/orchestration/M01-U1-PIP-Master_Build.py)
 :::
 
 :::
 
 ---
 
-## Infraestructura Técnica
-
-Consulta la documentación del sistema para entender la arquitectura del laboratorio:
-
-| Documento | Descripción |
-|-----------|-------------|
-| [ARCHITECTURE.md](ARCHITECTURE.md) | Capas de datos, lógica y visualización. |
-| [ROADMAP.md](ROADMAP.md) | Cronograma de actividades y metas. |
-| [README.md](README.md) | Guía de inicio rápido y estándares. |
-
----
-
-> *"La planificación es el proceso de preparar un conjunto de decisiones para la acción en el futuro, dirigida al logro de objetivos por medios óptimos."* — **Yehezkel Dror**
+U2 y U3 permanecen en desarrollo y no se publican en esta portada hasta que exista evidencia estable.
