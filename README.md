@@ -19,6 +19,13 @@ Nodo federado del curso de Proyectos de Inversión Pública. Este repositorio pu
 - `docs/evidence/`: evidencia académica del sílabo
 - `writing/templates/`: fragmentos Quarto reutilizables
 
+## 📄 Arquitectura de Reporteo (Quarto)
+
+La redacción de informes y evidencia académica sigue el **Estándar Nivel 5**:
+- El archivo `_quarto.yml` reside en la **raíz del repositorio**.
+- Todo el output generado (HTML/PDF intermedios, dependencias JS/CSS) se concentra automáticamente en el directorio `_site/` o `dist/`.
+- No existen carpetas `*_files/` ad-hoc. Todo está cubierto por el `.gitignore` canónico.
+
 ## Ejecución
 
 ```bash
