@@ -1,0 +1,155 @@
+{
+  "node": "public_investment_projects",
+  "collection": "marco_normativo",
+  "generated": "2026-04-21",
+  "total_chunks": 1186,
+  "documents": [
+    {
+      "source_id": "PDOT_LOJA",
+      "title": "Plan de Desarrollo y Ordenamiento Territorial de la Provincia de Loja",
+      "authors": [
+        "GAD Loja"
+      ],
+      "year": null,
+      "type": "documento_normativo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 447,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO",
+      "note": "Ingestado en sesión anterior via AgentMemory. Texto normativo completo."
+    },
+    {
+      "source_id": "PND_2025_2029",
+      "title": "Plan Nacional de Desarrollo 'Ecuador No Se Detiene' 2025-2029",
+      "authors": [
+        "SENPLADES / Gobierno Ecuador"
+      ],
+      "year": 2025,
+      "type": "documento_normativo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 366,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "CONST_2008",
+      "title": "Constitución de la República del Ecuador",
+      "authors": [
+        "Asamblea Constituyente Ecuador"
+      ],
+      "year": 2008,
+      "type": "documento_normativo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 163,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "COOTAD",
+      "title": "Código Orgánico de Organización Territorial, Autonomía y Descentralización",
+      "authors": [
+        "Asamblea Nacional Ecuador"
+      ],
+      "year": 2010,
+      "type": "codigo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 87,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "COPFP",
+      "title": "Código Orgánico de Planificación y Finanzas Públicas",
+      "authors": [
+        "Asamblea Nacional Ecuador"
+      ],
+      "year": 2010,
+      "type": "codigo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 80,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "pip_aspectos_generales",
+      "title": "Aspectos Generales — Proyectos de Inversión Pública",
+      "authors": [
+        "Chamba Tandazo, Jose Job"
+      ],
+      "year": 2026,
+      "type": "material_docente",
+      "file": "docs/readings/ASPECTOS GENERALES PROYECTOS DE INVERSIÓN.pdf",
+      "chunks": 22,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-21",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "MANUAL_SIPeIP",
+      "title": "Manual de Usuario del Sistema Integral de Planificación e Inversión Pública",
+      "authors": [
+        "SENPLADES"
+      ],
+      "year": null,
+      "type": "manual",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 15,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "COPFP_REFORMA",
+      "title": "Reforma al Código Orgánico de Planificación y Finanzas Públicas",
+      "authors": [
+        "Asamblea Nacional Ecuador"
+      ],
+      "year": null,
+      "type": "codigo",
+      "file": "docs/readings/(ingestado via AgentMemory)",
+      "chunks": 4,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-19",
+      "status": "INDEXADO"
+    },
+    {
+      "source_id": "pip_actividad_contacto_1",
+      "title": "Actividad de Contacto Docente 1 — PIP",
+      "authors": [
+        "Chamba Tandazo, Jose Job"
+      ],
+      "year": 2026,
+      "type": "material_docente",
+      "file": "docs/readings/Actividad_Contacto_Docente_1-signed.pdf",
+      "chunks": 2,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-04-21",
+      "status": "INDEXADO"
+    }
+  ],
+  "pending": [
+    {
+      "title": "Sistema Nacional de Inversión Pública (SNIP) — Normativa vigente",
+      "type": "normativa",
+      "priority": "ALTA",
+      "note": "Reglamento del SNIP es clave para U2-U3"
+    },
+    {
+      "title": "Guía Metodológica de Formulación de Proyectos de Inversión (SENPLADES)",
+      "type": "manual",
+      "priority": "ALTA",
+      "note": "Indispensable para formulación de proyectos"
+    },
+    {
+      "title": "Norma Técnica de Seguimiento y Evaluación (SENPLADES)",
+      "type": "normativa",
+      "priority": "MEDIA",
+      "note": "Para U3: Evaluación de proyectos"
+    }
+  ]
+}
