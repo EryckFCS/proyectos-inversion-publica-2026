@@ -1,0 +1,15 @@
+{
+  "datasets": [],
+  "bibliography": [
+    {
+      "id": "1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica",
+      "filename": "1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica.pdf",
+      "lake_path": "/home/erick-fcs/.capital/lake/bibliography/raw/1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica.pdf"
+    },
+    {
+      "id": "guia-metodologica-para-la-evaluacion-de-la-descentralizacion",
+      "filename": "guia-metodologica-para-la-evaluacion-de-la-descentralizacion.pdf",
+      "lake_path": "/home/erick-fcs/.capital/lake/bibliography/raw/guia-metodologica-para-la-evaluacion-de-la-descentralizacion.pdf"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
       "collection": "marco_normativo",
       "date_indexed": "2026-04-19",
       "status": "INDEXADO",
-      "note": "Ingestado en sesión anterior via AgentMemory. Texto normativo completo."
+      "note": "Ingestado en sesi\u00f3n anterior via AgentMemory. Texto normativo completo."
     },
     {
       "source_id": "PND_2025_2029",
@@ -35,7 +35,7 @@
     },
     {
       "source_id": "CONST_2008",
-      "title": "Constitución de la República del Ecuador",
+      "title": "Constituci\u00f3n de la Rep\u00fablica del Ecuador",
       "authors": [
         "Asamblea Constituyente Ecuador"
       ],
@@ -49,7 +49,7 @@
     },
     {
       "source_id": "COOTAD",
-      "title": "Código Orgánico de Organización Territorial, Autonomía y Descentralización",
+      "title": "C\u00f3digo Org\u00e1nico de Organizaci\u00f3n Territorial, Autonom\u00eda y Descentralizaci\u00f3n",
       "authors": [
         "Asamblea Nacional Ecuador"
       ],
@@ -63,7 +63,7 @@
     },
     {
       "source_id": "COPFP",
-      "title": "Código Orgánico de Planificación y Finanzas Públicas",
+      "title": "C\u00f3digo Org\u00e1nico de Planificaci\u00f3n y Finanzas P\u00fablicas",
       "authors": [
         "Asamblea Nacional Ecuador"
       ],
@@ -77,13 +77,13 @@
     },
     {
       "source_id": "pip_aspectos_generales",
-      "title": "Aspectos Generales — Proyectos de Inversión Pública",
+      "title": "Aspectos Generales \u2014 Proyectos de Inversi\u00f3n P\u00fablica",
       "authors": [
         "Chamba Tandazo, Jose Job"
       ],
       "year": 2026,
       "type": "material_docente",
-      "file": "docs/readings/ASPECTOS GENERALES PROYECTOS DE INVERSIÓN.pdf",
+      "file": "docs/readings/ASPECTOS GENERALES PROYECTOS DE INVERSI\u00d3N.pdf",
       "chunks": 22,
       "collection": "marco_normativo",
       "date_indexed": "2026-04-21",
@@ -91,7 +91,7 @@
     },
     {
       "source_id": "MANUAL_SIPeIP",
-      "title": "Manual de Usuario del Sistema Integral de Planificación e Inversión Pública",
+      "title": "Manual de Usuario del Sistema Integral de Planificaci\u00f3n e Inversi\u00f3n P\u00fablica",
       "authors": [
         "SENPLADES"
       ],
@@ -105,7 +105,7 @@
     },
     {
       "source_id": "COPFP_REFORMA",
-      "title": "Reforma al Código Orgánico de Planificación y Finanzas Públicas",
+      "title": "Reforma al C\u00f3digo Org\u00e1nico de Planificaci\u00f3n y Finanzas P\u00fablicas",
       "authors": [
         "Asamblea Nacional Ecuador"
       ],
@@ -119,7 +119,7 @@
     },
     {
       "source_id": "pip_actividad_contacto_1",
-      "title": "Actividad de Contacto Docente 1 — PIP",
+      "title": "Actividad de Contacto Docente 1 \u2014 PIP",
       "authors": [
         "Chamba Tandazo, Jose Job"
       ],
@@ -134,22 +134,22 @@
   ],
   "pending": [
     {
-      "title": "Sistema Nacional de Inversión Pública (SNIP) — Normativa vigente",
+      "title": "Sistema Nacional de Inversi\u00f3n P\u00fablica (SNIP) \u2014 Normativa vigente",
       "type": "normativa",
       "priority": "ALTA",
       "note": "Reglamento del SNIP es clave para U2-U3"
     },
     {
-      "title": "Guía Metodológica de Formulación de Proyectos de Inversión (SENPLADES)",
+      "title": "Gu\u00eda Metodol\u00f3gica de Formulaci\u00f3n de Proyectos de Inversi\u00f3n (SENPLADES)",
       "type": "manual",
       "priority": "ALTA",
-      "note": "Indispensable para formulación de proyectos"
+      "note": "Indispensable para formulaci\u00f3n de proyectos"
     },
     {
-      "title": "Norma Técnica de Seguimiento y Evaluación (SENPLADES)",
+      "title": "Norma T\u00e9cnica de Seguimiento y Evaluaci\u00f3n (SENPLADES)",
       "type": "normativa",
       "priority": "MEDIA",
-      "note": "Para U3: Evaluación de proyectos"
+      "note": "Para U3: Evaluaci\u00f3n de proyectos"
     }
   ]
 }
