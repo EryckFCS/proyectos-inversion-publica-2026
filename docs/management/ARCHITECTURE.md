@@ -30,3 +30,8 @@ El directorio raíz `writing/` se conserva como transición para plantillas hist
 - No hay wrapper local para `lineage` ni para evaluación financiera.
 - La navegación pública no expone U2/U3 hasta que tengan evidencia real.
 - El vector store autorizado es `~/.capital/brain/vector_store`.
+
+
+## Intervención v8.1.5 (Endurecimiento)
+
+El nodo ha sido endurecido y unificado en Python 3.12. Se eliminaron archivos flotantes y se centralizó la gestión del Data Lake vía `ecs_core`.

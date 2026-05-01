@@ -1,6 +1,6 @@
 # AGENTS.md - Nodo Federado: Proyectos de Inversion Publica
 
-> Este repositorio es un Nodo Puro de la Arquitectura Federada v8.0.0.
+> Este repositorio es un Nodo Puro de la Arquitectura Federada v8.1.5.
 > Opera bajo la Constitucion centralizada en `capital-workstation-libs`.
 
 ## Constitucion
@@ -15,7 +15,7 @@
 | --- | --- |
 | **Nodo** | Proyectos de Inversion Publica (PIP) |
 | **Materia** | Proyectos de Inversion Publica - 7mo Ciclo |
-| **Estado** | Activo - Master Blueprint v8.0.0 Migrated |
+| **Estado** | Activo - Master Blueprint v8.1.5 Migrated |
 | **Docente** | Econ. Jose Job Chamba Tandazo |
 | **Estudiante** | Erick Fabricio Condoy Seraquive |
 | **Libreria Central** | `ecs_quantitative` (capital-workstation-libs) |
@@ -57,7 +57,7 @@ Este nodo esta disenado para producir gestion de proyectos reproducible con traz
 ├── data/                    # Datos del proyecto y marco normativo
 ├── docs/
 │   ├── vaults/            # Workshops, informes y aplicaciones tecnicas
-│   ├── writing/             # Narrativa canónica y entrega Quarto
+│   │   ├── writing/             # Narrativa canónica y entrega Quarto
 │   ├── management/          # Planning, arquitectura y riesgos
 │   ├── readings/            # Lecturas y marco normativo
 │   └── syllabus/            # Syllabus oficial e institucional
@@ -98,7 +98,7 @@ quarto render docs/writing/delivery/index.qmd --to pdf
 ## Regla de Oro
 
 > Si algo que construyas aqui sirve para otras materias, proponlo para la libreria central.
-# AGENTS.md Update: Centralized Lake Protocol (v8.1.0)
+# AGENTS.md Update: Centralized Lake Protocol (v8.1.5)
 
 Este repositorio utiliza el **Data Lake Centralizado** de Capital Workstation para gestionar archivos pesados (Datasets y Bibliografía).
 
@@ -116,9 +116,9 @@ uv run python -c "from src.core.config import settings; settings.resolve_resourc
 - **Acción**: Si necesitas un nuevo archivo pesado, regístralo en el Lake y añade el puntero en `config/resources.json`.
 
 ---
-*Actualización aplicada automáticamente durante la migración a Arquitectura v8.1.0.*
+*Actualización aplicada automáticamente durante la migración a Arquitectura v8.1.5.*
 
-## Architecture v8.1.4 (Final Validation)
+## Architecture v8.1.5 (Final Validation)
 - Status: ✅ Synchronized and Lake-Linked.
 - Date: 2026-05-01
 - Operation: Massive Data Lake Centralization and RAG intelligence decoupling.
