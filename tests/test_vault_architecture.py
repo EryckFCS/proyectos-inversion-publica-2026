@@ -28,7 +28,9 @@ def _assert_clean_unit(unit_path: Path) -> None:
     floating_files = [
         item.name for item in unit_path.iterdir() if item.is_file() and item.name != "index.qmd"
     ]
-    assert not floating_files, f"Archivos flotantes prohibidos en {unit_path.name}: {floating_files}"
+    assert not floating_files, (
+        f"Archivos flotantes prohibidos en {unit_path.name}: {floating_files}"
+    )
 
 
 def test_canonical_vault_roots_exist() -> None:

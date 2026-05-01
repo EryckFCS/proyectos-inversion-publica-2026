@@ -1,5 +1,9 @@
 from pathlib import Path
-from ecs_quantitative.management.intelligence import IntelligenceOrchestrator, IntelligenceMaintenance
+from ecs_quantitative.management.intelligence import (
+    IntelligenceOrchestrator,
+    IntelligenceMaintenance,
+)
+
 
 def main():
     PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -14,6 +18,7 @@ def main():
     maintenance = IntelligenceMaintenance(config_path)
     maintenance.launch_pending_ocr()
     maintenance.apply_excel_links("PUBLIC_INVESTMENT_PROJECTS_Audit_Data")
+
 
 if __name__ == "__main__":
     main()
