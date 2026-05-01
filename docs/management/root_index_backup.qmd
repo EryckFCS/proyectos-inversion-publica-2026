@@ -13,8 +13,8 @@ Este repositorio concentra la evidencia pública del sílabo y las utilidades t�
 ::: {.g-col-12 .g-col-md-6}
 ### Evidencia académica
 
-- [Unidad 1: Marco Normativo](docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
-- [Unidad 1: Ciclo del Proyecto](docs/evidence/U1-Aspectos-Generales/Boveda_Estudio/01_ciclo_inversion_publica.qmd)
+- [Unidad 1: Marco Normativo](docs/vaults/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
+- [Unidad 1: Ciclo del Proyecto](docs/vaults/U1-Aspectos-Generales/Boveda_Estudio/01_ciclo_inversion_publica.qmd)
 - [Índice académico](docs/README.md)
 :::
 

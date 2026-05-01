@@ -7,7 +7,7 @@ def test_evidence_structure():
     vaults_dir = root / "docs" / "vaults"
     legacy_vaults = root / "docs" / "vaults"
     
-    assert vaults_dir.exists(), "El directorio docs/evidence/ no existe."
+    assert vaults_dir.exists(), "El directorio docs/vaults/ no existe."
     assert not legacy_vaults.exists(), "El directorio legado docs/vaults/ todavía existe."
 
 def test_zero_floating_doctrine():

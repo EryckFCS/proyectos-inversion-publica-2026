@@ -18,7 +18,7 @@ website:
         contents:
           - section: "Unidad 1: Diagnóstico"
             contents:
-              - docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd
+              - docs/vaults/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd
 
 execute:
   engine: jupyter
