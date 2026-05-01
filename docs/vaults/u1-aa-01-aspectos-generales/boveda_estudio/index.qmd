@@ -7,8 +7,8 @@ assignment: "Bóveda de Estudio: Aspectos Generales y Ciclo del Proyecto"
 author: "Erick Fabricio Condoy Seraquive"
 professor: "Econ. José Job Chamba"
 submission_date: "21 de abril de 2026"
-bibliography: ../../../writing/references.bib
-csl: ../../../writing/apa.csl
+bibliography: ../../../../bibliography/references.bib
+csl: ../../../../bibliography/styles/apa.csl
 format:
   html:
     toc: true

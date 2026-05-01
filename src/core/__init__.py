@@ -1,2 +1,2 @@
+from . import brain as brain
 from .config import settings as settings
-from .brain import brain as brain

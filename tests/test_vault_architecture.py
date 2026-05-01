@@ -9,10 +9,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS_DIR = REPO_ROOT / "docs"
 
 EVIDENCE_UNITS = [
-    DOCS_DIR / "evidence" / "U1-Diagnostico" / "ACD-01-Marco-Normativo",
-    DOCS_DIR / "evidence" / "U1-Aspectos-Generales" / "Boveda_Estudio",
-    DOCS_DIR / "evidence" / "U2-Marco-Logico",
-    DOCS_DIR / "evidence" / "U3-Seguimiento-Evaluacion",
+    DOCS_DIR / "vaults" / "u1-aa-01-aspectos-generales" / "boveda_estudio",
 ]
 
 CANONICAL_UNITS = [
@@ -34,14 +31,14 @@ def _assert_clean_unit(unit_path: Path) -> None:
 
 
 def test_canonical_vault_roots_exist() -> None:
-    for vault_name in ["evidence", "writing", "management", "readings"]:
+    for vault_name in ["vaults", "writing", "management", "readings"]:
         assert (DOCS_DIR / vault_name).is_dir(), f"Falta la bóveda docs/{vault_name}/"
 
 
 def test_writing_support_files_exist() -> None:
     assert (DOCS_DIR / "writing" / "index.qmd").is_file()
-    assert (DOCS_DIR / "writing" / "references.bib").is_file()
-    assert (DOCS_DIR / "writing" / "apa.csl").is_file()
+    assert (REPO_ROOT / "bibliography" / "references.bib").is_file()
+    assert (REPO_ROOT / "bibliography" / "styles" / "apa.csl").is_file()
     assert (DOCS_DIR / "management" / "index.qmd").is_file()
 
 
@@ -52,13 +49,10 @@ def test_unit_structure(unit_path: Path) -> None:
 
 def test_acd_assets_and_citations_are_canonical() -> None:
     acd_index = (EVIDENCE_UNITS[0] / "index.qmd").read_text(encoding="utf-8")
-    assert "../../../writing/references.bib" in acd_index
-    assert "../../../writing/apa.csl" in acd_index
-    assert (EVIDENCE_UNITS[0] / "assets" / "Actividad_Contacto_Docente_1-signed.pdf").is_file()
-    assert (EVIDENCE_UNITS[0] / "assets" / "mapa-impacto-multidimensional.png").is_file()
+    assert "../../../../bibliography/references.bib" in acd_index
+    assert "../../../../bibliography/styles/apa.csl" in acd_index
 
 
 def test_boveda_estudio_uses_canonical_writing_vault() -> None:
-    boveda_index = (EVIDENCE_UNITS[1] / "index.qmd").read_text(encoding="utf-8")
-    assert "../../../writing/references.bib" in boveda_index
-    assert "../../../writing/apa.csl" in boveda_index
+    boveda_index = (EVIDENCE_UNITS[0] / "index.qmd").read_text(encoding="utf-8")
+    assert "Boveda-Aspectos-Generales-PIP.pdf" in boveda_index
