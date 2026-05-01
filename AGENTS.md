@@ -44,7 +44,7 @@ Este nodo esta disenado para producir gestion de proyectos reproducible con traz
 ### 3.2. Research Protocol
 
 - Deteccion: identificar si la tarea toca identificacion, formulacion, evaluacion o seguimiento.
-- Ubicacion: la logica de ejecucion vive en `src/core/`, `src/lib/`, `src/tasks/` y `src/orchestration/`; la evidencia reproducible vive en `docs/evidence/`, la narrativa en `docs/writing/`, la gestion en `docs/management/` y el marco normativo en `data/raw/marco_normativo/`.
+- Ubicacion: la logica de ejecucion vive en `src/core/`, `src/lib/`, `src/tasks/` y `src/orchestration/`; la evidencia reproducible vive en `docs/vaults/`, la narrativa en `docs/writing/`, la gestion en `docs/management/` y el marco normativo en `data/raw/marco_normativo/`.
 - Registro: cada analisis debe dejar logs en el vault local correspondiente y mantener sincronizados `bibliography_index.json` y `rag_status.json`.
 
 ## 4. Arquitectura de Bovedas (Nivel 5)
@@ -70,7 +70,7 @@ Este nodo esta disenado para producir gestion de proyectos reproducible con traz
 
 ### 4.2. Capas Documentales
 
-- `docs/evidence/`: unidades como `U1-Diagnostico/` y `U2-Marco-Logico/` con evidencia reproducible.
+- `docs/vaults/`: unidades como `U1-Diagnostico/` y `U2-Marco-Logico/` con evidencia reproducible.
 - `docs/writing/`: narrativa final, bibliografía canónica y unidad de entrega.
 - `docs/management/`: planning, arquitectura y riesgos del nodo.
 - `docs/readings/`: lecturas tecnicas, marco normativo y material de apoyo.

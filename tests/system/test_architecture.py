@@ -4,10 +4,10 @@ import pytest
 def test_evidence_structure():
     """Valida que las bóvedas de evidencia existan en el lugar correcto."""
     root = Path(".")
-    evidence_dir = root / "docs" / "evidence"
+    vaults_dir = root / "docs" / "vaults"
     legacy_vaults = root / "docs" / "vaults"
     
-    assert evidence_dir.exists(), "El directorio docs/evidence/ no existe."
+    assert vaults_dir.exists(), "El directorio docs/evidence/ no existe."
     assert not legacy_vaults.exists(), "El directorio legado docs/vaults/ todavía existe."
 
 def test_zero_floating_doctrine():
