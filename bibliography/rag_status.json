@@ -1,71 +1,11 @@
 {
-  "collection": "marco_normativo",
-  "total_chunks": 1186,
-  "last_audit": "2026-04-21",
-  "indexed_documents": [
-    {
-      "source_id": "PDOT_LOJA",
-      "source_name": "Plan de Desarrollo y Ordenamiento Territorial de la Provincia de Loja",
-      "chunks": 447
-    },
-    {
-      "source_id": "PND_2025_2029",
-      "source_name": "Plan Nacional de Desarrollo 'Ecuador No Se Detiene'",
-      "chunks": 366
-    },
-    {
-      "source_id": "CONST_2008",
-      "source_name": "Constitución de la República del Ecuador",
-      "chunks": 163
-    },
-    {
-      "source_id": "COOTAD",
-      "source_name": "Código Orgánico de Organización Territorial, Autonomía y Descentralización",
-      "chunks": 87
-    },
-    {
-      "source_id": "COPFP",
-      "source_name": "Código Orgánico de Planificación y Finanzas Públicas",
-      "chunks": 80
-    },
-    {
-      "source_id": "pip_aspectos_generales",
-      "source_name": "Aspectos Generales — Proyectos de Inversión Pública",
-      "chunks": 22
-    },
-    {
-      "source_id": "MANUAL_SIPeIP",
-      "source_name": "Manual de Usuario del Sistema Integral de Planificación e Inversión Pública",
-      "chunks": 15
-    },
-    {
-      "source_id": "COPFP_REFORMA",
-      "source_name": "Reforma al Código Orgánico de Planificación y Finanzas Públicas",
-      "chunks": 4
-    },
-    {
-      "source_id": "pip_actividad_contacto_1",
-      "source_name": "Actividad de Contacto Docente 1 — PIP",
-      "chunks": 2
-    }
-  ],
-  "available_in_folder": [
-    "docs/readings/ASPECTOS GENERALES PROYECTOS DE INVERSIÓN.pdf (indexado)",
-    "docs/readings/Actividad_Contacto_Docente_1-signed.pdf (indexado)"
-  ],
-  "externally_indexed": [
-    "Constitución de la República del Ecuador (CONST_2008) — 163 chunks",
-    "COOTAD — 87 chunks",
-    "COPFP — 80 chunks",
-    "COPFP_REFORMA — 4 chunks",
-    "Plan Nacional de Desarrollo Ecuador No Se Detiene (PND_2025_2029) — 366 chunks",
-    "PDOT Loja (PDOT_LOJA) — 447 chunks",
-    "Manual SIPeIP (MANUAL_SIPeIP) — 15 chunks"
-  ],
-  "pending_indexation": [
-    "PENDIENTE: SNIP — Sistema Nacional de Inversión Pública (si está disponible)",
-    "PENDIENTE: Guía metodológica de formulación de proyectos (SENPLADES)",
-    "PENDIENTE: Material adicional de la materia (Unidades 2 y 3)"
-  ],
-  "notes": "Los documentos externamente indexados fueron ingestados via AgentMemory en sesiones anteriores con textos normativos completos. Son válidos y útiles."
+  "status": "synchronized",
+  "last_sync": "2026-04-22",
+  "engine": "ecs_quantitative.ingestion.rag",
+  "method": "text-only",
+  "target_lobule": "marco_normativo",
+  "total_files": 4,
+  "total_chunks_added": 232,
+  "scope": "docs/readings/ — PDFs normativos reales",
+  "note": "ADVERTENCIA: Los 1162 chunks previos son de 'agent_memory' (sesiones pasadas). Este script añade los PDFs reales del nodo. Para purgar agent_memory, se requiere acción separada."
 }

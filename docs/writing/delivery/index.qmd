@@ -1,0 +1,14 @@
+---
+title: Entrega activa
+bibliography: ../references.bib
+csl: ../apa.csl
+format:
+  html:
+    toc: true
+  pdf:
+    output-file: entrega-activa-pip.pdf
+---
+
+# Entrega activa
+
+Esta unidad concentra la salida canónica de la capa de escritura mientras el legado de `writing/` se extingue de forma controlada.

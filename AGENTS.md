@@ -1,96 +1,100 @@
-# AGENTS.md — Nodo Federado: Proyectos de Inversión Pública
+# AGENTS.md - Nodo Federado: Proyectos de Inversion Publica
 
-> Este repositorio es un **Nodo Puro** de la Arquitectura Federada v7.4.0.  
-> Opera bajo la Constitución centralizada en `capital-workstation-libs`.
+> Este repositorio es un Nodo Puro de la Arquitectura Federada v8.0.0.
+> Opera bajo la Constitucion centralizada en `capital-workstation-libs`.
 
----
+## Constitucion
 
-## Constitución
-
-La Constitución institucional vive en la librería central.  
-Consumirla antes de cualquier acción:
-
-```bash
+```text
 /home/erick-fcs/Capital_Workstation/capital-workstation-libs/.github/copilot-instructions.md
 ```
 
----
-
-## Identidad del Nodo
+## 1. Identidad del Nodo y Gobernanza
 
 | Campo | Valor |
-| :--- | :--- |
-| **Nodo** | Proyectos de Inversión Pública (PIP) |
-| **Materia** | Proyectos de Inversión Pública — 7mo Ciclo |
+| --- | --- |
+| **Nodo** | Proyectos de Inversion Publica (PIP) |
+| **Materia** | Proyectos de Inversion Publica - 7mo Ciclo |
+| **Estado** | Activo - Master Blueprint v8.0.0 Migrated |
 | **Docente** | Econ. Jose Job Chamba Tandazo |
 | **Estudiante** | Erick Fabricio Condoy Seraquive |
-| **Librería Central** | `ecs_quantitative` (capital-workstation-libs) |
-| **Tipo** | Nodo Puro — consumidor, no reimplementa lógica |
-| **RAG** | `marco_normativo` en `~/.capital/brain/vector_store/` |
-| **Período** | Marzo - Agosto 2026 |
-| **Estructura** | U1 pública; U2/U3 internas en progreso |
+| **Libreria Central** | `ecs_quantitative` (capital-workstation-libs) |
+| **Nivel de Inteligencia** | 5 - Intelligent Ecosystem with Controlled Autonomy |
+| **Gatekeeper** | `tests/system/test_architecture.py` |
+| **QA complementaria** | `tests/test_orchestration.py`, `tests/test_formulacion.py` |
+| **RAG** | `marco_normativo` en `~/.capital/brain/vector_store/`; `bibliography/` conserva `bibliography_index.json` y `rag_status.json` |
 
----
+## 2. Capacidades de Inteligencia (v3.0)
 
-## Arquitectura de Bóvedas (Vaults)
+Este nodo esta disenado para producir gestion de proyectos reproducible con trazabilidad normativa completa.
 
-Este nodo implementa el sistema de **Bóvedas de Conocimiento**, donde cada unidad del sílabo se gestiona como una unidad de evidencia reproducible:
+1. Normative Project Audit: evaluacion de proyectos contra el marco normativo, metodologias y lineamientos vigentes.
+2. Federated Knowledge Consumption: integracion con `ecs_quantitative` para formulacion, evaluacion y seguimiento de proyectos.
+3. Atomic Evidence Mapping: trazabilidad absoluta entre lecturas, evidencia de campo y entregables Quarto.
+4. Project Formulation Engine: separa la logica de formulacion en `src/lib/formulacion.py` y la capa de investigacion en `src/lib/research.py`.
 
-- `docs/evidence/`: Almacén de workshops, informes y aplicaciones técnicas de PIP.
-- `docs/readings/`: Bóveda de lecturas y marco normativo (SNIP, PNB).
-- `docs/syllabus/`: Marco académico y normativo de la materia.
+## 3. Protocolos Operativos
 
----
+### 3.1. Contractual QA Protocol
 
-## Ley de Nodo Puro (Obligatoria)
+- Invariante: ningun cambio se considera estable si rompe el contrato de orquestacion o los contratos de datos del nodo.
+- Accion: ejecutar `uv run pytest tests/system/test_architecture.py` antes de cerrar cambios de conducta o estructura.
+- Falla: si alguno falla, se corrige la causa raiz antes de continuar.
 
-1. **No reimplementar** lógica que ya exista en `ecs_quantitative`.
-2. **Importar siempre** desde la librería central, sin wrappers locales para lógica central.
-3. **Antes de crear** un módulo nuevo, correr `AuditEngine` para detectar si ya existe.
-4. **RAG**: nunca crear vector stores locales; usar `~/.capital/brain/vector_store/`.
+### 3.2. Research Protocol
 
----
+- Deteccion: identificar si la tarea toca identificacion, formulacion, evaluacion o seguimiento.
+- Ubicacion: la logica de ejecucion vive en `src/core/`, `src/lib/`, `src/tasks/` y `src/orchestration/`; la evidencia reproducible vive en `docs/evidence/`, la narrativa en `docs/writing/`, la gestion en `docs/management/` y el marco normativo en `data/raw/marco_normativo/`.
+- Registro: cada analisis debe dejar logs en el vault local correspondiente y mantener sincronizados `bibliography_index.json` y `rag_status.json`.
 
-## Entorno
+## 4. Arquitectura de Bovedas (Nivel 5)
 
-```bash
-# Activar entorno
-uv sync
+### 4.1. Estructura Analitica
 
-# Ejecutar el orquestador maestro
-uv run python src/orchestration/M01-U1-PIP-Master_Build.py
-
-# Consulta al cerebro central
-uv run python scratch/test_central_rag.py
+```text
+.
+├── config/                  # Catalogos y parametros del nodo
+├── data/                    # Datos del proyecto y marco normativo
+├── docs/
+│   ├── evidence/            # Workshops, informes y aplicaciones tecnicas
+│   ├── writing/             # Narrativa canónica y entrega Quarto
+│   ├── management/          # Planning, arquitectura y riesgos
+│   ├── readings/            # Lecturas y marco normativo
+│   └── syllabus/            # Syllabus oficial e institucional
+├── reports/                 # Entregables institucionales finales
+├── bibliography/            # raw/, processed/, sanitized/
+├── scripts/                 # Utilidades transversales
+├── src/                     # Core logic and domain wrappers
+└── tests/                   # Gatekeepers and regression checks
 ```
 
----
+### 4.2. Capas Documentales
 
-## Módulos Permitidos (Locales)
+- `docs/evidence/`: unidades como `U1-Diagnostico/` y `U2-Marco-Logico/` con evidencia reproducible.
+- `docs/writing/`: narrativa final, bibliografía canónica y unidad de entrega.
+- `docs/management/`: planning, arquitectura y riesgos del nodo.
+- `docs/readings/`: lecturas tecnicas, marco normativo y material de apoyo.
+- `docs/syllabus/`: syllabus oficial y documentos institucionales.
+- `bibliography/`: cache canonico de referencias con `raw/`, `processed/` y `sanitized/`.
+- `reports/`: entregables institucionales finales (antes `deliveries/`).ales.
 
-Estos archivos son específicos del dominio de PIP y **no deben moverse** a la librería central:
+## 5. Estrategia de Resiliencia
 
-| Archivo | Razón de existencia |
-| :--- | :--- |
-| `src/lib/formulacion.py` | Proyección de demanda específica PIP |
-| `src/lib/research.py` | Wrapper de `AgentMemory` para el dominio |
-| `writing/` | Discurso académico propio de la materia |
-| `data/` | Datos del proyecto (nunca en repo Git) |
+1. Zero Floating Doctrine: no deben flotar scripts analiticos en la raiz; la logica operativa debe quedarse en `src/` o en los sub-vaults de evidencia.
+2. Path Integrity: resolver rutas con `pathlib` y la configuracion del proyecto, no con rutas codificadas a mano.
+3. Data Lineage: la curacion y normalizacion deben preservar trazabilidad en logs, catalogos y entregables.
+4. Local Module Whitelist: los modulos `src/lib/formulacion.py` y `src/lib/research.py` son locales por diseno y no deben moverse a la libreria central sin una propuesta formal.
 
----
+## 6. Entorno y Mantenimiento
 
-## Skills Activos
-
-Disponibles vía la Constitución central en `.github/skills/`:
-
-- `rag_ops` → para ingestión y consulta del cerebro central
-- `validaciondependenciastest` → para validación de entorno y dependencias
-- `agent_cognition` → para disciplina operativa del agente
-
----
+```bash
+uv sync
+PYTHONPATH=src .venv/bin/python -m pytest tests/test_orchestration.py tests/test_formulacion.py
+uv run python src/orchestration/M01-U1-PIP-Master_Build.py
+uv run python scratch/test_central_rag.py
+quarto render docs/writing/delivery/index.qmd --to pdf
+```
 
 ## Regla de Oro
 
-> Si algo que necesitas **ya existe** en `ecs_quantitative`, **úsalo**.  
-> Si algo que implementaste **sirve en otras materias**, **propónlo para la librería**.  
-> El conocimiento acumulado en este nodo pertenece a la federación.
+> Si algo que construyas aqui sirve para otras materias, proponlo para la libreria central.

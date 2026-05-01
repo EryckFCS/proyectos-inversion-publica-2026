@@ -1,6 +1,0 @@
-datasets:
-  test:
-    files:
-    - id: D01
-      path: test_data.csv
-      sha256: 819077227d853eade7ac21021469e71ed3d82a174092b67f276632c02821a711

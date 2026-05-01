@@ -1,0 +1,10 @@
+{
+  "node": "Public Investment Projects",
+  "version": "8.0.0",
+  "last_sync": "2026-04-28",
+  "sources": {
+    "bibliography": "bibliography/raw/",
+    "vaults": "docs/vaults/"
+  },
+  "mappings": []
+}

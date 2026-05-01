@@ -1,0 +1,10 @@
+---
+title: Planning
+format:
+  html:
+    toc: true
+---
+
+# Planning
+
+Esta unidad registra el roadmap del nodo, las decisiones de arquitectura y los riesgos de transición hacia la doctrina Level 5.

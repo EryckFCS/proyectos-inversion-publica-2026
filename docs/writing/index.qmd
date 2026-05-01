@@ -1,0 +1,14 @@
+---
+title: Escritura canónica
+format:
+  html:
+    toc: true
+---
+
+# Escritura canónica
+
+Esta bóveda concentra la narrativa y la capa de entrega del nodo. El material heredado sigue disponible en `writing/`, pero la ruta institucional ya es `docs/writing/`.
+
+- [Entrega activa](delivery/index.qmd)
+- [Bibliografía canónica](../../bibliography/references.bib)
+- [Estilo APA](../../bibliography/styles/apa.csl)

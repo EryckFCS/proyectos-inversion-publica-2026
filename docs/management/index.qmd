@@ -1,0 +1,10 @@
+---
+title: Gestión del nodo
+format:
+  html:
+    toc: true
+---
+
+# Gestión del nodo
+
+La bóveda de gestión agrupa planificación, arquitectura y riesgos. La primera unidad publicada es [Planning](planning/index.qmd).

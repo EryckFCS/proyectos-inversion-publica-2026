@@ -17,11 +17,14 @@ Nodo federado del curso de Proyectos de Inversión Pública. Este repositorio pu
 - `src/orchestration/`: orquestador de salud del nodo
 - `scripts/`: sincronización, consulta normativa y auditoría
 - `docs/evidence/`: evidencia académica del sílabo
-- `writing/templates/`: fragmentos Quarto reutilizables
+- `docs/writing/`: entrega canónica, bibliografía y capa Quarto activa
+- `docs/management/`: roadmap, arquitectura y riesgos
+- `writing/`: plantillas históricas mientras termina la migración
 
 ## 📄 Arquitectura de Reporteo (Quarto)
 
 La redacción de informes y evidencia académica sigue el **Estándar Nivel 5**:
+
 - El archivo `_quarto.yml` reside en la **raíz del repositorio**.
 - Todo el output generado (HTML/PDF intermedios, dependencias JS/CSS) se concentra automáticamente en el directorio `_site/` o `dist/`.
 - No existen carpetas `*_files/` ad-hoc. Todo está cubierto por el `.gitignore` canónico.
@@ -33,7 +36,7 @@ uv sync
 uv run pytest
 uv run python scripts/audit_lab.py
 uv run python src/orchestration/M01-U1-PIP-Master_Build.py
-uv run quarto render
+uv run quarto render docs/writing/delivery/index.qmd
 ```
 
 ## Notas

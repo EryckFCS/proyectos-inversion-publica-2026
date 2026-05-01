@@ -28,3 +28,7 @@ data/processed/vector_store/
 *.tar.gz
 *.rar
 *.7z
+_freeze/
+.ipynb_checkpoints/
+render_log*.txt
+.ruff_cache/
