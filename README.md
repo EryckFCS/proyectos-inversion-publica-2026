@@ -4,7 +4,7 @@ Nodo federado del curso de Proyectos de Inversión Pública. Este repositorio pu
 
 ## Estado real
 
-- Evidencia pública activa: [Unidad 1](docs/evidence/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
+- Evidencia pública activa: [Unidad 1](docs/vaults/U1-Diagnostico/ACD-01-Marco-Normativo/index.qmd)
 - Unidades 2 y 3: scaffold interno, no publicadas en la navegación principal
 - Memoria RAG: `~/.capital/brain/vector_store`
 - Cálculo y auditoría: delegados a `ecs_quantitative`
@@ -16,7 +16,7 @@ Nodo federado del curso de Proyectos de Inversión Pública. Este repositorio pu
 - `src/lib/`: utilidades de formulación e investigación
 - `src/orchestration/`: orquestador de salud del nodo
 - `scripts/`: sincronización, consulta normativa y auditoría
-- `docs/evidence/`: evidencia académica del sílabo
+- `docs/vaults/`: evidencia académica del sílabo
 - `docs/writing/`: entrega canónica, bibliografía y capa Quarto activa
 - `docs/management/`: roadmap, arquitectura y riesgos
 - `writing/`: plantillas históricas mientras termina la migración
