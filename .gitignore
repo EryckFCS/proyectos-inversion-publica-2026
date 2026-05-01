@@ -20,8 +20,12 @@ htmlcov/
 _site/
 
 # Project data artifacts
-data/processed/images/
-data/processed/vector_store/
+data/*
+!data/.gitkeep
+scratch/*
+!scratch/.gitkeep
+reports/*
+!reports/.gitkeep
 
 # Archives
 *.zip
