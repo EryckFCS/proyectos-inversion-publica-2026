@@ -6,7 +6,7 @@ Este repositorio opera como nodo puro. La lógica general vive en `ecs_quantitat
 
 - `config/`: `params.yaml` y `data_catalog.yaml`
 - `data/raw/marco_normativo/`: corpus normativo auditado
-- `docs/evidence/`: evidencia académica. Hoy solo se publica U1
+- `docs/vaults/`: evidencia académica. Hoy solo se publica U1
 - `docs/writing/`: narrativa canónica, bibliografía y entrega Quarto
 - `docs/management/`: planning, arquitectura y riesgos
 - `docs/readings/`: lectura técnica y referencias
