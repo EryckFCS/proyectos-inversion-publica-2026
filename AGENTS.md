@@ -56,7 +56,7 @@ Este nodo esta disenado para producir gestion de proyectos reproducible con traz
 ├── config/                  # Catalogos y parametros del nodo
 ├── data/                    # Datos del proyecto y marco normativo
 ├── docs/
-│   ├── evidence/            # Workshops, informes y aplicaciones tecnicas
+│   ├── vaults/            # Workshops, informes y aplicaciones tecnicas
 │   ├── writing/             # Narrativa canónica y entrega Quarto
 │   ├── management/          # Planning, arquitectura y riesgos
 │   ├── readings/            # Lecturas y marco normativo
