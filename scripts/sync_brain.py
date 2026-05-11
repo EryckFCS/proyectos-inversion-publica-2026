@@ -2,7 +2,7 @@ import asyncio
 from pathlib import Path
 
 from ecs_quantitative.ingestion.processors.pdf import PDFProcessor
-from ecs_quantitative.memory.agent_memory import AgentMemory
+from ecs_quantitative.core.memory import AgentMemory
 
 # Infraestructura Federada
 LIBS_SRC = Path("/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative")

@@ -496,6 +496,7 @@ dependencies = [
     { name = "orjson" },
     { name = "pandas" },
     { name = "pdf2image" },
+    { name = "pip-licenses" },
     { name = "pix2tex" },
     { name = "playwright" },
     { name = "playwright-stealth" },
@@ -505,6 +506,7 @@ dependencies = [
     { name = "pydantic" },
     { name = "pydantic-settings" },
     { name = "pymupdf" },
+    { name = "pypdf" },
     { name = "pytesseract" },
     { name = "python-dotenv" },
     { name = "scikit-learn" },
@@ -546,6 +548,7 @@ requires-dist = [
     { name = "orjson", specifier = ">=3.9.0" },
     { name = "pandas", specifier = ">=2.2.0" },
     { name = "pdf2image", specifier = ">=1.17.0" },
+    { name = "pip-licenses", specifier = ">=5.5.5" },
     { name = "pix2tex", specifier = ">=0.1.4" },
     { name = "playwright", specifier = ">=1.47.0" },
     { name = "playwright-stealth", specifier = ">=1.0.6" },
@@ -556,6 +559,7 @@ requires-dist = [
     { name = "pydantic-settings", specifier = ">=2.12.0" },
     { name = "pymc", marker = "extra == 'quantitative'", specifier = ">=5.16.0" },
     { name = "pymupdf", specifier = ">=1.24.0" },
+    { name = "pypdf", specifier = ">=6.11.0" },
     { name = "pytesseract", specifier = ">=0.3.13" },
     { name = "python-dotenv", specifier = ">=1.0.0" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
@@ -3617,6 +3621,18 @@ wheels = [
 ]
 
 [[package]]
+name = "pip-licenses"
+version = "5.5.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "prettytable" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/7d/18/ddd93af610a04f56a51a27095ddfe55238e1ec236f6758730a0d2c0b49f2/pip_licenses-5.5.5.tar.gz", hash = "sha256:60750c006adf7a0910347b726e8ee9fee3bc8d2e7c8307a5c4ec0776c8e2a276", size = 54955, upload-time = "2026-03-28T22:12:56.48Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2a/9a/6acfdb8d463eac7cdae7534d35d72237eca63f5fbafe797289d8a5fae447/pip_licenses-5.5.5-py3-none-any.whl", hash = "sha256:f4c4c6d9e6a03612cf59f29f19dc8ab54904d82e055b8e191498f2279a224e14", size = 23247, upload-time = "2026-03-28T22:12:54.89Z" },
+]
+
+[[package]]
 name = "pix2tex"
 version = "0.1.4"
 source = { registry = "https://pypi.org/simple" }
@@ -3730,6 +3746,18 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/be/c7/ea6449a2161816a13ed1d8aa02177d5a0594e011f0df5ddd2fad8e5bf20e/polars_runtime_32-1.40.0-cp310-abi3-musllinux_1_2_x86_64.whl", hash = "sha256:081237dba07f15d61fc151825f203165480e9503ebe72a474a8c99aa78021962", size = 54153077, upload-time = "2026-04-18T05:24:05.066Z" },
     { url = "https://files.pythonhosted.org/packages/aa/1a/0b239138afe8b80a1a0b4c95db3884e6afbbe82ec3318918ab03bc57f231/polars_runtime_32-1.40.0-cp310-abi3-win_amd64.whl", hash = "sha256:a916040e0b7f461ce987e4551fed9eea5914b4fbb5af907b1d9e80db71fadeb5", size = 51822748, upload-time = "2026-04-18T05:24:09.384Z" },
     { url = "https://files.pythonhosted.org/packages/06/ce/c16ef8fd3030b7342032b040fab21a42f6fee57e47ee7f41e2f1a1e36f01/polars_runtime_32-1.40.0-cp310-abi3-win_arm64.whl", hash = "sha256:719c64eecde24a95aa3599eb9c8efc98c1499bab7ef9c01cbbe8939cd583e654", size = 45819617, upload-time = "2026-04-18T05:24:13.214Z" },
+]
+
+[[package]]
+name = "prettytable"
+version = "3.17.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "wcwidth" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/79/45/b0847d88d6cfeb4413566738c8bbf1e1995fad3d42515327ff32cc1eb578/prettytable-3.17.0.tar.gz", hash = "sha256:59f2590776527f3c9e8cf9fe7b66dd215837cca96a9c39567414cbc632e8ddb0", size = 67892, upload-time = "2025-11-14T17:33:20.212Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ee/8c/83087ebc47ab0396ce092363001fa37c17153119ee282700c0713a195853/prettytable-3.17.0-py3-none-any.whl", hash = "sha256:aad69b294ddbe3e1f95ef8886a060ed1666a0b83018bbf56295f6f226c43d287", size = 34433, upload-time = "2025-11-14T17:33:19.093Z" },
 ]
 
 [[package]]
@@ -4424,11 +4452,11 @@ wheels = [
 
 [[package]]
 name = "pypdf"
-version = "6.10.2"
+version = "6.11.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/7b/3f/9f2167401c2e94833ca3b69535bad89e533b5de75fefe4197a2c224baec2/pypdf-6.10.2.tar.gz", hash = "sha256:7d09ce108eff6bf67465d461b6ef352dcb8d84f7a91befc02f904455c6eea11d", size = 5315679, upload-time = "2026-04-15T16:37:36.978Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/bf/58/6dd97d78a4b17a7a6b9d1c6ad23895abc41f0fdc49c553cc05bdfdcc36d0/pypdf-6.11.0.tar.gz", hash = "sha256:062b51c81b0910e6d2755e99e1c5547a0a23b7d0a32322af66240d8edcfabe87", size = 6453975, upload-time = "2026-05-09T13:26:48.955Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0c/d6/1d5c60cc17bbdf37c1552d9c03862fc6d32c5836732a0415b2d637edc2d0/pypdf-6.10.2-py3-none-any.whl", hash = "sha256:aa53be9826655b51c96741e5d7983ca224d898ac0a77896e64636810517624aa", size = 336308, upload-time = "2026-04-15T16:37:34.851Z" },
+    { url = "https://files.pythonhosted.org/packages/07/b1/68feb7eb3b99f0c020b414234825f4a5d70e0126c18d933770e8c93a35fc/pypdf-6.11.0-py3-none-any.whl", hash = "sha256:769394d5756d5b304c9b6bef88b54b1816b328e7e6fc9254e625529a15ed4ab8", size = 338819, upload-time = "2026-05-09T13:26:46.904Z" },
 ]
 
 [[package]]

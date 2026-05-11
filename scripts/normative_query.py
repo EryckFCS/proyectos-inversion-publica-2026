@@ -1,5 +1,5 @@
 import sys
-from ecs_quantitative.memory.agent_memory import AgentMemory
+from ecs_quantitative.core.memory import AgentMemory
 
 
 def query_article(query_text, collection="marco_normativo", n=1):

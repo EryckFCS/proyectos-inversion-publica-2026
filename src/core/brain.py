@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from ecs_quantitative.memory.agent_memory import AgentMemory
+from ecs_quantitative.core.memory import AgentMemory
 
 from .config import settings
 

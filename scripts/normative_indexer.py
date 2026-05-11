@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from ecs_quantitative.ingestion.processors.pdf import PDFProcessor
-from ecs_quantitative.memory.agent_memory import AgentMemory
+from ecs_quantitative.core.memory import AgentMemory
 
 
 def chunk_text(text: str, min_length: int = 40) -> list[str]:
