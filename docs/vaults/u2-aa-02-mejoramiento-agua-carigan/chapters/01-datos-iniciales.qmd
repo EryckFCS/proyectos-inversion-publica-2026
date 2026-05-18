@@ -1,7 +1,7 @@
 # Datos iniciales del proyecto
 
 ## Tipo de solicitud de dictamen
-Prioridad. En tal virtud, y dando cumplimiento a lo establecido en la **Guía Metodológica para la Presentación de Proyectos (Página 8)**, la presente solicitud se fundamenta en el imperativo técnico de asegurar el financiamiento vía Presupuesto General del Estado para la mitigación efectiva de brechas en servicios básicos @guia_planifica2021.
+Prioridad. La solicitud asegura el financiamiento vía Presupuesto General del Estado para la mitigación efectiva de brechas en servicios básicos, según la **Guía Metodológica para la Presentación de Proyectos (Página 8)** @guia_planifica2021.
 
 ## Nombre Proyecto
 Proyecto de factibilidad para el mejoramiento del sistema de agua potable en el barrio Carigán, parroquia Carigán del cantón Loja provincia de Loja.
@@ -22,7 +22,7 @@ De acuerdo con el catálogo de intervenciones definido en el **Anexo 1 de la Gu�
 \begin{longtable}{llll}
 \caption{Sectores y subsectores de intervención definidos} \label{tbl-sectores} \\
 \toprule
-Macro sector & Sector & Código & Subsector \\
+\textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
 \midrule
 Social & Equipamiento urbano y vivienda & A0602 & Agua potable \\
 \bottomrule
@@ -34,7 +34,7 @@ Social & Equipamiento urbano y vivienda & A0602 & Agua potable \\
 \begin{longtable}{llp{5cm}p{4cm}}
 \caption{Tipologías de intervención definidas} \label{tbl-tipologias} \\
 \toprule
-Cod. & Tipología & Conceptualización & Actividades relacionadas \\
+\textbf{Cod.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
 \midrule
 T01 & Infraestructura & Procesos de adquisición, construcción, ampliación, mantenimiento, reparación, reposición, restauración de acervo físico. & Mejoramiento, reposición, construcción. \\
 \bottomrule

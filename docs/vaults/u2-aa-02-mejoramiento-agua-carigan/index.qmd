@@ -6,47 +6,73 @@ date: "2026-05-12"
 professor: "Econ. Jose Job Chamba Tandazo"
 assignment: "Laboratorio de Proyectos de Inversión Pública"
 submission_date: "19 de abril de 2026"
-bibliography: references.bib
 university: "UNIVERSIDAD NACIONAL DE LOJA"
 faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
 school: "CARRERA DE ECONOMÍA"
+bibliography: references.bib
+lang: es
+has-cover-image: true
 format:
   pdf:
+    template: template.tex
     toc: true
     toc-depth: 3
     number-sections: true
+    crossref:
+      fig-title: Figura
+      tbl-title: Tabla
+      title-delim: "."
     geometry:
       - top=25.4mm
       - left=25.4mm
       - right=25.4mm
       - bottom=25.4mm
+    include-before-body:
+      - portada.tex
     include-in-header:
       - text: |
           \usepackage{ragged2e}
           \justifying
           \usepackage{setspace}
-          \setstretch{1.5}
+          \singlespacing
           \usepackage{etoolbox}
           \usepackage{booktabs}
           \usepackage{caption}
+          \usepackage{tikz}
+          \usetikzlibrary{arrows,positioning,calc}
           \DeclareCaptionLabelSeparator{period}{. }
           \captionsetup[table]{
             labelsep=period,
             justification=RaggedRight,
             singlelinecheck=false,
-            font={bf,small},
+            font={bf,small,singlespacing},
             labelfont={bf},
-            textfont={it}
+            textfont={it},
+            skip=2pt
           }
-          \AtBeginEnvironment{longtable}{\singlespacing\small}
-          \AtBeginEnvironment{tabular}{\singlespacing\small}
+          \captionsetup[figure]{
+            labelsep=period,
+            justification=RaggedRight,
+            singlelinecheck=false,
+            font={bf,small,singlespacing},
+            labelfont={bf},
+            textfont={it},
+            skip=2pt
+          }
+          \AtBeginEnvironment{longtable}{\singlespacing\fontsize{10}{12}\selectfont}
+          \AtBeginEnvironment{tabular}{\singlespacing\fontsize{10}{12}\selectfont}
           \setlength{\tabcolsep}{4pt}
           \renewcommand{\arraystretch}{1.2}
+          \setlength{\LTpre}{2pt}
+          \setlength{\LTpost}{2pt}
           \newcommand{\logoUNL}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_unl.png}
           \newcommand{\logoECONOMIA}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_economia.jpg}
-          \renewcommand{\fuente}[1]{\vspace{2pt}\begin{flushleft}\small \textbf{Fuente:} #1\end{flushleft}}
-          \newcommand{\nota}[1]{\vspace{2pt}\begin{flushleft}\small \textit{Nota.} #1\end{flushleft}}
+          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textbf{Fuente:} #1\par}}
+          \newcommand{\nota}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
 ---
+
+\justifying
+\singlespacing
 
 \newpage
 {{< include chapters/01-datos-iniciales.qmd >}}
@@ -66,3 +92,5 @@ format:
 {{< include chapters/08-seguimiento-evaluacion.qmd >}}
 
 {{< include chapters/09-anexos.qmd >}}
+
+# Referencias Bibliográficas

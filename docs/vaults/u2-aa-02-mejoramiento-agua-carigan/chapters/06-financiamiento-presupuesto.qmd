@@ -1,26 +1,41 @@
-# FINANCIAMIENTO Y PRESUPUESTO
+# Financiamiento y Presupuesto
 
-## Estructura Presupuestaria y Justificación PDOT
-De acuerdo con las proyecciones del **Plan Plurianual de Inversiones (PPI) del PDOT Loja 2023-2027 (Página 1056)**, el presupuesto referencial de **$1,050,000.00 USD** se alinea con la partida global de **$2,900,000 USD** destinada a la ampliación de redes en la Zona 4 (Urbana) @pdot_loja_2023.
+De acuerdo con las proyecciones del **Plan Plurianual de Inversiones (PPI) del PDOT Loja 2023-2027 (Página 1056)**, el presupuesto referencial de **\$1,050,000.00 USD** se alinea orgánicamente con la partida global de **\$2,900,000 USD** destinada a la ampliación de redes en la Zona 4 (Urbana) @pdot_loja_2023.
 
-## Fuentes de Financiamiento
-La procedencia de los recursos para la ejecución del proyecto se detalla en la Tabla \ref{tbl-financiamiento-modelo}.
+**Estructura del Presupuesto y Fuentes de Financiamiento**
+
+Conforme a las directrices metodológicas de la Guía de Planifica Ecuador @guia_planifica2021, el presupuesto integral debe presentarse desglosado por componente, grupo de gasto y fuente de financiamiento. El apalancamiento financiero de la fase de inversión provendrá principalmente de una línea de crédito interno (Fuente de Financiamiento Interna) otorgada por el Banco de Desarrollo del Ecuador (BDE), la cual será complementada con recursos fiscales propios del GAD Municipal de Loja y fondos de autogestión de la UMAPAL para la gestión operativa y social.
+
+En la Tabla \ref{tbl-financiamiento-modelo} se detalla la matriz presupuestaria del proyecto y su respectivo modelo de financiamiento para asegurar el cierre de la brecha hídrica diagnosticada.
 
 ::: {#tbl-financiamiento-modelo}
+\fontsize{10}{12}\selectfont
 \begin{longtable}{lp{2cm}cccc}
-\caption{Fuentes de Financiamiento} \label{tbl-financiamiento-modelo} \\
+\caption{Fuentes de Financiamiento del Proyecto} \label{tbl-financiamiento-modelo} \\
 \toprule
-Componentes & G. Gasto & Crédito (BDE) & Fiscales & Autogestión & Total \\
+\textbf{Componentes de Inversión} & \textbf{Grupo de Gasto} & \textbf{Crédito BDE ($USD$)} & \textbf{Recursos Fiscales ($USD$)} & \textbf{Autogestión ($USD$)} & \textbf{Total ($USD$)} \\
 \midrule
-Infraestructura & Inversión & 840,000.00 & 160,000.00 & 0.00 & 1,000,000.00 \\
-Gestión Social & Corriente & 0.00 & 20,000.00 & 10,000.00 & 30,000.00 \\
-Fiscalización & Inversión & 0.00 & 20,000.00 & 0.00 & 20,000.00 \\
+\endfirsthead
+\multicolumn{6}{r}{Sigue en la página siguiente...} \\
 \midrule
-\textbf{TOTAL} & & \textbf{840,000.00} & \textbf{200,000.00} & \textbf{10,000.00} & \textbf{1,050,000.00} \\
+\textbf{Componentes de Inversión} & \textbf{Grupo de Gasto} & \textbf{Crédito BDE ($USD$)} & \textbf{Recursos Fiscales ($USD$)} & \textbf{Autogestión ($USD$)} & \textbf{Total ($USD$)} \\
+\midrule
+\endhead
 \bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Infraestructura de Redes & Obra Pública / Inversión & 840,000.00 & 160,000.00 & 0.00 & 1,000,000.00 \\
+\addlinespace
+Gestión Social y Capacitación & Gasto Corriente / Operativo & 0.00 & 20,000.00 & 10,000.00 & 30,000.00 \\
+\addlinespace
+Fiscalización de Obras & Consultoría / Inversión & 0.00 & 20,000.00 & 0.00 & 20,000.00 \\
+\midrule
+\textbf{Total Presupuesto} & & \textbf{840,000.00} & \textbf{200,000.00} & \textbf{10,000.00} & \textbf{1,050,000.00} \\
 \end{longtable}
-\fuente{Certificación presupuestaria GAD Municipal de Loja.}
+\fuente{Certificación presupuestaria plurianual emitida por la Dirección Financiera del GAD Municipal de Loja.}
 :::
 
-## Sostenibilidad Financiera
-De acuerdo con el **Reglamento de Cobro de Servicios de UMAPAL**, la sostenibilidad se garantiza mediante la recuperación de costos a través de la tarifa por consumo y la Contribución Especial de Mejoras (CEM), conforme lo establece el **COOTAD**.
+**Sostenibilidad Financiera Institucional**
+
+El organismo prestatario a cargo del pago del crédito interno será el Gobierno Autónomo Descentralizado Municipal del Cantón Loja, respaldado por la respectiva certificación de cupo de endeudamiento y capacidad de pago vigente. De acuerdo con el **Reglamento de Cobro de Servicios de UMAPAL**, la recuperación del servicio de la deuda, así como la sostenibilidad operativa a mediano plazo, se garantizan a través de la recaudación tarifaria mensual por consumo efectivo micromedido y la recaudación de la Contribución Especial de Mejoras (CEM), al amparo de las facultades coactivas y tributarias que otorga el **COOTAD** a los municipios.
