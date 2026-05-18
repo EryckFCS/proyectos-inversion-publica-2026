@@ -4,9 +4,10 @@ from pathlib import Path
 from typing import Any, ClassVar
 
 import yaml
+from ecs_quantitative.core.federation import FederatedNodeConfig
 
 
-class LPIConfig:
+class LPIConfig(FederatedNodeConfig):
     """Configuración canonizada para el nodo Public Investment Projects."""
 
     _instance: ClassVar[LPIConfig | None] = None
@@ -19,40 +20,25 @@ class LPIConfig:
             cls._instance._initialized = False
         return cls._instance
 
-    def __init__(self) -> None:
+    def __init__(self, **values: Any) -> None:
         if getattr(self, "_initialized", False):
             return
-
-        self.root_path = self._discover_root()
-        self.config_path = self.root_path / "config" / "params.yaml"
+        super().__init__(**values)
         self.params: dict[str, Any] = {}
         self.has_config = False
         self.reload()
         self._initialized = True
 
-    def _discover_root(self) -> Path:
-        current = Path.cwd().resolve()
-        for candidate in (current, *current.parents):
-            if (candidate / "pyproject.toml").is_file():
-                return candidate
-        return current
-
-    def _load_params(self) -> dict[str, Any]:
-        if not self.config_path.is_file():
-            return {}
-
-        try:
-            loaded = yaml.safe_load(self.config_path.read_text(encoding="utf-8"))
-        except yaml.YAMLError:
-            return {}
-
-        if isinstance(loaded, dict):
-            return loaded
-        return {}
-
     def reload(self) -> dict[str, Any]:
-        self.params = self._load_params()
-        self.has_config = self.config_path.is_file() and bool(self.params)
+        params_path = self.root_path / "config" / "params.yaml"
+        if params_path.is_file():
+            try:
+                self.params = yaml.safe_load(params_path.read_text(encoding="utf-8")) or {}
+            except yaml.YAMLError:
+                self.params = {}
+        else:
+            self.params = {}
+        self.has_config = params_path.is_file() and bool(self.params)
         return self.params
 
     def get(self, path: str, default: Any | None = None) -> Any:
@@ -66,3 +52,4 @@ class LPIConfig:
 
 NodeSettings = LPIConfig
 settings = LPIConfig()
+
