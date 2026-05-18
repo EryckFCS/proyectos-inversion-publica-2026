@@ -1,0 +1,91 @@
+# Diagnóstico y problema
+
+## Descripción de la situación actual del sector, área o zona de intervención y de influencia por el desarrollo del proyecto
+Bajo este contexto, y según lo reportado en el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Loja 2023-2027**, la parroquia Carigán se define como una zona de expansión urbana crítica con una superficie de **4,918.16 hectáreas** @pdot_loja_2023. Se colige del diagnóstico ambiental del mismo instrumento que el territorio presenta una vulnerabilidad alta a movimientos en masa, lo que compromete la estabilidad estructural de la red hídrica existente.
+
+## Identificación, descripción y diagnóstico del problema
+El diagnóstico se sustenta en la técnica del **Árbol de Problemas**, donde se identifica que el colapso recurrente de la infraestructura no es un evento aislado, sino la consecuencia de factores estructurales y geológicos.
+
+### Árbol de Problemas: Causas y Efectos
+- **Causas Raíz:**
+  1. **Obsolecencia Técnica:** Tuberías de asbesto cemento instaladas hace más de 30 años, cuya fragilidad es incompatible con las presiones actuales.
+  2. **Vulnerabilidad Geodinámica:** Ubicación de la red en suelos inestables (Cota superior de Carigán) con alta susceptibilidad a deslizamientos @pdot_loja_2023.
+  3. **Inexistencia de Telemetría:** Falta de válvulas de control de presiones que permitan mitigar los picos de demanda.
+- **Efectos Directos:**
+  1. **Interrupción del Servicio:** Cortes de agua que duran entre 24 y 48 horas por cada rotura.
+  2. **Deterioro de la Salud Pública:** Aumento del riesgo de enfermedades gastrointestinales por presión negativa en la red (succión de contaminantes).
+  3. **Ineficiencia Financiera:** Pérdida de ingresos por el **50.03%** de agua que se fuga antes de llegar al usuario.
+
+## Línea base del proyecto
+La situación de partida se cuantifica mediante indicadores técnicos y sociales que justifican la urgencia de la intervención (Tabla \ref{tbl-linea-base-detallada}).
+
+::: {#tbl-linea-base-detallada}
+\begin{longtable}{lllc}
+\caption{Línea base detallada de indicadores hídricos} \label{tbl-linea-base-detallada} \\
+\toprule
+Variable / Indicador & Fuente de Información & Unidad & Valor Actual \\
+\midrule
+Continuidad del servicio & Bitácoras de UMAPAL & Horas/día & 8.5 h \\
+Cobertura técnica efectiva & Catastro de usuarios & Porcentaje (\%) & 65.0\% \\
+Índice de agua no contabilizada & Balance hídrico Zona 4 & Porcentaje (\%) & 50.03\% \\
+Frecuencia de roturas & Reporte de reparaciones & Eventos/km/año & 14.2 \\
+Estado físico de la tubería & Inspección visual & \% Obsolecencia & 100\% (Asbesto) \\
+Población con servicio precario & Censo INEC 2022 / PDOT & Habitantes & 4,225 hab. \\
+\bottomrule
+\end{longtable}
+\fuente{Informes técnicos UMAPAL y PDOT Loja 2023-2027.}
+:::
+
+## Análisis de oferta y demanda
+El presente análisis se desarrolla en el marco del **Proyecto de factibilidad para el mejoramiento del sistema de agua potable en el barrio Carigán** de la ciudad de Loja. Su finalidad es reducir y determinar la brecha de infraestructura hídrica existente en el sector para justificar técnicamente la intervención, alineándose con el **Eje de Infraestructura, Energía y Medio Ambiente del Plan Nacional de Desarrollo 2025-2029 "Ecuador No Se Detiene"**, el cual prioriza la dotación de servicios básicos para fomentar un desarrollo territorial equitativo (Secretaría Nacional de Planificación, 2025).
+
+Metodológicamente, la caracterización demográfica y la proyección de la demanda se sustentan en los resultados definitivos del **VIII Censo de Población y VII de Vivienda 2022**. El uso de esta fuente oficial garantiza la precisión y actualización de los datos poblacionales del área de influencia (INEC, 2023).
+
+### Oferta
+La oferta actual de infraestructura hídrica segura en el barrio Carigán es nula (Oferta = 0). Aunque existe una red de asbesto cemento con más de 30 años de antigüedad, su estado de obsolecencia total y el índice de pérdidas técnicas superior al **50.03%** inhabilitan el sistema como un servicio técnico garantizado. El GAD Municipal de Loja, como único oferente competente, identifica que la infraestructura existente no cumple con los estándares mínimos de presión y continuidad, por lo que se considera técnicamente inexistente para efectos de la planificación hídrica.
+
+### Demanda
+1. **Población de referencia (Cantón Loja):** Corresponde a la población total del Cantón Loja, que según los resultados definitivos del Censo 2022 es de **284,224 habitantes** @pdot_loja_2023.
+2. **Población demandante potencial (Parroquia Carigán):** Habitantes de la parroquia Carigán. Datos de planificación territorial estiman **26,852 habitantes**, según el PDOT del GAD Loja (2023).
+3. **Población demandante efectiva:** Para la población demandante efectiva hay un total de **6,500 habitantes** en el barrio Carigán.
+4. **Proyección de la demanda:** Se estima la evolución futura de la población demandante aplicando una tasa de crecimiento anual del **1.44%**, coherente con las dinámicas urbanas observadas en el sector según las proyecciones demográficas del cantón Loja. La Tabla \ref{tbl-demanda-simplificada} presenta la proyección de la demanda efectiva y el correspondiente déficit de infraestructura hídrica durante el horizonte de diseño de 20 años.
+
+::: {#tbl-demanda-simplificada}
+\begin{longtable}{lccc}
+\caption{Proyección de la demanda y déficit de infraestructura hídrica (Horizonte 20 años)} \label{tbl-demanda-simplificada} \\
+\toprule
+Año & Oferta ($m^3$/día disponible) & Demanda efectiva (hab.) & Demanda insatisfecha (hab.) \\
+\midrule
+0 & 0 & 6,500 & 6,500 \\
+1 & 1,200 & 6,594 & 0 \\
+2 & 1,250 & 6,689 & 0 \\
+3 & 1,300 & 6,785 & 0 \\
+4 & 1,350 & 6,883 & 0 \\
+5 & 1,400 & 6,982 & 0 \\
+6 & 1,400 & 7,083 & 0 \\
+7 & 1,450 & 7,185 & 0 \\
+8 & 1,500 & 7,288 & 0 \\
+9 & 1,500 & 7,393 & 0 \\
+10 & 1,550 & 7,499 & 0 \\
+11 & 1,600 & 7,607 & 0 \\
+12 & 1,650 & 7,717 & 0 \\
+13 & 1,700 & 7,828 & 0 \\
+14 & 1,750 & 7,941 & 0 \\
+15 & 1,800 & 8,055 & 0 \\
+16 & 1,800 & 8,171 & 0 \\
+17 & 1,850 & 8,289 & 0 \\
+18 & 1,900 & 8,408 & 0 \\
+19 & 1,950 & 8,529 & 0 \\
+20 & 2,000 & 8,652 & 0 \\
+\bottomrule
+\end{longtable}
+\nota{Los valores proyectados se estiman mediante la expresión hídrica $P_t = P_0 (1 + r)^t$, con $P_0 = 6,500$ habitantes (población beneficiaria en el Año 0) y una tasa anual de crecimiento poblacional de $r = 0.0144$. El déficit hídrico proyectado responde a la brecha absoluta de infraestructura en el Año 0, la cual se elimina a partir del Año 1 mediante la implementación del nuevo sistema de conducción y distribución. \textbf{Fuente:} Proyección técnica basada en balance hídrico UMAPAL.}
+:::
+
+## Identificación y caracterización de la población objetivo
+Según la metodología de la **Guía de Planifica Ecuador**, la población objetivo se define como aquellos habitantes que recibirán directamente los beneficios del mejoramiento de la red @guia_planifica2021:
+- **Población Objetivo:** 6,500 habitantes (Barrio Carigán y sectores San José/Cisol).
+- **Caracterización:** Población urbana periurbana con alta dependencia del sistema de conducción Carigán-Pucará.
+
+## Ubicación geográfica e impacto territorial
+De acuerdo con el **Sistema de Información Local (SIL) del GAD Loja**, el proyecto se localiza en la cota superior de la parroquia Carigán. El impacto territorial consiste en la estabilización del suministro para el **70%** de la ciudad que depende de la planta Carigán y la eliminación de focos de insalubridad por falta de agua en el barrio periférico @pdot_loja_2023.

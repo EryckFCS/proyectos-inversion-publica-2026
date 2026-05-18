@@ -1,0 +1,13 @@
+# ESTRATEGIA DE SEGUIMIENTO Y EVALUACIÓN
+
+## Seguimiento a la ejecución
+Se utilizará la plataforma **SIPeIP (Sistema de Información de Proyectos de Inversión Pública)** para el reporte mensual de avance físico y financiero. La fiscalización emitirá informes de conformidad técnica previos al pago de cada planilla.
+
+## Evaluación de resultados e impactos
+Se realizará una evaluación **Ex-Post** a los 24 meses de operación para verificar:
+1. Reducción efectiva del agua no contabilizada.
+2. Mejora en la continuidad del servicio (Meta 24/7).
+3. Impacto en la recaudación por mejora en el servicio.
+
+## Actualización de línea base
+Al finalizar la obra, se actualizará el catastro técnico en el **Gis-Municipal**, integrando las nuevas coordenadas de válvulas y matrices para el mantenimiento preventivo futuro.

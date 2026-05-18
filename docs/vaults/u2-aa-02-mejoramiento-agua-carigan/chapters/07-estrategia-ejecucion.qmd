@@ -1,0 +1,51 @@
+# ESTRATEGIA DE EJECUCIÓN
+
+## Metodología de ejecución y cronograma
+La estrategia para la implementación física y financiera del proyecto se resume en la Tabla \ref{tbl-estrategia}.
+
+::: {#tbl-estrategia}
+\begin{longtable}{lp{5cm}l}
+\caption{Estrategia de ejecución} \label{tbl-estrategia} \\
+\toprule
+Actividad & Estrategia de Ejecución & Responsable \\
+\midrule
+Contratación de obra & Licitación pública nacional (SERCOP). & GAD Loja / UMAPAL \\
+Supervisión técnica & Fiscalización externa e interna permanente. & Dirección de Obras \\
+Instalación de redes & Cuadrillas especializadas con maquinaria municipal. & Contratista / UMAPAL \\
+\bottomrule
+\end{longtable}
+:::
+
+## Arreglos Institucionales
+La coordinación entre las diferentes entidades involucradas se detalla en la Tabla \ref{tbl-arreglos}.
+
+::: {#tbl-arreglos}
+\begin{longtable}{ll}
+\caption{Arreglos Institucionales} \label{tbl-arreglos} \\
+\toprule
+Tipo de ejecución & Instituciones Involucradas \\
+\midrule
+Ejecución Directa / Indirecta & GAD Municipal de Loja (UDAF), UMAPAL (EOD). \\
+Financiamiento & Banco de Desarrollo del Ecuador (BDE). \\
+Regulación & Ministerio del Ambiente, Agua y Transición Ecológica. \\
+\bottomrule
+\end{longtable}
+:::
+
+## Cronograma Valorado por Componentes y Actividades
+La programación financiera mensual para el primer cuatrimestre se presenta en la Tabla \ref{tbl-cronograma}.
+
+::: {#tbl-cronograma}
+\begin{longtable}{lccccc}
+\caption{Cronograma valorado (Extracto Primer Cuatrimestre)} \label{tbl-cronograma} \\
+\toprule
+Componentes & Mes 1 & Mes 2 & Mes 3 & Mes 4 & TOTAL \\
+\midrule
+Infraestructura & 150,000 & 200,000 & 250,000 & 200,000 & 800,000 \\
+Gestión Social & 5,000 & 5,000 & 5,000 & 5,000 & 20,000 \\
+\midrule
+\textbf{TOTAL} & \textbf{155,000} & \textbf{205,000} & \textbf{255,000} & \textbf{205,000} & \textbf{820,000} \\
+\bottomrule
+\end{longtable}
+\fuente{Cronograma valorado de obra - UMAPAL.}
+:::

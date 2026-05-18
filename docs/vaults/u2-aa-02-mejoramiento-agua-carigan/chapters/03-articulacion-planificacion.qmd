@@ -1,0 +1,38 @@
+# Articulación con la planificación
+
+## Alineación objetivo estratégico institucional y nacional
+La articulación del proyecto con los instrumentos de planificación vigente asegura que la inversión pública responda a los lineamientos estratégicos del Estado y del GAD Municipal de Loja. En la Tabla \ref{tbl-alineacion-total} se presenta la matriz de articulación integral, desglosando la coherencia entre el Plan Nacional de Desarrollo (PND), el Plan de Desarrollo y Ordenamiento Territorial (PDOT) y el Plan Maestro de Agua Potable.
+
+::: {#tbl-alineacion-total}
+\footnotesize
+\begin{longtable}{p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1cm}p{1.5cm}p{1.5cm}p{1.5cm}}
+\caption{Tabla 5: Matriz de articulación de objetivos, políticas, metas e indicadores (Alineación PND-PDOT)} \label{tbl-alineacion-total} \\
+\toprule
+PND Obj. Desarrollo & Obj. de Gestión PEI & Competencia (COOTAD) & Política PDOT & Indicador & Línea base & Meta PDOT (2027) & Plan / Programa PDOT & Objetivo del Proyecto \\
+\midrule
+Eje 3: Ambiente, Agua y Conectividad. Obj 7: Infraestructura resiliente. & Garantizar la provisión de servicios públicos de calidad con enfoque de derechos. & Art. 55 lit. d): Prestar los servicios de agua potable y alcantarillado. & Expansión y optimización de redes hídricas en áreas de expansión. & \% de viviendas con acceso a red pública. & 0\% (técnica efectiva) & 98.96\% de cobertura en área urbana. & Programa 1.2: Plan Maestro de Agua Potable y Alcantarillado. & Incrementar la cobertura al 100\% en el Barrio Carigán. \\
+\bottomrule
+\end{longtable}
+\fuente{Información adaptada de la Tabla 5: Definición de Objetivos, Políticas, Metas e Indicadores, PDOT Loja 2023-2027 (Página 298).}
+:::
+
+## Contribución a la planificación territorial y metas nacionales
+El proyecto "Mejoramiento del sistema de agua potable en el barrio Carigán" se inserta en la planificación cantonal como una obra de infraestructura básica esencial para la consolidación del área urbana norte. Su contribución se mide a través del cumplimiento de metas anualizadas que alimentan los indicadores nacionales (Tabla \ref{tbl-articulacion-metas}).
+
+::: {#tbl-articulacion-metas}
+\begin{longtable}{lp{3cm}p{3cm}p{2cm}p{3cm}}
+\caption{Matriz de contribución y metas territoriales PDOT Loja} \label{tbl-articulacion-metas} \\
+\toprule
+Componente / Eje & Objetivo Estratégico (PDOT) & Política / Estrategia & Meta 2027 & Contribución del Proyecto \\
+\midrule
+Socio-Cultural & Garantizar el acceso universal a servicios de agua potable y saneamiento. & Ampliación y renovación de redes hídricas en zonas de expansión urbana. & 98.96\% cobertura urbana. & Renovación de 12.5 km de red y cobertura a 6,500 hab. \\
+\addlinespace
+Económico & Fortalecer la infraestructura para el desarrollo productivo. & Reducción de costos operativos por pérdidas técnicas de agua. & Reducción del 15\% en ANC cantonal. & Disminución del 50\% al 10\% de pérdidas en el sector Carigán. \\
+\addlinespace
+Asentamientos Humanos & Promover un crecimiento urbano ordenado y dotado de servicios. & Consolidación de barrios periféricos mediante dotación de servicios básicos. & 100\% de barrios consolidados. & Estabilización del servicio en la cota superior de Carigán. \\
+\bottomrule
+\end{longtable}
+\fuente{Información alineada a la Tabla 56 del PDOT Loja 2023-2027 (Página 298).}
+:::
+
+De acuerdo con la Política 7.2 del Plan Nacional de Desarrollo, el proyecto fortalece la resiliencia de los sistemas de transporte de agua, reduciendo la vulnerabilidad ante desastres naturales y asegurando la sostenibilidad ambiental del recurso en la cuenca del Pucará.

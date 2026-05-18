@@ -1,0 +1,26 @@
+# FINANCIAMIENTO Y PRESUPUESTO
+
+## Estructura Presupuestaria y Justificación PDOT
+De acuerdo con las proyecciones del **Plan Plurianual de Inversiones (PPI) del PDOT Loja 2023-2027 (Página 1056)**, el presupuesto referencial de **$1,050,000.00 USD** se alinea con la partida global de **$2,900,000 USD** destinada a la ampliación de redes en la Zona 4 (Urbana) @pdot_loja_2023.
+
+## Fuentes de Financiamiento
+La procedencia de los recursos para la ejecución del proyecto se detalla en la Tabla \ref{tbl-financiamiento-modelo}.
+
+::: {#tbl-financiamiento-modelo}
+\begin{longtable}{lp{2cm}cccc}
+\caption{Fuentes de Financiamiento} \label{tbl-financiamiento-modelo} \\
+\toprule
+Componentes & G. Gasto & Crédito (BDE) & Fiscales & Autogestión & Total \\
+\midrule
+Infraestructura & Inversión & 840,000.00 & 160,000.00 & 0.00 & 1,000,000.00 \\
+Gestión Social & Corriente & 0.00 & 20,000.00 & 10,000.00 & 30,000.00 \\
+Fiscalización & Inversión & 0.00 & 20,000.00 & 0.00 & 20,000.00 \\
+\midrule
+\textbf{TOTAL} & & \textbf{840,000.00} & \textbf{200,000.00} & \textbf{10,000.00} & \textbf{1,050,000.00} \\
+\bottomrule
+\end{longtable}
+\fuente{Certificación presupuestaria GAD Municipal de Loja.}
+:::
+
+## Sostenibilidad Financiera
+De acuerdo con el **Reglamento de Cobro de Servicios de UMAPAL**, la sostenibilidad se garantiza mediante la recuperación de costos a través de la tarifa por consumo y la Contribución Especial de Mejoras (CEM), conforme lo establece el **COOTAD**.

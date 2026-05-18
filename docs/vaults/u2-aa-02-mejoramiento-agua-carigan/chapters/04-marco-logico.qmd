@@ -1,0 +1,55 @@
+# Marco lógico
+
+## Matriz de Marco Lógico
+La estructura lógica del proyecto, siguiendo la metodología de la CEPAL y Planifica Ecuador, se detalla en la Tabla \ref{tbl-mml}.
+
+::: {#tbl-mml}
+\begin{longtable}{p{3cm}p{3cm}p{3cm}p{3cm}}
+\caption{Matriz de Marco Lógico} \label{tbl-mml} \\
+\toprule
+Resumen Narrativo & Indicadores & Medios de Verificación & Supuestos \\
+\midrule
+\textbf{Fin:} Mejorar la calidad de vida de Carigán. & Tasa de enfermedades hídricas. & Estadísticas MSP. & Estabilidad política. \\
+\textbf{Propósito:} Acceso continuo a agua potable. & \% Cobertura técnica. & Reportes UMAPAL. & Pago de tarifas. \\
+\textbf{Componentes:} Red de agua potable renovada. & km de tubería instalada. & Acta de entrega-recepción. & Disponibilidad de insumos. \\
+\textbf{Actividades:} Instalación de matrices. & Presupuesto ejecutado. & Facturas y planillas. & Clima favorable. \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica del equipo de proyecto.}
+:::
+
+## Anualización de metas e indicadores
+La programación temporal de las metas físicas se presenta en la Tabla \ref{tbl-metas-anual}.
+
+::: {#tbl-metas-anual}
+\begin{longtable}{llccccc}
+\caption{Anualización de metas} \label{tbl-metas-anual} \\
+\toprule
+Indicador & Unidad & Meta Total & 1 & 2 & 3 & 4 \\
+\midrule
+Tubería instalada & km & 12.5 & 6.0 & 6.5 & 0 & 0 \\
+Conexiones residenciales & unidad & 1,200 & 400 & 800 & 0 & 0 \\
+\bottomrule
+\end{longtable}
+\fuente{Cronograma de ejecución física.}
+:::
+
+## Grupos de atención prioritaria
+El impacto del proyecto en los sectores más vulnerables se cuantifica en la Tabla \ref{tbl-gap-modelo}.
+
+::: {#tbl-gap-modelo}
+\begin{longtable}{lc}
+\caption{Grupos de atención prioritaria} \label{tbl-gap-modelo} \\
+\toprule
+Grupo de atención prioritaria & Total Beneficiarios Estimados \\
+\midrule
+Personas con discapacidad & 124 \\
+Mujeres embarazadas & 45 \\
+Niños/niñas/adolescentes & 1,850 \\
+Personas adultas mayores & 420 \\
+\midrule
+\textbf{Total} & \textbf{2,439} \\
+\bottomrule
+\end{longtable}
+\fuente{Proyección basada en Censo INEC 2022 y PDOT.}
+:::

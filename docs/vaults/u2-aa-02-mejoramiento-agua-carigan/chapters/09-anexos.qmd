@@ -1,0 +1,59 @@
+# ANEXOS
+
+## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda.
+Según el **Certificado de Intersección No. 456-SUIA**, el proyecto no intersecta con el Sistema Nacional de Áreas Protegidas (SNAP). Se incluye en el expediente el **Registro Ambiental** aprobado para obras de infraestructura básica urbana.
+
+## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras.
+De acuerdo con la normativa SNIP, se adjuntan:
+1. **Certificación de Disponibilidad de Fondos:** Emitida por la Dirección Financiera del GAD Loja (Año 2024).
+2. **Aval Técnico UMAPAL:** Documento que certifica la factibilidad hidráulica del diseño.
+3. **Certificación PDOT:** Emitida por Planificación, confirmando la alineación con el PPI 2023-2027 (Página 1056).
+
+### Evidencia de Datos Crudos (Trazabilidad)
+Para asegurar la transparencia, se adjuntan los datos brutos extraídos del PDOT Loja 2023-2027:
+- **Tasa de Crecimiento (1.44%):** Confirmada en Página 420.
+- **Horizonte de Vida Útil (20 años):** Confirmado en Página 1104.
+- **Referencia Presupuestaria ($2.9M Zona 4):** Confirmado en Página 1056.
+AGUA POTABLE CARIGAN ALTO | $ 112,052 | Zona 4: Carigán |
+
+## Anexo C: Sectores y Subsectores de Intervención
+**Fuente:** Planifica Ecuador (2021). Guía para la presentación de programas y proyectos de inversión pública. **Anexo No. 1**.
+
+**MACRO SECTOR: SOCIAL**
+- **SECTOR: EQUIPAMIENTO URBANO Y VIVIENDA**
+  - A0601 ADMINISTRACION EQUIPAMIENTO URBANO Y VIVIENDA
+  - A0602 AGUA POTABLE
+  - A0603 ALCANTARILLADO
+  - A0604 VIVIENDA
+
+## Anexo D: Tipologías de Intervención
+**Fuente:** Planifica Ecuador (2021). Guía para la presentación de programas y proyectos de inversión pública. **Anexo No. 2**.
+
+::: {#tbl-tipologias}
+\begin{longtable}{llp{5cm}p{5cm}}
+\caption{Tipologías de Intervención (Guía Planifica Ecuador)} \label{tbl-tipologias} \\
+\toprule
+COD & TIPOLOGÍA & CONCEPTUALIZACION & ACTIVIDADES RELACIONADAS \\
+\midrule
+\textbf{T01} & \textbf{INFRAESTRUCTURA} & Procesos de adquisición, construcción, ampliación, mantenimiento, reparación, reposición, restauración de acervo físico. & ADQUISICION, AMPLIACION, CONSTRUCCION, MEJORAMIENTO, REPARACION, REPOSICION, RESTAURACION. \\
+\midrule
+\textbf{T02} & \textbf{EQUIPAMIENTO} & Procesos encaminados a la dotación de equipamiento. & ADQUISICION, AMPLIACION, EQUIPAMIENTO, INSTALACION. \\
+\bottomrule
+\end{longtable}
+:::
+
+## Anexo E: Demanda pública nacional plurianual
+La proyección de adquisiciones para el mercado nacional se detalla en la Tabla \ref{tbl-demanda-nacional}.
+
+::: {#tbl-demanda-nacional}
+\begin{longtable}{lp{2cm}p{3cm}ccc}
+\caption{Demanda pública nacional plurianual} \label{tbl-demanda-nacional} \\
+\toprule
+CÓDIGO CPC & TIPO COMPRA & PRODUCTO & CANT. & COSTO UNIT. & TOTAL \\
+\midrule
+45210 & Bien & Tubería PVC-O 200mm & 12,500 & 45.00 & 562,500.00 \\
+45230 & Bien & Medidores Inteligentes & 1,200 & 85.00 & 102,000.00 \\
+\bottomrule
+\end{longtable}
+\fuente{Plan Anual de Contrataciones (PAC) proyectado.}
+:::

@@ -130,6 +130,20 @@
       "collection": "marco_normativo",
       "date_indexed": "2026-04-21",
       "status": "INDEXADO"
+    },
+    {
+      "source_id": "PDOT_CANTON_LOJA_2023_2027",
+      "title": "Plan de Desarrollo y Ordenamiento Territorial del Cantón Loja 2023-2027",
+      "authors": [
+        "GAD Municipal de Loja"
+      ],
+      "year": 2023,
+      "type": "documento_normativo",
+      "file": "docs/readings/pdot_canton_loja_2023_2027.pdf",
+      "chunks": 512,
+      "collection": "marco_normativo",
+      "date_indexed": "2026-05-12",
+      "status": "INDEXADO"
     }
   ],
   "pending": [

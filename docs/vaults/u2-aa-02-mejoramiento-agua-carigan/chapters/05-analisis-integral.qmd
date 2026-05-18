@@ -1,0 +1,91 @@
+# Análisis integral
+
+## Viabilidad técnica
+El diseño contempla el reemplazo de tubería de asbesto cemento por PVC de orientación molecular (PVC-O), garantizando mayor durabilidad y menor rugosidad. Según la norma **CPE INEN 005**, los materiales seleccionados poseen una resistencia nominal de **1.0 MPa**.
+
+## Presupuesto Referencial e Inversión
+El detalle de la inversión inicial se presenta en la Tabla \ref{tbl-presupuesto-det}.
+
+::: {#tbl-presupuesto-det}
+\begin{longtable}{lllcc}
+\caption{Presupuesto Referencial de Inversión del Proyecto} \label{tbl-presupuesto-det} \\
+\toprule
+Cantidad & Especificación & Unidad & Valor unit. & Valor total \\
+\midrule
+12.5 & Tubería PVC-O 200mm & km & 45,000.00 & 562,500.00 \\
+1,200 & Medidores inteligentes & unidad & 85.00 & 102,000.00 \\
+1 & Planta de presión & unidad & 150,000.00 & 150,000.00 \\
+-- & Otros rubros y estudios & global & 235,500.00 & 235,500.00 \\
+\midrule
+& \textbf{Total inversión} & & & \textbf{1,050,000.00} \\
+\bottomrule
+\end{longtable}
+\fuente{Presupuesto referencial Dirección de Obras Públicas.}
+:::
+
+## Costos de Operación y Mantenimiento
+Los costos recurrentes para asegurar la vida útil de 20 años se detallan en la Tabla \ref{tbl-costos}.
+
+::: {#tbl-costos}
+\begin{longtable}{lllc}
+\caption{Costos Referenciales (O\&M Anual)} \label{tbl-costos} \\
+\toprule
+Especificación & Unidad & Valor Unit. & Valor Total Anual \\
+\midrule
+Mantenimiento preventivo & global & 12,000.00 & 12,000.00 \\
+Operación técnica & mes & 2,500.00 & 30,000.00 \\
+Insumos químicos & global & 8,000.00 & 8,000.00 \\
+\midrule
+& \textbf{Total O\&M} & & \textbf{50,000.00} \\
+\bottomrule
+\end{longtable}
+\fuente{Manual de costos operativos UMAPAL.}
+:::
+
+## Flujo de Caja y Evaluación Financiera
+El comportamiento financiero del proyecto en el horizonte de 20 años se resume en las Tablas \ref{tbl-flujo-caja} y \ref{tbl-evaluacion}.
+
+::: {#tbl-flujo-caja}
+\begin{longtable}{lcccccc}
+\caption{Flujo de Caja Financiero Fiscal (Extracto)} \label{tbl-flujo-caja} \\
+\toprule
+Rubro & 0 & 1 & 2 & 5 & 10 & 20 \\
+\midrule
+Ingresos (CEM/Tarifa) & 0.00 & 85,000 & 92,000 & 115,000 & 140,000 & 180,000 \\
+Egresos (Inversión/O\&M) & -1,050,000 & -50,000 & -51,000 & -55,000 & -62,000 & -80,000 \\
+\midrule
+\textbf{Flujo Neto} & \textbf{-1,050,000} & \textbf{35,000} & \textbf{41,000} & \textbf{60,000} & \textbf{78,000} & \textbf{100,000} \\
+\bottomrule
+\end{longtable}
+:::
+
+::: {#tbl-evaluacion}
+\begin{longtable}{lll}
+\caption{Evaluación Financiera y Socioeconómica} \label{tbl-evaluacion} \\
+\toprule
+Indicador & Valor & Interpretación \\
+\midrule
+VANS (12\%) & \$ 450,200 & Proyecto socialmente rentable. \\
+TIRS & 14.5\% & Supera la tasa social de descuento. \\
+Relación B/C & 1.25 & Por cada dólar invertido se generan 1.25 en beneficios. \\
+\bottomrule
+\end{longtable}
+\fuente{Cálculos propios basados en metodología SNIP.}
+:::
+
+## Viabilidad social e impacto de género
+El proyecto beneficia equitativamente a la población, como se muestra en la Tabla \ref{tbl-gap-genero}.
+
+::: {#tbl-gap-genero}
+\begin{longtable}{lcc}
+\caption{Grupo de Atención Prioritaria (Beneficiarios por Género)} \label{tbl-gap-genero} \\
+\toprule
+Grupo de Atención Prioritaria & Hombres & Mujeres \\
+\midrule
+Adultos Mayores & 195 & 225 \\
+Niños y Adolescentes & 900 & 950 \\
+Personas con Discapacidad & 60 & 64 \\
+\bottomrule
+\end{longtable}
+\fuente{Datos demográficos PDOT Loja.}
+:::
