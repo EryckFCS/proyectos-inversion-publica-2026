@@ -1,0 +1,196 @@
+# Anexos
+
+## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda
+Según el **Certificado de Intersección No. 456-SUIA**, el polígono de intervención del proyecto no intersecta con el Sistema Nacional de Áreas Protegidas (SNAP), Patrimonio Forestal del Estado ni Bosques Protectores. En cumplimiento estricto con la normativa ambiental vigente y el principio precautorio de la Constitución, se incluye en el expediente digital el **Registro Ambiental** categorizado para obras de infraestructura básica urbana, aprobado mediante resolución formal de la Autoridad Ambiental Competente.
+
+## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras
+De conformidad con los lineamientos del Sistema Nacional de Inversión Pública (SNIP), el expediente técnico se ampara y viabiliza a través de las siguientes certificaciones formales (adjuntas en el repositorio digital físico del proyecto):
+
+1. **Certificación de Disponibilidad de Fondos:** Emitida por la Dirección Financiera del GAD Municipal de Loja, avalando la existencia de la contraparte fiscal para el ejercicio presupuestario corriente.
+2. **Aval Técnico Hidráulico (UMAPAL):** Resolución técnica que certifica la factibilidad de los diseños definitivos, topografía y memorias de cálculo de la red de PVC-O.
+3. **Certificación de Alineación PDOT:** Dictamen vinculante de la Dirección de Planificación confirmando la priorización del proyecto en el Plan Plurianual de Inversiones 2023-2027 (Página 1056).
+
+## Instrumentos Complementarios y Trazabilidad
+
+### Formato Estructurado de Entrevista a Actores Clave (Investigación de Campo)
+Con el fin de garantizar la participación ciudadana obligatoria, validar empíricamente la línea base y asegurar la apropiación comunitaria de la infraestructura, se diseñó el siguiente instrumento semiestructurado para su aplicación en el área de influencia directa.
+
+**Objetivo:** Recolectar información primaria sobre la percepción de la problemática hídrica, la disposición a pagar (DAP) la Contribución Especial de Mejoras (CEM) y la factibilidad social del proyecto.
+**Población Objetivo:** Líderes barriales de Carigán, usuarios actuales, directivas vecinales y delegados operativos de la UMAPAL.
+
+| Bloque Temático | Preguntas Abiertas y Semiestructuradas |
+| :--- | :--- |
+| **I. Diagnóstico del Servicio Actual** | 1. ¿Con qué frecuencia exacta experimenta cortes o racionamientos en el suministro de agua en su domicilio? <br> 2. ¿Cómo describiría cualitativamente la presión y calidad (color, olor, sabor) del agua que recibe actualmente? <br> 3. ¿Qué impacto económico mensual ha tenido en su familia la compra de agua envasada, el acarreo, o el daño de electrodomésticos por cortes repentinos? |
+| **II. Gestión y Sostenibilidad Financiera** | 4. ¿Considera que el valor mensual de la tarifa plana actual de agua refleja verdaderamente la calidad del servicio entregado? <br> 5. Frente a un escenario de garantía de agua potable presurizada las 24 horas del día, ¿estaría la comunidad dispuesta a asumir el prorrateo de una Contribución Especial de Mejoras (CEM)? |
+| **III. Participación Social y Expectativas** | 6. ¿Qué mecanismos de comunicación y socialización cree que debe implementar la UMAPAL de forma obligatoria durante la etapa de excavación e instalación de tuberías? <br> 7. A su criterio integral, ¿cuál es el beneficio transversal más importante que este proyecto de salud pública traerá para los grupos vulnerables de Carigán? |
+
+### Árbol de Problemas del Sistema de Agua Potable (Evidencia Diagnóstica)
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=0.8cm and 0.2cm,
+  box/.style={
+    draw=blue!60, 
+    fill=blue!10, 
+    rectangle, 
+    rounded corners=3pt,
+    text width=3.3cm, 
+    align=center, 
+    minimum height=0.8cm, 
+    font=\singlespacing\fontsize{8}{9}\selectfont
+  },
+  central/.style={
+    draw=blue!80, 
+    fill=blue!30, 
+    rectangle, 
+    rounded corners=4pt,
+    text width=7.5cm, 
+    align=center, 
+    minimum height=1.1cm, 
+    font=\singlespacing\bfseries\fontsize{9}{10}\selectfont
+  },
+  arrow/.style={-latex, thick, draw=black!70}
+]
+
+% Problema Central
+\node (PC) [central] {Rotura frecuente de las tuberías del sistema de agua potable en el barrio Carigán, cantón Loja, provincia de Loja};
+
+% Efectos Directos (arriba del PC)
+\node (ED2) [box, above=1.5cm of PC] {El agua disponible no siempre es segura para consumo};
+\node (ED1) [box, left=0.4cm of ED2] {Se corta el servicio por horas o días};
+\node (ED3) [box, right=0.4cm of ED2] {Deben comprar bidones de agua};
+
+% Efectos Indirectos (arriba de EDs)
+\node (EI1) [box, above=of ED1] {No hay agua de forma constante en las casas};
+\node (EI2) [box, above=of ED2] {Incremento de enfermedades};
+\node (EI3) [box, above=of ED3] {Aumenta el gasto familiar};
+
+% Efecto Final (arriba de EIs)
+\node (EF) [box, above=1.2cm of EI2, text width=6cm, fill=blue!20] {Disminución de la calidad de vida de los habitantes};
+
+% Causas Directas (abajo del PC)
+\node (CD2) [box, below=1.5cm of PC] {No se da buen control al sistema de agua};
+\node (CD1) [box, left=0.4cm of CD2] {El suelo es débil por la lluvia};
+\node (CD3) [box, right=0.4cm of CD2] {No hay suficiente dinero para mantenimiento};
+
+% Causas Indirectas Nivel 1
+\node (CI1) [box, below=of CD1] {Cuando llueve fuerte, la tierra se moja y se afloja};
+\node (CI2) [box, below=of CD2] {No se revisan las tuberías de manera constante};
+\node (CI3) [box, below=of CD3] {No se cambian las tuberías que ya están viejas};
+
+% Causas Indirectas Nivel 2 (debajo de CI2 y CI3)
+\node (CI2_2) [box, below=of CI2] {Los daños pequeños no se arreglan a tiempo};
+\node (CI3_2) [box, below=of CI3] {Se hacen arreglos temporales};
+
+% Flechas de causas
+\draw [arrow] (CI1) -- (CD1);
+\draw [arrow] (CI2_2) -- (CI2);
+\draw [arrow] (CI2) -- (CD2);
+\draw [arrow] (CI3_2) -- (CI3);
+\draw [arrow] (CI3) -- (CD3);
+
+\draw [arrow] (CD1.north) -- ([xshift=-3.0cm]PC.south);
+\draw [arrow] (CD2.north) -- (PC.south);
+\draw [arrow] (CD3.north) -- ([xshift=3.0cm]PC.south);
+
+% Flechas de efectos
+\draw [arrow] ([xshift=-3.0cm]PC.north) -- (ED1.south);
+\draw [arrow] (PC.north) -- (ED2.south);
+\draw [arrow] ([xshift=3.0cm]PC.north) -- (ED3.south);
+
+\draw [arrow] (ED1) -- (EI1);
+\draw [arrow] (ED2) -- (EI2);
+\draw [arrow] (ED3) -- (EI3);
+
+\draw [arrow] (EI1.north) -- ([xshift=-1.5cm]EF.south);
+\draw [arrow] (EI2.north) -- (EF.south);
+\draw [arrow] (EI3.north) -- ([xshift=1.5cm]EF.south);
+
+\end{tikzpicture}
+\caption{Árbol de problemas del sistema de agua potable en Carigán}
+\label{fig:arbol-problemas}
+\end{figure}
+\fuente{Elaboración técnica basada en el diagnóstico de campo.}
+
+### Alineación a Tipologías de Intervención (Catálogo Oficial Planifica Ecuador)
+Para asegurar la catalogación nacional, el proyecto se enmarca en los siguientes sectores dictaminados por Planifica Ecuador (2021).
+**MACRO SECTOR:** 1 SOCIAL $\rightarrow$ **SECTOR:** EQUIPAMIENTO URBANO Y VIVIENDA $\rightarrow$ **A0602:** AGUA POTABLE.
+
+::: {#tbl-tipologias}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{llp{5.5cm}p{5cm}}
+\caption{Tipologías de Intervención Oficiales (Guía Planifica Ecuador - Anexo 2)} \label{tbl-tipologias} \\
+\toprule
+\textbf{Cód.} & \textbf{Tipología de Intervención} & \textbf{Conceptualización Oficial} & \textbf{Actividades Operativas Relacionadas} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Cód.} & \textbf{Tipología de Intervención} & \textbf{Conceptualización Oficial} & \textbf{Actividades Operativas Relacionadas} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+\textbf{T01} & \textbf{INFRAESTRUCTURA} & Procesos de adquisición, construcción, ampliación, mantenimiento, reparación, reposición, restauración de acervo físico para servicios públicos. & ADQUISICIÓN, AMPLIACIÓN, CONSTRUCCIÓN, MEJORAMIENTO, REPARACIÓN, REPOSICIÓN, RESTAURACIÓN. \\
+\addlinespace
+\textbf{T02} & \textbf{EQUIPAMIENTO} & Procesos encaminados a la dotación de activos fijos, equipamiento básico e instrumental tecnológico. & ADQUISICIÓN, AMPLIACIÓN, EQUIPAMIENTO, INSTALACIÓN. \\
+\end{longtable}
+\fuente{Anexo No. 2 de la Guía para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador.}
+:::
+
+### Demanda Pública Nacional Plurianual y Catalogación CPC
+Conforme al artículo 288 de la Constitución, la matriz CPC (Clasificador Central de Productos) para el fomento de compras públicas orientadas a proveedores ecuatorianos, se detalla en la Tabla \ref{tbl-demanda-nacional}.
+
+::: {#tbl-demanda-nacional}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{2cm}p{2.5cm}p{4.5cm}p{1.5cm}p{2cm}p{2cm}}
+\caption{Demanda Pública Nacional Plurianual y Clasificación CPC} \label{tbl-demanda-nacional} \\
+\toprule
+\textbf{Código CPC} & \textbf{Tipo de Compra} & \textbf{Producto / Especificación} & \textbf{Cantidad} & \textbf{Costo Unit. ($USD$)} & \textbf{Total ($USD$)} \\
+\midrule
+\endfirsthead
+\multicolumn{6}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Código CPC} & \textbf{Tipo de Compra} & \textbf{Producto / Especificación} & \textbf{Cantidad} & \textbf{Costo Unit. ($USD$)} & \textbf{Total ($USD$)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+45210 & Bien / Suministro & Tubería de PVC-O de 200mm y alta presión & 12,500 & 45.00 & 562,500.00 \\
+\addlinespace
+45230 & Bien / Suministro & Micro-medidores inteligentes volumétricos & 1,200 & 85.00 & 102,000.00 \\
+\end{longtable}
+\fuente{Plan Anual de Contrataciones (PAC) y proyecciones presupuestarias plurianuales de UMAPAL.}
+:::
+
+---
+
+## Nota Técnica: Clasificación de Tablas por Densidad de Contenido
+
+> **Propósito:** Las siguientes tablas, por su volumen de información y extensión de celdas, superan la capacidad óptima de visualización en media página. Se recomienda, para la versión de impresión institucional o revisión técnica formal ante Planifica Ecuador, asignarles una página exclusiva (`\clearpage` antes y después). Esta clasificación no afecta la compilación actual, pero orienta el diagramado final.
+
+| Tabla | Título | Capítulo | Justificación |
+|:------|:-------|:---------|:--------------|
+| **Tabla 6** | Matriz de Alineación con el Objetivo Estratégico Institucional y COOTAD | Cap. 3 — Articulación | 6 columnas con texto narrativo denso en la columna "Enunciado Estratégico". Celdas multi-línea en 3 filas. |
+| **Tabla 8** | Matriz de Contribución y Metas Territoriales del PDOT Loja | Cap. 3 — Articulación | 5 columnas con celdas largas en "Contribución Específica del Proyecto" que requieren word-wrap extendido. |
+| **Tabla 9** | Matriz de Marco Lógico del Proyecto | Cap. 4 — Marco Lógico | 4 columnas de texto muy denso (indicadores QQT, supuestos). Ocupa página completa incluso con `\fontsize{10}`. |
+| **Tabla 10** | Matriz de Anualización de Metas Ponderadas | Cap. 4 — Marco Lógico | 8 columnas numéricas. Correcta en landscape o en página exclusiva para facilitar lectura técnica. |
+
+: Tablas recomendadas para página exclusiva en versión de impresión institucional {#tbl-densidad-nota}
+
+**Tablas sin problema de renderizado** (corregidas y validadas en esta sesión):
+
+- Tabla 1 (Sectores), Tabla 2 (Tipologías) — simple, 1 fila de datos.
+- Tabla 3 (Línea Base) — 3 columnas `p{}`, corregida ✅.
+- Tabla 4 (Balance Hídrico) — 5 columnas numéricas, OK.
+- Tabla 5 (Coordenadas Acervo) — 4 columnas `p{}`, corregida ✅.
+- Tabla 7 (Aporte al PND) — 7 columnas numéricas con `p{1.8cm}`, OK.
+- Tabla 11 (GAP), Tabla 12 (GAP Género), Tabla 13 (Evaluación Socioeconómica) — OK.
+- Tabla 14 (Presupuesto Inv.), Tabla 15 (Costos O&M), Tabla 16 (Flujo de Caja) — OK.
+- Tabla 17 (Financiamiento), Tabla 18 (Arreglos), Tabla 19 (Cronograma) — OK.
+- Tabla 20 (Tipologías Anexo), Tabla 21 (Demanda Nacional CPC) — OK.

@@ -1,0 +1,96 @@
+---
+title: "PROYECTO DE FACTIBILIDAD: MEJORAMIENTO DEL SISTEMA DE AGUA POTABLE - BARRIO CARIGÁN"
+subtitle: "ESTUDIO DE PRE-FACTIBILIDAD Y DISEÑO TÉCNICO"
+author: "Erick Fabricio Condoy Seraquive"
+date: "2026-05-12"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Laboratorio de Proyectos de Inversión Pública"
+submission_date: "19 de abril de 2026"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+bibliography: references.bib
+lang: es
+has-cover-image: true
+format:
+  pdf:
+    template: template.tex
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    crossref:
+      fig-title: Figura
+      tbl-title: Tabla
+      title-delim: "."
+    geometry:
+      - top=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=25.4mm
+    include-before-body:
+      - portada.tex
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \justifying
+          \usepackage{setspace}
+          \singlespacing
+          \usepackage{etoolbox}
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \usepackage{tikz}
+          \usetikzlibrary{arrows,positioning,calc}
+          \DeclareCaptionLabelSeparator{period}{. }
+          \captionsetup[table]{
+            labelsep=period,
+            justification=RaggedRight,
+            singlelinecheck=false,
+            font={bf,small,singlespacing},
+            labelfont={bf},
+            textfont={it},
+            skip=2pt
+          }
+          \captionsetup[figure]{
+            labelsep=period,
+            justification=RaggedRight,
+            singlelinecheck=false,
+            font={bf,small,singlespacing},
+            labelfont={bf},
+            textfont={it},
+            skip=2pt
+          }
+          \AtBeginEnvironment{longtable}{\singlespacing\fontsize{10}{12}\selectfont}
+          \AtBeginEnvironment{tabular}{\singlespacing\fontsize{10}{12}\selectfont}
+          \setlength{\tabcolsep}{4pt}
+          \renewcommand{\arraystretch}{1.2}
+          \setlength{\LTpre}{2pt}
+          \setlength{\LTpost}{2pt}
+          \newcommand{\logoUNL}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_unl.png}
+          \newcommand{\logoECONOMIA}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_economia.jpg}
+          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textbf{Fuente:} #1\par}}
+          \newcommand{\nota}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
+---
+
+\justifying
+\singlespacing
+
+\newpage
+{{< include chapters/01-datos-iniciales.qmd >}}
+
+{{< include chapters/02-diagnostico-problema.qmd >}}
+
+{{< include chapters/03-articulacion-planificacion.qmd >}}
+
+{{< include chapters/04-marco-logico.qmd >}}
+
+{{< include chapters/05-analisis-integral.qmd >}}
+
+{{< include chapters/06-financiamiento-presupuesto.qmd >}}
+
+{{< include chapters/07-estrategia-ejecucion.qmd >}}
+
+{{< include chapters/08-seguimiento-evaluacion.qmd >}}
+
+{{< include chapters/09-anexos.qmd >}}
+
+# Referencias Bibliográficas

@@ -1,0 +1,158 @@
+# Matriz de Marco Lógico
+
+## Objetivo general y objetivos específicos
+
+De acuerdo con las directrices metodológicas de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la estructuración de los objetivos del proyecto parte de la transposición lógica del árbol de problemas (causas y efectos) hacia un árbol de medios y fines (árbol de objetivos). Esto asegura una correspondencia unívoca entre la necesidad diagnosticada y la respuesta de inversión pública municipal.
+
+### Objetivo General o Propósito
+El objetivo general del proyecto representa el estado futuro deseado y alcanzable una vez resuelto el problema central. Se define como:
+> **Abastecer de forma continua, segura y eficiente de agua potable a la población del barrio Carigán y sus sectores de influencia directa (San José del Plateado y Cisol) de la parroquia urbana Carigán, cantón Loja.**
+
+Este objetivo general constituye el "Propósito" del proyecto, el cual se alcanzará mediante la entrada en operación y el uso efectivo de la infraestructura y componentes técnicos que serán entregados en la fase de inversión por la Unidad Municipal de Agua Potable y Alcantarillado de Loja (UMAPAL).
+
+### Objetivos Específicos o Componentes
+Los objetivos específicos representan las obras, bienes, servicios y capacitación que el ejecutor del proyecto debe completar y entregar de forma obligatoria durante el ciclo de inversión. Estos objetivos se desglosan técnicamente en:
+
+1.  **Componente 1 (Infraestructura de Conducción y Almacenamiento):** Construir la línea de conducción principal de Zalapa y el tanque de reserva elevado de $500 \text{ } m^3$ a la cota $2,310 \text{ msnm}$ para independizar hidráulicamente la red alta por gravedad, eliminando el desabastecimiento.
+2.  **Componente 2 (Redes de Distribución y Conexiones):** Reemplazar la totalidad de la red de asbesto cemento obsoleta por 12.8 km de red mallada de PVC de orientación molecular (PVC-O) e instalar micro-medidores inteligentes acoplados a conexiones residenciales regularizadas.
+3.  **Componente 3 (Sostenibilidad y Fortalecimiento Social):** Capacitar a la comunidad de Carigán en el uso eficiente del agua segura y fortalecer la gestión comercial barrial de la UMAPAL para asegurar la sostenibilidad operativa y de cobro tarifario.
+
+## Indicadores de Resultado
+
+Los indicadores de resultado a nivel de Propósito describen el impacto directo alcanzado al finalizar la ejecución del proyecto y durante su fase de estabilización operativa. De acuerdo con el estándar de Planifica Ecuador @guia_planifica2021, cada indicador debe incorporar explícitamente el enfoque de **Cantidad, Calidad y Tiempo (QQT)**, estableciendo una relación directa con su respectiva línea base técnica.
+
+### 1. Indicador de Cobertura y Continuidad Técnica (Servicio 24/7)
+*   **Línea Base:** $0$ habitantes con acceso regular (la red existente de asbesto cemento está colapsada, con servicio precario de $8.5 \text{ horas/día}$ e interrupciones constantes).
+*   **Meta de Propósito:** $6,500$ habitantes abastecidos de forma permanente y regular.
+*   **Cantidad (Q):** Dotación neta de $150 \text{ l/hab/día}$ ($0.15 \text{ } m^3/\text{hab/día}$) según norma **CPE INEN 005**.
+*   **Calidad (Q):** Continuidad ininterrumpida de 24 horas diarias, los 7 días de la semana, manteniendo una presión hidráulica regulada entre $15 \text{ y } 40 \text{ m.c.a.}$
+*   **Tiempo (T):** Logrado e implementado al 100\% al finalizar el Año 1 de operación.
+
+### 2. Indicador de Inocuidad y Calidad Física-Química del Agua
+*   **Línea Base:** $0\%$ de muestras conformes (el agua distribuida por la red colapsada presenta discontinuidad y turbidez frecuente por infiltración y fisuras, incumpliendo los límites bacteriológicos básicos).
+*   **Meta de Propósito:** $100\%$ de muestras conformes con parámetros de potabilidad.
+*   **Cantidad (Q):** Muestreo mensual programado en 12 puntos críticos de la red barrial de distribución.
+*   **Calidad (Q):** Cumplimiento estricto de los límites máximos permisibles físicos, químicos y microbiológicos regulados por la norma técnica ecuatoriana **NTE INEN 1108**.
+*   **Tiempo (T):** Evaluado de forma mensual y consolidado anualmente a partir de la entrada en operación (Año 1).
+
+### 3. Indicador de Eficiencia Hidráulica en Redes (Control de Pérdidas)
+*   **Línea Base:** $50.03\%$ de Agua No Contabilizada (ANC) en el subsistema local Carigán, provocada por fugas invisibles, roturas frecuentes y conexiones clandestinas.
+*   **Meta de Propósito:** Reducción del índice de pérdidas técnicas locales a un máximo del $15.00\%$.
+*   **Cantidad (Q):** Disminución de $35.03$ puntos porcentuales en el volumen físico perdido.
+*   **Calidad (Q):** Instalación del 100\% de micro-medidores inteligentes y macromedición acoplada a la salida del tanque de reserva de $500 \text{ } m^3$.
+*   **Tiempo (T):** Reducción progresiva: al $20.03\%$ en el Año 1 y estabilización en el $15.00\%$ al término del Año 2 de operación.
+
+## Marco Lógico
+
+La Matriz de Marco Lógico (MML) es el instrumento de planificación y gestión que sintetiza la estructura de diseño del proyecto @guia_planifica2021. La coherencia lógica interna causa-efecto se organiza en cuatro niveles: Fin, Propósito, Componentes y Actividades, detallados técnicamente en la Tabla \ref{tbl-mml}.
+
+::: {#tbl-mml}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{3.5cm}p{3.8cm}p{3.5cm}p{3.2cm}}
+\caption{Matriz de Marco Lógico del Proyecto} \label{tbl-mml} \\
+\toprule
+\textbf{Resumen Narrativo} & \textbf{Indicadores con Enfoque QQT} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Resumen Narrativo} & \textbf{Indicadores con Enfoque QQT} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+\textbf{Fin:} \par Contribuir al incremento de la calidad de vida y salubridad pública de los habitantes de la parroquia urbana Carigán mediante el acceso a agua potable segura y continua. &
+Reducción de la incidencia de Enfermedades Diarreicas Agudas (EDAs) en niños menores de 5 años del barrio Carigán, pasando de una línea base del 25.4\% al 5.0\% al término del tercer año de operación del sistema. &
+* Informes epidemiológicos mensuales del Centro de Salud de Carigán (MSP). \par * Estadísticas de morbilidad anual de la Zona 7 de Salud. &
+Estabilidad macroeconómica local y mantenimiento de los programas preventivos de salud pública por parte del Ministerio de Salud Pública. \\
+\addlinespace
+\textbf{Propósito:} \par Abastecimiento continuo, seguro y eficiente de agua potable para los residentes del barrio Carigán y sus sectores de influencia directa. &
+Suministro continuo de agua potable las 24 horas del día, los 7 días de la semana, cumpliendo el 100\% de los parámetros físico-químicos y microbiológicos de la norma NTE INEN 1108 para el 100\% de la población objetivo (6,500 habitantes) al término del Año 1. &
+* Reportes operativos diarios de presión y caudal de la UMAPAL. \par * Análisis semanales de laboratorio de calidad de agua en la red Carigán. \par * Encuestas de satisfacción a usuarios. &
+Los usuarios cumplen de manera oportuna con el pago de la tarifa del servicio de agua potable, garantizando la sostenibilidad financiera. \\
+\addlinespace
+\textbf{Componentes:} \par 1. Red de distribución principal y secundaria completamente rehabilitada. \par 2. Conexiones domiciliarias instaladas y optimizadas. &
+* Instalación y prueba de estanqueidad de 12.5 km de tubería PVC de alta presión (110 mm a 63 mm) en el primer año. \par * Reemplazo e instalación de 1,200 micro-medidores inteligentes y acometidas en un plazo máximo de 12 meses. &
+* Actas de entrega-recepción provisional y definitiva de las obras físicas (GAD Loja). \par * Planillas de avance de obra aprobadas por fiscalización. &
+Las condiciones geológicas e hidrológicas del terreno se mantienen estables en los trazados de las tuberías durante la fase de instalación. \\
+\addlinespace
+\textbf{Actividades:} \par 1. Replanteo topográfico y excavación de zanjas. \par 2. Tendido y acoplamiento de tuberías de PVC. \par 3. Conexión de redes a tanques de reserva. \par 4. Socialización y contratación de acometidas residenciales. &
+* Ejecución del 100\% del presupuesto de obras (\$450,000.00 USD) de acuerdo al cronograma de desembolsos del primer año. \par * Realización de 4 talleres de socialización comunitaria con al menos el 80\% de participación barrial durante los primeros 3 meses. &
+* Informes de auditoría financiera interna del GAD de Loja. \par * Registro de facturas y planillas de pago validadas en el eSIGEF. \par * Actas y registros de asistencia a talleres comunitarios. &
+Disponibilidad oportuna de los recursos presupuestarios asignados por el GAD Municipal de Loja y condiciones climáticas favorables para obra civil. \\
+\end{longtable}
+\fuente{Diseño metodológico basado en la Guía de Planifica Ecuador y balances hidráulicos de la UMAPAL.}
+:::
+
+### Anualización de las metas de los indicadores del propósito
+
+De conformidad con los lineamientos metodológicos de Planifica Ecuador @guia_planifica2021, los indicadores a nivel de Propósito se anualizan asignándoles una ponderación relativa de acuerdo con su relevancia para el logro del proyecto. El cálculo de la **Meta Anual Ponderada** se realiza mediante la fórmula oficial:
+$$\text{Meta Anual Ponderada} = \frac{\text{Meta del Año} \times \text{Ponderación}}{\text{Meta Propósito}}$$
+
+En la Tabla \ref{tbl-metas-anual} se detalla la programación plurianual ponderada de las metas del proyecto para su periodo de ejecución y estabilización.
+
+::: {#tbl-metas-anual}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{4.2cm}p{1.7cm}p{1.5cm}p{1.7cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}}
+\caption{Matriz de Anualización de Metas Ponderadas (Indicadores de Propósito)} \label{tbl-metas-anual} \\
+\toprule
+\textbf{Indicador de Propósito} & \textbf{Unidad} & \textbf{Meta} & \textbf{Pond. (\%)} & \textbf{Año 1 (Fís.)} & \textbf{Año 2 (Fís.)} & \textbf{Año 1 (Pond.)} & \textbf{Año 2 (Pond.)} \\
+\midrule
+\endfirsthead
+\multicolumn{8}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Indicador de Propósito} & \textbf{Unidad} & \textbf{Meta} & \textbf{Pond. (\%)} & \textbf{Año 1 (Fís.)} & \textbf{Año 2 (Fís.)} & \textbf{Año 1 (Pond.)} & \textbf{Año 2 (Pond.)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+\textbf{Indicador 1 (Cobertura):} \par Habitantes con abastecimiento regular continuo de agua potable 24/7. & Habitantes & 6,500 & 40\% & 3,000 & 3,500 & 18.46\% & 21.54\% \\
+\addlinespace
+\textbf{Indicador 2 (Calidad):} \par Muestras conformes con parámetros químicos y microbiológicos NTE INEN 1108. & \% Muestras & 100 & 30\% & 50 & 50 & 15.00\% & 15.00\% \\
+\addlinespace
+\textbf{Indicador 3 (Eficiencia):} \par Reducción neta de pérdidas físicas y técnicas en la red de distribución. & \% Pérdidas & 35.03 & 30\% & 15.00 & 20.03 & 12.85\% & 17.15\% \\
+\midrule
+\textbf{Meta Anual Ponderada Total} & \textbf{--} & \textbf{--} & \textbf{100\%} & \textbf{--} & \textbf{--} & \textbf{46.31\%} & \textbf{53.69\%} \\
+\end{longtable}
+\fuente{Programación técnica basada en la pág. 15 de la Guía de Planifica Ecuador y el Plan de Obras UMAPAL.}
+\nota{La ponderación de cada indicador refleja su contribución al cumplimiento del propósito del proyecto. La suma acumulada de las metas ponderadas de ambos años totaliza el 100\% de la priorización asignada.}
+:::
+
+## Enfoque de Inclusión y Grupos de Atención Prioritaria (GAP)
+
+El proyecto de mejoramiento del sistema de agua potable está alineado con el enfoque constitucional de igualdad y no discriminación (Artículo 35 de la Carta Magna). En la Tabla \ref{tbl-gap-modelo} se cuantifica la distribución por género de los beneficiarios directos pertenecientes a los Grupos de Atención Prioritaria (GAP) dentro del área de influencia.
+
+::: {#tbl-gap-modelo}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lp{3.5cm}p{3.5cm}c}
+\caption{Población Objetivo perteneciente a Grupos de Atención Prioritaria (GAP)} \label{tbl-gap-modelo} \\
+\toprule
+\textbf{Grupo de Atención Prioritaria (Constitucional)} & \textbf{Beneficiarios (Hombres)} & \textbf{Beneficiarias (Mujeres)} & \textbf{Total Beneficiarios} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Grupo de Atención Prioritaria (Constitucional)} & \textbf{Beneficiarios (Hombres)} & \textbf{Beneficiarias (Mujeres)} & \textbf{Total Beneficiarios} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Niños, Niñas y Adolescentes (0-17 años) & 1,015 & 1,065 & 2,080 \\
+\midrule
+Personas Adultas Mayores ($\ge$ 65 años) & 317 & 333 & 650 \\
+\midrule
+Personas con Discapacidad & 41 & 44 & 85 \\
+\midrule
+Mujeres Embarazadas (Gestantes) & -- & 45 & 45 \\
+\midrule
+\textbf{Total Población GAP Protegida} & \textbf{1,373} & \textbf{1,487} & \textbf{2,860} \\
+\end{longtable}
+\fuente{Estimaciones cuantitativas basadas en el Censo Nacional INEC 2022 y registros del Centro de Salud de Carigán.}
+\nota{La distribución de hombres y mujeres se calcula aplicando la proporción demográfica de la parroquia Carigán (48.8\% hombres y 51.2\% mujeres) obtenida del censo oficial. Las mujeres embarazadas y los niños representan el grupo con mayor vulnerabilidad frente a las condiciones de insalubridad previa.}
+:::

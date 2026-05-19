@@ -1,0 +1,225 @@
+# Diagnóstico y problema
+
+## Descripción de la situación actual del sector, área o zona de intervención y de influencia por el desarrollo del proyecto
+
+De conformidad con los requerimientos metodológicos, a continuación se diagnostica integralmente el escenario macroterritorial de la parroquia Carigán, área de influencia directa del proyecto, la cual constituye una de las zonas de mayor expansión periurbana del cantón Loja.
+
+### Dimensión Geográfica, Localización y Límites
+La zona de intervención se ubica en el noroccidente de la ciudad de Loja, con una altitud que oscila entre los $2,150$ y $2,310$ msnm. Según el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Loja 2023-2027**, la parroquia Carigán abarca una superficie de **4,918.16 hectáreas** @pdot_loja_2023. Limita al norte con la parroquia San Lucas, al sur con las parroquias Sucre y El Valle, al este con la provincia de Zamora Chinchipe, y al oeste con la parroquia Chuquiribamba. Su topografía es altamente irregular, con pendientes que superan el $30\%$ en los asentamientos periféricos, lo que históricamente ha dificultado la consolidación de redes de infraestructura por gravedad.
+
+### Dimensión Ambiental, Recursos Naturales y Áreas Protegidas
+*   **Recurso Hídrico y Suelo:** El territorio es atravesado por microcuencas estacionales (como la quebrada Zalapa). Los suelos presentan un alto grado de arcilla expansiva, lo que, combinado con el régimen pluviométrico bimodal, genera una **vulnerabilidad alta a movimientos en masa**. Esta inestabilidad geológica natural es la principal causa exógena que detona las fisuras de la antigua red de asbesto cemento.
+*   **Áreas Protegidas:** De acuerdo con el certificado de intersección del Sistema Único de Información Ambiental (SUIA), la zona de intervención (barrios consolidados) **no intersecta** con el Sistema Nacional de Áreas Protegidas (SNAP), Patrimonio Forestal ni ecosistemas frágiles. La flora y fauna remanente se restringe a matorral seco montano modificado por actividades antrópicas.
+
+### Dimensión de Servicios Básicos, Salud y Accesibilidad
+*   **Servicios Básicos:** El saneamiento ambiental es deficitario: apenas el $50\%$ del área cuenta con alcantarillado sanitario conectado a la red municipal. El abastecimiento de agua potable es el servicio más precario, caracterizado por roturas semanales e interrupciones del servicio que superan los 3 días continuos en zonas altas.
+*   **Salud y Educación:** El sector alberga al Centro de Salud Tipo A "Carigán" (MSP) y unidades educativas fiscales. Los reportes epidemiológicos evidencian una prevalencia anormalmente alta de Enfermedades Diarreicas Agudas (EDAs) y parasitosis infantil, correlacionadas de forma causal con el almacenamiento intradomiciliario prolongado de agua y la dependencia eventual de tanqueros.
+*   **Accesibilidad Vial:** El eje estructurante es la Vía de Integración Barrial (Paso Lateral), completamente asfaltada. Sin embargo, el $70\%$ de la vialidad interna son arterias de tercer orden (lastre y tierra). Durante el estiaje, el acarreo de agua a pie por estas vías polvorientas desencadena patologías respiratorias agudas en la población vulnerable.
+
+### Dimensión Económica y Organizativa
+La economía de Carigán es mixta. En los ejes viales prolifera el **Sector Terciario** (micro-comercio, tiendas de abarrotes, talleres y el Mercado Nueva Granada), mientras que en la periferia persiste la **Agricultura Familiar Campesina** de subsistencia. Organizativamente, el tejido social es fuerte; coexisten directivas barriales consolidadas y organizaciones vecinales de economía popular. Esta alta cohesión comunitaria representa el principal activo intangible del proyecto, garantizando la viabilidad social para la socialización técnica de la obra y asegurando la disposición de pago (DAP) para la futura recaudación tarifaria y de Contribución Especial de Mejoras (CEM).
+
+## Identificación, descripción y diagnóstico del problema
+El diagnóstico de la problemática hídrica en el barrio Carigán se estructuró técnicamente bajo la metodología del **Árbol de Problemas**, cuyo diagrama completo causa-efecto se detalla en el **Anexo A (Figura \ref{fig:arbol-problemas})**. Este análisis sistemático identifica la siguiente jerarquía de causas y efectos:
+
+### Árbol de Problemas: Relación Causa-Efecto
+
+* **Problema Central:**
+  * Rotura frecuente de las tuberías del sistema de agua potable en el barrio Carigán, cantón Loja, provincia de Loja.
+
+* **Efectos (De abajo hacia arriba):**
+  * **Efectos Directos:**
+    1. Se corta el servicio por horas o días.
+    2. El agua disponible no siempre es segura para consumo.
+    3. Deben comprar bidones de agua.
+  * **Efectos Indirectos:**
+    1. No hay agua de forma constante en las casas.
+    2. Incremento de enfermedades.
+    3. Aumenta el gasto familiar.
+  * **Efecto Final:** Disminución de la calidad de vida de los habitantes.
+
+* **Causas (De arriba hacia abajo):**
+  * **Causas Directas:**
+    1. El suelo es débil por la lluvia.
+    2. No se da buen control al sistema de agua.
+    3. No hay suficiente dinero para mantenimiento.
+  * **Causas Indirectas (Nivel 1 y 2):**
+    1. Cuando llueve fuerte, la tierra se moja y se afloja (causa de 1).
+    2. No se revisan las tuberías de manera constante, debido a que los daños pequeños no se arreglan a tiempo (causas de 2).
+    3. No se cambian las tuberías que ya están viejas, optando por realizar únicamente arreglos temporales (causas de 3).
+
+
+## Línea base del proyecto
+La situación de partida se cuantifica mediante indicadores técnicos y sociales que justifican la urgencia de la intervención (Tabla \ref{tbl-linea-base-detallada}).
+
+::: {#tbl-linea-base-detallada}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{5.5cm}p{3.5cm}p{5cm}}
+\caption{Línea Base Detallada de Indicadores Técnicos e Hídricos} \label{tbl-linea-base-detallada} \\
+\toprule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Continuidad efectiva del servicio & Horas/día promedio & 8.50 horas/día (Bitácoras UMAPAL) \\
+\addlinespace
+Cobertura técnica efectiva de red & Porcentaje (\%) & 65.0\% (Catastro GAD Loja) \\
+\addlinespace
+Índice de Agua No Contabilizada (ANC) & Porcentaje (\%) & 50.03\% (Balance hídrico Zona 4) \\
+\addlinespace
+Frecuencia de roturas de tubería & Eventos/km/año & 14.20 (Reportes UMAPAL) \\
+\addlinespace
+Estado físico de la red (materialidad) & \% Obsolescencia & 100\% en Asbesto Cemento (\textgreater 30 años) \\
+\addlinespace
+Población afectada con servicio precario & Habitantes directos & 4,225 hab. (Censo INEC 2022) \\
+\end{longtable}
+\fuente{Informes de diagnóstico técnico de la UMAPAL y Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Loja 2023-2027.}
+:::
+
+## Análisis de oferta y demanda
+La reducción de la brecha de infraestructura hídrica del sector se alinea con el **Eje de Infraestructura, Energía y Medio Ambiente del Plan Nacional de Desarrollo 2025-2029 "Ecuador No Se Detiene"**, el cual prioriza la dotación de servicios básicos para fomentar un desarrollo territorial equitativo (Secretaría Nacional de Planificación, 2025).
+
+La caracterización demográfica y la proyección de la demanda emplean los resultados definitivos del **VIII Censo de Población y VII de Vivienda 2022** del área de influencia (INEC, 2023).
+
+### Oferta
+La oferta actual de infraestructura hídrica segura en el barrio Carigán es nula (Oferta = 0). Aunque existe una red de asbesto cemento con más de 30 años de antigüedad, su estado de obsolecencia total y el índice de pérdidas técnicas superior al **50.03%** inhabilitan el sistema como un servicio técnico garantizado. El GAD Municipal de Loja, como único oferente competente, identifica que la infraestructura existente no cumple con los estándares mínimos de presión y continuidad, por lo que se considera técnicamente inexistente para efectos de la planificación hídrica.
+
+### Demanda
+1. **Población de referencia (Cantón Loja):** Corresponde a la población total del Cantón Loja, que según los resultados definitivos del Censo 2022 es de **284,224 habitantes** @pdot_loja_2023.
+2. **Población demandante potencial (Parroquia Carigán):** Habitantes de la parroquia Carigán. Datos de planificación territorial estiman **26,852 habitantes**, según el PDOT del GAD Loja (2023).
+3. **Población demandante efectiva:** Para la población demandante efectiva hay un total de **6,500 habitantes** en el barrio Carigán.
+4. **Proyección de la demanda de agua:** Se estima la evolución futura de la demanda de agua potable multiplicando la proyección demográfica ($P_t = P_0 (1 + r)^t$, con $P_0 = 6,500$ hab. y $r = 1.44\%$) por la dotación neta oficial para zonas urbanas andinas de **150 l/hab/día** ($0.15 \text{ } m^3/\text{hab/día}$) de acuerdo con la norma **CPE INEN 005**. La Tabla \ref{tbl-demanda-simplificada} presenta el balance hídrico proyectado (oferta vs. demanda de agua) durante el horizonte de diseño de 20 años bajo el escenario con proyecto.
+
+::: {#tbl-demanda-simplificada}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lcccc}
+\caption{Balance Hídrico Proyectado en Volumen y Capacidad (Horizonte 20 años)} \label{tbl-demanda-simplificada} \\
+\toprule
+\textbf{Año del Proyecto} & \textbf{Oferta ($m^3$/día disponible)} & \textbf{Demanda de Agua ($m^3$/día)} & \textbf{Balance Hídrico ($m^3$/día)} & \textbf{Cobertura Efectiva (\%)} \\
+\midrule
+0 (Sin Proyecto) & 0.00 & 975.00 & -975.00 & 0.0\% \\
+1 (Con Proyecto) & 1,200.00 & 989.10 & +210.90 & 100.0\% \\
+2 & 1,250.00 & 1,003.35 & +246.65 & 100.0\% \\
+3 & 1,300.00 & 1,017.75 & +282.25 & 100.0\% \\
+4 & 1,350.00 & 1,032.45 & +317.55 & 100.0\% \\
+5 & 1,400.00 & 1,047.30 & +352.70 & 100.0\% \\
+6 & 1,400.00 & 1,062.45 & +337.55 & 100.0\% \\
+7 & 1,450.00 & 1,077.75 & +372.25 & 100.0\% \\
+8 & 1,500.00 & 1,093.20 & +406.80 & 100.0\% \\
+9 & 1,500.00 & 1,108.95 & +391.05 & 100.0\% \\
+10 & 1,550.00 & 1,124.85 & +425.15 & 100.0\% \\
+11 & 1,600.00 & 1,141.05 & +458.95 & 100.0\% \\
+12 & 1,650.00 & 1,157.55 & +492.45 & 100.0\% \\
+13 & 1,700.00 & 1,174.20 & +525.80 & 100.0\% \\
+14 & 1,750.00 & 1,191.15 & +558.85 & 100.0\% \\
+15 & 1,800.00 & 1,208.25 & +591.75 & 100.0\% \\
+16 & 1,800.00 & 1,225.65 & +574.35 & 100.0\% \\
+17 & 1,850.00 & 1,243.35 & +606.65 & 100.0\% \\
+18 & 1,900.00 & 1,261.20 & +638.80 & 100.0\% \\
+19 & 1,950.00 & 1,279.35 & +670.65 & 100.0\% \\
+20 & 2,000.00 & 1,297.80 & +702.20 & 100.0\% \\
+\bottomrule
+\end{longtable}
+\fuente{Proyecciones demográficas basadas en el Censo INEC 2022 e hidráulicas de la UMAPAL.}
+\nota{La demanda de agua se calcula multiplicando la proyección demográfica ($P_t = P_0 (1 + r)^t$, con $P_0 = 6,500$ hab. y una tasa de crecimiento anual de $r = 0.0144$) por la dotación neta oficial para zonas urbanas andinas de $150$ l/hab/día ($0.15 \text{ } m^3$/hab/día) según la norma CPE INEN 005. El balance del Año 0 representa el escenario "Sin Proyecto", donde la brecha es absoluta. A partir del Año 1 ("Con Proyecto"), se elimina el déficit y se genera un superávit hídrico que garantiza la sostenibilidad de la red.}
+:::
+
+## Identificación y caracterización de la población objetivo
+Según los lineamientos metodológicos de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la población objetivo se define como aquella porción de la población afectada a la cual el proyecto le resolverá el problema central, entregándole beneficios directos.
+
+### Delimitación y Distribución Demográfica
+En el proyecto de mejoramiento del sistema de agua potable del barrio Carigán, la **población afectada** y la **población objetivo** son co-extensivas, englobando a un total de **6,500 habitantes** (aproximadamente 1,300 familias) asentados en la zona consolidada del barrio Carigán y los sectores colindantes de San José y Cisol.
+
+Con base en la proyección de datos del **VIII Censo de Población y VII de Vivienda (INEC, 2022)** aplicados a la parroquia urbana de Carigán, la población objetivo presenta la siguiente desagregación demográfica:
+
+*   **Desagregación por Sexo:**
+    *   **Mujeres (Beneficiarias directas):** 51.2% (aproximadamente **3,328 habitantes**).
+    *   **Hombres (Beneficiarios directos):** 48.8% (aproximadamente **3,172 habitantes**).
+*   **Desagregación por Grupos Etarios:**
+    *   **Infancia y Adolescencia (0 a 17 años):** 32% (aproximadamente **2,080 habitantes**). Este grupo representa una prioridad sanitaria alta debido a la alta exposición a enfermedades de transmisión hídrica.
+    *   **Población Adulta Activa (18 a 64 años):** 58% (aproximadamente **3,770 habitantes**). Constituye la fuerza productiva y laboral de la zona.
+    *   **Adultos Mayores (65 años en adelante):** 10% (aproximadamente **650 habitantes**). Sector catalogado de atención prioritaria constitucional por limitaciones físicas y de movilidad.
+
+### Caracterización Socioeconómica y de Salubridad
+El barrio Carigán se clasifica como una zona periurbana en expansión del cantón Loja. Presenta una tasa de pobreza por **Necesidades Básicas Insatisfechas (NBI) del 48%**, un índice significativamente mayor al promedio de las zonas urbanas céntricas del cantón. 
+
+*   **Vulnerabilidad en Vivienda y Saneamiento:** El **40% de las viviendas** del sector se encuentra en proceso de regularización física y catastral, predominando viviendas autoconstruidas con deficiencias de infraestructura. La cobertura de alcantarillado sanitario apenas supera el **50%** en las zonas periféricas del barrio, lo que genera focos de contaminación y riesgos epidemiológicos críticos ante la falta de un suministro continuo de agua segura para arrastre hidráulico e higiene básica.
+*   **Salud Pública:** De acuerdo con los perfiles epidemiológicos del Centro de Salud de la parroquia Carigán, las interrupciones del servicio y el consumo eventual de agua no segura de tanqueros o vertientes informales son determinantes directos en la recurrencia de **Enfermedades Diarreicas Agudas (EDAs)** e infecciones parasitarias, afectando la salud respiratoria infantil por el acarreo en vías polvorientas y la fatiga física comunitaria.
+
+### Principales Actividades Económicas
+La Población Económicamente Activa (PEA) de Carigán está vinculada principalmente a dos sectores:
+1.  **Sector Terciario (Comercio y Servicios):** Representa el **65%** de los ingresos locales. La población objetivo participa de forma activa en la red de comercialización local a través de ferias barriales libres y como comerciantes y proveedores en el **Mercado Nueva Granada** (Cristo Rey). El desabastecimiento hídrico paraliza la preparación de alimentos, limita la operatividad de locales comerciales y deteriora la inocuidad alimentaria.
+2.  **Sector Primario (Agricultura Familiar Campesina):** En las zonas periféricas del barrio persiste la agricultura de subsistencia a pequeña escala (huertos familiares de hortalizas, maíz, fréjol y producción de leche y quesos artesanales en el sector de Zalapa). La inestabilidad de la red impide mantener estándares higiénicos en el procesamiento de lácteos y en el lavado de alimentos para su venta.
+
+### Detalle de Beneficiarios y Grupos de Atención Prioritaria (GAP)
+De conformidad con el **Artículo 35 de la Constitución de la República del Ecuador**, el proyecto focaliza su impacto en los siguientes Grupos de Atención Prioritaria dentro de la población objetivo:
+
+*   **Beneficiarios Directos (Habitantes Residentes):** **6,500 personas** que recibirán la conexión a la nueva red de distribución.
+    *   *Niños menores de 5 años:* **650 infantes** protegidos contra EDAs crónicas y desnutrición crónica infantil (DCI).
+    *   *Adultos mayores vulnerables:* **320 personas** en situación de vulnerabilidad o con proyectos de rehabilitación física municipal activos en la parroquia, liberados de la carga física del acarreo de agua.
+    *   *Personas con discapacidad:* **85 habitantes** registrados en las bases de datos locales que requieren acceso permanente y adaptado a servicios de higiene en sus hogares.
+    *   *Mujeres embarazadas:* **45 gestantes** que requieren condiciones sanitarias idóneas para el control de salud materno-infantil.
+*   **Beneficiarios Indirectos:** Aproximadamente **1,200 personas** flotantes, que incluyen a los **180 estudiantes** de la Escuela de Educación Básica Pompilio Reinoso Jaramillo, comerciantes y clientes del Mercado Nueva Granada, y transeúntes del eje vial de la parroquia.
+
+## Ubicación geográfica e impacto territorial
+
+De conformidad con los lineamientos metodológicos de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la viabilidad de la inversión física requiere la determinación unívoca de la ubicación del acervo físico mediante coordenadas geográficas precisas, estableciendo a su vez el área de influencia directa y el impacto territorial y de cobertura que tendrá sobre la población objetivo.
+
+### Localización Político-Administrativa y Georreferenciación del Acervo Físico
+
+El proyecto se localiza políticamente en la República del Ecuador, provincia de Loja, cantón Loja, en el extremo noroccidental de la parroquia urbana consolidada de Carigán (Códigos de división político-administrativa INEC: Provincia 11, Cantón 1101, Parroquia 110153). Específicamente, las obras de infraestructura de la red de distribución abarcan los sectores periurbanos de Carigán Alto, San José del Plateado y Cisol.
+
+El acervo físico del proyecto se compone de tres nodos estructurales fundamentales georreferenciados en el sistema de coordenadas de proyección **UTM WGS84, Zona 17 Sur (17S)** y coordenadas geográficas de grados decimales (Tabla \ref{tbl-coordenadas-acervo}):
+
+::: {#tbl-coordenadas-acervo}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{4.2cm}p{2.8cm}p{4.5cm}p{2.5cm}}
+\caption{Ubicación Político-Administrativa y Coordenadas del Acervo Físico} \label{tbl-coordenadas-acervo} \\
+\toprule
+\textbf{Componente del Acervo Físico} & \textbf{Ubicación Específica} & \textbf{Coordenadas UTM / Grados Decimales} & \textbf{Altura (msnm)} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Componente del Acervo Físico} & \textbf{Ubicación Específica} & \textbf{Coordenadas UTM / Grados Decimales} & \textbf{Altura (msnm)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+1. Conducción y Captación Zalapa & Sector Zalapa Alto & UTM: X: 695,950 m E / Y: 9,560,980 m N \newline Lat: -3.9717 Long: -79.2361 & 2,280 \\
+\midrule
+2. Planta de Tratamiento (PTAP Carigán) & Colinas de Carigán & UTM: X: 696,720 m E / Y: 9,561,410 m N \newline Lat: -3.9658 Long: -79.2292 & 2,240 \\
+\midrule
+3. Tanque de Reserva Proyectado (500 $m^3$) & Cima Carigán Alto & UTM: X: 697,030 m E / Y: 9,561,900 m N \newline Lat: -3.9614 Long: -79.2264 & 2,310 \\
+\midrule
+4. Red de Distribución Principal & Sectores Carigán Alto, San José y Cisol & Red mallada 12.8 km (Polígono periurbano) & 2,150--2,310 \\
+\end{longtable}
+\fuente{Sistemas de Información Geográfica del GAD Loja y bitácoras técnicas de la UMAPAL.}
+\nota{Coordenadas georreferenciadas en base al sistema de proyección universal transversal de Mercator (UTM) WGS84, huso 17 Sur. El acervo físico conecta la captación de Zalapa con el subsistema de tratamiento y almacenamiento de Carigán Alto.}
+:::
+
+### Área de Influencia Directa e Impacto Territorial
+
+El **área de influencia directa** del proyecto comprende una extensión de **145.5 hectáreas** delimitadas por la cota superior del barrio Carigán Alto al norte, la quebrada Zalapa al sur, el barrio San José del Plateado al este y las colinas de Zalapa al oeste. En este espacio geográfico se concentran las **6,500 personas** que conforman la población objetivo del proyecto y que actualmente padecen la brecha de acceso por tubería, obligándolas al acarreo físico o a depender de tanqueros móviles informales.
+
+El **impacto territorial** del proyecto opera en dos escalas geográficas:
+
+1.  **Escala Micro-Territorial (Local):** La instalación de la red de distribución mallada de **12.8 km** y el tanque de reserva elevado de **500 $m^3$** elimina de raíz la brecha de cobertura de agua potable en Carigán Alto, San José y Cisol. Se garantiza un servicio continuo las 24 horas del día con una presión hidráulica estable en las conexiones domiciliarias regulada entre **15 y 40 m.c.a. (metros de columna de agua)**, lo que erradica la insalubridad y los focos de enfermedades diarreicas agudas en las zonas periurbanas de la parroquia.
+2.  **Escala Macro-Territorial (Cantonal y de Red):** La estabilización hidráulica de Carigán Alto genera un impacto positivo en toda la ciudad de Loja. Actualmente, para abastecer de forma precaria a este sector alto, la UMAPAL debe forzar presiones e introducir bombeo directo desde las líneas de transmisión de la Planta de Tratamiento Carigán, lo que genera sobrepresión, roturas frecuentes y pérdidas físicas de agua en la red baja. La Planta Carigán abastece al **70% de la población urbana de Loja** (aproximadamente **126,000 habitantes** en las zonas norte, central y occidental). Al independizarse hidráulicamente la red alta mediante gravedad desde el nuevo tanque de reserva elevado de 2,310 msnm, se reduce el volumen de agua no contabilizada (ANC) en un **12%**, estabilizando la presión de servicio en toda la zona urbana baja del cantón.
+
+### Coherencia Institucional (SIPeIP y eSIGEF)
+
+De acuerdo con las directrices de Planifica Ecuador, se ha validado la coherencia y consistencia de la localización geográfica del proyecto en los tres sistemas de información del sector público ecuatoriano:
+*   **eSIGEF (Gestión Financiera):** La asignación de recursos y partidas presupuestarias se asocia al código de localización geográfica del cantón Loja (UDAF: 1101), en el grupo de gasto de obra pública de infraestructura (Grupo 75).
+*   **SIPeIP (Planificación e Inversión):** La inversión plurianual se registra bajo la tipología sectorial **A0602 (Agua Potable)** y tipología de intervención **T01 (Infraestructura)**, georreferenciando el acervo físico en las coordenadas del tanque de reserva proyectado de Carigán Alto, garantizando que no existan inconsistencias espaciales que puedan invalidar la priorización del proyecto.
+

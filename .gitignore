@@ -45,3 +45,5 @@ docs/vaults/**/data/*.dta
 docs/vaults/**/data/*.sav
 docs/vaults/**/data/*.db
 docs/vaults/**/data/*.sqlite
+
+**/*.quarto_ipynb

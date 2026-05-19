@@ -1,0 +1,1 @@
+/home/erick-fcs/.capital/lake/bibliography/sanitized/1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica.md

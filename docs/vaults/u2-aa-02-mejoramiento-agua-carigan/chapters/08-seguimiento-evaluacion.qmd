@@ -1,0 +1,21 @@
+# Estrategia de Seguimiento y Evaluación
+
+La estrategia metodológica de seguimiento y evaluación operará en congruencia con los objetivos e indicadores estructurados en la Matriz de Marco Lógico (MML), garantizando la medición objetiva del avance físico, presupuestario y de alcance técnico.
+
+## Seguimiento a la ejecución del programa y proyecto
+El proceso sistemático de seguimiento a la ejecución de las obras será reportado de manera oficial en la plataforma institucional vinculada a Planifica Ecuador y al Sistema de Información de la Programación de la Inversión Pública (SIPeIP). 
+
+Operativamente, al inicio de cada ejercicio fiscal, la Dirección Financiera del GAD Loja y la UMAPAL actualizarán la programación de las metas del propósito en el SIPeIP. A nivel de terreno, la fiscalización técnica externa consolidará los reportes mensuales de avance físico y financiero de obra previo a la validación de las planillas de pago. Concluido cada semestre, la institución remitirá un reporte gerencial a Planifica Ecuador constatando el grado de cumplimiento de los indicadores de la MML y justificando, de ser el caso, los correctivos técnicos aplicados para mitigar retrasos.
+
+## Evaluación de resultados e impacto
+Para asegurar que los fondos públicos invertidos erradicaron el problema central del área de influencia (Barrio Carigán y áreas aledañas), se establece un sistema dual de evaluación Ex-Post:
+
+1. **Evaluación de Resultados (Fin de Obra):** De manera inmediata tras la recepción definitiva de la infraestructura, se verificará materialmente el cumplimiento de los indicadores de propósito:
+   * Instalación efectiva y funcionabilidad de las 1,200 acometidas con micro-medición inteligente.
+   * Reducción constatada del Índice de Agua No Contabilizada (ANC) al umbral técnico del $15.00\%$.
+   * Prueba hidráulica de abastecimiento regular y continuo (Presión dinámica de $15 \text{ a } 40 \text{ m.c.a.}$).
+   
+2. **Evaluación de Impactos (A mediano plazo):** Conforme a los lineamientos de Planifica Ecuador, luego de 24 meses de operación consolidada del sistema, se evaluarán las externalidades sociales, cuantificando la reducción efectiva de las tasas de morbilidad por enfermedades de origen hídrico (EDAs) a través de los reportes del Ministerio de Salud Pública y verificando la mejora de calidad del agua según norma INEN 1108.
+
+## Actualización de Línea Base
+Considerando la dinámica poblacional del sector urbano, una vez consolidado el financiamiento para el inicio de las intervenciones físicas, la UMAPAL procederá con la verificación "In-Situ" del catastro técnico y comercial de los beneficiarios del barrio Carigán. Al finalizar la obra, esta línea base actualizada se migrará junto a las coordenadas "As-Built" de válvulas y tuberías PVC-O hacia el **Sistema de Información Geográfica Municipal (SIG-Loja)**, estructurando el soporte fundamental para las futuras rutinas de mantenimiento preventivo y lectura de medidores.

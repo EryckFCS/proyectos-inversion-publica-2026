@@ -30,8 +30,6 @@ dependencies = [
     "linearmodels>=7.0",
 ]
 
-[tool.uv.sources]
-capital-workstation-libs = { path = "../../../../../Capital_Workstation/capital-workstation-libs", editable = true }
 
 [dependency-groups]
 dev = [

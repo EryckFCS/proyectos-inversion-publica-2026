@@ -61,8 +61,9 @@ async def index_normative_docs(metadata_path, base_raw_dir, collection_name="mar
 
 
 if __name__ == "__main__":
-    meta_p = Path("data/raw/marco_normativo/metadata.json")
-    raw_d = Path("data/raw/marco_normativo")
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
+    meta_p = PROJECT_ROOT / "data" / "raw" / "marco_normativo" / "metadata.json"
+    raw_d = PROJECT_ROOT / "data" / "raw" / "marco_normativo"
 
     if not meta_p.exists():
         print(f"Metadata not found at {meta_p}. Please check paths.")
