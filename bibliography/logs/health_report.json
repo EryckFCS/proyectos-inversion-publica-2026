@@ -1,0 +1,35 @@
+{
+    "stats": {
+        "coverage": {
+            "total_raw": 4,
+            "total_md": 4,
+            "missing_conversions": 0,
+            "orphans_detected": 0
+        },
+        "integrity": {
+            "verified_sync": 4,
+            "mismatches": 0,
+            "mismatch_list": []
+        }
+    },
+    "pipeline_result": {
+        "collection": "public_investment_projects",
+        "files_processed": 4,
+        "total_chunks": 0,
+        "errors": [
+            "guia-metodologica-para-la-evaluacion-de-la-descentralizacion.md",
+            "pnd2025_plan_nacional_de_desarrollo_2025_2029_ecuador_no_s.md",
+            "1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica.md",
+            "pdot_canton_loja_2023_2027.md"
+        ]
+    },
+    "layers": {
+        "lake_integrity": true,
+        "coverage_ok": true
+    },
+    "timestamp": "2026-05-17T20:53:59.281282",
+    "project_info": {
+        "name": "intel-public_investment_projects",
+        "root": "/home/erick-fcs/Documentos/universidad/07_Ciclo/septimo_ciclo/public_investment_projects/bibliography"
+    }
+}
