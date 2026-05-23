@@ -1,0 +1,129 @@
+---
+title: "GUÍA METODOLÓGICA DE ENTREVISTA"
+author:
+  - "Erick Fabricio Condoy Seraquive"
+  - "Erik Yoel"
+  - "Marvin Valdivieso"
+  - "Abel Espinosa"
+  - "Helen Beltrán"
+date: "2026-05-19"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Laboratorio de Proyectos de Inversión Pública"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+lang: es
+has-cover-image: true
+format:
+  pdf:
+    template: ../../template.tex
+    toc: false
+    number-sections: false
+    pdf-engine: pdflatex
+    geometry:
+      - top=20mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=20mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \justifying
+          \usepackage{setspace}
+          \singlespacing
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \newcommand{\logoUNL}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_unl.png}
+          \newcommand{\logoECONOMIA}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_economia.jpg}
+---
+
+\justifying
+\singlespacing
+
+# Cuestionario de Entrevista - Proyecto Carigán
+
+**Equipo de Trabajo:** Erick Condoy, Erik Yoel, Marvin Valdivieso, Abel Espinosa, Helen Beltrán.
+
+\vspace{0.3cm}
+
+### Datos Generales
+1. **Nombre del Entrevistado/a:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. **Representación:**  
+   [ ] Dirigente Vecinal  
+   [ ] Morador  
+   [ ] Técnico (UMAPAL)  
+   [ ] Representante Institucional  
+3. **Sector:**  
+   [ ] Carigán Alto  
+   [ ] San José del Plateado  
+   [ ] Cisol  
+   [ ] Otro (Especifique): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4. **Tiempo de Residencia (Años):** \_\_\_\_\_\_\_\_\_\_\_
+5. **Fecha y Hora:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\vspace{0.5cm}
+
+### Sección I: Abastecimiento y Vida Cotidiana
+
+1. **Abastecimiento Familiar:** El barrio registra un promedio de agua potable de solo 8.5 horas al día. ¿Cómo soluciona su familia el desabastecimiento diario en las horas de corte? Describa acciones específicas como almacenamiento en la madrugada, acarreo a pie, compra a tanqueros o mangueras compartidas. ¿Se producen desacuerdos vecinales por el acceso a las llaves de agua activas del sector?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+2. **Gastos Adicionales (Costos Ocultos):** Detalle los gastos económicos inesperados causados directamente por la escasez o mala calidad del agua. Considere compras de agua embotellada, reparación de grifos obstruidos con tierra, mantenimiento de calefones o lavadoras dañadas por cortes repentinos, y pérdida de jornadas laborales. En negocios locales, ¿de qué forma disminuyen las ganancias diarias?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+3. **Salud e Higiene Familiar:** Describa el impacto de la falta de agua en el cuidado de los niños, personas con discapacidad o adultos mayores del hogar. Detalle problemas concretos como suspensión de clases escolares por baños inhabilitados, enfermedades estomacales por consumo de agua almacenada y la dificultad física del acarreo manual en calles empinadas.
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+\vspace{0.5cm}
+
+### Sección II: Viabilidad Financiera y Sostenibilidad
+
+4. **Contribución por Mejoras (CEM):** La construcción de la nueva red de 12.8 km y el tanque de reserva de 500 $m^3$ exige por ley el cobro de la contribución especial de mejoras a través del impuesto predial. Bajo la garantía municipal de recibir agua potable continua las 24 horas del día, ¿asumirían los vecinos este pago? Detalle si existe desconfianza barrial ante cobros previos a la operatividad de la obra.
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+5. **Medidores y Consumo de Subsistencia:** La instalación de medidores individuales busca erradicar el desperdicio del recurso. Sin embargo, en las zonas altas es habitual el uso de agua para huertos familiares o consumo pecuario de subsistencia (Zalapa). ¿Qué repercusiones sociales generaría un control estricto o prohibición del uso de agua de red para estas actividades productivas familiares?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+6. **Organización Comunitaria:** Ante demoras municipales en la reparación de la red local, ¿cuenta la directiva y el vecindario con capacidad organizativa autónoma para resolver averías menores? Describa experiencias previas de trabajo conjunto, como mingas o gestiones exitosas del sector, que demuestren esta unión barrial.
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+\vspace{0.5cm}
+
+### Sección III: Molestias y Riesgos en Fase de Obra
+
+7. **Zonas Inestables y de Riesgo:** Debido a las pendientes pronunciadas (superiores al 30%) y el suelo de arcillas expansivas inestables de Carigán, identifique viviendas, muros de tierra o tramos viales vulnerables a agrietamientos o deslizamientos por el paso de maquinaria pesada durante el zanjado. ¿Qué sectores específicos corren riesgo de quedar incomunicados?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+8. **Tolerancia a Molestias de Construcción:** La obra generará cierres viales temporales, polvo, ruido y acumulación de tierra. ¿Qué nivel de tolerancia social estima en los moradores y cómo debería operar el canal de atención de reclamos del contratista para evitar paralizaciones forzadas de la obra por descontento vecinal?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+9. **Detalle Clave del Territorio:** Según su experiencia viviendo en el sector, ¿cuál es el factor social o técnico crítico que los planificadores municipales omiten en los diseños de escritorio y que, de no considerarse, provocará el fallo técnico del proyecto en campo?
+   
+   *Registro de Campo:*
+   \vspace{2.2cm}
+
+\vspace{1.2cm}
+
+\begin{center}
+\begin{tabular}{cc}
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+Firma del Entrevistado/a & Firma del Entrevistador \\
+C.I.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ & C.I.: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+\end{tabular}
+\end{center}
