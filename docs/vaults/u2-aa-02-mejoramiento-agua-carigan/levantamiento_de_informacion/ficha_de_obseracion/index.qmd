@@ -1,0 +1,131 @@
+---
+title: "FICHA DE OBSERVACIÓN DIRECTA DE CAMPO"
+author:
+  - "Erick Fabricio Condoy Seraquive"
+  - "Erik Yoel"
+  - "Marvin Valdivieso"
+  - "Abel Espinosa"
+  - "Helen Beltrán"
+date: "2026-05-19"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Laboratorio de Proyectos de Inversión Pública"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+lang: es
+has-cover-image: true
+format:
+  pdf:
+    template: ../../template.tex
+    toc: false
+    number-sections: false
+    pdf-engine: pdflatex
+    geometry:
+      - top=20mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=20mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \justifying
+          \usepackage{setspace}
+          \singlespacing
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \newcommand{\logoUNL}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_unl.png}
+          \newcommand{\logoECONOMIA}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_economia.jpg}
+---
+
+\justifying
+\singlespacing
+
+# Ficha de Observación de Campo - Proyecto Carigán
+
+**Equipo Evaluador:** Erick Condoy, Erik Yoel, Marvin Valdivieso, Abel Espinosa, Helen Beltrán.
+
+\vspace{0.3cm}
+
+### Datos de Control
+1. **Fecha de la Observación:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. **Sector Observado:**  
+   [ ] Carigán Alto  
+   [ ] San José del Plateado  
+   [ ] Cisol  
+   [ ] Otro: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. **Punto Georreferenciado / Calle / Cota Aprox:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4. **Condiciones Climáticas:** [ ] Lluvia  [ ] Seco/Sol  [ ] Nublado
+
+\vspace{0.5cm}
+
+### I. Estado de la Infraestructura Hídrica Visible
+
+1. **Fugas y Escurrimientos en Vías:**  
+   *Registre humedad anómala, lodo o escurrimientos activos en calzadas de lastre o tierra durante días de sol, como indicio directo de averías en redes subterráneas obsoletas.*  
+   [ ] Sí  [ ] No  [ ] Dudoso  
+   *Ubicación y magnitud del afloramiento:*  
+   \vspace{2.2cm}
+
+2. **Tuberías Expuestas o Informales:**  
+   *Identifique mangueras de polietileno o tuberías de PVC instaladas al aire libre en taludes, cruces de zanjas o conexiones domiciliarias improvisadas sin protección técnica.*  
+   [ ] Sí  [ ] No  
+   *Diámetro estimado, estado de desgaste físico y exposición:*  
+   \vspace{2.2cm}
+
+3. **Sistemas Domésticos de Almacenamiento:**  
+   *Registre la tipología y volumen de depósitos exteriores visibles utilizados por las familias para contrarrestar la discontinuidad del servicio.*  
+   [ ] Tanques plásticos de reserva (azul / 500L - 1000L)  
+   [ ] Cisternas de hormigón a nivel de suelo  
+   [ ] Bidones, baldes o recipientes de menor escala  
+   *Condición física de limpieza e higiene del almacenamiento:*  
+   \vspace{2.2cm}
+
+\vspace{0.5cm}
+
+### II. Condiciones Físicas de la Vialidad y Estabilidad del Suelo
+
+4. **Pendientes y Dificultad Topográfica:**  
+   *Evalúe la inclinación del tramo de calle observado y su viabilidad para el ingreso, operación y maniobra de retroexcavadoras.*  
+   [ ] Pendiente moderada (menor a 15%)  
+   [ ] Pendiente severa (superior a 30%)  
+   *Estado del talud vial y riesgos de deslizamiento por excavación:*  
+   \vspace{2.2cm}
+
+5. **Vulnerabilidad de las Viviendas Autoconstruidas:**  
+   *Registre la presencia de viviendas o cerramientos ubicados en bordes de taludes inestables sin cimentación técnica o protegidos por muros informales (sacados, llantas o piedras).*  
+   [ ] Sí  [ ] No  
+   *Distancia aproximada a la línea de zanja proyectada y riesgo estructural:*  
+   \vspace{2.2cm}
+
+\vspace{0.5cm}
+
+### III. Condiciones Sanitarias y Ambientales Visibles
+
+6. **Calidad Física del Agua en Puntos Públicos:**  
+   *Verifique las condiciones físicas del agua obtenida directamente en grifos escolares, lavaderos comunitarios o piletas vecinales.*  
+   [ ] Presencia de sedimentos o tierra acumulada  
+   [ ] Coloración / Turbiedad visible (tono amarillento o café)  
+   [ ] Agua cristalina  
+   *Descripción organoléptica de la muestra:*  
+   \vspace{2.2cm}
+
+7. **Riesgos Sanitarios por Agua Estancada:**  
+   *Identifique focos de insalubridad como acumulación de agua de lluvia o depósitos de almacenamiento destapados propensos a la proliferación de mosquitos y vectores.*  
+   [ ] Sí  [ ] No  
+   *Detalle sanitario y proximidad a áreas de juego o viviendas:*  
+   \vspace{2.2cm}
+
+\vspace{0.5cm}
+
+### IV. Notas y Croquis de Campo
+
+*Dibuje o describa esquemáticamente los puntos geográficos de estrangulamiento vial, intersecciones críticas o áreas inestables observadas.*
+
+\vspace{5cm}
+
+\begin{center}
+\begin{tabular}{cc}
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+Firma del Observador Responsable & Firma del Co-Evaluador \\
+\end{tabular}
+\end{center}

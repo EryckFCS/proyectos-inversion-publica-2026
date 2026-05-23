@@ -204,8 +204,15 @@ El acervo físico del proyecto se compone de tres nodos estructurales fundamenta
 \midrule
 4. Red de Distribución Principal & Sectores Carigán Alto, San José y Cisol & Red mallada 12.8 km (Polígono periurbano) & 2,150--2,310 \\
 \end{longtable}
-\fuente{Sistemas de Información Geográfica del GAD Loja y bitácoras técnicas de la UMAPAL.}
 \nota{Coordenadas georreferenciadas en base al sistema de proyección universal transversal de Mercator (UTM) WGS84, huso 17 Sur. El acervo físico conecta la captación de Zalapa con el subsistema de tratamiento y almacenamiento de Carigán Alto.}
+:::
+
+::: {#fig-localizacion layout-ncol=2}
+![Macro-localización: Contextualización de la Parroquia Carigán en el Cantón Loja](asset/mapa_macro_carigan.png){#fig-macro width="49%"}
+
+![Micro-localización: Red Vial, Hidrografía, Equipamientos y Zonas de Intervención Directa](asset/mapa_real_vectorial.png){#fig-micro width="49%"}
+
+Portafolio Cartográfico Científico del Proyecto Carigán (Elaboración propia con datos vectoriales de OpenStreetMap)
 :::
 
 ### Área de Influencia Directa e Impacto Territorial

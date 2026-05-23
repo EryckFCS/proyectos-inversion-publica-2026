@@ -1,0 +1,104 @@
+---
+title: "GUÍA METODOLÓGICA DE GRUPO FOCAL"
+author:
+  - "Erick Fabricio Condoy Seraquive"
+  - "Erik Yoel"
+  - "Marvin Valdivieso"
+  - "Abel Espinosa"
+  - "Helen Beltrán"
+date: "2026-05-19"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Laboratorio de Proyectos de Inversión Pública"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+lang: es
+has-cover-image: true
+format:
+  pdf:
+    template: ../../template.tex
+    toc: false
+    number-sections: false
+    pdf-engine: pdflatex
+    geometry:
+      - top=20mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=20mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \justifying
+          \usepackage{setspace}
+          \singlespacing
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \newcommand{\logoUNL}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_unl.png}
+          \newcommand{\logoECONOMIA}{/home/erick-fcs/Capital_Workstation/capital-workstation-libs/src/ecs_quantitative/reporting/assets/logos/logo_economia.jpg}
+---
+
+\justifying
+\singlespacing
+
+# Guía de Grupo Focal - Proyecto Carigán
+
+**Equipo Moderador/Registrador:** Erick Condoy, Erik Yoel, Marvin Valdivieso, Abel Espinosa, Helen Beltrán.
+
+\vspace{0.3cm}
+
+### Datos de Control
+1. **Fecha y Hora del Grupo Focal:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. **Lugar del Encuentro (Casa Barrial, Escuela, etc.):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. **Sectores Participantes Representados:**  
+   [ ] Carigán Central  [ ] Carigán Alto  [ ] San José del Plateado  [ ] Cisol  [ ] Bolacachi
+4. **Moderador Responsable:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Registrador:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\vspace{0.5cm}
+
+### Registro Breve de Participantes (Máximo 10)
+
+| No. | Nombre Completo | Representación Barrial / Sector | Firma de Asistencia |
+| :--- | :--- | :--- | :--- |
+| **1** | | | |
+| **2** | | | |
+| **3** | | | |
+| **4** | | | |
+| **5** | | | |
+| **6** | | | |
+| **7** | | | |
+| **8** | | | |
+| **9** | | | |
+| **10** | | | |
+
+\vspace{0.5cm}
+
+### Dinámica de Debate y Preguntas Generadoras
+
+#### Bloque I: La Crisis Diaria y los Hacks Vecinales (Diagnóstico Social)
+* **Pregunta Detonante 1:** Analicemos el impacto diario del racionamiento de agua potable en el sector. ¿De qué manera las interrupciones del servicio afectan de forma directa el desarrollo familiar y los roles de cuidado de mujeres y adultos mayores? Describan las estrategias colectivas más drásticas que el vecindario debió adoptar ante la escasez.
+* **Puntos Clave a Registrar:** *Horarios críticos de corte, costos monetarios por agua envasada, prevalencia de problemas digestivos comunitarios.*
+  \vspace{2.8cm}
+
+#### Bloque II: Viabilidad del Pago y Sostenibilidad Financiera (La CEM y Tarifas)
+* **Pregunta Detonante 2:** La ejecución de la red de 12.8 km y el tanque de reserva de 500 $m^3$ requiere por ley recuperar costos mediante la Contribución Especial de Mejoras (CEM) en el catastro predial. Bajo la condición de recibir agua limpia de forma continua las 24 horas, ¿cuál es el consenso del grupo respecto a este pago? ¿Qué salvaguardas o garantías exige la asamblea antes de aceptar la emisión de este impuesto predial?
+* **Puntos Clave a Registrar:** *Nivel de confianza en los plazos municipales, disponibilidad de pago autodeclarada, temores de cobros previos al funcionamiento.*
+  \vspace{2.8cm}
+
+#### Bloque III: Micromedición vs. Usos de Subsistencia
+* **Pregunta Detonante 3:** Las zonas periurbanas de Carigán combinan el uso residencial con cultivos de pequeña escala y ganadería de subsistencia (Zalapa). Ante la micromedición obligatoria de la nueva red, ¿qué alternativas viables proponen los usuarios para regular el consumo eficiente sin asfixiar la producción alimentaria del hogar?
+* **Puntos Clave a Registrar:** *Tarifación diferenciada por volumen, resistencia al control técnico de caudal, conflictos por agua de riego.*
+  \vspace{2.8cm}
+
+#### Bloque IV: Corresponsabilidad y Fiscalización Comunitaria
+* **Pregunta Detonante 4:** La fase de construcción de la red mallada tendrá una duración de 14 meses y generará cierres de vías, polvo y excavaciones en calles de tierra. ¿Cómo organizará la asamblea barrial la conformación de la **Veeduría Ciudadana** para supervisar los avances del contratista y asegurar la oportuna atención a daños vecinales?
+* **Puntos Clave a Registrar:** *Estructura del comité de control barrial, mingas de despeje de vías, canales rápidos de denuncia técnica.*
+  \vspace{2.8cm}
+
+\vspace{1.2cm}
+
+\begin{center}
+\begin{tabular}{cc}
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+Firma del Moderador (UNL) & Firma del Registrador (UNL) \\
+\end{tabular}
+\end{center}

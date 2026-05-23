@@ -1,5 +1,11 @@
 {
-  "datasets": [],
+  "datasets": [
+    {
+      "id": "carigan_boundary",
+      "filename": "carigan_boundary.geojson",
+      "lake_path": "/home/erick-fcs/.capital/lake/datasets/carigan_boundary.geojson"
+    }
+  ],
   "bibliography": [
     {
       "id": "1-guia-metodologica-para-la-presentacion-de-proyectos-de-inversion-publica",
