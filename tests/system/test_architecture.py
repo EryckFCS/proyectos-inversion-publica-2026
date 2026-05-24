@@ -73,8 +73,34 @@ def test_evidence_naming_convention():
             )
 
 
+def test_zero_floating_in_vault_units():
+    """Enfuerza la Doctrina Zero Floating dentro de la raíz de cada sub-bóveda y sus sub-unidades."""
+    vaults_path = REPO_ROOT / "docs" / "vaults"
+    if not vaults_path.exists():
+        pytest.skip("No docs/vaults directory found.")
+
+    forbidden_ext = [".docx", ".xlsx", ".pdf", ".csv", ".dta", ".do", ".zip", ".rar"]
+    allowed_names = ["index.qmd", "references.bib", "knowledge_map.json", "settings.json", "settings.toml", ".gitignore", "_quarto.yml", "readme.md", "README.md"]
+
+    for p in vaults_path.rglob("*"):
+        if p.is_file() and not p.name.startswith("."):
+            parts = p.parts
+            fine_dirs = {
+                "assets", "data", "scripts", "logs", "readings", "scratch", "notebooks", ".quarto", "chapters", "reports",
+                "evidencia", "levantamiento_de_informacion"
+            }
+            if not any(fd in parts for fd in fine_dirs):
+                is_forbidden = p.suffix in forbidden_ext or (p.suffix in [".md", ".py"] and p.name not in allowed_names)
+                if is_forbidden and "template" not in p.name.lower():
+                    pytest.fail(
+                        f"Archivo flotante prohibido detectado en la raíz de la bóveda '{p.parent.name}': {p.name}. "
+                        f"Por favor muévelo a assets/, data/, scripts/, o readings/."
+                    )
+
+
 def test_governance_files():
     """Valida la presencia de archivos críticos de gobernanza."""
     required_files = ["AGENTS.md", "pyproject.toml", "uv.lock"]
     for f in required_files:
         assert (REPO_ROOT / f).is_file(), f"Archivo de gobernanza ausente: {f}"
+
