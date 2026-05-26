@@ -1,9 +1,12 @@
 import re
 from pathlib import Path
+import sys
 import pytest
 
 # Localización de la raíz del repositorio relativa a este archivo (tests/system/test_architecture.py)
 REPO_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(REPO_ROOT))
+
 
 
 def test_root_structure():
@@ -103,4 +106,6 @@ def test_governance_files():
     required_files = ["AGENTS.md", "pyproject.toml", "uv.lock"]
     for f in required_files:
         assert (REPO_ROOT / f).is_file(), f"Archivo de gobernanza ausente: {f}"
+
+
 
