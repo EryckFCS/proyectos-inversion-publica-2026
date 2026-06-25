@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Capital_Workstation/capital-workstation-libs"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"quarto.path": "/usr/local/bin/quarto"
+	}
+}
