@@ -1,30 +1,90 @@
 # Anexos
 
-## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda
-Según el **Certificado de Intersección No. 456-SUIA**, el polígono de intervención del proyecto no intersecta con el Sistema Nacional de Áreas Protegidas (SNAP), Patrimonio Forestal del Estado ni Bosques Protectores. En cumplimiento estricto con la normativa ambiental vigente y el principio precautorio de la Constitución, se incluye en el expediente digital el **Registro Ambiental** categorizado para obras de infraestructura básica urbana, aprobado mediante resolución formal de la Autoridad Ambiental Competente.
+## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda.
+El polígono de intervención del proyecto se encuentra libre de intersección con el Sistema Nacional de Áreas Protegidas (SNAP), Patrimonio Forestal del Estado y Bosques Protectores, conforme lo certifica la resolución ambiental **No. 456-SUIA**. El GAD Municipal de Loja cuenta con el **Registro Ambiental** aprobado para la ejecución de infraestructura de agua potable y saneamiento urbano, emitido por la Autoridad Ambiental Competente en estricta conformidad con el Código Orgánico del Ambiente.
 
-## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras
-De conformidad con los lineamientos del Sistema Nacional de Inversión Pública (SNIP), el expediente técnico se ampara y viabiliza a través de las siguientes certificaciones formales (adjuntas en el repositorio digital físico del proyecto):
+## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras.
+El expediente técnico y presupuestario del proyecto está respaldado por tres documentos habilitantes emitidos por las direcciones correspondientes del GAD Municipal de Loja:
 
-1. **Certificación de Disponibilidad de Fondos:** Emitida por la Dirección Financiera del GAD Municipal de Loja, avalando la existencia de la contraparte fiscal para el ejercicio presupuestario corriente.
-2. **Aval Técnico Hidráulico (UMAPAL):** Resolución técnica que certifica la factibilidad de los diseños definitivos, topografía y memorias de cálculo de la red de PVC-O.
-3. **Certificación de Alineación PDOT:** Dictamen vinculante de la Dirección de Planificación confirmando la priorización del proyecto en el Plan Plurianual de Inversiones 2023-2027 (Página 1056).
+1. **Certificación de Disponibilidad Presupuestaria:** Documento financiero que avala la existencia de los recursos de contraparte municipal necesarios para cubrir el ciclo fiscal vigente de la obra.
+2. **Factibilidad Técnica y Aprobación de Diseños (UMAPAL):** Informe de ingeniería sanitaria que valida las memorias de cálculo hidráulico, el trazado topográfico de las líneas y la especificación de los materiales de PVC-O.
+3. **Certificación de Prioridad y Consistencia Planificadora:** Dictamen emitido por la Dirección de Planificación del GAD Loja, ratificando la inclusión del proyecto en el Plan Plurianual de Inversiones (PPI) del PDOT 2023-2027 (Página 1056).
 
-## Instrumentos Complementarios y Trazabilidad
+---
 
-### Formato Estructurado de Entrevista a Actores Clave (Investigación de Campo)
-Con el fin de garantizar la participación ciudadana obligatoria, validar empíricamente la línea base y asegurar la apropiación comunitaria de la infraestructura, se diseñó el siguiente instrumento semiestructurado para su aplicación en el área de influencia directa.
+## Estudios de soporte y diagnóstico complementario (Información metodológica adicional)
 
-**Objetivo:** Recolectar información primaria sobre la percepción de la problemática hídrica, la disposición a pagar (DAP) la Contribución Especial de Mejoras (CEM) y la factibilidad social del proyecto.
-**Población Objetivo:** Líderes barriales de Carigán, usuarios actuales, directivas vecinales y delegados operativos de la UMAPAL.
+### 1. Articulación Territorial Plurianual (PDOT Loja)
+La intervención se articula de forma orgánica con la planificación territorial de la provincia y cantón Loja. La Tabla \ref{tbl-articulacion-metas} describe la vinculación del proyecto con las políticas y metas del **Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Loja 2023-2027**:
 
-| Bloque Temático | Preguntas Abiertas y Semiestructuradas |
-| :--- | :--- |
-| **I. Diagnóstico del Servicio Actual** | 1. ¿Con qué frecuencia exacta experimenta cortes o racionamientos en el suministro de agua en su domicilio? <br> 2. ¿Cómo describiría cualitativamente la presión y calidad (color, olor, sabor) del agua que recibe actualmente? <br> 3. ¿Qué impacto económico mensual ha tenido en su familia la compra de agua envasada, el acarreo, o el daño de electrodomésticos por cortes repentinos? |
-| **II. Gestión y Sostenibilidad Financiera** | 4. ¿Considera que el valor mensual de la tarifa plana actual de agua refleja verdaderamente la calidad del servicio entregado? <br> 5. Frente a un escenario de garantía de agua potable presurizada las 24 horas del día, ¿estaría la comunidad dispuesta a asumir el prorrateo de una Contribución Especial de Mejoras (CEM)? |
-| **III. Participación Social y Expectativas** | 6. ¿Qué mecanismos de comunicación y socialización cree que debe implementar la UMAPAL de forma obligatoria durante la etapa de excavación e instalación de tuberías? <br> 7. A su criterio integral, ¿cuál es el beneficio transversal más importante que este proyecto de salud pública traerá para los grupos vulnerables de Carigán? |
+::: {#tbl-articulacion-metas}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{2.3cm}p{3.1cm}p{3.2cm}p{2.2cm}p{3.7cm}}
+\caption{Matriz de Contribución y Metas Territoriales del PDOT Loja} \label{tbl-articulacion-metas} \\
+\toprule
+\textbf{Eje Estratégico PDOT} & \textbf{Objetivo de Desarrollo (PDOT)} & \textbf{Política / Estrategia PDOT} & \textbf{Meta Cantonal (2027)} & \textbf{Contribución Específica del Proyecto} \\
+\midrule
+\endfirsthead
+\multicolumn{5}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Eje Estratégico PDOT} & \textbf{Objetivo de Desarrollo (PDOT)} & \textbf{Política / Estrategia PDOT} & \textbf{Meta Cantonal (2027)} & \textbf{Contribución Específica del Proyecto} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+**Socio-Cultural y Sanidad** & Garantizar el acceso universal a servicios de saneamiento y agua segura. & Expansión y renovación de redes hídricas en zonas de expansión urbana consolidada. & $98.96\%$ de cobertura urbana. & Instalación de 12.8 km de red mallada y conexión domiciliaria al 100\% de Carigán Alto (6,500 hab.). \\
+\midrule
+**Económico e Infraestructura** & Fortalecer la infraestructura para el desarrollo productivo y la eficiencia. & Reducción de costos de operación y pérdidas físicas en sistemas de distribución. & Reducción del $15\%$ en Agua No Contabilizada (ANC). & Eliminación del bombeo forzado de red baja. Reducción de pérdidas físicas locales de la red Carigán de $50\%$ a $10\%$. \\
+\midrule
+**Asentamientos Humanos** & Promover un crecimiento urbano ordenado y dotado de servicios básicos eficientes. & Consolidación de barrios periurbanos y control de expansión mediante dotación de servicios. & $100\%$ de barrios periurbanos consolidados. & Estabilización hidráulica por gravedad desde la cota $2,310 \text{ msnm}$, eliminando la vulnerabilidad y discontinuidad del servicio. \\
+\end{longtable}
+\fuente{Alineación con la Tabla 5: Matriz de Indicadores, Metas e Inversiones, PDOT Loja 2023-2027 (Página 298).}
+\nota{La contribución del proyecto en el Eje Económico e Infraestructura se traduce en un impacto sistémico sobre la Planta Carigán, liberando caudales perdidos y estabilizando el servicio para el $70\%$ de la ciudad de Loja dependiente de dicho subsistema.}
+:::
 
-### Árbol de Problemas del Sistema de Agua Potable (Evidencia Diagnóstica)
+### 2. Matriz de Caracterización y Gestión de Actores Involucrados
+La sostenibilidad de la intervención técnica se viabiliza mediante la gestión de las expectativas y competencias de las instituciones y organizaciones del cantón (Tabla \ref{tbl-involucrados}):
+
+::: {#tbl-involucrados}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{2.8cm}p{3.2cm}p{3.2cm}p{3.2cm}p{1.2cm}p{2.4cm}}
+\caption{Matriz de Caracterización y Gestión de Actores Involucrados} \label{tbl-involucrados} \\
+\toprule
+\textbf{Grupo / Actor} & \textbf{Intereses y Expectativas} & \textbf{Problemas Percibidos} & \textbf{Recursos y Mandatos} & \textbf{Posición} & \textbf{Estrategia de Gestión} \\
+\midrule
+\endfirsthead
+\multicolumn{6}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Grupo / Actor} & \textbf{Intereses y Expectativas} & \textbf{Problemas Percibidos} & \textbf{Recursos y Mandatos} & \textbf{Posición} & \textbf{Estrategia de Gestión} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+\textbf{1. Población Objetivo (Comunidad de Carigán)} & Acceso continuo (24/7) a agua potable de calidad; tarifas justas y equitativas; eliminación de enfermedades. & Cortes recurrentes de hasta 3 días; alta turbidez; costo elevado por compra de agua embotellada. & Participación comunitaria activa; disposición al pago de tarifas regularizadas. & Apoyo & Integración activa en socializaciones; veedurías ciudadanas en la fase de construcción de redes. \\
+\midrule
+\textbf{2. GAD Municipal de Loja} & Reducir la brecha de servicios básicos; cumplir metas de cobertura del PDOT 2023-2027; optimizar recursos públicos. & Presión social por reclamos vecinales; altos gastos por reparación de la red de asbesto colapsada. & Mandato constitucional (Art. 264); asignación de fondos del presupuesto anual y CEM. & Apoyo & Liderar la priorización en el SIPeIP y asegurar el financiamiento plurianual y la fiscalización de obra. \\
+\midrule
+\textbf{3. UMAPAL (Operador Técnico)} & Eficiencia técnica e hidráulica; reducción del Agua No Contabilizada (ANC) del 50.03\% al 15\%; facilidades de O\&M. & Frecuentes roturas físicas de tuberías de asbesto cemento; alto costo de reparaciones de emergencia. & Competencia técnica exclusiva; personal de ingeniería y cuadrillas operativas. & Apoyo & Capacitación continua en operación del sistema mallado de PVC-O y en la gestión de micromedición remota. \\
+\midrule
+\textbf{4. Centro de Salud Tipo A "Carigán" (MSP)} & Disminución de prevalencias de Enfermedades Diarreicas Agudas (EDAs) e infecciones parasitarias. & Alta incidencia mensual de EDAs infantiles y parasitosis por agua contaminada o mal almacenada. & Personal médico; registros epidemiológicos; capacidad de monitoreo de salubridad local. & Apoyo & Coordinar talleres de higiene sanitaria y uso correcto de agua potable; monitoreo epidemiológico conjunto. \\
+\midrule
+\textbf{5. Sector Comercial y Mercado Nueva Granada} & Disponibilidad de agua potable para inocuidad alimentaria y operatividad de microempresas y comedores. & Paralización eventual de ventas y preparación de alimentos durante cortes hídricos prolongados. & Aportes económicos por patentes comerciales; demanda hídrica comercial constante. & Apoyo & Socializar el calendario de empalmes de redes; regularizar conexiones comerciales con micromedición. \\
+\midrule
+\textbf{6. OBSA-UTPL (Observatorio Conflictos)} & Veeduría ambiental y social; equidad distributiva del recurso hídrico; gobernanza comunitaria. & Riesgos de asimetrías en cobros tarifarios y falta de transparencia en metas técnicas. & Capacidad técnica académica; mediación social y monitoreo de calidad del recurso. & Neutral / Apoyo & Establecer canales de diálogo técnico y académico; participación en comisiones de fiscalización social. \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración propia con base en talleres de socialización barrial y actas de coordinación interinstitucional con la UMAPAL.}
+:::
+
+El análisis de actores ratifica la viabilidad social y el respaldo comunitario unánime hacia la intervención, debido al prolongado déficit del servicio histórico. Esta alta cohesión vecinal actúa como un factor mitigador de riesgos para la posterior recaudación de la Contribución Especial de Mejoras (CEM) y la actualización de tarifas necesarias para la sostenibilidad operativa.
+
+### 3. Representación Vectorial de la Estructura Causal (TikZ)
+
+La correspondencia y jerarquía causal identificada en la parroquia se esquematiza vectorialmente en la Figura \ref{fig:arbol-problemas}, detallando la transición del problema central hacia sus determinantes técnicos e impactos sobre el bienestar:
 
 \begin{figure}[H]
 \centering
@@ -117,10 +177,10 @@ Con el fin de garantizar la participación ciudadana obligatoria, validar empír
 Para asegurar la catalogación nacional, el proyecto se enmarca en los siguientes sectores dictaminados por Planifica Ecuador (2021).
 **MACRO SECTOR:** 1 SOCIAL $\rightarrow$ **SECTOR:** EQUIPAMIENTO URBANO Y VIVIENDA $\rightarrow$ **A0602:** AGUA POTABLE.
 
-::: {#tbl-tipologias}
+::: {#tbl-tipologias-anexos}
 \fontsize{10}{12}\selectfont
 \begin{longtable}{llp{5.5cm}p{5cm}}
-\caption{Tipologías de Intervención Oficiales (Guía Planifica Ecuador - Anexo 2)} \label{tbl-tipologias} \\
+\caption{Tipologías de Intervención Oficiales (Guía Planifica Ecuador - Anexo 2)} \label{tbl-tipologias-anexos} \\
 \toprule
 \textbf{Cód.} & \textbf{Tipología de Intervención} & \textbf{Conceptualización Oficial} & \textbf{Actividades Operativas Relacionadas} \\
 \midrule
@@ -141,56 +201,58 @@ Para asegurar la catalogación nacional, el proyecto se enmarca en los siguiente
 \fuente{Anexo No. 2 de la Guía para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador.}
 :::
 
-### Demanda Pública Nacional Plurianual y Catalogación CPC
-Conforme al artículo 288 de la Constitución, la matriz CPC (Clasificador Central de Productos) para el fomento de compras públicas orientadas a proveedores ecuatorianos, se detalla en la Tabla \ref{tbl-demanda-nacional}.
-
-::: {#tbl-demanda-nacional}
-\fontsize{10}{12}\selectfont
-\begin{longtable}{p{2cm}p{2.5cm}p{4.5cm}p{1.5cm}p{2cm}p{2cm}}
-\caption{Demanda Pública Nacional Plurianual y Clasificación CPC} \label{tbl-demanda-nacional} \\
-\toprule
-\textbf{Código CPC} & \textbf{Tipo de Compra} & \textbf{Producto / Especificación} & \textbf{Cantidad} & \textbf{Costo Unit. ($USD$)} & \textbf{Total ($USD$)} \\
-\midrule
-\endfirsthead
-\multicolumn{6}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Código CPC} & \textbf{Tipo de Compra} & \textbf{Producto / Especificación} & \textbf{Cantidad} & \textbf{Costo Unit. ($USD$)} & \textbf{Total ($USD$)} \\
-\midrule
-\endhead
-\bottomrule
-\endfoot
-\bottomrule
-\endlastfoot
-45210 & Bien / Suministro & Tubería de PVC-O de 200mm y alta presión & 12,500 & 45.00 & 562,500.00 \\
-\addlinespace
-45230 & Bien / Suministro & Micro-medidores inteligentes volumétricos & 1,200 & 85.00 & 102,000.00 \\
-\end{longtable}
-\fuente{Plan Anual de Contrataciones (PAC) y proyecciones presupuestarias plurianuales de UMAPAL.}
-:::
-
 ---
 
-## Nota Técnica: Clasificación de Tablas por Densidad de Contenido
+### Metodología de Estimación Demográfica y Grupos de Atención Prioritaria (GAP)
 
-> **Propósito:** Las siguientes tablas, por su volumen de información y extensión de celdas, superan la capacidad óptima de visualización en media página. Se recomienda, para la versión de impresión institucional o revisión técnica formal ante Planifica Ecuador, asignarles una página exclusiva (`\clearpage` antes y después). Esta clasificación no afecta la compilación actual, pero orienta el diagramado final.
+La cuantificación de los beneficiarios por género y grupos específicos de atención prioritaria de la sección de sostenibilidad social se basa en una estimación demográfica de proporcionalidad indirecta. Este modelo aplica los pesos porcentuales y la estructura demográfica oficial de la parroquia Carigán del **Censo de Población y Vivienda 2022 (INEC)** sobre la población objetivo de diseño del proyecto (**6,500 habitantes**) definida por la Unidad Municipal de Agua Potable y Alcantarillado de Loja (UMAPAL).
 
-| Tabla | Título | Capítulo | Justificación |
-|:------|:-------|:---------|:--------------|
-| **Tabla 6** | Matriz de Alineación con el Objetivo Estratégico Institucional y COOTAD | Cap. 3 — Articulación | 6 columnas con texto narrativo denso en la columna "Enunciado Estratégico". Celdas multi-línea en 3 filas. |
-| **Tabla 8** | Matriz de Contribución y Metas Territoriales del PDOT Loja | Cap. 3 — Articulación | 5 columnas con celdas largas en "Contribución Específica del Proyecto" que requieren word-wrap extendido. |
-| **Tabla 9** | Matriz de Marco Lógico del Proyecto | Cap. 4 — Marco Lógico | 4 columnas de texto muy denso (indicadores QQT, supuestos). Ocupa página completa incluso con `\fontsize{10}`. |
-| **Tabla 10** | Matriz de Anualización de Metas Ponderadas | Cap. 4 — Marco Lógico | 8 columnas numéricas. Correcta en landscape o en página exclusiva para facilitar lectura técnica. |
+Para garantizar la consistencia matemática del modelo y evitar duplicaciones en la contabilización de personas en condición de vulnerabilidad, se aplican las siguientes ecuaciones y parámetros de proporcionalidad:
 
-: Tablas recomendadas para página exclusiva en versión de impresión institucional {#tbl-densidad-nota}
+1. **Desagregación por Género (Población de Diseño: $P_{Total} = 6,500$ hab.):**
+   * *Población Femenina ($P_{Mujeres}$):* Representa el $53.0\%$ de la población cantonal, de acuerdo con la Ficha de Estructura Poblacional del Censo 2022 en la Página 423 del PDOT.
+     \begin{equation}
+     P_{Mujeres} = P_{Total} \times 0.530 = 6,500 \times 0.530 = 3,445 \text{ hab.}
+     \label{eq:gap-mujeres}
+     \end{equation}
+   * *Población Masculina ($P_{Hombres}$):* Representa el $47.0\%$ de la población cantonal, de acuerdo con la Ficha de Estructura Poblacional del Censo 2022 en la Página 423 del PDOT.
+     \begin{equation}
+     P_{Hombres} = P_{Total} \times 0.470 = 6,500 \times 0.470 = 3,055 \text{ hab.}
+     \label{eq:gap-hombres}
+     \end{equation}
 
-**Tablas sin problema de renderizado** (corregidas y validadas en esta sesión):
+2. **Cálculo de Subgrupos de Atención Prioritaria (GAP):**
+   * *Infancia y Adolescencia ($GAP_{Niños}$, 0 a 14 años - Categoría "Población Joven" del PDOT):* Representa el $23.91\%$ de la estructura demográfica cantonal, de acuerdo con la Tabla 201 y Gráfico 31 del Censo 2022 en la Página 425 del PDOT.
+     \begin{equation}
+     GAP_{Niños} = P_{Total} \times 0.2391 \approx 1,554 \text{ hab.}
+     \label{eq:gap-ninos}
+     \end{equation}
+     Desagregación por sexo (47% hombres y 53% mujeres): $730$ hombres y $824$ mujeres.
+   * *Personas Adultas Mayores ($GAP_{Adultos}$, $\ge$ 65 años):* Representa el $9.65\%$ de la estructura demográfica cantonal, de acuerdo con el Diagnóstico por Grupos de Edad del Censo 2022 en la Página 425 del PDOT.
+     \begin{equation}
+     GAP_{Adultos} = P_{Total} \times 0.0965 \approx 627 \text{ hab.}
+     \label{eq:gap-adultos}
+     \end{equation}
+     Desagregación por sexo (47% hombres y 53% mujeres): $295$ hombres y $332$ mujeres.
+   * *Personas con Discapacidad ($GAP_{Discapacidad}$):* Representa una prevalencia estimada del $2.52\%$ (calculada a partir del registro cantonal de 6,313 personas con discapacidad reportado en la Página 431 del PDOT, dividido para la población cantonal proyectada de 250,000 habitantes). El desglose por sexo establece un $45.0\%$ de hombres y $55.0\%$ de mujeres (Página 431 del PDOT).
+     \begin{equation}
+     GAP_{Discapacidad} = P_{Total} \times 0.0252 \approx 164 \text{ hab.}
+     \label{eq:gap-discapacidad}
+     \end{equation}
+     Desagregación por sexo: $74$ hombres y $90$ mujeres.
+   * *Mujeres Embarazadas y Gestantes ($GAP_{Gestantes}$):* Corresponde a la estimación de gestación activa del Centro de Salud de Carigán (MSP) sobre el área de cobertura del proyecto, fijada en **45 gestantes**.
 
-- Tabla 1 (Sectores), Tabla 2 (Tipologías) — simple, 1 fila de datos.
-- Tabla 3 (Línea Base) — 3 columnas `p{}`, corregida ✅.
-- Tabla 4 (Balance Hídrico) — 5 columnas numéricas, OK.
-- Tabla 5 (Coordenadas Acervo) — 4 columnas `p{}`, corregida ✅.
-- Tabla 7 (Aporte al PND) — 7 columnas numéricas con `p{1.8cm}`, OK.
-- Tabla 11 (GAP), Tabla 12 (GAP Género), Tabla 13 (Evaluación Socioeconómica) — OK.
-- Tabla 14 (Presupuesto Inv.), Tabla 15 (Costos O&M), Tabla 16 (Flujo de Caja) — OK.
-- Tabla 17 (Financiamiento), Tabla 18 (Arreglos), Tabla 19 (Cronograma) — OK.
-- Tabla 20 (Tipologías Anexo), Tabla 21 (Demanda Nacional CPC) — OK.
+3. **Consistencia Demográfica de la Matriz Vulnerable:**
+   La población total catalogada dentro de los Grupos de Atención Prioritaria ($GAP_{Total}$) es la sumatoria mutuamente excluyente de cada subgrupo:
+   \begin{equation}
+   GAP_{Total} = GAP_{Niños} + GAP_{Adultos} + GAP_{Discapacidad} + GAP_{Gestantes}
+   \label{eq:gap-total-def}
+   \end{equation}
+   \begin{equation}
+   GAP_{Total} = 1,554 + 627 + 164 + 45 = 2,390 \text{ habitantes}
+   \label{eq:gap-total-val}
+   \end{equation}
+
+Este volumen representa el $36.77\%$ del total de los beneficiarios directos del proyecto, cumpliendo con la directriz metodológica de Planifica Ecuador que limita la población prioritaria al total de la población de diseño.
+
+---

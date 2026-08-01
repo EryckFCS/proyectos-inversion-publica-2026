@@ -6,10 +6,10 @@ Prioridad. La solicitud asegura el financiamiento vía Presupuesto General del E
 ## Nombre Proyecto
 Proyecto de factibilidad para el mejoramiento del sistema de agua potable en el barrio Carigán, parroquia Carigán del cantón Loja provincia de Loja.
 
-## Entidad (UDAF)
+## Entidad UDAF
 Gobierno Autónomo Descentralizado Municipal de Loja. Según el **COOTAD**, esta entidad posee la competencia exclusiva para la gestión de servicios de agua potable en su jurisdicción @cootad2010.
 
-## Entidad operativa desconcentrada (EOD)
+## Entidad operativa desconcentrada
 Unidad Municipal de Agua Potable y Alcantarillado (UMAPAL). Según el **Reglamento Orgánico Funcional del GAD Loja**, UMAPAL es la unidad técnica responsable de la operación y mantenimiento del sistema hídrico cantonal.
 
 ## Gabinete Sectorial
@@ -43,7 +43,7 @@ T01 & Infraestructura & Procesos de adquisición, construcción, ampliación, ma
 :::
 
 ## Plazo de ejecución
-18 meses. Este periodo se sustenta en la magnitud técnica de la obra (12.5 km de red) y la complejidad topográfica del sector Carigán. El cronograma contempla una fase de instalación y tendido de red de 14 meses, 2 meses destinados a pruebas de estanqueidad y desinfección, y 2 meses para el proceso de recepción provisional y liquidación técnica del proyecto.
+24 meses. Este periodo se sustenta en la magnitud técnica de la obra (19.2 km de red de distribución y 6.4 km de obras de drenaje y protección) y la complejidad topográfica del sector Carigán. El cronograma contempla el desarrollo de actividades de estudios y diseños técnicos, contratación pública, renovación de la red de distribución de agua potable, construcción de las obras complementarias de drenaje, instalación de equipos hidráulicos, pruebas de funcionamiento y puesta en operación del sistema.
 
 ## Monto total
-$ 1,050,000.00 USD. De acuerdo con el **Plan Plurianual de Inversiones del PDOT Loja 2023-2027 (Página 1056)**, este monto se ajusta a los techos presupuestarios definidos para la ampliación de redes en la Zona 4 @pdot_loja_2023.
+$ 1,327,578.28 USD. Este monto corresponde a la inversión pública requerida para la ejecución del mejoramiento del sistema de agua potable del barrio Carigán, conforme a los componentes, actividades, obras de drenaje frente a deslizamientos, equipos de cloración y presupuesto detallados en el respectivo estudio de factibilidad y alineado con los techos presupuestarios del PDOT Loja 2023-2027 @pdot_loja_2023.

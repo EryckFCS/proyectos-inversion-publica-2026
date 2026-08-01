@@ -11,6 +11,7 @@ faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
 school: "CARRERA DE ECONOMÍA"
 bibliography: references.bib
 lang: es
+fontsize: 12pt
 has-cover-image: true
 format:
   pdf:
@@ -32,9 +33,10 @@ format:
     include-in-header:
       - text: |
           \usepackage{ragged2e}
+          \usepackage{pdflscape}
           \justifying
           \usepackage{setspace}
-          \singlespacing
+          \onehalfspacing
           \usepackage{etoolbox}
           \usepackage{booktabs}
           \usepackage{caption}
@@ -72,7 +74,7 @@ format:
 ---
 
 \justifying
-\singlespacing
+\onehalfspacing
 
 \newpage
 {{< include chapters/01-datos-iniciales.qmd >}}

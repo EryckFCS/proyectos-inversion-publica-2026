@@ -2,7 +2,7 @@
 
 De conformidad con los lineamientos del **Capítulo 3** de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la viabilidad estratégica de un proyecto de inversión pública radica en su coherencia y articulación orgánica con los instrumentos de planificación vigentes en todos los niveles del Estado: el Plan Nacional de Desarrollo (PND), la planificación institucional de la entidad proponente (Objetivos Estratégicos Institucionales - OEI) y la planificación territorial (Plan de Desarrollo y Ordenamiento Territorial - PDOT).
 
-## Alineación objetivo estratégico institucional y competencia constitucional (COOTAD)
+## Alineación objetivo estratégico institucional
 
 El proyecto se enmarca directamente en el ejercicio de las competencias exclusivas y constitucionales del **Gobierno Autónomo Descentralizado Municipal del Cantón Loja (GAD Loja)**. De acuerdo con el **Artículo 264, numeral 4 de la Constitución de la República del Ecuador**, y en concordancia con el **Artículo 55, literal d) del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)**, los GAD municipales tienen la competencia exclusiva de:
 > *"Prestar los servicios públicos de agua potable, alcantarillado, depuración de aguas residuales, manejo de desechos sólidos, actividades de saneamiento ambiental y servicios de cementerios."*
@@ -36,31 +36,20 @@ Para efectivizar esta competencia, el GAD Loja opera a través de la **Unidad Mu
 \nota{La línea base institucional de cobertura en la cabecera cantonal de Loja ($95.50\%$) proviene del Censo INEC 2022. La meta cantonal al 2027 ($98.96\%$) es el techo definido por la UMAPAL para el área urbana consolidada.}
 :::
 
-## Contribución del proyecto a la meta del Plan Nacional de Desarrollo (PND)
+## Contribución del proyecto a la meta del Plan Nacional de Desarrollo alineada al indicador del objetivo estratégico institucional
 
 En el marco del **Plan Nacional de Desarrollo (PND) "Plan para el Nuevo Ecuador"** vigente @guia_planifica2021, el proyecto se articula directamente con el **Eje 2: Social**, cuyo **Objetivo 4** promueve:
 > *"Garantizar de forma progresiva el derecho humano al agua y saneamiento básico mediante infraestructura pública de calidad, sostenible y resiliente."*
 
 El indicador de impacto del PND asociado a este objetivo busca **incrementar el acceso de la población ecuatoriana a agua gestionada de manera segura**, cuya línea base a nivel nacional se sitúa en el **$65.40\%$** y la meta de planificación nacional aspira a alcanzar el **$78.20\%$** al cierre del periodo de planificación.
 
-### Metodología de Cálculo del Aporte Neto al Plan Nacional de Desarrollo
+La justificación cuantitativa de cómo la meta propósito del proyecto se inserta en el cumplimiento nacionalizado de las metas se calcula a partir de dos dimensiones territoriales. En la dimensión macroeconómica o nacional, el aporte fraccional del proyecto a la población cubierta se determina dividiendo la población objetivo (6,500 habitantes) para la población total proyectada del Ecuador (18.2 millones para 2026), lo que representa una contribución de:
+\begin{equation}
+\text{Aporte PND} = \frac{6,500}{18,200,000} \times 100 = 0.0357\%
+\end{equation}
+En la dimensión micro-territorial o cantonal, el aporte se mide en función de la población urbana del cantón Loja (206,000 habitantes), representando un incremento neto y directo de **$3.155\%$** en la cobertura urbana cantonal.
 
-De conformidad con la metodología prescrita en la **Guía de Planifica Ecuador** (páginas 12 y 13) @guia_planifica2021, la entidad ejecutora debe justificar cuantitativamente cómo la meta propósito del proyecto se inserta en el cumplimiento anualizado de las metas nacionales de planificación.
-
-El cálculo del aporte se realiza bajo dos dimensiones operativas y territoriales complementarias:
-
-1.  **Dimensión Macroeconómica o Nacional:** Aporte fraccional del proyecto a la población cubierta nacional:
-    $$\text{Aporte Proyecto al PND} (t) = \frac{\text{Población Objetivo del Proyecto} (t)}{\text{Población Total proyectada del Ecuador} (t)} \times 100$$
-    Considerando que la población proyectada del Ecuador para el Año 1 de operación (2026) es de aproximadamente **18.2 millones de habitantes** y la población beneficiaria directa del proyecto es de **6,500 habitantes**, el aporte directo a la métrica nacional es:
-    $$\text{Aporte PND} (1) = \frac{6,500}{18,200,000} \times 100 = 0.0357\%$$
-    Aunque la contribución relativa nacional parece modesta ($0.0357\%$), es el reflejo hidráulico real del aporte de un proyecto parroquial periurbano a la cobertura del Estado.
-2.  **Dimensión Micro-Territorial o Cantonal:** Aporte a la cobertura urbana local del GAD Loja:
-    $$\Delta \text{Cobertura}_{\text{Cantonal}} (t) = \frac{\text{Población Objetivo del Proyecto} (t)}{\text{Población Urbana Total del Cantón Loja} (t)} \times 100$$
-    Con una población urbana cantonal proyectada de **206,000 habitantes** (con una tasa de crecimiento de $1.44\%$), el proyecto aporta de manera directa un incremento neto e inamovible de **$3.155\%$** al indicador de cobertura del cantón Loja.
-
-### Anualización de Metas y Contribución Plurianual (Formato Oficial de la Guía)
-
-Para dar cumplimiento formal al formato de la tabla del apartado **3.2** de la Guía de Planifica Ecuador, se presenta la matriz unificada de anualización plurianual que desglosa la trayectoria nacional del indicador del PND, el aporte poblacional absoluto del proyecto y su contribución relativa anualizada en ambas dimensiones territoriales (Tabla \ref{tbl-contribucion-pnd}):
+La trayectoria anualizada del indicador nacional, el aporte absoluto del proyecto y su contribución relativa anualizada en ambas dimensiones territoriales se programan y detallan formalmente en la Tabla \ref{tbl-contribucion-pnd}:
 
 ::: {#tbl-contribucion-pnd}
 \fontsize{10}{12}\selectfont
@@ -89,35 +78,4 @@ Para dar cumplimiento formal al formato de la tabla del apartado **3.2** de la G
 \end{longtable}
 \fuente{Indicadores adaptados del Plan Nacional de Desarrollo "Plan para el Nuevo Ecuador" y proyecciones demográficas basadas en el Censo INEC 2022.}
 \nota{La línea 1 muestra la trayectoria nacional plurianual planteada por Planifica Ecuador para el indicador de acceso a agua segura. Las líneas 3 y 4 detallan las contribuciones anualizadas del proyecto que serán reportadas en la plataforma SIPeIP para justificar el dictamen de prioridad.}
-:::
-
-## Contribución a la planificación territorial y metas territoriales (PDOT Loja)
-
-A nivel subnacional, el proyecto se articula directamente con los tres componentes de planificación estratégica definidos en el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Loja 2023-2027** @pdot_loja_2023. La inversión pública en infraestructura hídrica cataliza metas concurrentes de desarrollo social, sostenibilidad económica y ordenamiento espacial urbano (Tabla \ref{tbl-articulacion-metas}):
-
-::: {#tbl-articulacion-metas}
-\fontsize{10}{12}\selectfont
-\begin{longtable}{p{2.3cm}p{3.1cm}p{3.2cm}p{2.2cm}p{3.7cm}}
-\caption{Matriz de Contribución y Metas Territoriales del PDOT Loja} \label{tbl-articulacion-metas} \\
-\toprule
-\textbf{Eje Estratégico PDOT} & \textbf{Objetivo de Desarrollo (PDOT)} & \textbf{Política / Estrategia PDOT} & \textbf{Meta Cantonal (2027)} & \textbf{Contribución Específica del Proyecto} \\
-\midrule
-\endfirsthead
-\multicolumn{5}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Eje Estratégico PDOT} & \textbf{Objetivo de Desarrollo (PDOT)} & \textbf{Política / Estrategia PDOT} & \textbf{Meta Cantonal (2027)} & \textbf{Contribución Específica del Proyecto} \\
-\midrule
-\endhead
-\bottomrule
-\endfoot
-\bottomrule
-\endlastfoot
-**Socio-Cultural y Sanidad** & Garantizar el acceso universal a servicios de saneamiento y agua segura. & Expansión y renovación de redes hídricas en zonas de expansión urbana consolidada. & $98.96\%$ de cobertura urbana. & Instalación de 12.8 km de red mallada y conexión domiciliaria al 100\% de Carigán Alto (6,500 hab.). \\
-\midrule
-**Económico e Infraestructura** & Fortalecer la infraestructura para el desarrollo productivo y la eficiencia. & Reducción de costos de operación y pérdidas físicas en sistemas de distribución. & Reducción del $15\%$ en Agua No Contabilizada (ANC). & Eliminación del bombeo forzado de red baja. Reducción de pérdidas físicas locales de la red Carigán de $50\%$ a $10\%$. \\
-\midrule
-**Asentamientos Humanos** & Promover un crecimiento urbano ordenado y dotado de servicios básicos eficientes. & Consolidación de barrios periurbanos y control de expansión mediante dotación de servicios. & $100\%$ de barrios periurbanos consolidados. & Estabilización hidráulica por gravedad desde la cota $2,310 \text{ msnm}$, eliminando la vulnerabilidad y discontinuidad del servicio. \\
-\end{longtable}
-\fuente{Alineación con la Tabla 5: Matriz de Indicadores, Metas e Inversiones, PDOT Loja 2023-2027 (Página 298).}
-\nota{La contribución del proyecto en el Eje Económico e Infraestructura se traduce en un impacto sistémico sobre la Planta Carigán, liberando caudales perdidos y estabilizando el servicio para el $70\%$ de la ciudad de Loja dependiente de dicho subsistema.}
 :::

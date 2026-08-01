@@ -8,58 +8,97 @@ La naturaleza de la intervención implica una modalidad de **Ejecución Directa 
 
 ::: {#tbl-arreglos}
 \fontsize{10}{12}\selectfont
-\begin{longtable}{p{3cm}p{4cm}p{7cm}}
+\begin{longtable}{cp{4.5cm}p{7.5cm}}
 \caption{Matriz de Arreglos e Intervención Institucional} \label{tbl-arreglos} \\
 \toprule
-\textbf{Tipo de Ejecución} & \textbf{Tipo de Arreglo} & \textbf{Instituciones Involucradas} \\
-\midrule
+\multicolumn{3}{c}{\textbf{ARREGLOS INSTITUCIONALES}} \\ \midrule
+\multicolumn{2}{c}{\textbf{Tipo de ejecución}} & \textbf{Instituciones} \\ \cmidrule(r){1-2}
+\textbf{Directa (D) o Indirecta (I) *} & \textbf{Tipo de arreglo **} & \textbf{Involucradas} \\ \midrule
 \endfirsthead
 \multicolumn{3}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Tipo de Ejecución} & \textbf{Tipo de Arreglo} & \textbf{Instituciones Involucradas} \\
-\midrule
+\toprule
+\multicolumn{3}{c}{\textbf{ARREGLOS INSTITUCIONALES}} \\ \midrule
+\multicolumn{2}{c}{\textbf{Tipo de ejecución}} & \textbf{Instituciones} \\ \cmidrule(r){1-2}
+\textbf{Directa (D) o Indirecta (I) *} & \textbf{Tipo de arreglo **} & \textbf{Involucradas} \\ \midrule
 \endhead
 \bottomrule
 \endfoot
 \bottomrule
 \endlastfoot
-Directa (D) & Financiamiento Integral & BDE (Aprobación de crédito interno) \\
+Directa (D) & Financiamiento Integral & Banco de Desarrollo del Ecuador (BDE) \\
 \addlinespace
-Directa (D) & Regulación Administrativa & MAATE (Certificación y control ambiental) \\
+Directa (D) & Regulación Administrativa & Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) \\
 \addlinespace
-Directa (D) & Rectoría Sanitaria & MSP (Vigilancia técnica de inocuidad del agua) \\
+Directa (D) & Rectoría Sanitaria & Ministerio de Salud Pública (MSP) / ARCSA \\
 \end{longtable}
-\fuente{Convenios interinstitucionales de cooperación y delegaciones ministeriales vigentes.}
+\fuente{Convenios interinstitucionales de cooperación y delegaciones ministeriales vigentes. * D: Directa; I: Indirecta. ** Tipo de arreglo o convenio específico instrumentado.}
 :::
 
 ## Cronograma valorado por componentes y actividades
 La programación técnica y financiera de las obras, distribuida por grupo de gasto y presupuestada de manera mensual para la etapa crítica de construcción, se establece en la Tabla \ref{tbl-cronograma}.
 
 ::: {#tbl-cronograma}
-\fontsize{10}{12}\selectfont
-\begin{longtable}{lp{2cm}ccccc}
-\caption{Cronograma Valorado de Inversión (Extracto del Primer Cuatrimestre)} \label{tbl-cronograma} \\
+\fontsize{9}{11}\selectfont
+\begin{longtable}{lp{3cm}ccc}
+\caption{Cronograma Valorado por Componente y Fuente de Financiamiento (dólares)} \label{tbl-cronograma} \\
 \toprule
-\textbf{Componentes del Proyecto} & \textbf{Grupo de Gasto} & \textbf{Mes 1 ($USD$)} & \textbf{Mes 2 ($USD$)} & \textbf{Mes 3 ($USD$)} & \textbf{Mes 4 ($USD$)} & \textbf{TOTAL ($USD$)} \\
+\textbf{Componentes / Rubros} & \textbf{Grupo de Gasto} & \textbf{Fiscales Año 1} & \textbf{Fiscales Año 2} & \textbf{TOTAL} \\
 \midrule
 \endfirsthead
-\multicolumn{7}{r}{Sigue en la página siguiente...} \\
+\multicolumn{5}{r}{Sigue en la página siguiente...} \\
 \midrule
-\textbf{Componentes del Proyecto} & \textbf{Grupo de Gasto} & \textbf{Mes 1 ($USD$)} & \textbf{Mes 2 ($USD$)} & \textbf{Mes 3 ($USD$)} & \textbf{Mes 4 ($USD$)} & \textbf{TOTAL ($USD$)} \\
+\textbf{Componentes / Rubros} & \textbf{Grupo de Gasto} & \textbf{Fiscales Año 1} & \textbf{Fiscales Año 2} & \textbf{TOTAL} \\
 \midrule
 \endhead
 \bottomrule
 \endfoot
 \bottomrule
 \endlastfoot
-Infraestructura y Obra Civil & Inversión & 150,000.00 & 200,000.00 & 250,000.00 & 200,000.00 & 800,000.00 \\
+Diseño técnico de la red fluvial & 73 - Consultoría & 40,000.00 & 0.00 & 40,000.00 \\
 \addlinespace
-Gestión Social y Capacitación & Corriente & 5,000.00 & 5,000.00 & 5,000.00 & 5,000.00 & 20,000.00 \\
+Cambio total del sistema de tuberías & 75 - Obra Pública & 802,500.00 & 267,500.00 & 1,070,000.00 \\
+\addlinespace
+Construcción de drenaje y protección & 75 - Obra Pública & 124,546.97 & 83,031.31 & 207,578.28 \\
+\addlinespace
+Campañas de educación sanitaria y socialización & 73 - Gestión Social & 3,000.00 & 7,000.00 & 10,000.00 \\
 \midrule
-\textbf{Total Cuatrimestral} & & \textbf{155,000.00} & \textbf{205,000.00} & \textbf{255,000.00} & \textbf{205,000.00} & \textbf{820,000.00} \\
+\textbf{Total Presupuesto} & & \textbf{970,046.97} & \textbf{357,531.31} & \textbf{1,327,578.28} \\
 \end{longtable}
-\fuente{Cronograma valorado consolidado de la Dirección de Obras Públicas - UMAPAL.}
+\fuente{Cronograma valorado consolidado de la Dirección de Obras Públicas - UMAPAL. Año 1 y Año 2 corresponden a la programación plurianual de ejecución física.}
 :::
 
 ## Demanda pública nacional plurianual
+
 En absoluto cumplimiento del artículo 288 de la Constitución de la República y de la Ley Orgánica del Sistema Nacional de Contratación Pública (LOSNCP), las compras públicas priorizarán la provisión nacional, particularmente respecto a bienes y servicios manufacturados localmente, tales como las tuberías de PVC-O de producción ecuatoriana certificadas. Asimismo, se privilegiará la contratación de personal y proveedores vinculados a la economía popular y solidaria o a las micro y pequeñas unidades productivas domiciliadas en el cantón Loja. Las adquisiciones se sujetarán al umbral de Valor Agregado Ecuatoriano (VAE) estipulado por el SERCOP para salvaguardar la democratización de la demanda pública.
+
+La cuantificación y estructuración plurianual de esta demanda se realiza asociando los rubros de adquisición técnica principal con su respectivo código del Clasificador Central de Productos (CPC) nacional (Tabla \ref{tbl-demanda-nacional}):
+
+::: {#tbl-demanda-nacional}
+\fontsize{8}{10}\selectfont
+\begin{longtable}{cc p{5cm} c cc c}
+\caption{Demanda Pública Plurianual y Clasificación CPC} \label{tbl-demanda-nacional} \\
+\toprule
+\textbf{CÓDIGO CPC} & \textbf{TIPO COMPRA} & \textbf{DETALLE DEL PRODUCTO} & \textbf{CANT.} & \textbf{Año 1 (USD)} & \textbf{Año 2 (USD)} & \textbf{TOTAL (USD)} \\
+\midrule
+\endfirsthead
+\multicolumn{7}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{CÓDIGO CPC} & \textbf{TIPO COMPRA} & \textbf{DETALLE DEL PRODUCTO} & \textbf{CANT.} & \textbf{Año 1 (USD)} & \textbf{Año 2 (USD)} & \textbf{TOTAL (USD)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+8334.00 & Servicio & Estudios y diseños técnicos del sistema de agua potable & 1 & 40,000.00 & 0.00 & 40,000.00 \\
+\addlinespace
+53251.00 & Obra & Renovación de la red de distribución de agua potable (19.2 km) & 1 & 802,500.00 & 267,500.00 & 1,070,000.00 \\
+\addlinespace
+53231.00 & Obra & Construcción de captación, tanque, caseta de cloración y drenajes & 1 & 124,546.97 & 83,031.31 & 207,578.28 \\
+\addlinespace
+92900.00 & Servicio & Campañas de educación sanitaria y socialización del proyecto & 1 & 3,000.00 & 7,000.00 & 10,000.00 \\
+\midrule
+\textbf{Total} & & & & \textbf{970,046.97} & \textbf{357,531.31} & \textbf{1,327,578.28} \\
+\end{longtable}
+\fuente{Plan Anual de Contrataciones (PAC) y proyecciones de UMAPAL. Los códigos CPC corresponden al Clasificador Central de Productos del SERCOP e insumos 100% de origen nacional.}
+:::

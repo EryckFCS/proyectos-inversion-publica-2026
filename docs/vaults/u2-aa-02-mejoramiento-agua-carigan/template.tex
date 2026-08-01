@@ -139,11 +139,15 @@ $endif$
 \captionsetup[table]{name=Tabla}
 
 % Márgenes APA 7
+$if(geometry)$
+\geometry{$for(geometry)$$geometry$$sep$,$endfor$}
+$else$
 \geometry{
   a4paper,
   margin=25.4mm,
   headheight=15mm
 }
+$endif$
 
 % --- Encabezados ---
 \pagestyle{fancy}
@@ -211,7 +215,7 @@ $else$
 \vspace{1cm}
 $endif$
 
-\doublespacing
+\onehalfspacing
 \setlength{\parindent}{1.27cm}
 
 $body$

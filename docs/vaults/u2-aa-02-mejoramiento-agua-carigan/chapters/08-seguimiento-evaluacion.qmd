@@ -2,20 +2,85 @@
 
 La estrategia metodológica de seguimiento y evaluación operará en congruencia con los objetivos e indicadores estructurados en la Matriz de Marco Lógico (MML), garantizando la medición objetiva del avance físico, presupuestario y de alcance técnico.
 
-## Seguimiento a la ejecución del programa y proyecto
+## Seguimiento a la ejecución
+
 El proceso sistemático de seguimiento a la ejecución de las obras será reportado de manera oficial en la plataforma institucional vinculada a Planifica Ecuador y al Sistema de Información de la Programación de la Inversión Pública (SIPeIP). 
 
 Operativamente, al inicio de cada ejercicio fiscal, la Dirección Financiera del GAD Loja y la UMAPAL actualizarán la programación de las metas del propósito en el SIPeIP. A nivel de terreno, la fiscalización técnica externa consolidará los reportes mensuales de avance físico y financiero de obra previo a la validación de las planillas de pago. Concluido cada semestre, la institución remitirá un reporte gerencial a Planifica Ecuador constatando el grado de cumplimiento de los indicadores de la MML y justificando, de ser el caso, los correctivos técnicos aplicados para mitigar retrasos.
 
-## Evaluación de resultados e impacto
-Para asegurar que los fondos públicos invertidos erradicaron el problema central del área de influencia (Barrio Carigán y áreas aledañas), se establece un sistema dual de evaluación Ex-Post:
+Para el control riguroso del avance físico y financiero, se aplicará de forma complementaria la metodología de semaforización, comparando el avance real ejecutado frente a la programación cronológica valorada del proyecto. El porcentaje de cumplimiento operativo para cada actividad se calculará mediante la Ecuación 1:
 
-1. **Evaluación de Resultados (Fin de Obra):** De manera inmediata tras la recepción definitiva de la infraestructura, se verificará materialmente el cumplimiento de los indicadores de propósito:
-   * Instalación efectiva y funcionabilidad de las 1,200 acometidas con micro-medición inteligente.
-   * Reducción constatada del Índice de Agua No Contabilizada (ANC) al umbral técnico del $15.00\%$.
-   * Prueba hidráulica de abastecimiento regular y continuo (Presión dinámica de $15 \text{ a } 40 \text{ m.c.a.}$).
-   
-2. **Evaluación de Impactos (A mediano plazo):** Conforme a los lineamientos de Planifica Ecuador, luego de 24 meses de operación consolidada del sistema, se evaluarán las externalidades sociales, cuantificando la reducción efectiva de las tasas de morbilidad por enfermedades de origen hídrico (EDAs) a través de los reportes del Ministerio de Salud Pública y verificando la mejora de calidad del agua según norma INEN 1108.
+\begin{equation}
+\text{Porcentaje de Cumplimiento} = \frac{\text{Avance Real Ejecutado}}{\text{Avance Programado}} \times 100
+\end{equation}
 
-## Actualización de Línea Base
+La escala de ponderación y su correspondiente interpretación para el monitoreo del proyecto se detalla en la Tabla \ref{tbl-semaforizacion-cumplimiento}.
+
+::: {#tbl-semaforizacion-cumplimiento}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lp{3.5cm}p{6cm}}
+\caption{Metodología de Monitoreo y Semaforización del Avance} \label{tbl-semaforizacion-cumplimiento} \\
+\toprule
+\textbf{Estado (Color)} & \textbf{Rango de Cumplimiento (\%)} & \textbf{Interpretación Técnica Operativa} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Estado (Color)} & \textbf{Rango de Cumplimiento (\%)} & \textbf{Interpretación Técnica Operativa} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Verde & $85.00\% \text{ a } 100.00\%$ & Actividad cumplida con avance óptimo conforme al cronograma físico programado. \\
+\addlinespace
+Amarillo & $70.00\% \text{ a } 84.99\%$ & Actividad parcialmente cumplida. Se requiere monitoreo cercano y planes de contingencia. \\
+\addlinespace
+Rojo & $0.00\% \text{ a } 69.99\%$ & Actividad con retraso crítico o incumplida. Exige correctivo técnico y reprogramación física urgente. \\
+\addlinespace
+Gris & Sin información & Falta de reporte o ausencia de información técnica actualizada por parte del contratista. \\
+\bottomrule
+\end{longtable}
+\fuente{Escala metodológica ajustada según los parámetros de control del PDOT Loja 2023-2027.}
+:::
+
+## Evaluación de resultados e impactos
+
+Para asegurar que los fondos públicos invertidos erradicaron el problema central del área de influencia en el barrio Carigán y sectores aledaños, se establece un sistema dual de evaluación ex-post.
+
+La evaluación de resultados se ejecutará inmediatamente después de la recepción definitiva de la infraestructura para verificar materialmente el cumplimiento de las metas del propósito. Este análisis constatará la instalación y funcionalidad de los 19.2 km de red de distribución de agua potable renovada, la ejecución de los 6.4 km de obras de drenaje y protección contra deslizamientos, la reducción del índice de pérdidas técnicas de agua no contabilizada (ANC) al umbral del 15.00%, y el funcionamiento regular y continuo de la red con presiones estables reguladas de 15 a 40 m.c.a.
+
+Por su parte, la evaluación de impactos se programará transcurridos 24 meses de operación consolidada del sistema (con una encuesta de percepción aplicada al cuarto año posterior a la finalización de la ejecución). Conforme a los lineamientos de Planifica Ecuador, esta fase evaluará las externalidades sociales a mediano plazo, cuantificando la reducción efectiva de las tasas de morbilidad por enfermedades de origen hídrico en la población infantil (EDAs) mediante los perfiles epidemiológicos del Centro de Salud local y validando la inocuidad permanente del agua distribuida conforme a la norma NTE INEN 1108.
+
+La metodología estructurada para la evaluación de los resultados e impactos del proyecto se sintetiza en la Tabla \ref{tbl-metodologia-evaluacion-impactos}.
+
+::: {#tbl-metodologia-evaluacion-impactos}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lp{3.5cm}p{3cm}p{4.5cm}}
+\caption{Metodología para la Evaluación de Resultados e Impacto} \label{tbl-metodologia-evaluacion-impactos} \\
+\toprule
+\textbf{Elemento a Evaluar} & \textbf{Indicador Clave} & \textbf{Fuente de Información} & \textbf{Metodología Aplicada} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Elemento a Evaluar} & \textbf{Indicador Clave} & \textbf{Fuente de Información} & \textbf{Metodología Aplicada} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Calidad de vida de los hogares beneficiarios. & Porcentaje de hogares que perciben mejoras en su calidad de vida por el acceso a agua potable continua y segura. & Encuesta de percepción a hogares del barrio Carigán. & Encuesta aplicada al cuarto año después de finalizado el proyecto. \\
+\addlinespace
+Impacto en la salud infantil & Tasa de incidencia de Enfermedades Diarreicas Agudas (EDAs) en niños de 0 a 14 años. & Registro epidemiológico y fichas del Centro de Salud Tipo A Carigán. & Análisis comparativo de series temporales de morbilidad antes y después del proyecto. \\
+\addlinespace
+Eficiencia hidráulica y control & Porcentaje de Agua No Contabilizada (ANC) y volumen de fugas reducidas. & Balance hídrico comercial y macromedidores de UMAPAL. & Contraste del balance hídrico del tanque de $500\text{ }m^3$ frente a lecturas de micromedición. \\
+\bottomrule
+\end{longtable}
+\fuente{Diseño metodológico adaptado de las guías de evaluación ex-post del SNIP del Ecuador.}
+:::
+
+## Actualización de línea base
 Considerando la dinámica poblacional del sector urbano, una vez consolidado el financiamiento para el inicio de las intervenciones físicas, la UMAPAL procederá con la verificación "In-Situ" del catastro técnico y comercial de los beneficiarios del barrio Carigán. Al finalizar la obra, esta línea base actualizada se migrará junto a las coordenadas "As-Built" de válvulas y tuberías PVC-O hacia el **Sistema de Información Geográfica Municipal (SIG-Loja)**, estructurando el soporte fundamental para las futuras rutinas de mantenimiento preventivo y lectura de medidores.

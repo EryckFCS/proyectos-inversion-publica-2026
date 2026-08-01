@@ -1,253 +1,22 @@
-# Metodología de Marco Lógico y Diagnóstico Causal
+# Matriz de Marco Lógico
 
 De conformidad con los lineamientos establecidos en la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la viabilidad metodológica de un proyecto de inversión requiere el desarrollo secuencial y riguroso de la Metodología de Marco Lógico (MML). Esta herramienta analítica estructura de manera lógica y coherente el vínculo causal entre las necesidades identificadas en el diagnóstico territorial y las metas planteadas para la provisión del servicio público.
 
-La aplicación de la MML se desarrolla en cuatro fases integradas:
-1.  **Análisis de Involucrados:** Identificación y caracterización de los actores sociales e institucionales con interés o incidencia directa en el proyecto.
-2.  **Análisis de Problemas:** Definición unívoca del problema central, sus causas originarias y sus efectos socioeconómicos y epidemiológicos.
-3.  **Análisis de Objetivos:** Transposición del árbol de problemas a una estructura de medios y fines deseados (árbol de objetivos).
-4.  **Análisis de Alternativas:** Evaluación técnica, económica, social y ambiental de las opciones de ingeniería para determinar la solución de inversión óptima.
-
-## Análisis de Involucrados
-
-El éxito y la sostenibilidad del mejoramiento del sistema de agua potable en el barrio Carigán dependen de la adecuada gestión de los actores que convergen en su área de influencia. Siguiendo las directrices de Planifica Ecuador, se realiza una caracterización exhaustiva de los involucrados en la Tabla \ref{tbl-involucrados}, clasificándolos por su grado de afectación, incidencia e interés estratégico en la ejecución y operación de las obras.
-
-::: {#tbl-involucrados}
-\fontsize{9}{11}\selectfont
-\begin{longtable}{p{2.8cm}p{3.2cm}p{3.2cm}p{3.2cm}p{1.2cm}p{2.4cm}}
-\caption{Matriz de Caracterización y Gestión de Actores Involucrados} \label{tbl-involucrados} \\
-\toprule
-\textbf{Grupo / Actor} & \textbf{Intereses y Expectativas} & \textbf{Problemas Percibidos} & \textbf{Recursos y Mandatos} & \textbf{Posición} & \textbf{Estrategia de Gestión} \\
-\midrule
-\endfirsthead
-\multicolumn{6}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Grupo / Actor} & \textbf{Intereses y Expectativas} & \textbf{Problemas Percibidos} & \textbf{Recursos y Mandatos} & \textbf{Posición} & \textbf{Estrategia de Gestión} \\
-\midrule
-\endhead
-\bottomrule
-\endfoot
-\bottomrule
-\endlastfoot
-\textbf{1. Población Objetivo (Comunidad de Carigán)} & Acceso continuo (24/7) a agua potable de calidad; tarifas justas y equitativas; eliminación de enfermedades. & Cortes recurrentes de hasta 3 días; alta turbidez; costo elevado por compra de agua embotellada. & Participación comunitaria activa; disposición al pago de tarifas regularizadas. & Apoyo & Integración activa en socializaciones; veedurías ciudadanas en la fase de construcción de redes. \\
-\midrule
-\textbf{2. GAD Municipal de Loja} & Reducir la brecha de servicios básicos; cumplir metas de cobertura del PDOT 2023-2027; optimizar recursos públicos. & Presión social por reclamos vecinales; altos gastos por reparación de la red de asbesto colapsada. & Mandato constitucional (Art. 264); asignación de fondos del presupuesto anual y CEM. & Apoyo & Liderar la priorización en el SIPeIP y asegurar el financiamiento plurianual y la fiscalización de obra. \\
-\midrule
-\textbf{3. UMAPAL (Operador Técnico)} & Eficiencia técnica e hidráulica; reducción del Agua No Contabilizada (ANC) del 50.03\% al 15\%; facilidades de O\&M. & Frecuentes roturas físicas de tuberías de asbesto cemento; alto costo de reparaciones de emergencia. & Competencia técnica exclusiva; personal de ingeniería y cuadrillas operativas. & Apoyo & Capacitación continua en operación del sistema mallado de PVC-O y en la gestión de micromedición remota. \\
-\midrule
-\textbf{4. Centro de Salud Tipo A "Carigán" (MSP)} & Disminución de prevalencias de Enfermedades Diarreicas Agudas (EDAs) e infecciones parasitarias. & Alta incidencia mensual de EDAs infantiles y parasitosis por agua contaminada o mal almacenada. & Personal médico; registros epidemiológicos; capacidad de monitoreo de salubridad local. & Apoyo & Coordinar talleres de higiene sanitaria y uso correcto de agua potable; monitoreo epidemiológico conjunto. \\
-\midrule
-\textbf{5. Sector Comercial y Mercado Nueva Granada} & Disponibilidad de agua potable para inocuidad alimentaria y operatividad de microempresas y comedores. & Paralización eventual de ventas y preparación de alimentos durante cortes hídricos prolongados. & Aportes económicos por patentes comerciales; demanda hídrica comercial constante. & Apoyo & Socializar el calendario de empalmes de redes; regularizar conexiones comerciales con micromedición. \\
-\midrule
-\textbf{6. OBSA-UTPL (Observatorio Conflictos)} & Veeduría ambiental y social; equidad distributiva del recurso hídrico; gobernanza comunitaria. & Riesgos de asimetrías en cobros tarifarios y falta de transparencia en metas técnicas. & Capacidad técnica académica; mediación social y monitoreo de calidad del recurso. & Neutral / Apoyo & Establecer canales de diálogo técnico y académico; participación en comisiones de fiscalización social. \\
-\bottomrule
-\end{longtable}
-\fuente{Elaboración propia con base en talleres de socialización barrial y actas de coordinación interinstitucional con la UMAPAL.}
-:::
-
-El análisis de actores evidencia una **viabilidad social absoluta** (apoyo generalizado), motivada por el alto nivel de privación del servicio actual. La cohesión comunitaria del barrio Carigán actúa como un mitigador de riesgos para la introducción del cobro por Contribución Especial de Mejoras (CEM) y la actualización de tarifas residenciales necesarias para la sostenibilidad financiera del sistema.
-
-## Análisis de Problemas y Diagnóstico Causal
-
-El diagnóstico de la problemática hídrica en el barrio Carigán evidencia que el sistema actual se encuentra en un estado de **obsolescencia absoluta**, caracterizado por una red de asbesto cemento con más de 30 años de antigüedad que supera su vida útil recomendada. La cadena causal se origina en fallas geológicas naturales de la parroquia (suelos arcillosos expansivos propensos a deslizamientos) y presiones hidráulicas descontroladas, lo que desencadena una frecuencia crítica de **14.20 roturas/km/año** y un índice de pérdidas del **50.03\% de Agua No Contabilizada (ANC)** @pdot_loja_2023.
-
-Este colapso físico de la red genera cortes prolongados que superan los 3 días continuos, obligando a los 6,500 habitantes a recurrir al almacenamiento intradomiciliario en tanques no herméticos o al abastecimiento eventual por camiones cisterna. Las consecuencias socioeconómicas directas se traducen en una prevalencia anormalmente alta de Enfermedades Diarreicas Agudas (EDAs) infantiles reportadas por el Ministerio de Salud Pública y en un elevado gasto familiar (compra de bidones de agua), deteriorando de forma sistemática la calidad de vida comunitaria.
-
-El **Árbol de Problemas** (Figura \ref{fig:arbol-problemas-mermaid}) representa la jerarquía causal y la estructura de causa-efecto que rige la zona de intervención:
-
-```{mermaid}
-%%| label: fig-arbol-problemas-mermaid
-%%| fig-cap: "Estructura del Árbol de Problemas del Sistema de Agua Potable de Carigán"
-%%| fig-width: 8
-%%| fig-height: 5.5
-%%| fig-align: center
-%%| out-width: 100%
-graph TD
-    %% Estilos de Nodos
-    classDef problem fill:#F1C40F,stroke:#D68910,stroke-width:2px,color:#000;
-    classDef cause fill:#F9E79F,stroke:#D4AC0D,stroke-width:1px,color:#000;
-    classDef effect fill:#AED6F1,stroke:#2E86C1,stroke-width:1px,color:#000;
-    classDef final fill:#A9DFBF,stroke:#229954,stroke-width:2px,color:#000;
-
-    FE["Efecto Final:<br>Deterioro sistemático de la calidad de vida<br>de los habitantes del barrio Carigán"]:::final
-    EI1["Efecto Indirecto:<br>Alta recurrencia de EDAs e<br>infecciones parasitarias infantiles"]:::effect
-    EI2["Efecto Indirecto:<br>Incremento del gasto familiar<br>por compra de bidones de agua"]:::effect
-    EI3["Efecto Indirecto:<br>Limitación de la productividad en<br>comercios y Mercado Nueva Granada"]:::effect
-    ED1["Efecto Directo:<br>Interrupción del servicio de agua<br>por más de 3 días consecutivos"]:::effect
-    ED2["Efecto Directo:<br>Infiltración de agentes patógenos en<br>tuberías agrietadas por baja presión"]:::effect
-
-    FE --> EI1
-    FE --> EI2
-    FE --> EI3
-    EI1 --> ED1
-    EI2 --> ED1
-    EI3 --> ED2
-    ED1 --> PC["PROBLEMA CENTRAL:<br>Rotura frecuente de las tuberías de<br>agua potable en el barrio Carigán"]:::problem
-    ED2 --> PC
-
-    PC --> CD1["Causa Directa 1:<br>Red obsoleta de asbesto cemento<br>expuesta a inestabilidad geológica"]:::cause
-    PC --> CD2["Causa Directa 2:<br>Inexistencia de micro-medición<br>y macromedición de caudal"]:::cause
-    PC --> CD3["Causa Directa 3:<br>Gestión operativa y presupuesto de<br>O&M preventivo deficientes"]:::cause
-
-    CD1 --> CI1["Causa Indirecta 1.1:<br>Tuberías rígidas de asbesto cemento<br>y suelos arcillosos expansivos"]:::cause
-    CD2 --> CI2["Causa Indirecta 2.1:<br>Catastro de usuarios desactualizado<br>y conexiones clandestinas"]:::cause
-    CD3 --> CI3["Causa Indirecta 3.1:<br>Enfoque operativo municipal en<br>reparaciones puntuales y paliativas"]:::cause
-```
-
-
-
-## Análisis de Objetivos (Medios y Fines)
-
-El Análisis de Objetivos representa la fase positiva de la planificación, donde las situaciones negativas identificadas en el árbol de problemas se transforman en soluciones deseadas, realistas y alcanzables (Árbol de Objetivos). La consistencia metodológica del proyecto radica en que cada causa del problema se convierte en un **medio de intervención**, y cada efecto se transforma en un **fin positivo** alcanzado mediante la inversión pública.
-
-El **Árbol de Objetivos** (Figura \ref{fig:arbol-objetivos-mermaid}) detalla la correspondencia causal del proyecto:
-
-```{mermaid}
-%%| label: fig-arbol-objetivos-mermaid
-%%| fig-cap: "Estructura del Árbol de Objetivos del Sistema de Agua Potable de Carigán"
-%%| fig-width: 8
-%%| fig-height: 5.5
-%%| fig-align: center
-%%| out-width: 100%
-graph TD
-    %% Estilos de Nodos
-    classDef purpose fill:#3498DB,stroke:#21618C,stroke-width:2px,color:#fff;
-    classDef mean fill:#FCF3CF,stroke:#F4D03F,stroke-width:1px,color:#000;
-    classDef fine fill:#D6EAF8,stroke:#5DADE2,stroke-width:1px,color:#000;
-    classDef final fill:#D4EFDF,stroke:#27AE60,stroke-width:2px,color:#000;
-
-    FF["Fin Último:<br>Incremento sostenido de la calidad de vida<br>y bienestar social en Carigán"]:::final
-    FI1["Fin Indirecto:<br>Reducción de la incidencia mensual de<br>EDAs e infecciones infantiles"]:::fine
-    FI2["Fin Indirecto:<br>Reducción del gasto de canasta<br>familiar en agua embotellada"]:::fine
-    FI3["Fin Indirecto:<br>Dinamización productiva y<br>comercial segura de la parroquia"]:::fine
-    FD1["Fin Directo:<br>Suministro continuo e ininterrumpido<br>de agua potable las 24 horas del día"]:::fine
-    FD2["Fin Directo:<br>Garantía de inocuidad hídrica y<br>cumplimiento de norma NTE INEN 1108"]:::fine
-
-    FF --> FI1
-    FF --> FI2
-    FF --> FI3
-    FI1 --> FD1
-    FI2 --> FD1
-    FI3 --> FD2
-    FD1 --> OG["PROPÓSITO CENTRAL:<br>Abastecimiento continuo, seguro y<br>eficiente en el barrio Carigán"]:::purpose
-    FD2 --> OG
-
-    OG --> MD1["Medio Directo 1:<br>Red de distribución sustituida con tubería<br>flexible de PVC-O y nuevo tanque por gravedad"]:::mean
-    OG --> MD2["Medio Directo 2:<br>Micromedición inteligente AMR<br>y catastro técnico de usuarios"]:::mean
-    OG --> MD3["Medio Directo 3:<br>Gestión financiera fortalecida y<br>sostenibilidad comercial del servicio"]:::mean
-
-    MD1 --> MI1["Medio Indirecto 1.1:<br>Rediseño hidráulico por gravedad empleando<br>materiales altamente flexibles"]:::mean
-    MD2 --> MI2["Medio Indirecto 2.1:<br>Control de pérdidas técnicas (<15%) y<br>registro preciso del consumo físico"]:::mean
-    MD3 --> MI3["Medio Indirecto 3.1:<br>Recaudación tarifaria estructurada y<br>cobro eficiente por mejoras (CEM)"]:::mean
-```
-
-
-## Análisis de Alternativas de Solución
-
-Con el fin de operacionalizar el Árbol de Objetivos, se estructuran y evalúan dos alternativas técnicas de ingeniería civil e hidráulica que representan caminos alternos para solucionar el problema central.
-
-### Caracterización de las Alternativas de Inversión
-
-*   **Alternativa 1 (Rehabilitación Integral, Red Gravedad PVC-O, Nuevo Tanque cota 2310 msnm, micromedición inteligente):**
-    Consiste en la sustitución completa de los 12.8 km de la red colapsada de asbesto cemento por tuberías de Policloruro de Vinilo Orientado (PVC-O) clase 500. La orientación molecular del PVC-O le confiere propiedades de resistencia mecánica excepcionales y flexibilidad para tolerar deformaciones y asentamientos en suelos arcillosos inestables de la ladera de Carigán Alto. El almacenamiento se resuelve mediante la construcción de un tanque de reserva de hormigón armado de **500 $m^3$** ubicado en el punto alto del sector (cota 2,310 msnm), lo que permite que el suministro de la red de distribución opere al **100\% por gravedad**, eliminando costos de bombeo. Para el control operacional, se instala un macromediador a la salida del tanque y 1,300 micro-medidores inteligentes con tecnología de lectura remota AMR por radiofrecuencia. Adicionalmente, incluye el fortalecimiento organizativo de las juntas barriales y personal de la UMAPAL para la operación del nuevo esquema comercial.
-*   **Alternativa 2 (Bombeo Directo a Red Alta y Tuberías HDPE convencionales):**
-    Contempla la sustitución de la red obsoleta mediante tuberías de Polietileno de Alta Densidad (HDPE) convencional y PVC estándar de menor costo de adquisición. En esta alternativa, la reserva no se traslada al punto alto de Carigán Alto; en su lugar, se mantiene el almacenamiento físico a cota baja en la Planta de Tratamiento de Carigán (cota 2,240 msnm). El suministro hídrico hacia las zonas altas de Carigán Alto, San José y Cisol se realiza mediante el bombeo mecánico permanente e ininterrumpido desde una estación de bombeo equipada con dos bombas centrífugas de 75 HP operando en paralelo. La micromedición se realiza mediante medidores mecánicos convencionales de lectura física mensual manual. No incorpora capacitaciones ni fortalecimiento organizativo.
-
-### Evaluación y Selección de la Alternativa Óptima
-
-La selección de la mejor alternativa de inversión pública se realiza mediante una **Matriz de Ponderación Multicriterio** (Tabla \ref{tbl-evaluacion-alternativas}). Cada criterio se puntúa en una escala cuantitativa de 1 a 5 (donde 1 representa la condición menos favorable y 5 la más favorable para el proyecto).
-
-::: {#tbl-evaluacion-alternativas}
-\fontsize{9}{11}\selectfont
-\begin{longtable}{p{4.2cm}p{1.4cm}p{2.2cm}p{2.2cm}p{2.2cm}p{2.2cm}}
-\caption{Matriz de Selección Multicriterio de Alternativas Técnicas} \label{tbl-evaluacion-alternativas} \\
-\toprule
-\textbf{Criterios de Selección} & \textbf{Peso (\%)} & \multicolumn{2}{c}{\textbf{Alternativa 1: Gravedad y PVC-O}} & \multicolumn{2}{c}{\textbf{Alternativa 2: Bombeo y HDPE}} \\
-\cmidrule(lr){3-4} \cmidrule(lr){5-6}
-& & \textbf{Calificación (1-5)} & \textbf{Puntaje Ponderado} & \textbf{Calificación (1-5)} & \textbf{Puntaje Ponderado} \\
-\midrule
-\endfirsthead
-\multicolumn{6}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Criterios de Selección} & \textbf{Peso (\%)} & \multicolumn{2}{c}{\textbf{Alternativa 1: Gravedad y PVC-O}} & \multicolumn{2}{c}{\textbf{Alternativa 2: Bombeo y HDPE}} \\
-\midrule
-\endhead
-\bottomrule
-\endfoot
-\bottomrule
-\endlastfoot
-1. Viabilidad Técnica e Hidráulica & 20\% & 5 & 1.00 & 3 & 0.60 \\
-\midrule
-2. Costo de Inversión Inicial & 15\% & 3 & 0.45 & 5 & 0.75 \\
-\midrule
-3. Costo Operación e Hidro-Energético & 20\% & 5 & 1.00 & 2 & 0.40 \\
-\midrule
-4. Sostenibilidad y Aceptación Social & 15\% & 5 & 0.75 & 3 & 0.45 \\
-\midrule
-5. Impacto Ambiental y Mitigación & 15\% & 4 & 0.60 & 3 & 0.45 \\
-\midrule
-6. Plazo de Ejecución Física & 15\% & 4 & 0.60 & 4 & 0.60 \\
-\midrule
-\textbf{PUNTAJE TOTAL PONDERADO} & \textbf{100\%} & & \textbf{4.40} & & \textbf{3.25} \\
-\bottomrule
-\end{longtable}
-\fuente{Evaluación de ingeniería hidráulica y consistencia económica de la UMAPAL.}
-:::
-
-### Justificación Técnica de la Selección de la Alternativa 1
-
-El análisis cuantitativo de la Matriz de Ponderación Multicriterio otorga a la **Alternativa 1** una puntuación de **4.40 / 5.00**, superando de forma contundente a la **Alternativa 2** que alcanza **3.25 / 5.00**. Los argumentos técnicos que sustentan la selección de la Alternativa 1 se detallan a continuación:
-
-1.  **Eficiencia Energética y Costo Recurrente:** La Alternativa 1 utiliza un sistema de suministro hídrico **100\% por gravedad**, aprovechando la cota de 2,310 msnm del tanque elevado proyectado. Esto elimina la necesidad de bombeo mecánico permanente. La Alternativa 2 requiere bombear de forma continua mediante motores de 75 HP, lo que generaría un consumo energético mensual aproximado de **\$4,200**, encareciendo la tarifa operativa del agua municipal y haciendo insostenible el servicio a mediano plazo en el cantón Loja.
-2.  **Mitigación de Roturas por Inestabilidad Geológica:** La parroquia Carigán presenta suelos con alta arcilla expansiva de fácil deformación. La tubería de PVC-O clase 500 (Alternativa 1) tiene una capacidad de flexibilidad de hasta el **100\% de deformación diametral** sin agrietarse ni colapsar, a diferencia del PVC convencional o el HDPE de menor espesor (Alternativa 2), que son altamente propensos a cizallamiento ante asentamientos del terreno, lo que reactivaría la frecuencia de roturas.
-3.  **Garantía de Continuidad de Servicio (24/7):** Al operar por gravedad desde un tanque de reserva de 500 $m^3$ (suficiente para cubrir la demanda máxima diaria del barrio ante contingencias en la captación de Zalapa), la Alternativa 1 garantiza la continuidad del servicio las 24 horas del día. La Alternativa 2, dependiente de un bombeo activo directo, suspendería el servicio en las zonas altas inmediatamente ante cualquier fallo en la red de energía eléctrica cantonal.
-4.  **Control Técnico del Agua No Contabilizada (ANC):** La instalación de micromedidores con tecnología inteligente AMR por radiofrecuencia (Alternativa 1) permite la toma de lecturas simultáneas y precisas, facilitando la realización de balances hídricos automáticos por sectores para localizar fugas invisibles. La lectura manual analógica (Alternativa 2) genera altos márgenes de error de lectura, conexiones clandestinas no detectadas y demora la respuesta de reparación ante roturas de tuberías.
-
-Por tanto, la Alternativa 1 constituye la solución de ingeniería socialmente aceptada y técnicamente viable que el GAD Municipal de Loja prioriza para su ejecución física y financiamiento.
-
-# Matriz de Marco Lógico
-
 ## Objetivo general y objetivos específicos
 
-De acuerdo con las directrices metodológicas de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021, la estructuración de los objetivos del proyecto parte de la transposición lógica del árbol de problemas (causas y efectos) hacia un árbol de medios y fines (árbol de objetivos). Esto asegura una correspondencia unívoca entre la necesidad diagnosticada y la respuesta de inversión pública municipal.
+La estructuración de los objetivos del proyecto parte de la transposición lógica del árbol de problemas hacia un árbol de medios y fines, asegurando coherencia entre la necesidad diagnosticada y la respuesta de inversión municipal [@guia_planifica2021]. El objetivo general o propósito del proyecto se define como el abastecimiento continuo, seguro y eficiente de agua potable a la población del barrio Carigán y sus sectores de influencia directa (San José del Plateado y Cisol). Este fin se alcanzará mediante la entrada en operación y el uso efectivo de la infraestructura que será entregada en la fase de inversión por la Unidad Municipal de Agua Potable y Alcantarillado de Loja (UMAPAL).
 
-### Objetivo General o Propósito
-El objetivo general del proyecto representa el estado futuro deseado y alcanzable una vez resuelto el problema central. Se define como:
-> **Abastecer de forma continua, segura y eficiente de agua potable a la población del barrio Carigán y sus sectores de influencia directa (San José del Plateado y Cisol) de la parroquia urbana Carigán, cantón Loja.**
+Los objetivos específicos o componentes operativos representan las obras, bienes y servicios que la entidad ejecutora entregará obligatoriamente durante el ciclo de inversión. El primer componente se orienta a la infraestructura de conducción y almacenamiento, mediante la construcción de la línea principal de Zalapa y un tanque de reserva de $500 \text{ } m^3$ en la cota $2,310 \text{ msnm}$ para independizar la red alta por gravedad. El segundo componente contempla la sustitución de la red obsoleta de asbesto cemento por 12.8 km de tubería mallada de PVC de orientación molecular (PVC-O) e instalación de micromediadores inteligentes. El tercer componente asume el fortalecimiento y sostenibilidad social mediante la capacitación de la comunidad en el uso eficiente del agua y la optimización de la gestión comercial de la UMAPAL.
 
-Este objetivo general constituye el "Propósito" del proyecto, el cual se alcanzará mediante la entrada en operación y el uso efectivo de la infraestructura y componentes técnicos que serán entregados en la fase de inversión por la Unidad Municipal de Agua Potable y Alcantarillado de Loja (UMAPAL).
+## Indicadores de resultado
 
-### Objetivos Específicos o Componentes
-Los objetivos específicos representan las obras, bienes, servicios y capacitación que el ejecutor del proyecto debe completar y entregar de forma obligatoria durante el ciclo de inversión. Estos objetivos se desglosan técnicamente en:
+Los indicadores de resultado a nivel de Propósito describen el impacto directo alcanzado al finalizar la ejecución del proyecto y durante su fase de estabilización operativa. De acuerdo con el estándar de Planifica Ecuador, cada indicador incorpora la métrica de cantidad, calidad y tiempo (QQT), estableciendo una relación directa con su respectiva línea base técnica [@guia_planifica2021].
 
-1.  **Componente 1 (Infraestructura de Conducción y Almacenamiento):** Construir la línea de conducción principal de Zalapa y el tanque de reserva elevado de $500 \text{ } m^3$ a la cota $2,310 \text{ msnm}$ para independizar hidráulicamente la red alta por gravedad, eliminando el desabastecimiento.
-2.  **Componente 2 (Redes de Distribución y Conexiones):** Reemplazar la totalidad de la red de asbesto cemento obsoleta por 12.8 km de red mallada de PVC de orientación molecular (PVC-O) e instalar micro-medidores inteligentes acoplados a conexiones residenciales regularizadas.
-3.  **Componente 3 (Sostenibilidad y Fortalecimiento Social):** Capacitar a la comunidad de Carigán en el uso eficiente del agua segura y fortalecer la gestión comercial barrial de la UMAPAL para asegurar la sostenibilidad operativa y de cobro tarifario.
+El primer indicador evalúa la cobertura y continuidad técnica para el suministro permanente las 24 horas del día. La línea base registra cero habitantes con acceso regular debido al colapso de la red de asbesto, operando de forma precaria a un promedio de 8.5 horas al día. La meta de propósito plantea abastecer de forma continua y regular a 6,500 habitantes al finalizar el primer año de operación, garantizando una dotación neta de 150 l/hab/día según la norma CPE INEN 005 y presiones hidráulicas estables en el rango de 15 a 40 m.c.a.
 
-## Indicadores de Resultado
+El segundo indicador mide la inocuidad y potabilidad física, química y microbiológica del agua. La línea base refleja un $0\%$ de muestras conformes con los estándares de salud por causa de las fisuras e infiltraciones en la red colapsada. La meta de propósito exige alcanzar el $100\%$ de muestras conformes con la norma NTE INEN 1108 mediante muestreos mensuales programados en 12 puntos críticos del subsistema a partir del primer año de operación.
 
-Los indicadores de resultado a nivel de Propósito describen el impacto directo alcanzado al finalizar la ejecución del proyecto y durante su fase de estabilización operativa. De acuerdo con el estándar de Planifica Ecuador @guia_planifica2021, cada indicador debe incorporar explícitamente el enfoque de **Cantidad, Calidad y Tiempo (QQT)**, estableciendo una relación directa con su respectiva línea base técnica.
-
-### 1. Indicador de Cobertura y Continuidad Técnica (Servicio 24/7)
-*   **Línea Base:** $0$ habitantes con acceso regular (la red existente de asbesto cemento está colapsada, con servicio precario de $8.5 \text{ horas/día}$ e interrupciones constantes).
-*   **Meta de Propósito:** $6,500$ habitantes abastecidos de forma permanente y regular.
-*   **Cantidad (Q):** Dotación neta de $150 \text{ l/hab/día}$ ($0.15 \text{ } m^3/\text{hab/día}$) según norma **CPE INEN 005**.
-*   **Calidad (Q):** Continuidad ininterrumpida de 24 horas diarias, los 7 días de la semana, manteniendo una presión hidráulica regulada entre $15 \text{ y } 40 \text{ m.c.a.}$
-*   **Tiempo (T):** Logrado e implementado al 100\% al finalizar el Año 1 de operación.
-
-### 2. Indicador de Inocuidad y Calidad Física-Química del Agua
-*   **Línea Base:** $0\%$ de muestras conformes (el agua distribuida por la red colapsada presenta discontinuidad y turbidez frecuente por infiltración y fisuras, incumpliendo los límites bacteriológicos básicos).
-*   **Meta de Propósito:** $100\%$ de muestras conformes con parámetros de potabilidad.
-*   **Cantidad (Q):** Muestreo mensual programado en 12 puntos críticos de la red barrial de distribución.
-*   **Calidad (Q):** Cumplimiento estricto de los límites máximos permisibles físicos, químicos y microbiológicos regulados por la norma técnica ecuatoriana **NTE INEN 1108**.
-*   **Tiempo (T):** Evaluado de forma mensual y consolidado anualmente a partir de la entrada en operación (Año 1).
-
-### 3. Indicador de Eficiencia Hidráulica en Redes (Control de Pérdidas)
-*   **Línea Base:** $50.03\%$ de Agua No Contabilizada (ANC) en el subsistema local Carigán, provocada por fugas invisibles, roturas frecuentes y conexiones clandestinas.
-*   **Meta de Propósito:** Reducción del índice de pérdidas técnicas locales a un máximo del $15.00\%$.
-*   **Cantidad (Q):** Disminución de $35.03$ puntos porcentuales en el volumen físico perdido.
-*   **Calidad (Q):** Instalación del 100\% de micro-medidores inteligentes y macromedición acoplada a la salida del tanque de reserva de $500 \text{ } m^3$.
-*   **Tiempo (T):** Reducción progresiva: al $20.03\%$ en el Año 1 y estabilización en el $15.00\%$ al término del Año 2 de operación.
+El tercer indicador registra la eficiencia hidráulica de la red de distribución para el control de pérdidas de agua. Frente a una línea base de $50.03\%$ de Agua No Contabilizada (ANC) por fugas y conexiones clandestinas, la meta de propósito establece reducir las pérdidas técnicas a un máximo del $15.00\%$. La métrica implica una reducción progresiva de 35 puntos porcentuales, logrando estabilizar la eficiencia al término del segundo año de operación a través de la macromedición del tanque y la micromedición remota.
 
 ## Marco Lógico
 
@@ -255,7 +24,7 @@ La Matriz de Marco Lógico (MML) es el instrumento de planificación y gestión 
 
 ::: {#tbl-mml}
 \fontsize{10}{12}\selectfont
-\begin{longtable}{p{3.5cm}p{3.8cm}p{3.5cm}p{3.2cm}}
+\begin{longtable}{p{3.2cm}p{3.8cm}p{3.8cm}p{3.2cm}}
 \caption{Matriz de Marco Lógico del Proyecto} \label{tbl-mml} \\
 \toprule
 \textbf{Resumen Narrativo} & \textbf{Indicadores con Enfoque QQT} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
@@ -270,96 +39,81 @@ La Matriz de Marco Lógico (MML) es el instrumento de planificación y gestión 
 \endfoot
 \bottomrule
 \endlastfoot
-\textbf{Fin:} \par Contribuir al incremento de la calidad de vida y salubridad pública de los habitantes de la parroquia urbana Carigán mediante el acceso a agua potable segura y continua. &
-Reducción de la incidencia de Enfermedades Diarreicas Agudas (EDAs) en niños menores de 5 años del barrio Carigán, pasando de una línea base del 25.4\% al 5.0\% al término del tercer año de operación del sistema. &
-* Informes epidemiológicos mensuales del Centro de Salud de Carigán (MSP). \par * Estadísticas de morbilidad anual de la Zona 7 de Salud. &
-Estabilidad macroeconómica local y mantenimiento de los programas preventivos de salud pública por parte del Ministerio de Salud Pública. \\
+\textbf{Fin:} \par Mejorar la calidad de vida de las familias del barrio Carigán mediante el acceso a un servicio de agua potable continuo, seguro y de calidad. &
+Al término del tercer año de operación del proyecto, al menos el 90% de los hogares del barrio Carigán reporta mejoras en la continuidad, calidad y disponibilidad del servicio de agua potable. &
+* Encuestas de satisfacción aplicadas a los hogares del barrio Carigán. \par * Informes técnicos de UMAPAL y del GAD Municipal de Loja. \par * Registros de atención ciudadana y reclamos. &
+Se mantiene el compromiso institucional nacional y comunitario para garantizar la continuidad, calidad y sostenibilidad del servicio de agua potable en el barrio Carigán. \\
 \addlinespace
-\textbf{Propósito:} \par Abastecimiento continuo, seguro y eficiente de agua potable para los residentes del barrio Carigán y sus sectores de influencia directa. &
-Suministro continuo de agua potable las 24 horas del día, los 7 días de la semana, cumpliendo el 100\% de los parámetros físico-químicos y microbiológicos de la norma NTE INEN 1108 para el 100\% de la población objetivo (6,500 habitantes) al término del Año 1. &
-* Reportes operativos diarios de presión y caudal de la UMAPAL. \par * Análisis semanales de laboratorio de calidad de agua en la red Carigán. \par * Encuestas de satisfacción a usuarios. &
-Los usuarios cumplen de manera oportuna con el pago de la tarifa del servicio de agua potable, garantizando la sostenibilidad financiera. \\
+\textbf{Propósito:} \par Mejorar la continuidad y calidad del servicio de agua potable en el barrio Carigán, mediante la reparación del sistema de agua potable, para reducir las interrupciones del suministro de agua. &
+Al finalizar el segundo año de ejecución, las roturas de la red de agua potable disminuyen en un 80% y el servicio continuo beneficia a aproximadamente 6,500 habitantes del barrio Carigán. &
+* Registros de roturas y reparaciones de la red de agua potable de la UMAPAL. \par * Bitácoras de cortes y restablecimiento del servicio. \par * Informe técnico final y actas de entrega-recepción. &
+Los recursos financieros, técnicos y operativos permiten ejecutar la reparación y renovación de la red de agua potable dentro del plazo planificado. \\
 \addlinespace
-\textbf{Componentes:} \par 1. Red de distribución principal y secundaria completamente rehabilitada. \par 2. Conexiones domiciliarias instaladas y optimizadas. &
-* Instalación y prueba de estanqueidad de 12.5 km de tubería PVC de alta presión (110 mm a 63 mm) en el primer año. \par * Reemplazo e instalación de 1,200 micro-medidores inteligentes y acometidas en un plazo máximo de 12 meses. &
-* Actas de entrega-recepción provisional y definitiva de las obras físicas (GAD Loja). \par * Planillas de avance de obra aprobadas por fiscalización. &
-Las condiciones geológicas e hidrológicas del terreno se mantienen estables en los trazados de las tuberías durante la fase de instalación. \\
+\textbf{Componentes:} \par
+1. Red de distribución de agua potable mejorada. \par
+2. Red de distribución mantenida en buen estado mediante control preventivo. \par
+3. Compromiso y educación comunitaria fortalecidos. &
+* C1: Al finalizar el segundo año, se han renovado 19.2 km de red de distribución de agua potable. \par
+* C2: Al finalizar el segundo año, se realizan al menos 7 inspecciones técnicas preventivas. \par
+* C3: Al finalizar el proyecto, se cumple el 100% de las campañas de educación sanitaria y uso eficiente del agua. &
+* Planos técnicos aprobados, actas de recepción provisional y definitiva e informes de fiscalización de la UMAPAL. \par
+* Informes de inspección técnica, registros de mantenimiento preventivo y bitácoras de revisión de la UMAPAL. \par
+* Actas de reuniones comunitarias, registros de asistencia y material educativo distribuido. &
+* Los materiales, maquinaria y personal técnico están disponibles oportunamente. \par
+* UMAPAL mantiene la capacidad técnica y operativa para realizar el mantenimiento preventivo. \par
+* Los habitantes participan activamente en los talleres y campañas. \\
 \addlinespace
-\textbf{Actividades:} \par 1. Replanteo topográfico y excavación de zanjas. \par 2. Tendido y acoplamiento de tuberías de PVC. \par 3. Conexión de redes a tanques de reserva. \par 4. Socialización y contratación de acometidas residenciales. &
-* Ejecución del 100\% del presupuesto de obras (\$450,000.00 USD) de acuerdo al cronograma de desembolsos del primer año. \par * Realización de 4 talleres de socialización comunitaria con al menos el 80\% de participación barrial durante los primeros 3 meses. &
-* Informes de auditoría financiera interna del GAD de Loja. \par * Registro de facturas y planillas de pago validadas en el eSIGEF. \par * Actas y registros de asistencia a talleres comunitarios. &
-Disponibilidad oportuna de los recursos presupuestarios asignados por el GAD Municipal de Loja y condiciones climáticas favorables para obra civil. \\
+\textbf{Actividades:} \par
+1.1. Diseño técnico e hidráulico. \par
+1.2. Sustitución y tendido de tuberías en la red. \par
+1.3. Obras de drenaje y protección. \par
+1.4. Campañas de educación y socialización. &
+* A1.1: Presupuesto ejecutado de \$40,000.00 USD. \par
+* A1.2: Presupuesto ejecutado de \$1,070,000.00 USD. \par
+* A1.3: Presupuesto ejecutado de \$207,578.28 USD. \par
+* A1.4: Presupuesto ejecutado de \$10,000.00 USD. &
+* Informe técnico del diseño hidráulico aprobado por UMAPAL. \par
+* Actas de recepción de las obras de sustitución de tuberías e informe de fiscalización técnica. \par
+* Actas de recepción de las obras de drenaje y protección ejecutadas. \par
+* Registros de facturación y planillas validadas en el eSIGEF. &
+* Se dispone de información técnica actualizada para los estudios. \par
+* Las condiciones climáticas y del terreno permiten construir las obras de drenaje y tendido sin retrasos significativos. \par
+* La disponibilidad de recursos presupuestarios se mantiene oportuna. \\
 \end{longtable}
-\fuente{Diseño metodológico basado en la Guía de Planifica Ecuador y balances hidráulicos de la UMAPAL.}
+\fuente{Diseño metodológico basado en el borrador oficial del estudio de factibilidad y directrices de la UMAPAL.}
 :::
 
 ### Anualización de las metas de los indicadores del propósito
 
 De conformidad con los lineamientos metodológicos de Planifica Ecuador @guia_planifica2021, los indicadores a nivel de Propósito se anualizan asignándoles una ponderación relativa de acuerdo con su relevancia para el logro del proyecto. El cálculo de la **Meta Anual Ponderada** se realiza mediante la fórmula oficial:
-$$\text{Meta Anual Ponderada} = \frac{\text{Meta del Año} \times \text{Ponderación}}{\text{Meta Propósito}}$$
+\begin{equation}
+\text{Meta Anual Ponderada} = \frac{\text{Meta del Año} \times \text{Ponderación}}{\text{Meta Propósito}}
+\end{equation}
 
 En la Tabla \ref{tbl-metas-anual} se detalla la programación plurianual ponderada de las metas del proyecto para su periodo de ejecución y estabilización.
 
 ::: {#tbl-metas-anual}
 \fontsize{10}{12}\selectfont
-\begin{longtable}{p{4.2cm}p{1.7cm}p{1.5cm}p{1.7cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}}
-\caption{Matriz de Anualización de Metas Ponderadas (Indicadores de Propósito)} \label{tbl-metas-anual} \\
+\begin{longtable}{p{4cm}ccccc}
+\caption{Matriz de Anualización de Metas de los Indicadores de Propósito} \label{tbl-metas-anual} \\
 \toprule
-\textbf{Indicador de Propósito} & \textbf{Unidad} & \textbf{Meta} & \textbf{Pond. (\%)} & \textbf{Año 1 (Fís.)} & \textbf{Año 2 (Fís.)} & \textbf{Año 1 (Pond.)} & \textbf{Año 2 (Pond.)} \\
+\textbf{Indicador de Propósito} & \textbf{Meta} & \textbf{Año 1} & \textbf{Año 2} & \textbf{Año 3} & \textbf{Total} \\
 \midrule
 \endfirsthead
-\multicolumn{8}{r}{Sigue en la página siguiente...} \\
+\multicolumn{6}{r}{Sigue en la página siguiente...} \\
 \midrule
-\textbf{Indicador de Propósito} & \textbf{Unidad} & \textbf{Meta} & \textbf{Pond. (\%)} & \textbf{Año 1 (Fís.)} & \textbf{Año 2 (Fís.)} & \textbf{Año 1 (Pond.)} & \textbf{Año 2 (Pond.)} \\
+\textbf{Indicador de Propósito} & \textbf{Meta} & \textbf{Año 1} & \textbf{Año 2} & \textbf{Año 3} & \textbf{Total} \\
 \midrule
 \endhead
 \bottomrule
 \endfoot
 \bottomrule
 \endlastfoot
-\textbf{Indicador 1 (Cobertura):} \par Habitantes con abastecimiento regular continuo de agua potable 24/7. & Habitantes & 6,500 & 40\% & 3,000 & 3,500 & 18.46\% & 21.54\% \\
+\textbf{Red renovada y protegida} (km de red y obras de drenaje) & 19.2 km & 0.00 & 9.6 km & 9.6 km & 19.2 km \\
 \addlinespace
-\textbf{Indicador 2 (Calidad):} \par Muestras conformes con parámetros químicos y microbiológicos NTE INEN 1108. & \% Muestras & 100 & 30\% & 50 & 50 & 15.00\% & 15.00\% \\
+\textbf{Inspecciones técnicas preventivas} (eventos) & 7 insp. & 0.00 & 3.00 & 4.00 & 7.00 \\
 \addlinespace
-\textbf{Indicador 3 (Eficiencia):} \par Reducción neta de pérdidas físicas y técnicas en la red de distribución. & \% Pérdidas & 35.03 & 30\% & 15.00 & 20.03 & 12.85\% & 17.15\% \\
-\midrule
-\textbf{Meta Anual Ponderada Total} & \textbf{--} & \textbf{--} & \textbf{100\%} & \textbf{--} & \textbf{--} & \textbf{46.31\%} & \textbf{53.69\%} \\
+\textbf{Campañas de educación sanitaria y socialización} (\%) & 100\% & 40\% & 60\% & 0.00 & 100\% \\
 \end{longtable}
-\fuente{Programación técnica basada en la pág. 15 de la Guía de Planifica Ecuador y el Plan de Obras UMAPAL.}
-\nota{La ponderación de cada indicador refleja su contribución al cumplimiento del propósito del proyecto. La suma acumulada de las metas ponderadas de ambos años totaliza el 100\% de la priorización asignada.}
-:::
-
-## Enfoque de Inclusión y Grupos de Atención Prioritaria (GAP)
-
-El proyecto de mejoramiento del sistema de agua potable está alineado con el enfoque constitucional de igualdad y no discriminación (Artículo 35 de la Carta Magna). En la Tabla \ref{tbl-gap-modelo} se cuantifica la distribución por género de los beneficiarios directos pertenecientes a los Grupos de Atención Prioritaria (GAP) dentro del área de influencia.
-
-::: {#tbl-gap-modelo}
-\fontsize{10}{12}\selectfont
-\begin{longtable}{lp{3.5cm}p{3.5cm}c}
-\caption{Población Objetivo perteneciente a Grupos de Atención Prioritaria (GAP)} \label{tbl-gap-modelo} \\
-\toprule
-\textbf{Grupo de Atención Prioritaria (Constitucional)} & \textbf{Beneficiarios (Hombres)} & \textbf{Beneficiarias (Mujeres)} & \textbf{Total Beneficiarios} \\
-\midrule
-\endfirsthead
-\multicolumn{4}{r}{Sigue en la página siguiente...} \\
-\midrule
-\textbf{Grupo de Atención Prioritaria (Constitucional)} & \textbf{Beneficiarios (Hombres)} & \textbf{Beneficiarias (Mujeres)} & \textbf{Total Beneficiarios} \\
-\midrule
-\endhead
-\bottomrule
-\endfoot
-\bottomrule
-\endlastfoot
-Niños, Niñas y Adolescentes (0-17 años) & 1,015 & 1,065 & 2,080 \\
-\midrule
-Personas Adultas Mayores ($\ge$ 65 años) & 317 & 333 & 650 \\
-\midrule
-Personas con Discapacidad & 41 & 44 & 85 \\
-\midrule
-Mujeres Embarazadas (Gestantes) & -- & 45 & 45 \\
-\midrule
-\textbf{Total Población GAP Protegida} & \textbf{1,373} & \textbf{1,487} & \textbf{2,860} \\
-\end{longtable}
-\fuente{Estimaciones cuantitativas basadas en el Censo Nacional INEC 2022 y registros del Centro de Salud de Carigán.}
-\nota{La distribución de hombres y mujeres se calcula aplicando la proporción demográfica de la parroquia Carigán (48.8\% hombres y 51.2\% mujeres) obtenida del censo oficial. Las mujeres embarazadas y los niños representan el grupo con mayor vulnerabilidad frente a las condiciones de insalubridad previa.}
+\fuente{Programación técnica y anualización basada en la Tabla 8 del borrador de factibilidad oficial del proyecto.}
 :::
