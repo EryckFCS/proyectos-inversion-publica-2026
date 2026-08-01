@@ -1,0 +1,338 @@
+% --- INSTITUTIONAL TEMPLATE FED v7.4.9 ---
+% Estándar de Reporteo APA 7 (Babel-Free)
+\documentclass[12pt,spanish]{article}
+
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{indentfirst} 
+\usepackage{caption}
+\usepackage{floatrow} 
+
+% Forzar estilos de caption antes de cualquier carga
+\floatsetup[figure]{capposition=top}
+\floatsetup[table]{capposition=top}
+
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{threeparttable}
+\usepackage{array}
+\usepackage{calc}
+\usepackage{amsmath, amssymb}
+\usepackage{fancyhdr}
+\usepackage{mathptmx} 
+\usepackage[T1]{fontenc}
+\usepackage{setspace} 
+\usepackage{ragged2e} 
+\usepackage{titlesec}
+\usepackage{url}
+\def\UrlBreaks{\do\/\do-\do\.\do\_\do\?\do\=\do\&\do\%}
+\usepackage[hidelinks,breaklinks]{hyperref}
+
+% --- Pandoc Compatibility Block (Iron Clad) ---
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{xcolor}
+\usepackage{fancyvrb}
+\usepackage{framed}
+
+% --- Code Highlighting (Pandoc Standard) ---
+\AtBeginDocument{
+  \definecolor{shadecolor}{RGB}{248,248,248}
+}
+
+% Compatibilidad Pandoc 3.x
+\ifdefined\pandocbounded\else
+  \newcommand{\pandocbounded}[1]{#1}
+\fi
+
+% --- Pandoc Citeproc (CSL) compatibility ---
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.27cm} 
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newcommand{\citeproctext}{} 
+\newcommand{\citeprocitem}[2]{\item} 
+\newenvironment{CSLReferences}[2] 
+ {\begin{list}{}{
+  \setlength{\leftmargin}{\cslhangindent}
+  \setlength{\parsep}{0pt}
+  \setlength{\itemsep}{6pt}
+  \ifodd #1
+   \setlength{\leftmargin}{\leftmargin + \csllabelwidth}
+   \setlength{\itemindent}{-\csllabelwidth}
+  \fi
+  }
+  \renewcommand{\bibitem}[2][]{\item} % Elimina los corchetes [ ]
+ }
+ {\end{list}}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\makeatletter
+\@ifundefined{paragraph}{\newcounter{paragraph}}{}
+\@ifundefined{subparagraph}{\newcounter{subparagraph}}{}
+\makeatother
+
+% Solución al error 'No counter none defined' en longtable
+\makeatletter
+\newcounter{none}
+\@ifpackageloaded{caption}{
+  \DeclareCaptionType{none}
+  \captionsetup[none]{name=Tabla}
+}{}
+\makeatother
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=blue,
+  citecolor=blue,
+  urlcolor=blue
+}
+
+% --- Macros Institucionales ---
+\newcommand{\fuente}[1]{
+  \vspace{4pt}
+  \begin{flushleft}
+    \small
+    \textit{Nota.} #1
+  \end{flushleft}
+}
+
+% --- Localización Manual Determinista (Sin Babel) ---
+\AtBeginDocument{
+  \renewcommand{\tablename}{Tabla}
+  \renewcommand{\figurename}{Figura}
+  \renewcommand{\contentsname}{Índice}
+  \renewcommand{\listtablename}{Índice de Tablas}
+  \renewcommand{\listfigurename}{Índice de Figuras}
+  \renewcommand{\abstractname}{Resumen}
+  \renewcommand{\refname}{Referencias}
+  
+  \RaggedRight
+  \setlength{\parindent}{1.27cm}
+  \setlength{\parskip}{0pt}
+}
+
+\DeclareCaptionLabelSeparator{newline}{\\ \vspace{2pt}}
+\captionsetup{
+  position=top,
+  justification=RaggedRight,
+  singlelinecheck=false,
+  labelfont=bf,
+  textfont=it,
+  labelsep=newline,
+  font=small,
+  skip=10pt
+}
+\captionsetup[figure]{name=Figura}
+\captionsetup[table]{name=Tabla}
+
+% Márgenes APA 7
+\geometry{a4paper,margin=25.4mm,headheight=15mm}
+
+% --- Encabezados ---
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyhead[L]{\includegraphics[height=1.2cm]{\logoUNL}}
+\fancyhead[R]{\includegraphics[height=1.2cm]{\logoECONOMIA}}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{\thepage}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyhead[L]{\includegraphics[height=1.2cm]{\logoUNL}}
+  \fancyhead[R]{\includegraphics[height=1.2cm]{\logoECONOMIA}}
+  \fancyfoot[R]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% --- Títulos ---
+\titleformat{\section}{\normalfont\normalsize\bfseries\centering}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+\titlespacing*{\paragraph}{0pt}{12pt}{6pt}
+
+\newenvironment{referenciasAPA}{
+  \setlength{\parindent}{-1.27cm}
+  \setlength{\leftskip}{1.27cm}
+  \setlength{\parskip}{6pt}
+}{\par}
+
+\makeatletter\@ifpackageloaded{caption}{}{\usepackage{caption}}\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}\makeatother\makeatletter\makeatother\makeatletter\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}\makeatother
+
+\begin{document}
+
+\begin{center}
+    {\bfseries \Large UNIVERSIDAD NACIONAL DE LOJA}\\[0.3cm]
+    {\bfseries \large FACULTAD JURÍDICA, SOCIAL Y
+ADMINISTRATIVA}\\[0.2cm]
+    {\bfseries CARRERA DE ECONOMÍA}\\[1.5cm]
+    
+    {\bfseries \large PROYECTOS DE INVERSIÓN PÚBLICA}\\[1cm]
+    
+    {\bfseries \Large Laboratorio de Proyectos de Inversión
+Pública}\\[1.5cm]
+\end{center}
+
+\begin{center}
+    \setstretch{1.1}
+                        Erick Fabricio Condoy Seraquive \\
+                \vspace{0.5cm}
+    Econ. José Job Chamba \\ 
+    19 de abril de 2026
+\end{center}
+
+\vspace{1cm}
+
+\doublespacing
+\setlength{\parindent}{1.27cm}
+
+\section{Datos iniciales del
+proyecto}\label{datos-iniciales-del-proyecto}
+
+El ancho de texto en este reporte es \the\textwidth.
+
+\subsection{Tipo de solicitud de
+dictamen}\label{tipo-de-solicitud-de-dictamen}
+
+Prioridad. La solicitud asegura el financiamiento vía Presupuesto
+General del Estado para la mitigación efectiva de brechas en servicios
+básicos, según la \textbf{Guía Metodológica para la Presentación de
+Proyectos (Página 8)} (\textbf{guia\_planifica2021?}).
+
+\subsection{Nombre Proyecto}\label{nombre-proyecto}
+
+Proyecto de factibilidad para el mejoramiento del sistema de agua
+potable en el barrio Carigán, parroquia Carigán del cantón Loja
+provincia de Loja.
+
+\subsection{Entidad UDAF}\label{entidad-udaf}
+
+Gobierno Autónomo Descentralizado Municipal de Loja. Según el
+\textbf{COOTAD}, esta entidad posee la competencia exclusiva para la
+gestión de servicios de agua potable en su jurisdicción Asamblea
+Nacional del Ecuador (2010).
+
+\subsection{Entidad operativa
+desconcentrada}\label{entidad-operativa-desconcentrada}
+
+Unidad Municipal de Agua Potable y Alcantarillado (UMAPAL). Según el
+\textbf{Reglamento Orgánico Funcional del GAD Loja}, UMAPAL es la unidad
+técnica responsable de la operación y mantenimiento del sistema hídrico
+cantonal.
+
+\subsection{Gabinete Sectorial}\label{gabinete-sectorial}
+
+Recursos Naturales, Hábitat e Infraestructura. Clasificado según la
+estructura de coordinación definida en el \textbf{Decreto Ejecutivo
+No.~91 (2024)} para proyectos de saneamiento ambiental.
+
+\subsection{Sector, subsector y tipo de
+inversión}\label{sector-subsector-y-tipo-de-inversiuxf3n}
+
+De acuerdo con el catálogo de intervenciones definido en el
+\textbf{Anexo 1 de la Guía de Planifica Ecuador}, el proyecto se
+categoriza bajo los siguientes parámetros
+(\textbf{guia\_planifica2021?}) detallados en la Tabla
+\ref{tbl-sectores} y Tabla \ref{tbl-tipologias}:
+
+\begin{longtable}{llll}
+
+\caption{\label{tbl-sectores}Sectores y subsectores de intervención
+definidos}
+
+\tabularnewline
+
+  \\
+\toprule
+\textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
+\midrule
+Social & Equipamiento urbano y vivienda & A0602 & Agua potable \\
+\bottomrule
+
+\end{longtable}
+
+\fuente{Guía para la presentación de programas y proyectos de inversión pública.}
+
+\begin{longtable}{llp{5cm}p{4cm}}
+
+\caption{\label{tbl-tipologias}Tipologías de intervención definidas}
+
+\tabularnewline
+
+  \\
+\toprule
+\textbf{Cod.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
+\midrule
+T01 & Infraestructura & Procesos de adquisición, construcción, ampliación, mantenimiento, reparación, reposición, restauración de acervo físico. & Mejoramiento, reposición, construcción. \\
+\bottomrule
+
+\end{longtable}
+
+\fuente{Guía para la presentación de programas y proyectos de inversión pública.}
+
+\subsection{Plazo de ejecución}\label{plazo-de-ejecuciuxf3n}
+
+18 meses. Este periodo se sustenta en la magnitud técnica de la obra
+(12.5 km de red) y la complejidad topográfica del sector Carigán. El
+cronograma contempla una fase de instalación y tendido de red de 14
+meses, 2 meses destinados a pruebas de estanqueidad y desinfección, y 2
+meses para el proceso de recepción provisional y liquidación técnica del
+proyecto.
+
+\subsection{Monto total}\label{monto-total}
+
+\$ 1,050,000.00 USD. De acuerdo con el \textbf{Plan Plurianual de
+Inversiones del PDOT Loja 2023-2027 (Página 1056)}, este monto se ajusta
+a los techos presupuestarios definidos para la ampliación de redes en la
+Zona 4 (\textbf{pdot\_loja\_2023?}).
+
+\protect\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-cootad2010}
+Asamblea Nacional del Ecuador. (2010). \emph{Código orgánico de
+organización territorial, autonomía y descentralización conocido como
+COOTAD}. Registro Oficial.
+
+\end{CSLReferences}
+
+\end{document}
