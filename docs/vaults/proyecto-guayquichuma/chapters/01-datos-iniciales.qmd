@@ -1,0 +1,50 @@
+# Datos iniciales del proyecto
+
+
+## Tipo de solicitud de dictamen
+Prioridad. La solicitud asegura el financiamiento e incorporación en la planificación de inversión pública para el cierre de brechas prioritarias en el territorio rural de la parroquia Guayquichuma, en concordancia con los lineamientos de la **Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador** @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
+
+## Nombre del Proyecto
+[NOMBRE_DEL_PROYECTO: Ejemplo - Proyecto de Inversión Pública para el Fortalecimiento y Desarrollo de la Infraestructura Comunitaria / Productiva / Saneamiento en la Parroquia Rural Guayquichuma, Cantón Catamayo, Provincia de Loja].
+
+## Entidad UDAF
+Gobierno Autónomo Descentralizado Parroquial Rural de Guayquichuma (con articulación y coordinación con el GAD Municipal de Catamayo y GAD Provincial de Loja en el marco del COOTAD @cootad2010).
+
+## Entidad operativa desconcentrada
+Unidad Técnica y de Obras Públicas / Planificación del GAD Parroquial Rural de Guayquichuma.
+
+## Gabinete Sectorial
+[GABINETE_SECTORIAL: Ejemplo - Recursos Naturales, Hábitat e Infraestructura / Desarrollo Social / Económico Productivo].
+
+## Sector, subsector y tipo de inversión
+De acuerdo con el catálogo oficial de intervenciones de la Secretaría Nacional de Planificación (Planifica Ecuador) @guia_planifica2021:
+
+::: {#tbl-sectores}
+\begin{longtable}{llll}
+\caption{Sectores y subsectores de intervención definidos} \label{tbl-sectores} \\
+\toprule
+\textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
+\midrule
+Por definir & Por definir & Por definir & Por definir \\
+\bottomrule
+\end{longtable}
+\fuente{Catálogo de Clasificación Sectorial de Inversión Pública - Planifica Ecuador.}
+:::
+
+::: {#tbl-tipologias}
+\begin{longtable}{llp{5cm}p{4cm}}
+\caption{Tipologías de intervención definidas} \label{tbl-tipologias} \\
+\toprule
+\textbf{Cód.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
+\midrule
+T01 & Infraestructura / Obra Pública & Procesos de adquisición, construcción, ampliación, mantenimiento, reposición o rehabilitación física. & Obras civiles, estudios, fiscalización y equipamiento. \\
+\bottomrule
+\end{longtable}
+\fuente{Guía General para la Presentación de Programas y Proyectos de Inversión Pública.}
+:::
+
+## Plazo de ejecución
+[PLAZO_MESES] meses calendario.
+
+## Monto total
+[MONTO_TOTAL_USD] USD. Conforme al presupuesto referencial, cronograma valorado de inversión y fuentes de financiamiento descritos en los estudios técnicos.

@@ -1,0 +1,181 @@
+# Diagnóstico y problema
+
+## Descripción de la situación actual del sector, área o zona de intervención y de influencia
+
+El escenario macroterritorial de la parroquia rural Guayquichuma, área de influencia directa y localización del proyecto, constituye una de las circunscripciones rurales más occidentales y agrestes del cantón Catamayo, provincia de Loja (DPA: 110352). Según el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Catamayo 2023-2027**, la parroquia abarca una superficie oficial de **10.584,10 hectáreas** ($105,84 \text{ km}^2$), lo que representa el **16,24\%** del territorio cantonal [@pdot_catamayo_2023]. Guayquichuma limita al norte con la provincia de El Oro (cantones Chilla y Zaruma), al sur y este con la parroquia rural Zambi y la cabecera cantonal de Catamayo, y al oeste con el cantón Chaguarpamba. La altitud del territorio oscila entre los **650 msnm** en el valle aluvial bajo de la cuenca del río Playas/Guayquichuma y los **1.980 msnm** en los filos cordilleranos altos, configurando una topografía abrupta y escarpada con pendientes dominantes que superan el 45\% en laderas de amortiguamiento andino.
+
+### Caracterización biofísica, climática y geológica
+El clima de la parroquia transita desde un régimen megatérmico seco en los valles abrigados hasta un clima templado cálido en las estribaciones montañosas, con temperaturas medias anuales que oscilan entre los **$22,0^\circ\text{C}$ y $25,5^\circ\text{C}$**. El régimen pluviométrico es unimodal-bimodal concentrado entre los meses de enero a abril, con una precipitación media anual de entre **$600$ y $950\text{ mm/año}$**, detonando un prolongado y riguroso estiaje durante más de seis meses al año. Hidrológicamente, la parroquia se localiza en la vertiente del Pacífico, articulada a las subcuencas de los ríos Playas, Guayquichuma y las quebradas afluentes El Badén y Guayacán. Esta red superficial sustenta el **Área de Protección Hídrica (APH) San Pedro - Zambi - Guayquichuma**, categorizada por la Autoridad Ambiental y de Agua (MAATE) como reserva estratégica de captación [@pdot_catamayo_2023]. Los suelos presentan horizontes delgados con marcada vulnerabilidad a la erosión hídrica superficial, susceptibilidad alta a movimientos en masa, desprendimientos y socavamiento de riveras en temporada invernal. Ecológicamente, el 66,9\% del territorio parroquial (7.092,80 ha) se encuentra bajo la figura de **Área de Conservación Municipal y Uso Sustentable (ACMUS Catamayo)**, de las cuales 3.749,64 ha corresponden a Zona Intangible (ZI) de estricta preservación biológica y 423,08 ha al Programa Socio Bosque [@pdot_catamayo_2023].
+
+### Asentamientos humanos, servicios básicos y vialidad
+La estructura de asentamientos humanos de Guayquichuma se caracteriza por una marcada dispersión territorial, conformada por **7 centros poblados reconocidos**: la Cabecera Parroquial, Chiguango Alto, Chiguango Bajo, El Tambo, La Primavera, Rumipotrero y Santa Ana. De acuerdo con el diagnóstico urbano-rural del PDOT Cantonal, únicamente la Cabecera Parroquial cuenta con 12 manzanas censales consolidadas, mientras que el resto de los asentamientos se configuran como núcleos rurales abiertos y viviendas aisladas [@pdot_catamayo_2023].
+
+El acceso a servicios básicos revela una aguda brecha estructural:
+1. **Agua de consumo humano:** Apenas el **40,86\%** de las viviendas particulares cuenta con conexión a redes de conducción hídrica (85 usuarios atendidos mediante dos juntas administradoras comunitarias: Guayquichuma-El Prado y Chiguango Bajo). Ninguno de los sistemas dispone de planta potabilizadora convencional en operación ni monitoreo automatizado de cloro residual, consumiéndose agua cruda de vertiente con alta turbiedad estacional y carga bacteriológica [@pdot_catamayo_2023].
+2. **Saneamiento y aguas residuales:** La cobertura de alcantarillado sanitario alcanza un precario **21,63\%** (45 conexiones domiciliares en la cabecera). El 78,37\% de las viviendas depende de letrinas o pozos ciegos rudimentarios. La parroquia carece de planta de tratamiento de aguas residuales (PTAR); las descargas confluyen en fosas sépticas colapsadas que descargan directamente en las quebradas afluentes.
+3. **Energía eléctrica y telecomunicaciones:** La red eléctrica pública cubre al 94,00\% de las viviendas, existiendo un déficit de electrificación rural del 6,00\% en sectores alejados. La penetración de telefonía celular alcanza al 87,50\% de los hogares, pero el servicio de internet fijo o móvil solo llega al 52,30\%, evidenciando aislamiento digital.
+4. **Vialidad y transporte:** La red vial interna suma 38,4 km clasificada en su totalidad como vías de tercer orden (lastre y tierra). No existen vías internas pavimentadas ni asfaltadas en el área rural. El tiempo de viaje hacia la cabecera cantonal de Catamayo varía entre 70 y 90 minutos por tramos viales altamente vulnerables a cortes y derrumbes durante el invierno.
+
+### Dimensión socioeconómica y demográfica
+Según los resultados oficiales del **VIII Censo de Población y VII de Vivienda del INEC (2022)**, la parroquia Guayquichuma cuenta con **293 habitantes** distribuidos en **128 hogares** y **208 viviendas**, con una composición por sexo de 159 hombres (54,27\%) y 134 mujeres (45,73\%) [@inec_censo_2022]. La densidad poblacional es de apenas **$2,77\text{ hab/km}^2$** ($0,03\text{ hab/ha}$), constituyendo la menor densidad demográfica de todo el cantón Catamayo. La dinámica poblacional experimenta una marcada contracción intercensal: entre 2010 (383 hab) y 2022 (293 hab), la población decreció a una tasa geométrica anual de **$-2,21\%$**, explicada por la migración laboral de jóvenes y familias hacia los centros urbanos de Catamayo, Loja y la costa ecuatoriana ante la escasez de empleo e infraestructura.
+
+En términos de bienestar material, la **pobreza por Necesidades Básicas Insatisfechas (NBI)** afecta al **63,82\%** de la población (187 habitantes) y al **65,62\%** de los hogares [@inec_censo_2022; @pdot_catamayo_2023]. La dimensión de NBI más crítica corresponde a la carencia de servicios básicos esenciales (42,19\% de los hogares). La economía local es estrictamente primaria: el **82\% de la Población Económicamente Activa (PEA)** se dedica a la agricultura familiar y pequeña ganadería (cultivos de café arábigo, maíz duro, caña panelera, maní, plátano y frutales subtropicales). La producción agrícola se canaliza mayoritariamente para autoconsumo y venta a intermediarios en ferias cantonales. En la Tabla \ref{tbl-diagnostico-guayquichuma} se sistematizan los parámetros territoriales y socioeconómicos estructurales que definen el punto de partida técnico e institucional de Guayquichuma.
+
+::: {#tbl-diagnostico-guayquichuma}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{3.5cm}p{7.5cm}}
+\caption{Línea Base Situacional y Parámetros Estructurales de Guayquichuma} \label{tbl-diagnostico-guayquichuma} \\
+\toprule
+\textbf{Dimensión Territorial} & \textbf{Variable / Indicador} & \textbf{Valor Observado / Fuente Oficial} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Dimensión Territorial} & \textbf{Variable / Indicador} & \textbf{Valor Observado / Fuente Oficial} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Político-Territorial} & Código DPA y localización & Parroquia Rural Guayquichuma, Cantón Catamayo, Loja (DPA: 110352). \\
+\addlinespace
+& Superficie territorial oficial & 10.584,10 ha ($105,84 \text{ km}^2$), equivalente al 16,24\% del cantón. \\
+\addlinespace
+& Coordenadas UTM cabecera (WGS84) & X: 661057 m E, Y: 9571050 m N ($03^\circ 52' 38''\text{ S}$, $79^\circ 33' 05''\text{ O}$). \\
+\addlinespace
+\textbf{Físico-Ambiental} & Rango altitudinal y pendientes & 650 msnm a 1.980 msnm. Pendientes pronunciadas $> 45\%$. \\
+\addlinespace
+& Temperatura y precipitación & $22,0^\circ\text{C} - 25,5^\circ\text{C}$ media anual; $600 - 950\text{ mm/año}$ (déficit en estiaje). \\
+\addlinespace
+& Régimen de conservación (ACMUS) & 7.092,80 ha (66,9\% del territorio bajo ordenanza municipal ACMUS). \\
+\addlinespace
+& Zona Intangible estricta & 3.749,64 ha (52,86\% del ACMUS en reserva biológica absoluta). \\
+\addlinespace
+& Programa Socio Bosque & 423,08 ha bajo convenio de conservación con el MAATE. \\
+\addlinespace
+\textbf{Demográfica y Social} & Población censada (2022) & 293 habitantes (159 hombres [54,27\%] y 134 mujeres [45,73\%]). \\
+\addlinespace
+& Densidad poblacional & $2,77\text{ hab/km}^2$ ($0,03\text{ hab/ha}$), territorio de alta dispersión. \\
+\addlinespace
+& Tasa intercensal (2010-2022) & $-2,21\%$ anual (saldo migratorio rural negativo acentuado). \\
+\addlinespace
+& Número de hogares y viviendas & 128 hogares particulares; 208 viviendas censadas (2,29 miembros/hogar). \\
+\addlinespace
+& Pobreza por NBI (personas) & 63,82\% de la población en situación de pobreza estructural. \\
+\addlinespace
+& Pobreza por NBI (hogares) & 65,62\% de los hogares; 42,19\% con carencia en servicios básicos. \\
+\addlinespace
+\textbf{Servicios e Infraestructura} & Cobertura de red de agua & 40,86\% de viviendas (85 abonados en 2 juntas de agua; sin potabilización). \\
+\addlinespace
+& Cobertura de alcantarillado & 21,63\% de viviendas (45 descargas directas a pozo séptico colapsado). \\
+\addlinespace
+& Cobertura eléctrica & 94,00\% de las viviendas (déficit rural del 6,00\%). \\
+\addlinespace
+& Conectividad vial interna & 38,4 km de caminos vecinales de lastre y tierra (0\% asfalto urbano). \\
+\addlinespace
+& Infraestructura de salud & 1 Puesto de Salud MSP Tipo A (atención ambulatoria primaria). \\
+\addlinespace
+& Infraestructura educativa & 3 planteles fiscales unidocentes/multigrado en funcionamiento. \\
+\addlinespace
+\textbf{Económico-Productiva} & Actividad económica dominante & Sector agropecuario primario (82\% de la PEA ocupada rural). \\
+\addlinespace
+& Principales cultivos & Café arábigo, maíz duro, caña panelera, maní y árboles frutales. \\
+\addlinespace
+& Infraestructura de riego & Canal rústico de Riego Guayquichuma (pérdidas por filtración $> 50\%$). \\
+
+\end{longtable}
+\fuente{Elaboración con base en el Diagnóstico Estratégico del PDOT del Cantón Catamayo 2023-2027 y Censo INEC 2022.}
+:::
+
+## Identificación, descripción y diagnóstico del problema
+
+Bajo la metodología del marco lógico y el árbol de causas-efectos:
+
+*   **Problema Central:** [DEFINIR_PROBLEMA_CENTRAL: Deficiente provisión de... / Inadecuadas condiciones de...] en la parroquia rural Guayquichuma del cantón Catamayo, provincia de Loja.
+*   **Causas Directas e Indirectas:**
+    1. *Causa 1:* [Causa directa e indirecta relacionada con la infraestructura existente].
+    2. *Causa 2:* [Causa directa e indirecta relacionada con capacidades técnicas u operativas].
+    3. *Causa 3:* [Causa directa e indirecta relacionada con factores ambientales o de mantenimiento].
+*   **Efectos Directos e Indirectos:**
+    1. *Efecto 1:* [Efecto directo e indirecto en la salud o productividad].
+    2. *Efecto 2:* [Efecto directo e indirecto en la economía del hogar].
+    *   *Efecto Final:* Deterioro en las condiciones de vida y rezago en el desarrollo humano integral de los habitantes de la parroquia Guayquichuma.
+
+## Línea base del proyecto
+
+::: {#tbl-linea-base}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{6cm}p{3cm}p{4.5cm}}
+\caption{Línea Base Detallada de Indicadores del Proyecto} \label{tbl-linea-base} \\
+\toprule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Población parroquial beneficiaria & Habitantes & Por determinar hab. (Censo INEC 2022) \\
+\addlinespace
+Cobertura actual del servicio / infraestructura & Porcentaje (\%) & Por determinar\% \\
+\addlinespace
+Déficit o brecha insatisfecha & Unidades / \% & Por determinar \\
+\addlinespace
+Frecuencia o continuidad del servicio & Días / Horas & Por determinar \\
+\end{longtable}
+\fuente{PDOT de Guayquichuma / PDOT Catamayo / Censo INEC.}
+:::
+
+## Análisis de oferta y demanda
+
+### Oferta actual
+Capacidad instalada actual del servicio o infraestructura en la parroquia, estado físico de los componentes existentes y limitaciones operativas.
+
+### Demanda proyectada
+Estimación de la población demandante actual y futura en un horizonte de evaluación a 10 o 20 años, empleando la tasa de crecimiento intercensal y la norma técnica correspondiente.
+
+::: {#tbl-balance-oferta-demanda}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lcccc}
+\caption{Balance de Oferta y Demanda Proyectado} \label{tbl-balance-oferta-demanda} \\
+\toprule
+\textbf{Año} & \textbf{Oferta} & \textbf{Demanda} & \textbf{Déficit / Superávit} & \textbf{Cobertura (\%)} \\
+\midrule
+Año 0 (Sin Proyecto) & 0.00 & 100.00 & -100.00 & 0.0\% \\
+Año 1 (Con Proyecto) & 120.00 & 102.00 & +18.00 & 100.0\% \\
+Año 5 & 140.00 & 110.00 & +30.00 & 100.0\% \\
+Año 10 & 160.00 & 120.00 & +40.00 & 100.0\% \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración del equipo de trabajo en base a datos de diagnóstico territorial.}
+:::
+
+## Identificación y caracterización de la población objetivo
+
+*   **Población de referencia:** Cantón Catamayo ($36.425$ habitantes censados, INEC 2022).
+*   **Población demandante potencial:** Parroquia Rural Guayquichuma ($293$ habitantes censados en 128 hogares, INEC 2022).
+*   **Población demandante efectiva (Objetivo):** Habitantes de los sectores y centros poblados priorizados en la intervención territorial.
+
+## Ubicación geográfica y delimitación cartográfica
+
+De conformidad con los requerimientos metodológicos de la Guía de Planifica Ecuador @guia_planifica2021, la viabilidad técnica y territorial de una intervención pública exige la georreferenciación rigurosa del acervo físico y la delimitación espacial del área de influencia. La parroquia rural Guayquichuma se localiza en el extremo noroccidental del cantón Catamayo, provincia de Loja (Códigos INEC: Provincia 11, Cantón 1103, Parroquia 110352). 
+
+En la Figura \ref{fig-localizacion-guayquichuma} se presenta la contextualización cartográfica macro-territorial a escala cantonal y la distribución espacial de los asentamientos humanos en el territorio parroquial:
+
+::: {#fig-localizacion-guayquichuma layout-ncol=2}
+![Macro-localización: Contextualización de Guayquichuma en el Cantón Catamayo](asset/mapa_macro_guayquichuma.png){#fig-macro-guay width="49%"}
+
+![Micro-localización: Asentamientos Humanos y Núcleos Rurales en Guayquichuma](asset/mapa_micro_guayquichuma.png){#fig-micro-guay width="49%"}
+
+Portafolio Cartográfico Territorial de la Parroquia Guayquichuma (Elaboración propia con base en el PDOT Catamayo 2023-2027 y geometrías vectoriales del IGM/OpenStreetMap)
+:::
+
+El acervo físico del territorio se georreferencia en el sistema de coordenadas universal transversal de Mercator (UTM) datum WGS84, Zona 17 Sur, destacando los nodos territoriales de la Cabecera Parroquial ($X: 661.057\text{ m E}, Y: 9.571.050\text{ m N}$; $03^\circ 52' 38''\text{ S}, 79^\circ 33' 05''\text{ O}$) a una altitud promedio de $1.120\text{ msnm}$, y los núcleos dispersos de Chiguango, El Tambo, La Primavera, Rumipotrero y Santa Ana distribuidos a lo largo del gradiente topográfico entre los $650$ y $1.980\text{ msnm}$.
+

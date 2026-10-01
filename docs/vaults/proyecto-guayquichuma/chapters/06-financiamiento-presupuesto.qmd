@@ -1,0 +1,62 @@
+# Financiamiento y Presupuesto
+
+## Estructura de financiamiento
+
+El financiamiento del proyecto en la parroquia rural Guayquichuma se articula a través de fuentes públicas contempladas en el Presupuesto General del Estado y fondos propios del régimen seccional descentralizado:
+
+*   **Asignación PGE / Planifica Ecuador / Banco de Desarrollo del Ecuador (BDE):** Fondos no reembolsables o de crédito público para inversión de infraestructura básica rural.
+*   **Aporte GAD Parroquial Rural de Guayquichuma:** Contraparte local mediante partidas de inversión del presupuesto anual.
+*   **Convenios de Concurrencia:** Articulación de recursos con el GAD Municipal de Catamayo y GAD Provincial de Loja.
+
+## Presupuesto referencial por componentes
+
+::: {#tbl-presupuesto-componentes}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{5.5cm}ccr}
+\caption{Presupuesto Referencial por Componentes y Actividades} \label{tbl-presupuesto-componentes} \\
+\toprule
+\textbf{Componente / Rubro} & \textbf{Unidad} & \textbf{Cantidad} & \textbf{Costo Total (USD)} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Componente / Rubro} & \textbf{Unidad} & \textbf{Cantidad} & \textbf{Costo Total (USD)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Componente 1: Obras Civiles e Infraestructura} & Global & 1 & 180,000.00 \\
+- Estudios y diseños definitivos & Global & 1 & 15,000.00 \\
+- Movimiento de tierras y plataformas & $m^3$ & 2,500 & 25,000.00 \\
+- Estructuras y construcción civil principal & Global & 1 & 110,000.00 \\
+- Obras de drenaje y protección & $m$ & 850 & 30,000.00 \\
+\addlinespace
+
+\textbf{Componente 2: Equipamiento e Instalaciones} & Global & 1 & 45,000.00 \\
+- Adquisición de materiales y tuberías / equipos & Global & 1 & 35,000.00 \\
+- Montaje electromecánico o de accesorios & Global & 1 & 10,000.00 \\
+\addlinespace
+
+\textbf{Componente 3: Fiscalización y Gestión Social} & Global & 1 & 15,000.00 \\
+- Fiscalización técnica independiente & Global & 1 & 10,000.00 \\
+- Capacitación y plan de manejo socioambiental & Global & 1 & 5,000.00 \\
+\midrule
+\textbf{SUBTOTAL COSTO DIRECTO} & & & \textbf{240,000.00} \\
+Imprevistos de obra (5\%) & & & 12,000.00 \\
+\midrule
+\textbf{TOTAL GENERAL DEL PROYECTO} & & & \textbf{252,000.00} \\
+
+\end{longtable}
+\fuente{Elaboración del equipo de formulación presupuestaria.}
+:::
+
+## Costos de Operación y Mantenimiento (O&M)
+
+Para garantizar la sostenibilidad de la obra una vez culminada la fase de inversión, se proyectan los costos anuales recurrentes asumidos por el GAD Parroquial y la comunidad:
+
+*   **Mantenimiento Preventivo:** Inspección trimestral, limpieza y reparaciones menores.
+*   **Mantenimiento Correctivo:** Sustitución de piezas sometidas a desgaste o eventos fortuitos.
+*   **Gastos Operativos:** Personal técnico/operativo a cargo y reactivos o suministros periódicos.

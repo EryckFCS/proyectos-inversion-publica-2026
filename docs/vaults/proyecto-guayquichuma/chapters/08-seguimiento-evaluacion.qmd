@@ -1,0 +1,35 @@
+# Estrategia de Seguimiento y Evaluación
+
+## Monitoreo del avance físico y financiero
+
+El seguimiento y evaluación se ejecuta en cumplimiento de las directrices metodológicas de Planifica Ecuador @guia_planifica2021 y los requerimientos del Sistema de Información para Gobiernos Autónomos Descentralizados (SIGAD):
+
+*   **Avance Físico:** Medición porcentual del cumplimiento de metas por componentes mediante informes quincenales y mensuales de fiscalización.
+*   **Avance Financiero:** Registro de planillas devengadas y pagadas con respecto al monto total contratado en el Sistema Oficial de Contratación Pública y contabilidad municipal/parroquial.
+
+## Indicadores de desempeño y resultados
+
+::: {#tbl-indicadores-desempeno}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{4.5cm}p{3cm}p{3.5cm}p{3.5cm}}
+\caption{Indicadores de Gestión, Producto e Impacto} \label{tbl-indicadores-desempeno} \\
+\toprule
+\textbf{Nivel de Indicador} & \textbf{Nombre del Indicador} & \textbf{Frecuencia} & \textbf{Fuente de Verificación} \\
+\midrule
+Gestión & Eficiencia en la ejecución presupuestaria & Mensual & Sistema contable del GAD Guayquichuma. \\
+\addlinespace
+Producto & Porcentaje de avance físico de obra & Mensual & Planillas aprobadas por fiscalización. \\
+\addlinespace
+Efecto & Población rural con servicio operativo & Semestral & Registros de usuarios y comités comunitarios. \\
+\addlinespace
+Impacto & Reducción de morbilidad o aumento de productividad & Anual & Estadísticas del Centro de Salud local / INEC. \\
+\bottomrule
+\end{longtable}
+\fuente{Matriz de seguimiento y monitoreo del proyecto.}
+:::
+
+## Evaluación ex-ante, de procesos y ex-post
+
+1.  **Evaluación Ex-Ante:** Garantiza la coherencia lógica, pertinencia territorial y viabilidad socioeconómica mediante el presente documento de formulación.
+2.  **Evaluación de Procesos (Durante la Ejecución):** Identifica desvíos en el cronograma o en los costos unitarios, implementando acciones correctivas de manera inmediata.
+3.  **Evaluación Ex-Post (Operación):** Realizada tras 2 años de funcionamiento para evaluar la sostenibilidad institucional, el impacto socioeconómico real y la satisfacción de la población de Guayquichuma.

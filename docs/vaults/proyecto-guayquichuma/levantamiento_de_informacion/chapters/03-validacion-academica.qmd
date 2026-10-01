@@ -1,0 +1,16 @@
+# Validación y Responsabilidad Académica
+
+El levantamiento, estructuración e interpretación de las variables multidimensionales que conforman la presente matriz territorial ha sido elaborado por el equipo técnico-estudiantil en estricta observancia del marco metodológico de la carrera de Economía y las normas de citación y referenciación académica.
+
+\vspace{2.5cm}
+
+\begin{center}
+\begin{minipage}{0.7\textwidth}
+\centering
+\rule{8.5cm}{0.6pt} \\ \vspace{0.25cm}
+\textbf{Econ. José Job Chamba Tandazo} \\
+DIRECTOR DE LA CARRERA DE ECONOMÍA \\
+FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
+UNIVERSIDAD NACIONAL DE LOJA
+\end{minipage}
+\end{center}

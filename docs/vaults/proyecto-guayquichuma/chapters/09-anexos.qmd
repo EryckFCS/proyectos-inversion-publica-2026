@@ -1,0 +1,77 @@
+# Anexos
+
+En esta sección se incorporan los documentos técnicos de respaldo, fichas cartográficas, certificaciones institucionales y matrices metodológicas que sustentan la formulación del proyecto para el GAD Parroquial Rural de Guayquichuma.
+
+## Anexo 1: Ficha Institucional del GAD Parroquial y Representación Legal
+
+En la Tabla \ref{tbl-ficha-institucional-anexo} se detallan los datos legales y administrativos de la entidad gubernamental local y el equipo formulador académico:
+
+::: {#tbl-ficha-institucional-anexo}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{4.5cm}p{4cm}p{3cm}p{3.5cm}}
+\caption{Ficha Técnica Institucional y de Representación Legal} \label{tbl-ficha-institucional-anexo} \\
+\toprule
+\textbf{Institución Auspiciante} & \textbf{Localización Territorial} & \textbf{Representante Legal} & \textbf{Contacto Institucional} \\
+\midrule
+\textbf{Gobierno Autónomo Descentralizado Parroquial Rural de Guayquichuma} & Cantón Catamayo, Provincia de Loja (DPA: 110352) & \textbf{Rodrigo Agustín Armijos Sarango} \par (Presidente del GAD) & \textbf{Teléfono:} 0999505181 \par \textbf{Correo:} \href{mailto:rodr_arm@hotmail.com}{rodr\_arm@hotmail.com} \\
+\bottomrule
+\end{longtable}
+\fuente{Registro administrativo institucional del GAD Parroquial Rural de Guayquichuma (2026).}
+:::
+
+## Anexo 2: Matriz Resumen de Indicadores Territoriales Oficiales
+
+La Tabla \ref{tbl-matriz-indicadores-territoriales} consolida la totalidad de variables y parámetros socioeconómicos, biofísicos y de hábitat obtenidos del Diagnóstico Estratégico del PDOT de Catamayo [@pdot_catamayo_2023] y el Censo de Población y Vivienda 2022 del INEC [@inec_censo_2022]:
+
+::: {#tbl-matriz-indicadores-territoriales}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{3.5cm}p{4.5cm}p{3cm}p{4.5cm}}
+\caption{Matriz Multidimensional de Indicadores Territoriales - Guayquichuma} \label{tbl-matriz-indicadores-territoriales} \\
+\toprule
+\textbf{Componente} & \textbf{Variable / Parámetro} & \textbf{Unidad de Medida} & \textbf{Valor / Registro Territorial} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Componente} & \textbf{Variable / Parámetro} & \textbf{Unidad de Medida} & \textbf{Valor / Registro Territorial} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Físico-Ambiental} & Superficie parroquial oficial & Hectáreas & 10.584,10 ha ($105,84 \text{ km}^2$) \\
+& Área de Conservación ACMUS & ha y \% cantonal & 7.092,80 ha (66,9\% del territorio) \\
+& Zona Intangible (reserva estricta) & Hectáreas & 3.749,64 ha protegidas \\
+& Área de Protección Hídrica & Microcuencas & APH San Pedro - Zambi - Guayquichuma \\
+& Vulnerabilidad geológica & Clasificación & Alta susceptibilidad a deslizamientos \\
+\midrule
+\textbf{Asentamientos} & Centros poblados reconocidos & Número & 7 asentamientos rurales \\
+& Manzanas censales consolidadas & Número & 12 manzanas (Cabecera Parroquial) \\
+& Cobertura de agua por red & \% de viviendas & 40,86\% (sin potabilización continua) \\
+& Cobertura alcantarillado sanitario & \% de viviendas & 21,63\% (78,37\% en letrinas/pozo ciego) \\
+& Cobertura eléctrica domiciliaria & \% de viviendas & 94,00\% (déficit rural del 6,00\%) \\
+& Red vial parroquial interna & km y tipología & 38,4 km (100\% lastre y tierra) \\
+\midrule
+\textbf{Sociocultural} & Población total censada (2022) & Habitantes & 293 hab (159 hombres, 134 mujeres) \\
+& Estructura de hogares & Número / promedio & 128 hogares (2,29 miembros/hogar) \\
+& Tasa intercensal (2010-2022) & \% anual & $-2,21\%$ anual (saldo migratorio negativo) \\
+& Pobreza por NBI (población) & \% de personas & 63,82\% en situación de pobreza NBI \\
+& Pobreza por NBI (hogares) & \% de hogares & 65,62\% (42,19\% en carencia de servicios) \\
+& Equipamiento de salud & Establecimientos & 1 Puesto de Salud MSP Tipo A \\
+& Oferta educativa fiscal & Establecimientos & 3 escuelas rurales multigrado \\
+\midrule
+\textbf{Económico} & Población Ocupada Rural (PEA) & Personas & Aprox. 110 personas (82\% agropecuario) \\
+& Principales cultivos & Especies agrícolas & Café arábigo, caña panelera, maní y maíz \\
+& Sistema de Riego Guayquichuma & Infraestructura hídrica & Canal rústico con severa infiltración \\
+
+\end{longtable}
+\fuente{Base REDATAM Censo INEC 2022 y Diagnóstico Estratégico PDOT Catamayo 2023-2027.}
+:::
+
+## Anexo 3: Cartografía y Delimitación Territorial
+[DOCUMENTACIÓN CARTOGRÁFICA: Mapas oficiales de delimitación parroquial, curvas de nivel, red hidrográfica superficial y trazado de la red vial rural].
+
+## Anexo 4: Certificaciones y Documentos Habilitantes
+[DOCUMENTACIÓN INSTITUCIONAL: Certificado de Intersección del SUIA/MAATE, resoluciones del GAD Municipal de Catamayo y actas de socialización comunitaria].

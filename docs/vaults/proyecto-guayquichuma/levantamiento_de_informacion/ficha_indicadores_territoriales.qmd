@@ -1,0 +1,76 @@
+---
+title: "INDICADORES SOCIALES, ECONÓMICOS, AMBIENTALES E INSTITUCIONALES"
+subtitle: "MATRIZ DE LEVANTAMIENTO DE INFORMACIÓN Y LÍNEA BASE TERRITORIAL - PARROQUIA GUAYQUICHUMA"
+author:
+  - "Lizeth Correa"
+  - "David Perez"
+  - "Erick Condoy"
+  - "Gustavo Hurtado"
+date: "2026-09-30"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Proyectos de Inversión Pública - Séptimo Ciclo"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+bibliography: references.bib
+csl: apa.csl
+lang: es
+fontsize: 11pt
+format:
+  pdf:
+    template: template.tex
+    pdf-engine: lualatex
+    toc: false
+    number-sections: true
+    geometry:
+      - top=20mm
+      - left=20mm
+      - right=20mm
+      - bottom=20mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \usepackage{booktabs}
+          \usepackage{longtable}
+          \usepackage{caption}
+          \usepackage{array}
+          \usepackage{fancyhdr}
+          \usepackage{setspace}
+          \singlespacing
+          \captionsetup[table]{
+            labelsep=period,
+            justification=RaggedRight,
+            singlelinecheck=false,
+            font={bf,small},
+            labelfont={bf},
+            textfont={it},
+            skip=3pt
+          }
+          \setlength{\tabcolsep}{5pt}
+          \renewcommand{\arraystretch}{1.2}
+          \pagestyle{fancy}
+          \fancyhf{}
+          \fancyhead[L]{\small UNL - Carrera de Economía | Proyectos de Inversión Pública}
+          \fancyhead[R]{\small Parroquia Guayquichuma}
+          \fancyfoot[R]{\thepage}
+          \renewcommand{\headrulewidth}{0.5pt}
+  docx:
+    toc: false
+    number-sections: true
+---
+
+\justifying
+
+{{< include chapters/00-datos-institucionales.qmd >}}
+
+\vspace{0.5cm}
+
+{{< include chapters/01-datos-territorio.qmd >}}
+
+\newpage
+
+{{< include chapters/02-indicadores-diagnostico.qmd >}}
+
+\vspace{0.8cm}
+
+{{< include chapters/03-validacion-academica.qmd >}}

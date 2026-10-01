@@ -1,0 +1,41 @@
+# Estrategia de Ejecución
+
+## Modalidad de ejecución
+
+De conformidad con la Ley Orgánica del Sistema Nacional de Contratación Pública (LOSNCP) y su Reglamento General vigente en el Ecuador:
+
+*   **Fase Precontractual:** Elaboración de pliegos, publicación en el portal del SERCOP bajo el procedimiento correspondiente (Cotización, Menor Cuantía o Licitación de Obras según el presupuesto referencial).
+*   **Fase Contractual:** Firma de contrato, designación de administrador de contrato por parte del GAD Parroquial Rural de Guayquichuma y contratación de fiscalización externa.
+*   **Fase de Liquidación y Cierre:** Recepción provisional y definitiva de obras mediante acta suscrita entre contratista, fiscalizador y autoridades del GAD.
+
+## Estructura orgánica y funcional para la ejecución
+
+::: {#tbl-roles-ejecucion}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{4.5cm}p{5cm}p{5cm}}
+\caption{Roles y Responsabilidades en la Ejecución del Proyecto} \label{tbl-roles-ejecucion} \\
+\toprule
+\textbf{Actor Institucional} & \textbf{Rol Principal} & \textbf{Responsabilidad Clave} \\
+\midrule
+GAD Parroquial de Guayquichuma & Entidad Ejecutora y Contratante & Administración de recursos, aprobación de planillas y fiscalización social. \\
+\addlinespace
+Presidente del GAD & Representante Legal & Suscripción de convenios, contratos y autorizaciones de pago oficiales. \\
+\addlinespace
+Contratista de Obra & Ejecutor Físico & Cumplimiento estricto de cronograma, planos y especificaciones técnicas. \\
+\addlinespace
+Fiscalización & Control Técnico Independiente & Control de calidad de materiales, verificación de ensayos y emisión de planillas. \\
+\addlinespace
+Comunidad / Beneficiarios & Veeduría Ciudadana & Participación activa en el seguimiento social y conservación de la infraestructura. \\
+\bottomrule
+\end{longtable}
+\fuente{Estructura orgánica de gestión de proyectos del GAD Parroquial Rural de Guayquichuma.}
+:::
+
+## Cronograma valorado de ejecución
+
+El plazo estimado de ejecución se distribuye en fases coordinadas conforme al cronograma físico-financiero:
+
+1. Mes 1 al 2: Procesos de contratación en el portal SERCOP y adjudicación.
+2. Mes 3 al [MES_INTERMEDIO]: Obras civiles preliminares, movimientos de tierra e infraestructura básica.
+3. Mes [MES_INTERMEDIO] al [MES_FINAL]: Instalación de equipamiento, redes, pruebas hidráulicas o funcionales.
+4. Mes [MES_FINAL]: Pruebas integrales de recepción, cierre de fiscalización y entrega a la comunidad.

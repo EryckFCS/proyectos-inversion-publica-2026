@@ -1,0 +1,85 @@
+# Indicadores para el Diagnóstico del Espacio Territorial
+
+## Observación Metodológica
+
+Esta clasificación responde a la lógica utilizada en la planificación territorial y en la formulación de proyectos de inversión pública bajo las directrices de la Secretaría Nacional de Planificación:
+
+* **Componente Social:** Caracteriza la población, su composición demográfica, las condiciones de vida y el acceso efectivo a servicios básicos esenciales.
+* **Componente Económico:** Describe la estructura productiva, el empleo, los niveles de ingreso y la infraestructura que soporta la actividad agropecuaria y comercial.
+* **Componente Ambiental:** Analiza las condiciones biofísicas, los recursos naturales, el uso del suelo y las amenazas o vulnerabilidades climáticas y geológicas del territorio.
+* **Componente Institucional:** Evalúa la capacidad técnica y operativa de gestión local, la gobernanza, las finanzas públicas y los instrumentos vigentes para sostener la inversión.
+
+Esta matriz integra las **40 variables clave** requeridas para construir una línea base robusta y fundamentar el estudio de preinversión e inversión pública.
+
+## Matriz Multidimensional de Indicadores Territoriales
+
+::: {#tbl-matriz-diagnostico}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{3.2cm}p{5.2cm}p{3.4cm}p{4.2cm}}
+\caption{Matriz Multidimensional de Indicadores para el Diagnóstico Territorial - Parroquia Guayquichuma} \label{tbl-matriz-diagnostico} \\
+\toprule
+\textbf{Componente} & \textbf{Variable Territorial} & \textbf{Unidad de Medida} & \textbf{Valor / Situación Observada (PDOT - INEC)} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Componente} & \textbf{Variable Territorial} & \textbf{Unidad de Medida} & \textbf{Valor / Situación Observada (PDOT - INEC)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{SOCIAL} & Población por sexo & Habitantes y \% & 159 hombres (54,27\%) y 134 mujeres (45,73\%) [Total: 293 hab] \\
+& Densidad poblacional & $\text{hab}/ha$ y $\text{hab}/km^2$ & 0,03 hab/ha ($2,77 \text{ hab}/km^2$) \\
+& Composición de hogares & Personas por hogar & 128 hogares; promedio de 2,29 miembros/hogar (el más bajo cantonal) \\
+& Autoidentificación étnica & Habitantes y \% & Mestizos: 292 (99,66\%); Blancos: 1 (0,34\%); Otros: 0 \\
+& Población en edad de trabajar y migración & Habitantes y saldo & 0 migrantes internacionales en 2022; migración interna laboral hacia Catamayo/Loja \\
+& Tasa de crecimiento intercensal & \% anual & -2,21\% anual (variación de -23,50\% entre 2010 y 2022) \\
+& Tasa de analfabetismo digital & \% de población & 1,9\% (reducción sustancial frente al 25,4\% registrado en 2010) \\
+& Escolaridad y oferta educativa & Planteles activos & 3 escuelas fiscales activas: Nelson Romero, Fulton y Flavio Alfaro \\
+& Pobreza por NBI (por población) & \% de habitantes & 63,82\% pobres por NBI (187 de 293 hab censados) \\
+& Pobreza por NBI (por hogares) & \% de hogares & 65,62\% de los hogares (84 de 128 hogares); carencia servicios básicos: 42,19\% \\
+& Cobertura de agua potable & \% de viviendas & 40,86\% de viviendas (85 usuarios en 2 juntas: Guayquichuma-El Prado y Chiguango Bajo) \\
+& Sistema y calidad del agua & Condición de cloración & 0 plantas potabilizadoras activas; captación en vertiente sin desinfección continua \\
+& Cobertura de alcantarillado sanitario & \% de viviendas & 21,63\% de viviendas (45 usuarios conectados); 78,37\% en letrinas o pozos sépticos \\
+& Tratamiento de aguas residuales & Tipo de sistema & Sin planta de tratamiento; 2 fosas sépticas colapsadas (una cercana a centro escolar) \\
+& Cobertura de energía eléctrica & \% de viviendas & 94,00\% cobertura (déficit cantonal más alto: 6,00\% sin servicio) \\
+& Recolección de residuos sólidos & \% de viviendas & 30,80\% cobertura periódica municipal (camión compartido con parroquia Zambi) \\
+& Cobertura de internet (fija/móvil) & \% de hogares & 52,30\% de los hogares disponen de conectividad a internet \\
+& Cobertura de telefonía móvil celular & \% de hogares & 87,50\% de los hogares disponen de servicio celular activo \\
+& Infraestructura de salud pública & Establecimientos & 1 Puesto de Salud MSP Tipo A (atención básica ambulatoria y preventiva) \\
+& Demanda de atención en salud MSP & \% cantonal & 0,57\% de consultas cantonales en 2023 (320 atenciones: 1.976 prevención, 1.730 morbilidad) \\
+& Tipología constructiva predominante & \% de viviendas & Paredes de adobe/tapia (48,70\%); techos de zinc (53,00\%); pisos de tierra/cemento (43,60\%) \\
+\midrule
+
+\textbf{ECONÓMICO} & Población Ocupada Rural & Personas y perfil & Aprox. 110 personas ocupadas en parcelas familiares, jornaleros y autoconsumo \\
+& Estructura productiva de ocupación & \% por sector & Sector primario agropecuario: 82\%; comercio/servicios locales: 14\%; obra pública: 4\% \\
+& Subempleo e informalidad rural & \% aproximado & > 70\% en condición de subempleo rural agropecuario informal \\
+& Principales cultivos de ciclo y perennes & Productos agrícolas & Café arábigo, maíz duro, maní, caña panelera, yuca, plátano y cítricos \\
+& Infraestructura hídrica productiva & Sistema de riego & Sistema de Riego Guayquichuma (origen precolombino; canal rústico con severa infiltración) \\
+& Dotación fomento agrícola PDOT & Insumos programados & Programa de reactivación cafetalera cantonal: 16.000 plantas de café para Zambi-Guayquichuma \\
+& Unidades económicas y microcomercios & Número & 12 tiendas de abarrotes, bazares y comedores comunitarios en cabecera \\
+& Potencial y atractivo turístico & Tipo de recurso & Balneario natural Río Playas-Guayquichuma (atractivo paisajístico sin infraestructura) \\
+& Superficie de suelo bajo uso sustentable & ha & 1.561,59 ha destinadas a zona de uso agropecuario y productivo sustentable \\
+\midrule
+
+\textbf{AMBIENTAL} & Superficie parroquial oficial & Hectáreas & 10.584,10 ha ($105,84 \text{ } km^2$), 16,24\% del cantón Catamayo \\
+& Área de Conservación Municipal (ACMUS) & ha y \% parroquial & 7.092,80 ha (66,9\% del territorio bajo ordenanza ACMUS Catamayo) \\
+& Zona Intangible (ZI) de estricta reserva & ha & 3.749,64 ha (52,86\% del ACMUS bajo régimen de protección estricta) \\
+& Zona de Restauración Ecosistémica (ZRE) & ha & 1.781,57 ha (25,12\% del ACMUS en procesos de regeneración y control de erosión) \\
+& Programa Socio Bosque (MAATE) & ha bajo convenio & 423,08 ha protegidas (la mayor extensión boscosa bajo incentivo del cantón) \\
+& Áreas de Protección Hídrica (APH) & Denominación y microcuencas & APH San Pedro-Zambi-Guayquichuma (Resolución MAATE-DZ7); microcuencas El Badén y Guayacán \\
+& Susceptibilidad a riesgos y deslizamientos & Tipología de amenaza & Alta susceptibilidad a remoción en masa en laderas y socavamiento de riveras en invierno \\
+& Régimen climático e hidrológico & Índices físicos & Déficit hídrico pronunciado en verano; precipitaciones concentradas en periodo enero-abril \\
+\midrule
+
+\textbf{INSTITUCIONAL} & Capacidad de gobierno local & Tipo de entidad & Gobierno Autónomo Descentralizado Parroquial Rural de Guayquichuma (5 vocales) \\
+& Instrumentos de planificación vigentes & Documentos rectores & PDOT Parroquial Guayquichuma 2023-2027; articulado al PDOT Catamayo 2023-2027 \\
+& Proyectos de inversión priorizados PDOT & Código y asignación & Proyecto de Mejoramiento de Infraestructura Básica Guayquichuma Fase 1 (\$100.000 USD) \\
+& Convenios y cooperación GADMC & Alianzas territoriales & Convenios de concurrencia y cogestión comunitaria con GAD Municipal Catamayo y Prefectura \\
+
+\end{longtable}
+\textit{Nota.} Datos consolidados a partir del Censo de Población y Vivienda 2022 (INEC Redatam), Diagnóstico Estratégico del PDOT del Cantón Catamayo (2023-2027), MAATE y registros administrativos del GADM Catamayo.
+:::

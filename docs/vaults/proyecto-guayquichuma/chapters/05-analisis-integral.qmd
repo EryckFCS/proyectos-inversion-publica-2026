@@ -1,0 +1,53 @@
+# Análisis Integral
+
+El análisis integral aborda la viabilidad técnica, financiera, económica, ambiental y social de la intervención propuesta en la parroquia rural Guayquichuma.
+
+## Viabilidad técnica
+
+La ingeniería del proyecto se formula observando las condiciones geomorfológicas, climáticas y topográficas de la parroquia Guayquichuma. 
+
+### Descripción de la ingeniería de la intervención
+*   **Fase de Estudios Definitivos:** Levantamiento topográfico con estaciones totales y receptores GNSS, análisis geotécnicos de suelos y diseño estructural e hidráulico.
+*   **Fase de Construcción y Montaje:** Movimiento de tierras, cimentaciones, estructuras de hormigón armado, tendido de conducciones o edificación física según el tipo de intervención.
+*   **Fase de Puesta en Marcha y Pruebas:** Verificación funcional de caudales, presiones, resistencias estructurales y entrega formal al GAD Parroquial Rural de Guayquichuma.
+
+### Especificaciones técnicas y requerimientos de maquinaria
+
+::: {#tbl-maquinaria-guayquichuma}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lp{4.5cm}p{6cm}}
+\caption{Requerimientos Técnicos y Maquinaria de Obra} \label{tbl-maquinaria-guayquichuma} \\
+\toprule
+\textbf{Actividad} & \textbf{Maquinaria / Equipamiento} & \textbf{Especificación Técnica y Operativa} \\
+\midrule
+Topografía y diseño & Equipos GNSS / Estación Total & Equipos de precisión milimétrica vinculados a la red Geodésica Nacional. \\
+\addlinespace
+Movimiento de tierras & Retroexcavadora / Volqueta & Capacidad de balde de $0.8 \text{ m}^3$ a $1.0 \text{ m}^3$, volquetas de $8 \text{ m}^3$ para desalojo. \\
+\addlinespace
+Obras civiles & Hormigonera y vibrador de hormigón & Mezcladora de 1 saco de capacidad y vibrador de aguja para garantizar compactación. \\
+\addlinespace
+Instalación de redes / equipos & Herramientas especializadas & Equipos de termofusión, roscado, corte y accesorios certificados NTE INEN. \\
+\bottomrule
+\end{longtable}
+\fuente{Especificaciones técnicas del estudio de ingeniería.}
+:::
+
+## Viabilidad financiera y económica
+
+### Evaluación económica y social
+Para proyectos de inversión pública en el sector rural donde prima el beneficio social y no la rentabilidad financiera privada, se aplican los criterios de **Costo-Eficiencia (CE)** y la tasa social de descuento oficial del **8%** establecida por la Secretaría Nacional de Planificación del Ecuador @guia_planifica2021.
+
+*   **Valor Actual de los Costos Sociales (VACS):** Descuento de flujos de inversión, operación y mantenimiento en el horizonte del proyecto.
+*   **Costo Anual Equivalente Social (CAES):** Anualización del VACS para contrastar alternativas tecnológicas.
+*   **Indicador Costo por Beneficiario:** VACS dividido para el número total de beneficiarios directos e indirectos de Guayquichuma.
+
+## Viabilidad ambiental y de gestión de riesgos
+
+*   **Certificado de Intersección SUIA:** Tramitación ante el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) para verificar no afectación al SNAP ni bosques protectores.
+*   **Plan de Manejo Ambiental (PMA):** Medidas de prevención de polución, manejo de desechos sólidos y escombros, y control de erosión de taludes.
+*   **Análisis de Riesgos y Cambio Climático:** Evaluación de vulnerabilidad ante precipitaciones intensas, deslizamientos en época invernal y sequías prolongadas.
+
+## Viabilidad social y participación comunitaria
+
+*   Aceptación del proyecto por parte de los pobladores y líderes comunitarios de Guayquichuma.
+*   Articulación con el representante legal de la parroquia, **Sr. Rodrigo Agustín Armijos Sarango**, garantizando la legitimidad social y la fiscalización comunitaria de la inversión pública.

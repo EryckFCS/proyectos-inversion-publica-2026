@@ -1,0 +1,52 @@
+# Datos del Territorio
+
+En la Tabla \ref{tbl-datos-territorio} se registran las variables biofísicas, espaciales y demográficas oficiales que caracterizan el territorio de la parroquia rural Guayquichuma, armonizadas con el Censo de Población y Vivienda 2022 del INEC y el Plan de Desarrollo y Ordenamiento Territorial (PDOT) del Cantón Catamayo 2023-2027:
+
+::: {#tbl-datos-territorio}
+\begin{longtable}{p{5cm}p{4cm}p{7cm}}
+\caption{Variables y Parámetros del Territorio de Guayquichuma} \label{tbl-datos-territorio} \\
+\toprule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Indicador / Valor Territorial Oficial} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Indicador / Valor Territorial Oficial} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+División político-administrativa & Código DPA y jerarquía & Provincia de Loja, Cantón Catamayo, Parroquia Rural Guayquichuma (DPA: 110352) \\
+\addlinespace
+Instrumentos de planificación territorial vigentes & Denominación oficial & PDOT Parroquial Rural de Guayquichuma (2023-2027); PDOT Cantonal de Catamayo (2023-2027); PUGS Cantón Catamayo \\
+\addlinespace
+Ubicación geográfica (WGS84 / UTM 17S) & Coordenadas proyectadas & Coordenadas UTM cabecera: X: 661057 m E, Y: 9571050 m N ($03^\circ 52' 38''$ S, $79^\circ 33' 05''$ O aprox.) \\
+\addlinespace
+Superficie del área de estudio & Hectáreas / $km^2$ & 10.584,10 ha ($105,84 \text{ } km^2$), correspondiente al 16,24\% del territorio cantonal de Catamayo \\
+\addlinespace
+Altitud & msnm & Rango entre 650 msnm (valle bajo del río Playas/Guayquichuma) y 1.980 msnm (filos montañosos altos) \\
+\addlinespace
+Temperatura media anual & $^\circ$C & $22,0 \text{ } ^\circ\text{C} - 25,5 \text{ } ^\circ\text{C}$ (Clima megatérmico seco en valles a templado cálido en estribaciones) \\
+\addlinespace
+Precipitación media anual & mm/año & $600 \text{ a } 950 \text{ mm/año}$ con marcado déficit hídrico en estiaje \\
+\addlinespace
+Uso predominante del suelo & \% por categoría territorial & Conservación y Protección ACMUS (66,9\% - 7.092,80 ha), Agropecuario y pastoreo (28,5\%), Asentamientos humanos y otros (4,6\%) \\
+\addlinespace
+Red vial de acceso y conectividad & km y tipología & 38,4 km de vías locales parroquiales: 0\% asfalto urbano interno, 100\% en lastre y tierra con alta susceptibilidad a deslizamientos en invierno \\
+\addlinespace
+Asentamientos humanos y barrios oficiales & Número y nómina & 7 asentamientos: Cabecera Parroquial, Chiguango Alto, Chiguango Bajo, El Tambo, La Primavera, Rumipotrero y Santa Ana \\
+\addlinespace
+Población del área de intervención & Habitantes oficiales & 293 habitantes censados (Censo INEC 2022) distribuidos en 128 hogares y 208 viviendas \\
+\addlinespace
+Densidad poblacional & $\text{hab}/km^2$ / $\text{hab}/ha$ & 0,03 hab/ha ($2,77 \text{ hab}/km^2$), el nivel de dispersión territorial más acentuado del cantón \\
+\addlinespace
+Tasa de crecimiento intercensal & \% variación y tasa anual & Variación neta 2010-2022: -23,50\% (de 383 a 293 hab); Tasa geométrica: -2,21\% anual (saldo migratorio rural negativo) \\
+\addlinespace
+Tiempo de acceso al centro urbano & Minutos de viaje & 70 a 90 minutos hacia la cabecera cantonal de Catamayo por eje vial lastrado / estatal E35-E50 \\
+
+\end{longtable}
+\textit{Nota.} Fuente: GAD Municipal de Catamayo (PDOT 2023-2027), IGM-CONALI, Base censal REDATAM INEC (2022) y GAD Parroquial Rural de Guayquichuma.
+:::

@@ -1,0 +1,20 @@
+# Datos Institucionales del Proyecto y Contraparte Territorial
+
+::: {#tbl-datos-institucionales}
+\begin{longtable}{p{4.5cm}p{4cm}p{3.5cm}p{4cm}}
+\caption{Ficha Técnica del Equipo Formulador e Institución Contraparte} \label{tbl-datos-institucionales} \\
+\toprule
+\textbf{Equipo de Trabajo} & \textbf{Institución / Organización} & \textbf{Representante Legal} & \textbf{Contacto Directo} \\
+\midrule
+\begin{minipage}[t]{\linewidth}\raggedright
+\textbullet\ Lizeth Correa \\
+\textbullet\ David Perez \\
+\textbullet\ Erick Condoy \\
+\textbullet\ Gustavo Hurtado
+\end{minipage} & 
+\textbf{GAD Parroquial Rural de Guayquichuma}, Cantón Catamayo, Provincia de Loja & 
+\textbf{Rodrigo Agustín Armijos Sarango} \par (Presidente del GAD) & 
+\textbf{Teléfono:} 0999505181 \par \textbf{Correo:} \href{mailto:rodr_arm@hotmail.com}{rodr\_arm@hotmail.com} \\
+\bottomrule
+\end{longtable}
+:::

@@ -1,0 +1,64 @@
+# Articulación con la planificación
+
+De conformidad con los lineamientos del **Capítulo 3** de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas (COPFP) @coopfip2010, la viabilidad de una intervención pública radica en su coherencia y articulación orgánica con los instrumentos de planificación en los distintos niveles del Estado: el Plan Nacional de Desarrollo (PND), los Objetivos de Desarrollo Sostenible (ODS), las competencias descentralizadas del COOTAD y la planificación cantonal y parroquial (PDOT).
+
+## Marco Competencial y Articulación Institucional (COOTAD)
+
+El proyecto se sustenta en el régimen competencial y el principio de subsidiariedad y concurrencia establecidos en la Constitución de la República del Ecuador @constitucion2008 y el **Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)** @cootad2010:
+
+1. **Competencias Exclusivas del GAD Parroquial Rural (Art. 65 COOTAD):**
+   * *Literal a):* Planificar junto con otras instituciones del sector público y actores de la sociedad el desarrollo parroquial y su correspondiente ordenamiento territorial.
+   * *Literal b):* Planificar, construir y mantener la infraestructura física, los equipamientos y los espacios públicos de la parroquia.
+   * *Literal c):* Planificar y mantener, en coordinación con los gobiernos provinciales, la vialidad parroquial y rural.
+   * *Literal e):* Incentivar el desarrollo de actividades productivas comunitarias, la preservación de la biodiversidad y la protección del ambiente.
+2. **Competencias del GAD Municipal de Catamayo (Art. 55 COOTAD):**
+   * Prestar los servicios públicos de agua potable, alcantarillado, depuración de aguas residuales, manejo de desechos sólidos y saneamiento ambiental (literal d).
+   * Planificar, regular y controlar el tránsito y transporte terrestre en su circunscripción cantonal (literal f).
+3. **Mecanismo de Concurrencia y Cooperación (Art. 260 Constitución y Art. 119 COOTAD):**
+   El ejercicio concurrente permite la suscripción de convenios interinstitucionales de cogestión y cofinanciamiento entre el GAD Parroquial Rural de Guayquichuma y el GAD Municipal de Catamayo para el cierre efectivo de brechas en infraestructura prioritaria.
+
+## Articulación con el Plan de Desarrollo y Ordenamiento Territorial (PDOT)
+
+En la circunscripción cantonal de Catamayo, el proyecto responde de forma directa a la estructura programática y estratégica del **PDOT del Cantón Catamayo 2023-2027** [@pdot_catamayo_2023], alineándose con sus sistemas de desarrollo fundamentales detallados en la Tabla \ref{tbl-alineacion-pdot-catamayo}:
+
+::: {#tbl-alineacion-pdot-catamayo}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{2.8cm}p{4.2cm}p{4.2cm}p{4.2cm}}
+\caption{Matriz de Articulación Estratégica con el PDOT del Cantón Catamayo (2023-2027)} \label{tbl-alineacion-pdot-catamayo} \\
+\toprule
+\textbf{Sistema Territorial} & \textbf{Objetivo de Desarrollo Cantonal} & \textbf{Política Territorial PDOT} & \textbf{Línea de Intervención en Guayquichuma} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Sistema Territorial} & \textbf{Objetivo de Desarrollo Cantonal} & \textbf{Política Territorial PDOT} & \textbf{Línea de Intervención en Guayquichuma} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Asentamientos Humanos} & Garantizar el acceso equitativo a servicios básicos de calidad, incluyendo agua potable, saneamiento y conectividad, priorizando áreas rurales para reducir desigualdades. & Cierre progresivo de brechas de cobertura hídrica y saneamiento en cabeceras parroquiales y núcleos habitacionales rurales. & Reducción del déficit del 59\% en agua no potabilizada y 78\% en falta de alcantarillado en asentamientos de Guayquichuma. \\
+\addlinespace
+\textbf{Físico-Ambiental} & Promover la gestión sostenible de recursos naturales mediante protección de cuencas y restauración de ecosistemas degradados. & Conservación y manejo integral de Áreas de Conservación Municipal (ACMUS) y Áreas de Protección Hídrica (APH). & Resguardo de las microcuencas abastecedoras El Badén y Guayacán en el APH San Pedro-Zambi-Guayquichuma. \\
+\addlinespace
+\textbf{Económico-Productivo} & Potencializar el desarrollo económico diversificado, competitivo y resiliente, fomentando el uso eficiente de recursos productivos. & Fortalecimiento de cadenas de valor agropecuarias (café, caña, frutales) e infraestructura productiva de apoyo. & Mejoramiento y tecnificación del canal de riego rústico y apoyo a parcelas agrícolas familiares. \\
+\addlinespace
+\textbf{Político-Institucional} & Consolidar una gobernanza eficiente, transparente y participativa entre niveles de gobierno y sociedad civil. & Coordinación interinstitucional efectiva y fortalecimiento de la capacidad técnica de los GAD parroquiales. & Ejecución mediante convenio concurrente de cofinanciamiento GADM Catamayo - GADP Guayquichuma. \\
+
+\end{longtable}
+\fuente{Elaboración con base en el Componente de Propuesta y Modelo de Gestión del PDOT Catamayo 2023-2027.}
+:::
+
+## Alineación con el Plan Nacional de Desarrollo (PND 2025-2029) y Agenda 2030
+
+A nivel macro, el proyecto contribuye al cumplimiento de las metas del **Plan Nacional de Desarrollo "Ecuador No Se Detiene" 2025-2029** @pnd2025 y los **Objetivos de Desarrollo Sostenible (ODS - Agenda 2030)** @onu2015ods:
+
+* **Eje Social y Hábitat:** Vinculado a la garantía universal y progresiva de servicios básicos e infraestructura rural de calidad, orientada a reducir la pobreza multidimensional por NBI en comunidades rurales aisladas.
+* **Eje Infraestructura y Sostenibilidad Ambiental:** Alineado con la preservación del patrimonio hídrico nacional y la resiliencia comunitaria frente a eventos climáticos extremos en zonas de ladera andina.
+* **Alineación con los ODS:**
+  * *ODS 6 (Agua Limpia y Saneamiento):* Metas 6.1 (acceso universal y equitativo al agua potable) y 6.2 (servicios de saneamiento e higiene adecuados).
+  * *ODS 9 (Industria, Innovación e Infraestructura):* Meta 9.1 (desarrollar infraestructura fiable, sostenible, resiliente y de calidad).
+  * *ODS 11 (Comunidades Sostenibles):* Meta 11.a (fortalecer la planificación del desarrollo y ordenamiento territorial urbano-rural).
+  * *ODS 12 (Producción y Consumo Responsable):* Meta 12.2 (lograr la gestión sostenible y el uso eficiente de los recursos naturales).

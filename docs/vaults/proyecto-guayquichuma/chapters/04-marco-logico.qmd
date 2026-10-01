@@ -1,0 +1,64 @@
+# Matriz de Marco Lógico
+
+## Metodología del Marco Lógico
+
+La metodología del Marco Lógico (MML) organiza de manera sistemática los objetivos, metas, medios de verificación y supuestos del proyecto para la parroquia Guayquichuma.
+
+## Matriz de Planificación del Proyecto (MML)
+
+::: {#tbl-marco-logico}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{3cm}p{4cm}p{4cm}p{3.5cm}}
+\caption{Matriz de Marco Lógico del Proyecto} \label{tbl-marco-logico} \\
+\toprule
+\textbf{Resumen Narrativo} & \textbf{Indicadores Objetivamente Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Resumen Narrativo} & \textbf{Indicadores Objetivamente Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{FIN} \par
+Mejorar la calidad de vida, bienestar social y condiciones de desarrollo en la parroquia rural Guayquichuma. &
+Incremento en los índices de cobertura y satisfacción comunitaria en el horizonte del proyecto. &
+Informes del PDOT Parroquial y reportes de seguimiento socioeconómico del INEC. &
+Estabilidad socioeconómica nacional y continuidad en las políticas públicas territoriales. \\
+\addlinespace
+
+\textbf{PROPÓSITO} \par
+Adecuada y oportuna provisión del servicio e infraestructura pública en la parroquia rural Guayquichuma. &
+Cobertura del 100\% de la población objetivo al año 2 de operación. &
+Actas de recepción definitiva de obra, bitácoras operativas del GAD Guayquichuma. &
+Mantenimiento del compromiso de las autoridades del GAD y participación activa de los beneficiarios. \\
+\addlinespace
+
+\textbf{COMPONENTES} \par
+1. Infraestructura física construida y rehabilitada. \par
+2. Equipamiento e insumos técnicos instalados. \par
+3. Fortalecimiento institucional y capacitación comunitaria. &
+1. 100\% de las obras físicas ejecutadas según especificaciones técnicas. \par
+2. Equipamiento operativo y funcionando al 100\%. \par
+3. Talleres comunitarios realizados con participación ciudadana. &
+Informes técnicos de fiscalización, actas de entrega-recepción, registros de asistencia fotográficos y firmas. &
+Disponibilidad oportuna de transferencias presupuestarias y condiciones climáticas favorables para obra física. \\
+\addlinespace
+
+\textbf{ACTIVIDADES} \par
+1.1. Estudios técnicos y diseños definitivos. \par
+1.2. Contratación y ejecución de obra civil. \par
+1.3. Fiscalización técnica y ambiental. \par
+2.1. Adquisición e instalación de equipamiento. \par
+3.1. Talleres de socialización y comités barriales. &
+Presupuesto total programado ejecutado conforme al cronograma físico-financiero oficial. &
+Planillas de avance de obra, facturas, informes de fiscalización, órdenes de pago del GAD. &
+Procesos de contratación pública en el SERCOP concluidos en los plazos previstos sin declaratorias de desierto. \\
+
+\end{longtable}
+\fuente{Elaboración del equipo de trabajo según lineamientos de Planifica Ecuador.}
+:::
