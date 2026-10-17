@@ -1,0 +1,63 @@
+# Articulación con la planificación
+
+De conformidad con los lineamientos del **Capítulo 3** de la **Guía para la Presentación de Programas y Proyectos de Inversión Pública** de Planifica Ecuador @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas (COPFP) @coopfip2010, la viabilidad de una intervención pública radica en su coherencia y articulación orgánica con los instrumentos de planificación en los distintos niveles del Estado: el Plan Nacional de Desarrollo (PND), los Objetivos de Desarrollo Sostenible (ODS), las competencias descentralizadas del COOTAD y la planificación cantonal y parroquial (PDOT).
+
+## Marco Competencial y Articulación Institucional (COOTAD)
+
+El proyecto se sustenta en el régimen competencial y el principio de subsidiariedad y concurrencia establecidos en la Constitución de la República del Ecuador @constitucion2008 y el **Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)** @cootad2010:
+
+1. **Competencias del GAD Parroquial Rural de Guayquichuma (Art. 65 COOTAD):**
+   * *Literal a):* Planificar junto con otras instituciones del sector público y actores de la sociedad el desarrollo parroquial y su correspondiente ordenamiento territorial.
+   * *Literal b):* Planificar, construir y mantener la infraestructura física, los equipamientos y los espacios públicos de la parroquia.
+   * *Literal d):* Incentivar el desarrollo de actividades productivas comunitarias, la preservación de la biodiversidad y la protección del ambiente.
+   * *Literal h):* Gestionar, coordinar y vigilar la ejecución de obras y la calidad de los servicios públicos en su jurisdicción.
+2. **Competencias Exclusivas del GAD Municipal de Catamayo (Art. 55 COOTAD):**
+   * Prestar los servicios públicos de agua potable, alcantarillado, depuración de aguas residuales, manejo de desechos sólidos y actividades de saneamiento ambiental (literal d).
+3. **Mecanismo de Concurrencia y Delegación Interinstitucional (Art. 260 Constitución y Art. 119 COOTAD):**
+   Dado que el saneamiento es competencia rectora municipal pero la demanda y gestión operativa inmediata radican en el territorio parroquial, se formula la intervención bajo un **Convenio de Cooperación Interinstitucional y Delegación Concurrente** entre el GAD Municipal de Catamayo y el GAD Parroquial Rural de Guayquichuma, permitiendo la asignación y ejecución coordinada de recursos.
+
+## Articulación con el Plan de Desarrollo y Ordenamiento Territorial (PDOT)
+
+En la circunscripción parroquial y cantonal, el proyecto responde directamente al **PDOT de la Parroquia Guayquichuma 2023-2027** (Tabla 45) y al **PDOT del Cantón Catamayo 2023-2027** [@pdot_guayquichuma_2024; @pdot_catamayo_2023], alineándose con los sistemas territoriales detallados en la Tabla \ref{tbl-alineacion-pdot-catamayo}:
+
+::: {#tbl-alineacion-pdot-catamayo}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{2.8cm}p{4.2cm}p{4.2cm}p{4.2cm}}
+\caption{Matriz de Articulación Estratégica con el PDOT Parroquial y Cantonal} \label{tbl-alineacion-pdot-catamayo} \\
+\toprule
+\textbf{Sistema Territorial} & \textbf{Objetivo de Desarrollo} & \textbf{Política Territorial PDOT} & \textbf{Alineación Operativa en Guayquichuma} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Sistema Territorial} & \textbf{Objetivo de Desarrollo} & \textbf{Política Territorial PDOT} & \textbf{Alineación Operativa en Guayquichuma} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Asentamientos Humanos y Servicios} & Garantizar el acceso a servicios básicos de calidad que posibiliten la mejora de la calidad de vida de los habitantes. & Reducir la brecha de servicios de saneamiento básico en cabecera parroquial y barrios periféricos. & Proyecto priorizado en PDOT: "Estudio del sistema de agua potable, alcantarillado y PTAR del Barrio El Prado" (\$45.000 USD) y ampliación de red (\$12.000 USD). \\
+\addlinespace
+\textbf{Físico-Ambiental} & Conservar y recuperar áreas de relevancia hídrica y suelos degradados en la parroquia. & Proteger las fuentes de captación y mitigar descargas contaminantes en afluentes hídricos. & Cese de vertidos directos de aguas negras a las microcuencas de El Badén, El Dudal y San Jacinto. \\
+\addlinespace
+\textbf{Socio-Cultural y Salud} & Reducir las brechas de desigualdad social y proteger la salud de grupos prioritarios. & Fortalecimiento de la salud comunitaria preventiva y reducción de la desnutrición crónica infantil. & Disminución de patologías parasitarias (B829) y gastrointestinales en la población infantil y adulta. \\
+\addlinespace
+\textbf{Político-Institucional} & Fortalecer las capacidades de gestión local y la gobernanza participativa del agua. & Asistencia técnica a juntas administradoras de agua potable y saneamiento rural. & Capacitación técnica y organizativa a la Junta de Agua Potable y Saneamiento Guayquichuma - El Prado. \\
+
+\end{longtable}
+\fuente{Elaboración con base en el PDOT Parroquial Guayquichuma 2023-2027 y PDOT Cantonal Catamayo 2023-2027.}
+:::
+
+## Alineación con el Plan Nacional de Desarrollo y Agenda 2030 (ODS)
+
+El proyecto se vincula a las metas de planificación de desarrollo nacional y compromisos internacionales:
+
+1. **Plan Nacional de Desarrollo:**
+   - **Eje Social:** Asegurar el acceso equitativo a servicios básicos seguros en áreas rurales vulnerables para romper trampas de pobreza multidimensional.
+   - **Eje Sostenibilidad:** Proteger los recursos hídricos mediante el tratamiento adecuado de efluentes domésticos y el saneamiento descentralizado.
+2. **Alineación con los Objetivos de Desarrollo Sostenible (ODS - Agenda 2030):**
+   - **ODS 6 (Agua Limpia y Saneamiento):** Meta 6.2 (lograr el acceso a servicios de saneamiento e higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre) y Meta 6.3 (mejorar la calidad del agua reduciendo la contaminación y vertimientos sin tratamiento).
+   - **ODS 3 (Salud y Bienestar):** Reducción de la morbilidad por enfermedades diarreicas y de transmisión hídrica.
+   - **ODS 11 (Ciudades y Comunidades Sostenibles):** Fortalecimiento de asentamientos rurales sostenibles e inclusivos.

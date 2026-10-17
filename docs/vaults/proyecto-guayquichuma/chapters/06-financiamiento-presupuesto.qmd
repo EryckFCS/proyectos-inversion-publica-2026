@@ -2,17 +2,17 @@
 
 ## Estructura de financiamiento
 
-El financiamiento del proyecto en la parroquia rural Guayquichuma se articula a través de fuentes públicas contempladas en el Presupuesto General del Estado y fondos propios del régimen seccional descentralizado:
+El financiamiento del proyecto se articula a través de fuentes públicas del régimen seccional y fondos concursables de inversión pública:
 
-*   **Asignación PGE / Planifica Ecuador / Banco de Desarrollo del Ecuador (BDE):** Fondos no reembolsables o de crédito público para inversión de infraestructura básica rural.
-*   **Aporte GAD Parroquial Rural de Guayquichuma:** Contraparte local mediante partidas de inversión del presupuesto anual.
-*   **Convenios de Concurrencia:** Articulación de recursos con el GAD Municipal de Catamayo y GAD Provincial de Loja.
+*   **Partida de Consultoría del PDOT Parroquial (GAD Guayquichuma):** Asignación referencial contemplada en la matriz programática (Tabla 45 del PDOT 2023-2027) para el estudio técnico del sistema de agua y alcantarillado con PTAR ($45.000,00 USD).
+*   **Convenio de Concurrencia y Cofinanciamiento (GAD Municipal de Catamayo):** Fondo de inversión concurrente para saneamiento ambiental en el marco de sus competencias exclusivas ($12.000,00 USD).
+*   **Monto total programado:** **$57.000,00 USD**.
 
 ## Presupuesto referencial por componentes
 
 ::: {#tbl-presupuesto-componentes}
 \fontsize{10}{12}\selectfont
-\begin{longtable}{p{5.5cm}ccr}
+\begin{longtable}{p{6cm}ccr}
 \caption{Presupuesto Referencial por Componentes y Actividades} \label{tbl-presupuesto-componentes} \\
 \toprule
 \textbf{Componente / Rubro} & \textbf{Unidad} & \textbf{Cantidad} & \textbf{Costo Total (USD)} \\
@@ -28,35 +28,36 @@ El financiamiento del proyecto en la parroquia rural Guayquichuma se articula a 
 \bottomrule
 \endlastfoot
 
-\textbf{Componente 1: Obras Civiles e Infraestructura} & Global & 1 & 180,000.00 \\
-- Estudios y diseños definitivos & Global & 1 & 15,000.00 \\
-- Movimiento de tierras y plataformas & $m^3$ & 2,500 & 25,000.00 \\
-- Estructuras y construcción civil principal & Global & 1 & 110,000.00 \\
-- Obras de drenaje y protección & $m$ & 850 & 30,000.00 \\
+\textbf{Componente 1: Consultoría de Estudios y Diseños Técnicos} & Global & 1 & 35.000,00 \\
+- Topografía georreferenciada y mecánica de suelos & Global & 1 & 7.500,00 \\
+- Diseño hidráulico de redes de colectores y pozos & Global & 1 & 11.500,00 \\
+- Diseño de ingeniería del módulo de tratamiento primario/filtro & Global & 1 & 10.000,00 \\
+- Regularización ambiental (Ficha y PMA en SUIA) & Global & 1 & 6.000,00 \\
 \addlinespace
 
-\textbf{Componente 2: Equipamiento e Instalaciones} & Global & 1 & 45,000.00 \\
-- Adquisición de materiales y tuberías / equipos & Global & 1 & 35,000.00 \\
-- Montaje electromecánico o de accesorios & Global & 1 & 10,000.00 \\
+\textbf{Componente 2: Obras Civiles Prioritarias y Tratamiento} & Global & 1 & 16.500,00 \\
+- Excavación, relleno y tendido de tubería de enlace & m & 590 & 6.800,00 \\
+- Pozos de revisión de hormigón simple & Unid. & 10 & 3.200,00 \\
+- Módulo preliminar de sedimentación y biodigestión anaerobia & Global & 1 & 6.500,00 \\
 \addlinespace
 
-\textbf{Componente 3: Fiscalización y Gestión Social} & Global & 1 & 15,000.00 \\
-- Fiscalización técnica independiente & Global & 1 & 10,000.00 \\
-- Capacitación y plan de manejo socioambiental & Global & 1 & 5,000.00 \\
+\textbf{Componente 3: Fiscalización y Fortalecimiento Comunitario} & Global & 1 & 4.000,00 \\
+- Fiscalización técnica externa de obras & Meses & 4 & 2.500,00 \\
+- Talleres comunitarios y fortalecimiento a la Junta de Agua & Eventos & 2 & 1.500,00 \\
 \midrule
-\textbf{SUBTOTAL COSTO DIRECTO} & & & \textbf{240,000.00} \\
-Imprevistos de obra (5\%) & & & 12,000.00 \\
+\textbf{SUBTOTAL COSTO DIRECTO} & & & \textbf{55.500,00} \\
+Imprevistos y contingencias técnicas (2,7\%) & Global & 1 & 1.500,00 \\
 \midrule
-\textbf{TOTAL GENERAL DEL PROYECTO} & & & \textbf{252,000.00} \\
+\textbf{TOTAL GENERAL DEL PROYECTO} & & & \textbf{57.000,00} \\
 
 \end{longtable}
-\fuente{Elaboración del equipo de formulación presupuestaria.}
+\fuente{Elaboración técnica congruente con el banco de proyectos del PDOT Parroquial Guayquichuma 2023-2027.}
 :::
 
 ## Costos de Operación y Mantenimiento (O&M)
 
-Para garantizar la sostenibilidad de la obra una vez culminada la fase de inversión, se proyectan los costos anuales recurrentes asumidos por el GAD Parroquial y la comunidad:
+Para asegurar que la intervención sea sostenible en el tiempo y no dependa de subsidios externos insostenibles:
 
-*   **Mantenimiento Preventivo:** Inspección trimestral, limpieza y reparaciones menores.
-*   **Mantenimiento Correctivo:** Sustitución de piezas sometidas a desgaste o eventos fortuitos.
-*   **Gastos Operativos:** Personal técnico/operativo a cargo y reactivos o suministros periódicos.
+1. **Mantenimiento Ordinario:** Purga periódica de lodos digeridos (semestral), limpieza de cribas y revisión de pozos de inspección a cargo del operador de la Junta de Agua y Saneamiento Guayquichuma - El Prado.
+2. **Sostenibilidad Tarifaria:** Se propone una adecuación progresiva de la cuota comunitaria mensual (de \$2,00 a \$2,50 por abonado), destinando el incremento (\$0,50/usuario/mes) a un fondo rotatorio de mantenimiento del sistema sanitario.
+3. **Costo Anual Proyectado de O&M:** Aproximadamente \$800,00 USD al año, cubierto íntegramente por la recaudación local y apoyo técnico puntual de la cuadrilla municipal de Catamayo.

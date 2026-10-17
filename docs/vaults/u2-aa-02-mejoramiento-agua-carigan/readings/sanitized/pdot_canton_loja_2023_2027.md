@@ -1,1 +1,0 @@
-/home/erick-fcs/.capital/lake/bibliography/sanitized/pdot_canton_loja_2023_2027.md

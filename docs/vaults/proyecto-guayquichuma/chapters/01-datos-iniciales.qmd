@@ -1,23 +1,22 @@
 # Datos iniciales del proyecto
 
-
 ## Tipo de solicitud de dictamen
-Prioridad. La solicitud asegura el financiamiento e incorporación en la planificación de inversión pública para el cierre de brechas prioritarias en el territorio rural de la parroquia Guayquichuma, en concordancia con los lineamientos de la **Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador** @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
+Prioridad. La solicitud asegura la incorporación y elegibilidad técnica del proyecto en la programación de inversión pública para el cierre de brechas de saneamiento ambiental en el territorio rural de la parroquia Guayquichuma, en concordancia con los lineamientos de la **Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador** @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
 
 ## Nombre del Proyecto
-[NOMBRE_DEL_PROYECTO: Ejemplo - Proyecto de Inversión Pública para el Fortalecimiento y Desarrollo de la Infraestructura Comunitaria / Productiva / Saneamiento en la Parroquia Rural Guayquichuma, Cantón Catamayo, Provincia de Loja].
+**Mejoramiento del sistema de saneamiento básico y tratamiento de aguas residuales en la cabecera parroquial y sectores aledaños de la parroquia rural Guayquichuma, cantón Catamayo, provincia de Loja.**
 
 ## Entidad UDAF
-Gobierno Autónomo Descentralizado Parroquial Rural de Guayquichuma (con articulación y coordinación con el GAD Municipal de Catamayo y GAD Provincial de Loja en el marco del COOTAD @cootad2010).
+Gobierno Autónomo Descentralizado Parroquial Rural de Guayquichuma, en coordinación y concurrencia de competencias con el Gobierno Autónomo Descentralizado Municipal de Catamayo de conformidad con los artículos 55 (literal d) y 65 (literal h) del COOTAD @cootad2010.
 
 ## Entidad operativa desconcentrada
-Unidad Técnica y de Obras Públicas / Planificación del GAD Parroquial Rural de Guayquichuma.
+Unidad Técnica y de Planificación / Obras Públicas del GAD Parroquial Rural de Guayquichuma.
 
 ## Gabinete Sectorial
-[GABINETE_SECTORIAL: Ejemplo - Recursos Naturales, Hábitat e Infraestructura / Desarrollo Social / Económico Productivo].
+Gabinete Sectorial de Recursos Naturales, Hábitat e Infraestructura.
 
 ## Sector, subsector y tipo de inversión
-De acuerdo con el catálogo oficial de intervenciones de la Secretaría Nacional de Planificación (Planifica Ecuador) @guia_planifica2021:
+De acuerdo con el clasificador oficial de intervenciones de la Secretaría Nacional de Planificación (Planifica Ecuador) @guia_planifica2021:
 
 ::: {#tbl-sectores}
 \begin{longtable}{llll}
@@ -25,7 +24,7 @@ De acuerdo con el catálogo oficial de intervenciones de la Secretaría Nacional
 \toprule
 \textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
 \midrule
-Por definir & Por definir & Por definir & Por definir \\
+Recursos Naturales y Hábitat & Agua y Saneamiento & 09.02 & Alcantarillado y Saneamiento Ambiental \\
 \bottomrule
 \end{longtable}
 \fuente{Catálogo de Clasificación Sectorial de Inversión Pública - Planifica Ecuador.}
@@ -37,14 +36,16 @@ Por definir & Por definir & Por definir & Por definir \\
 \toprule
 \textbf{Cód.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
 \midrule
-T01 & Infraestructura / Obra Pública & Procesos de adquisición, construcción, ampliación, mantenimiento, reposición o rehabilitación física. & Obras civiles, estudios, fiscalización y equipamiento. \\
+T01 & Infraestructura / Obra Pública & Procesos de adquisición, ampliación, construcción y mejoramiento físico de redes e instalaciones de depuración. & Estudios de detalle, obras civiles hidrosanitarias, lechos biológicos y fiscalización. \\
+\addlinespace
+T03 & Desarrollo de Capacidades & Asistencia técnica y fortalecimiento de juntas comunitarias administradoras de servicios. & Capacitación en operación y mantenimiento sanitario y talleres de higiene comunitaria. \\
 \bottomrule
 \end{longtable}
 \fuente{Guía General para la Presentación de Programas y Proyectos de Inversión Pública.}
 :::
 
 ## Plazo de ejecución
-[PLAZO_MESES] meses calendario.
+10 meses calendario (distribuidos en 3 meses de ingeniería de detalle y validación ambiental, 6 meses de ejecución y pruebas hidrosanitarias, y 1 mes de cierre y transferencia operativa).
 
 ## Monto total
-[MONTO_TOTAL_USD] USD. Conforme al presupuesto referencial, cronograma valorado de inversión y fuentes de financiamiento descritos en los estudios técnicos.
+$57.000,00 USD (Cincuenta y siete mil dólares de los Estados Unidos de América). Este monto integra la consultoría técnica de factibilidad hidrosanitaria ($45.000,00 USD) contemplada formalmente en el PDOT Parroquial (Tabla 45) y las obras preliminares e intervenciones prioritarias de ampliación y contención ($12.000,00 USD) articuladas con el presupuesto de inversión local.

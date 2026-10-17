@@ -1,0 +1,56 @@
+# Datos del Territorio
+
+En la Tabla \ref{tbl-datos-territorio} se registran las variables biofísicas, espaciales y de conectividad que caracterizan el territorio de la parroquia rural Saracay, armonizadas y contrastadas directamente con el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) de la Parroquia Saracay 2023-2027** del Gobierno Autónomo Descentralizado Parroquial Rural de Saracay [@gadpr_saracay_eloro_pdot_2024], los instrumentos de planificación del Cantón Piñas [@gadm_pinas_pdot_2024] y la base censal oficial del Instituto Nacional de Estadística y Censos [@inec_censo_2022]:
+
+::: {#tbl-datos-territorio}
+\begin{longtable}{p{3.5cm}p{2.6cm}p{5.4cm}p{2.4cm}p{1.7cm}}
+\caption{Variables y Parámetros Biofísicos y Espaciales de la Parroquia Saracay (Piñas, El Oro)} \label{tbl-datos-territorio} \\
+\toprule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Valor / Parámetro Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endfirsthead
+\multicolumn{5}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Valor / Parámetro Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+División político-administrativa & Jurisdicción oficial & Provincia de El Oro, Cantón Piñas, Parroquia Rural Saracay (Creación municipal: 31 marzo 1989; Límites CELIR: 28 noviembre 1995; Código DPA INEC: 071056) & GADPRS (2024); INEC (2023) & Verificada \\
+\addlinespace
+Instrumentos de planificación & Vigencia legal & PDOT Parroquial Rural Saracay 2023--2027 y PDOT Cantonal Piñas 2024--2027 & GADPRS (2024); GAD Piñas (2024) & Verificada \\
+\addlinespace
+Ubicación geográfica cabecera & Coordenadas aproximadas & Cabecera parroquial situada a 27 km al noroccidente de Piñas en la estratégica "Y" de Saracay (Intersección E585 y E25/Troncal de la Costa hacia Loja y El Oro alto) & GADPRS (2024) & Verificada \\
+\addlinespace
+Límites territoriales & Demarcación política & Norte: Parroquia Torata (Cantón Santa Rosa); Sur: Cantón Balsas; Este: Parroquia Moromoro (Piñas); Oeste: Parroquias Piedras y La Bocana (Piñas) & CELIR (1995); GADPRS (2024) & Verificada \\
+\addlinespace
+Superficie parroquial oficial & Hectáreas / km² & 110,00 km² (11.000 ha), una de las parroquias con mayor extensión del Cantón Piñas & GADPRS (2024) & Verificada \\
+\addlinespace
+Altitud territorial & m s.n.m. & Rango altitudinal entre 220 m s.n.m. (valle bajo del río Saracay) y 450 m s.n.m. en la cabecera parroquial & GADPRS (2024) & Verificada \\
+\addlinespace
+Temperatura media anual & Grados Celsius (°C) & Clima tropical cálido húmedo / subcálido con temperatura media entre 22 °C y 26 °C & GADPRS (2024) & Verificada \\
+\addlinespace
+Cuenca hidrográfica principal & Red de drenaje & Cuenca del Río Saracay, Río Fátima, Río Naranjos y afluentes (Quebradas Panupali, Camarones y Damas) & GADPRS (2024) & Verificada \\
+\addlinespace
+Áreas ecológicas de importancia & Cuencas y bosques protectores & Microcuencas hídricas receptoras de montaña, zonas de bosque húmedo premontano y balnearios fluviales naturales & GADPRS (2024) & Verificada \\
+\addlinespace
+Asentamientos y comunidades & Sitios, ciudadelas y recintos & Cabecera (ciudadelas El Bosque, El Tamarindo, La Inmaculada, La Central, La Y) y recintos rurales: Platanillos, Panupali, Naranjos, San José, Fátima, Damas, El Triunfo, Las Palmas, Camarones & GADPRS (2024) & Verificada \\
+\addlinespace
+Densidad poblacional & Hab/km² & 25,23 hab/km² (2.775 hab censados / 110,00 km²; patrón concentrado en eje vial y dispersión en recintos) & INEC (2023); GADPRS (2024) & Calculada \\
+\addlinespace
+Vocación productiva del suelo & Estructura económica & Predominio agropecuario: caña de azúcar, maíz, plátano, cacao fino de aroma, cítricos, pastizales para ganadería bovina de carne y leche & GADPRS (2024) & Verificada \\
+\addlinespace
+Otras actividades económicas & Porcentajes de ocupación & Comercio gastronómico y servicios en "La Y" de Saracay (parador interprovincial de transporte y turismo), porcicultura y avicultura & GADPRS (2024) & Verificada \\
+\addlinespace
+Red vial y articulación regional & Corredores principales & Nodo vial interprovincial neurálgico: Conexión directa entre la Costa (Machala/Santa Rosa), el Altiplano Ourense (Piñas/Zaruma/Portovelo) y la Provincia de Loja vía Balsas/Chaguarpamba & GADPRS (2024) & Verificada \\
+\addlinespace
+Equipamiento social básico & Salud y educación & Centro de Salud Rural del MSP en cabecera parroquial, Unidades Educativas y colegios parroquiales en cabecera y recintos & GADPRS (2024) & Verificada \\
+\addlinespace
+Servicios básicos de saneamiento & Estado de infraestructura & Sistema de agua por red y reservorios en casco central; déficit de alcantarillado sanitario y PTAR en sectores periféricos y recintos & GAD Piñas (2024); GADPRS (2024) & En indagación \\
+
+\end{longtable}
+\textit{Nota.} Datos biofísicos y espaciales extraídos y verificados del Plan de Desarrollo y Ordenamiento Territorial de Saracay [@gadpr_saracay_eloro_pdot_2024] e instrumentos oficiales del cantón Piñas.
+:::

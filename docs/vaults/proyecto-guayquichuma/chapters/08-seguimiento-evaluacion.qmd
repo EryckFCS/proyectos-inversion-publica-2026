@@ -2,34 +2,36 @@
 
 ## Monitoreo del avance físico y financiero
 
-El seguimiento y evaluación se ejecuta en cumplimiento de las directrices metodológicas de Planifica Ecuador @guia_planifica2021 y los requerimientos del Sistema de Información para Gobiernos Autónomos Descentralizados (SIGAD):
+El seguimiento y evaluación se ejecuta en observancia de las normas de la Secretaría Nacional de Planificación @guia_planifica2021 y del Sistema de Información para Gobiernos Autónomos Descentralizados (SIGAD):
 
-*   **Avance Físico:** Medición porcentual del cumplimiento de metas por componentes mediante informes quincenales y mensuales de fiscalización.
-*   **Avance Financiero:** Registro de planillas devengadas y pagadas con respecto al monto total contratado en el Sistema Oficial de Contratación Pública y contabilidad municipal/parroquial.
+*   **Avance Físico:** Verificación quincenal de rubros contractuales ejecutados (metros de tubería instalados, pozos culminados, porcentaje de avance en módulo séptico) reportados mediante informes de fiscalización.
+*   **Avance Financiero:** Control de planillas liquidadas contra el cronograma valorado, asegurando que las transferencias del GAD Municipal de Catamayo y los desembolsos locales se sincronicen estrictamente con los productos recibidos a satisfacción.
 
 ## Indicadores de desempeño y resultados
 
 ::: {#tbl-indicadores-desempeno}
 \fontsize{10}{12}\selectfont
-\begin{longtable}{p{4.5cm}p{3cm}p{3.5cm}p{3.5cm}}
-\caption{Indicadores de Gestión, Producto e Impacto} \label{tbl-indicadores-desempeno} \\
+\begin{longtable}{p{3.5cm}p{4cm}p{3cm}p{4cm}}
+\caption{Indicadores de Gestión, Producto e Impacto del Proyecto} \label{tbl-indicadores-desempeno} \\
 \toprule
 \textbf{Nivel de Indicador} & \textbf{Nombre del Indicador} & \textbf{Frecuencia} & \textbf{Fuente de Verificación} \\
 \midrule
-Gestión & Eficiencia en la ejecución presupuestaria & Mensual & Sistema contable del GAD Guayquichuma. \\
+Gestión & Eficiencia de ejecución presupuestaria & Mensual & Cédulas presupuestarias del GAD Guayquichuma. \\
 \addlinespace
-Producto & Porcentaje de avance físico de obra & Mensual & Planillas aprobadas por fiscalización. \\
+Producto 1 & Estudios hidrosanitarios concluidos & Trimestral & Informe técnico de consultoría y oficio de validación. \\
 \addlinespace
-Efecto & Población rural con servicio operativo & Semestral & Registros de usuarios y comités comunitarios. \\
+Producto 2 & Metros de colector y módulo de tratamiento instalados & Mensual & Planillas aprobadas por fiscalización técnica. \\
 \addlinespace
-Impacto & Reducción de morbilidad o aumento de productividad & Anual & Estadísticas del Centro de Salud local / INEC. \\
+Efecto & Cobertura de recolección en zona nucleada & Semestral & Padrón de usuarios conectados de la junta local. \\
+\addlinespace
+Impacto & Incidencia de parasitosis intestinal (B829) & Anual & Registro epidemiológico del Puesto de Salud MSP. \\
 \bottomrule
 \end{longtable}
-\fuente{Matriz de seguimiento y monitoreo del proyecto.}
+\fuente{Matriz de seguimiento y evaluación institucional.}
 :::
 
 ## Evaluación ex-ante, de procesos y ex-post
 
-1.  **Evaluación Ex-Ante:** Garantiza la coherencia lógica, pertinencia territorial y viabilidad socioeconómica mediante el presente documento de formulación.
-2.  **Evaluación de Procesos (Durante la Ejecución):** Identifica desvíos en el cronograma o en los costos unitarios, implementando acciones correctivas de manera inmediata.
-3.  **Evaluación Ex-Post (Operación):** Realizada tras 2 años de funcionamiento para evaluar la sostenibilidad institucional, el impacto socioeconómico real y la satisfacción de la población de Guayquichuma.
+1.  **Evaluación Ex-Ante:** Sustentada en el presente documento, validando la coherencia entre el diagnóstico del PDOT Parroquial 2023-2027, las competencias del COOTAD y el costo por beneficiario (\$316,67 USD/hab.).
+2.  **Evaluación de Procesos (Durante la Ejecución):** Supervisión continua del cumplimiento de especificaciones técnicas y normas ambientales de vertido para evitar atrasos o sobrecostos en obra.
+3.  **Evaluación Ex-Post (Operación):** Programada a los 24 meses de operación para auditar: (i) la calidad física y bacteriológica del efluente vertido a la quebrada, (ii) la regularidad en el pago de la tarifa comunitaria de mantenimiento, y (iii) la tendencia en consultas médicas infantiles por problemas digestivos en el Puesto de Salud MSP.

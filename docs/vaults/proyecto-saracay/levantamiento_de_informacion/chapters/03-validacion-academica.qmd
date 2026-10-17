@@ -1,0 +1,16 @@
+# Validación y Responsabilidad Académica
+
+El levantamiento, estructuración, contrastación e interpretación de las variables multidimensionales que conforman la presente matriz territorial ha sido elaborado por el equipo técnico-estudiantil siguiendo APA 7 y las directrices metodológicas de la carrera de Economía.
+
+\vspace{2.5cm}
+
+\begin{center}
+\begin{minipage}{0.75\textwidth}
+\centering
+\rule{8.5cm}{0.6pt} \\ \vspace{0.25cm}
+\textbf{Econ. José Job Chamba Tandazo} \\
+DOCENTE DE LA ASIGNATURA DE PROYECTOS DE INVERSIÓN PÚBLICA \\
+FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
+UNIVERSIDAD NACIONAL DE LOJA
+\end{minipage}
+\end{center}

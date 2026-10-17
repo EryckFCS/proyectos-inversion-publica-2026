@@ -1,1 +1,0 @@
-/home/erick-fcs/.capital/lake/bibliography/sanitized/pnd2025_plan_nacional_de_desarrollo_2025_2029_ecuador_no_s.md

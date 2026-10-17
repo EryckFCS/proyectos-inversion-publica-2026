@@ -1,0 +1,167 @@
+# Diagnóstico y problema
+
+## Descripción de la situación actual del sector, área o zona de intervención y de influencia
+
+El escenario macroterritorial de la parroquia rural Guayquichuma, área de influencia directa y localización del proyecto, constituye una de las circunscripciones rurales occidentales del cantón Catamayo, provincia de Loja (DPA: 110352). Según el **Plan de Desarrollo y Ordenamiento Territorial (PDOT) de la Parroquia Guayquichuma 2023-2027** y el PDOT cantonal de Catamayo, la circunscripción abarca una superficie de **10.543,95 hectáreas** ($105,44\text{ km}^2$), lo que representa el **16,24\%** del territorio cantonal [@pdot_catamayo_2023; @pdot_guayquichuma_2024]. Guayquichuma limita al norte con los cantones Chilla y Zaruma (provincia de El Oro), al sur y este con la parroquia rural Zambi y Catamayo, y al oeste con Chaguarpamba. La altitud del territorio oscila entre los **650 msnm** en el valle bajo del río Playas y los **1.980 msnm** en las divisorias cordilleranas, configurando pendientes dominantes que superan el 45\%.
+
+### Caracterización biofísica, climática e hídrica
+El clima se define como cálido seco en el fondo de valle a templado en las zonas altas, con temperaturas medias entre **$22,0^\circ\text{C}$ y $25,5^\circ\text{C}$** y una precipitación anual promedio que fluctúa entre **900 mm y 1.800 mm** [@pdot_guayquichuma_2024]. La temporada lluviosa se concentra marcadamente entre febrero y abril, registrándose un período de estiaje severo entre mayo y diciembre. 
+
+En la red hidrográfica destacan las microcuencas de las quebradas **El Badén, El Dudal y San Jacinto**, las cuales alimentan a los ríos Guayquichuma y Playas. Estas fuentes constituyen el soporte del Área de Protección Hídrica (APH) y del sistema de abastecimiento de consumo humano y riego parcelario de la parroquia. Sin embargo, el 48,55\% de los suelos parroquiales (5.119,20 ha) presenta condiciones de sobreutilización y fragilidad ante movimientos en masa, lo que incrementa el riesgo de erosión y contaminación de cauces ante escorrentías no controladas y descargas domésticas directas.
+
+### Asentamientos humanos y déficit en saneamiento básico
+El patrón de asentamiento se caracteriza por una alta dispersión territorial en 7 núcleos barriales: Cabecera Parroquial (con el sector El Prado contiguo), Chiguango Alto, Chiguango Bajo, Rumipotrero, El Tambo, La Primavera y Santa Ana. Según el Censo INEC 2022 y el diagnóstico del PDOT Parroquial:
+
+1. **Saneamiento y alcantarillado sanitario:** Apenas el **25,64\%** de las viviendas particulares ocupadas se encuentra conectada a una red pública de alcantarillado sanitario. Esta precaria cobertura se concentra de forma parcial en la cabecera parroquial. El **74,36\%** restante de las viviendas dispone sus excretas y aguas grises mediante letrinas rústicas, pozos absorbentes o directamente a campo abierto y zanjas naturales.
+2. **Inexistencia de Planta de Tratamiento de Aguas Residuales (PTAR):** El sistema de alcantarillado existente carece de cualquier módulo de tratamiento biológico o sedimentación primaria. Las aguas servidas son descargadas de manera cruda a las quebradas perimetrales y afluentes del río Playas, alterando la calidad de los afluentes superficiales.
+3. **Agua de consumo humano y desinfección:** Aunque el 62,39\% de las viviendas recibe agua conducida mediante redes públicas o comunitarias, únicamente el **17,20\%** de los hogares realiza algún tratamiento o desinfección intradomiciliaria previa al consumo humano. La población consume agua cruda de captación superficial sin procesos de cloración continua.
+4. **Gestión comunitaria:** La administración del recurso y saneamiento recae sobre juntas comunitarias de hecho (Junta Guayquichuma - El Prado con 43 usuarios, Junta Chiguango Bajo con 28 usuarios, y Junta Chiguango Alto con 30 usuarios). Estas organizaciones operan con una tarifa promedio de \$2,00 USD mensuales, orientada exclusivamente a reparaciones menores mediante mingas, sin solvencia técnica para gestionar redes de saneamiento ni sistemas de depuración ambiental.
+
+### Dimensión socioeconómica y epidemiológica
+En Guayquichuma residen **293 habitantes** censados agrupados en **128 hogares** y **208 viviendas**, con una densidad demográfica de **$2,77\text{ hab/km}^2$** [@inec_censo_2022]. La **pobreza por Necesidades Básicas Insatisfechas (NBI)** alcanza al **63,82\%** de la población, siendo la carencia de saneamiento adecuado y salubridad una de las principales dimensiones de privación estructural.
+
+De acuerdo con el registro epidemiológico del Puesto de Salud MSP de Guayquichuma (año 2024), entre las principales causas de morbilidad atendidas destacan la **parasitosis intestinal (código CIE-10: B829)** como la 5.ª causa más frecuente, así como gastroenteritis, dolores abdominales superiores (R101) e infecciones asociadas al consumo de agua no segura y a la exposición a vectores por aguas residuales estancadas. La Tabla \ref{tbl-diagnostico-guayquichuma} resume los parámetros de línea base territorial.
+
+::: {#tbl-diagnostico-guayquichuma}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{3.5cm}p{7.5cm}}
+\caption{Parámetros de Línea Base Territorial y Situación Sanitaria} \label{tbl-diagnostico-guayquichuma} \\
+\toprule
+\textbf{Dimensión Territorial} & \textbf{Variable / Indicador} & \textbf{Valor Observado / Fuente Oficial} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Dimensión Territorial} & \textbf{Variable / Indicador} & \textbf{Valor Observado / Fuente Oficial} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\textbf{Político-Territorial} & Localización y DPA & Parroquia Rural Guayquichuma, Cantón Catamayo, Loja (DPA: 110352). \\
+\addlinespace
+& Superficie territorial & 10.543,95 ha ($105,44\text{ km}^2$), equivalente al 16,24\% cantonal. \\
+\addlinespace
+\textbf{Demográfica y Social} & Población y hogares (2022) & 293 habitantes censados, 128 hogares particulares, 208 viviendas. \\
+\addlinespace
+& Pobreza rural por NBI & 63,82\% de la población en pobreza estructural por NBI (INEC 2022). \\
+\addlinespace
+& Densidad poblacional & 2,77 hab/km$^2$ (población dispersa en laderas). \\
+\addlinespace
+\textbf{Saneamiento y Salud} & Conexión a red de alcantarillado & 25,64\% de viviendas conectadas a red pública (Déficit del 74,36\%). \\
+\addlinespace
+& Tratamiento de aguas residuales & 0\% de tratamiento; ausencia total de PTAR operativa en la parroquia. \\
+\addlinespace
+& Consumo de agua con tratamiento & 17,20\% de hogares trata el agua; 82,80\% consume agua cruda. \\
+\addlinespace
+& Morbilidad por patologías hídricas & Parasitosis intestinal (B829) dentro de las 5 causas principales de consulta médica. \\
+\addlinespace
+\textbf{Gestión y Gobernanza} & Esquema operativo de juntas & 3 Juntas comunitarias administradoras (Guayquichuma-El Prado, Chiguango Bajo y Alto). \\
+\addlinespace
+& Tarifa comunitaria promedio & \$2,00 USD/mes por usuario (recaudación orientada solo a emergencias operativas). \\
+
+\end{longtable}
+\fuente{Elaboración técnica con base en PDOT Parroquial Guayquichuma 2023-2027, Censo INEC 2022 y registros MSP.}
+:::
+
+## Identificación, descripción y diagnóstico del problema
+
+Bajo la metodología del marco lógico de Planifica Ecuador @guia_planifica2021:
+
+*   **Problema Central:** Inadecuada evacuación, disposición y tratamiento de aguas residuales domésticas en la cabecera parroquial y sectores aledaños de la parroquia rural Guayquichuma.
+*   **Causas Directas e Indirectas:**
+    1. *Causa Directa 1:* Red de alcantarillado sanitario con cobertura deficitaria (25,64\%) y tramos deteriorados en la cabecera parroquial y El Prado.
+       - *Causa Indirecta 1.1:* Crecimiento urbano no planificado y dispersión de predios a lo largo de ejes viales de ladera.
+    2. *Causa Directa 2:* Inexistencia de sistemas técnicos de depuración o plantas de tratamiento de aguas residuales (PTAR).
+       - *Causa Indirecta 2.1:* Ausencia previa de estudios de ingeniería hidrosanitaria y topográfica adaptados a la topografía local.
+    3. *Causa Directa 3:* Limitada capacidad técnica, administrativa y de mantenimiento de las juntas administradoras locales de agua y saneamiento.
+       - *Causa Indirecta 3.1:* Marco tarifario precario y escasa capacitación comunitaria en gestión integral del saneamiento rural.
+*   **Efectos Directos e Indirectos:**
+    1. *Efecto Directo 1:* Aumento de enfermedades de origen hídrico, diarreas agudas y parasitosis en niños y adultos mayores.
+       - *Efecto Indirecto 1.1:* Mayor gasto de bolsillo familiar en consultas médicas y medicamentos, reduciendo los ingresos netos del hogar.
+    2. *Efecto Directo 2:* Contaminación de quebradas abastecedoras (El Badén, San Jacinto) y suelos de uso agropecuario por descargas crudas.
+       - *Efecto Indirecto 2.1:* Pérdida de calidad ambiental en áreas de amortiguamiento y riesgo sobre fuentes de riego.
+    *   *Efecto Final:* Deterioro de las condiciones de salubridad y persistencia de las brechas de pobreza por necesidades básicas insatisfechas en Guayquichuma.
+
+## Línea base del proyecto
+
+::: {#tbl-linea-base}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{p{6.5cm}p{3cm}p{4cm}}
+\caption{Línea Base Detallada de Indicadores del Proyecto} \label{tbl-linea-base} \\
+\toprule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{r}{Sigue en la página siguiente...} \\
+\midrule
+\textbf{Variable / Indicador Clave} & \textbf{Unidad de Medida} & \textbf{Valor Actual (Línea Base)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+Población beneficiaria directa (Cabecera y El Prado) & Habitantes (Hogares) & 180 hab. (55 hogares) \\
+\addlinespace
+Población beneficiaria indirecta (Parroquia y microcuenca) & Habitantes & 293 hab. (128 hogares) \\
+\addlinespace
+Cobertura de alcantarillado sanitario en la zona intervenida & Porcentaje (\%) & 25,64\% \\
+\addlinespace
+Volumen de aguas residuales tratadas adecuadamente & Porcentaje (\%) & 0,00\% \\
+\addlinespace
+Estudios técnicos hidrosanitarios validados para ejecución & Número & 0 estudios \\
+\addlinespace
+Incidencia de parasitosis intestinal en consultas del MSP & Puesto en morbilidad & 5.ª causa general \\
+\end{longtable}
+\fuente{Elaboración a partir de PDOT Parroquial 2023-2027 y MSP.}
+:::
+
+## Análisis de oferta y demanda
+
+### Oferta actual
+La infraestructura de saneamiento se reduce a un colector matriz precario en el centro de la cabecera parroquial con 45 conexiones domiciliares sin mantenimiento sistemático. No existe estructura de cribado, desarenador ni biodigestor/laguna de oxidación; las aguas servidas descargan sin control en taludes naturales. La capacidad de depuración técnica actual es de $0,00\text{ l/s}$.
+
+### Demanda proyectada
+Considerando la población nucleada en la cabecera y el barrio contiguo El Prado (aproximadamente 180 habitantes actuales) y una dotación de agua potable rural de diseño de $100\text{ l/hab/día}$, con un coeficiente de retorno de aguas servidas del $0,80$ según la norma técnica hidrosanitaria ecuatoriana:
+
+$$\text{Caudal medio de aguas servidas} (Q_{\text{med}}) = \frac{180 \times 100 \times 0,80}{86.400} \approx 0,17\text{ l/s}$$
+
+Aplicando factores de mayoración por caudal punta y contribuciones de infiltración estacional, la demanda del sistema se ubica en un caudal de diseño de $0,45\text{ l/s}$ a $0,60\text{ l/s}$ en un horizonte a 15 años.
+
+::: {#tbl-balance-oferta-demanda}
+\fontsize{10}{12}\selectfont
+\begin{longtable}{lcccc}
+\caption{Balance de Oferta y Demanda de Saneamiento y Depuración (l/s)} \label{tbl-balance-oferta-demanda} \\
+\toprule
+\textbf{Horizonte Temporal} & \textbf{Capacidad Oferta (l/s)} & \textbf{Demanda (l/s)} & \textbf{Déficit (l/s)} & \textbf{Cobertura Tratamiento (\%)} \\
+\midrule
+Año 0 (Situación actual sin proyecto) & 0,00 & 0,17 & -0,17 & 0,0\% \\
+Año 1 (Fase de implementación y puesta en marcha) & 0,50 & 0,18 & +0,32 & 100,0\% \\
+Año 5 & 0,50 & 0,20 & +0,30 & 100,0\% \\
+Año 10 & 0,50 & 0,22 & +0,28 & 100,0\% \\
+Año 15 & 0,50 & 0,25 & +0,25 & 100,0\% \\
+\bottomrule
+\end{longtable}
+\fuente{Estimaciones técnicas de ingeniería hidrosanitaria.}
+:::
+
+## Identificación y caracterización de la población objetivo
+
+*   **Población de referencia:** Cantón Catamayo ($36.425$ habitantes censados, INEC 2022).
+*   **Población demandante potencial:** Total de la Parroquia Rural Guayquichuma ($293$ habitantes censados en 128 hogares, INEC 2022).
+*   **Población demandante efectiva (Objetivo):** Habitantes de la Cabecera Parroquial y el sector El Prado (180 personas, 55 hogares), articulados a la red hidrosanitaria priorizada y a la junta administradora de agua y saneamiento de Guayquichuma - El Prado.
+
+## Ubicación geográfica y delimitación cartográfica
+
+De conformidad con la metodología de Planifica Ecuador @guia_planifica2021, la intervención se localiza en la cabecera parroquial de Guayquichuma y su área de drenaje directo hacia la cuenca del río Playas (UTM WGS84, Zona 17 Sur: $X: 661.057\text{ m E}, Y: 9.571.050\text{ m N}$; $03^\circ 52' 38''\text{ S}, 79^\circ 33' 05''\text{ O}$).
+
+::: {#fig-localizacion-guayquichuma layout-ncol=2}
+![Macro-localización: Contextualización de Guayquichuma en el Cantón Catamayo](asset/mapa_macro_guayquichuma.png){#fig-macro-guay width="49%"}
+
+![Micro-localización: Asentamientos Humanos y Núcleos Rurales en Guayquichuma](asset/mapa_micro_guayquichuma.png){#fig-micro-guay width="49%"}
+
+Portafolio Cartográfico Territorial de la Parroquia Guayquichuma (Elaboración propia con base en el PDOT Catamayo 2023-2027 y geometrías vectoriales del IGM/OpenStreetMap)
+:::

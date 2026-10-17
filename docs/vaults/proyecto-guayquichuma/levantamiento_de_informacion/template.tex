@@ -190,29 +190,58 @@ $endfor$
 $if(has-cover-image)$
 % Omitir la portada de texto por defecto si se especifica una portada de imagen
 $else$
+\thispagestyle{empty}
 \begin{center}
-    {\bfseries \Large $university$}\\[0.3cm]
-    {\bfseries \large $faculty$}\\[0.2cm]
-    {\bfseries $school$}\\[1.5cm]
+    \vspace*{-0.8cm}
+    \IfFileExists{asset/logo_unl.png}{%
+      \includegraphics[height=2.2cm]{asset/logo_unl.png}\\[0.4cm]
+    }{%
+      \IfFileExists{\logoUNL}{%
+        \includegraphics[height=2.2cm]{\logoUNL}\\[0.4cm]
+      }{}%
+    }
+    {\bfseries \Large $if(university)$$university$$else$UNIVERSIDAD NACIONAL DE LOJA$endif$}\\[0.25cm]
+    {\bfseries \large $if(faculty)$$faculty$$else$FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA$endif$}\\[0.2cm]
+    {\bfseries \normalsize $if(school)$$school$$else$CARRERA DE ECONOMÍA$endif$}\\[1.0cm]
     
-    {\bfseries \large $course$}\\[1cm]
+    {\bfseries \normalsize ASIGNATURA:}\\[0.1cm]
+    {\bfseries \large $if(course)$$course$$else$PROYECTOS DE INVERSIÓN PÚBLICA$endif$}\\[1.2cm]
     
-    {\bfseries \Large $assignment$}\\[1.5cm]
+    \setstretch{1.3}
+    {\bfseries \Large $title$}\\[0.4cm]
+    $if(subtitle)$
+    {\bfseries \normalsize $subtitle$}\\[1.0cm]
+    $else$
+    \vspace{0.8cm}
+    $endif$
 \end{center}
+
+\vfill
 
 \begin{center}
     \setstretch{1.1}
+    {\bfseries \normalsize AUTORES:}\\[0.15cm]
     $if(author)$
         $for(author)$
-            $if(author.name)$$author.name$$else$$author$$endif$ \\
+            {\normalsize $if(author.name)$$author.name$$else$$author$$endif$} \\
         $endfor$
     $endif$
-    \vspace{0.5cm}
-    $if(professor)$$professor$ \\ $endif$
-    $if(submission_date)$$submission_date$$endif$
+    \vspace{0.6cm}
+    
+    {\bfseries \normalsize DOCENTE:}\\[0.15cm]
+    {\normalsize $if(professor)$$professor$$else$Econ. José Job Chamba Tandazo$endif$}\\[0.6cm]
 \end{center}
 
-\vspace{1cm}
+\vfill
+
+\begin{center}
+    {\bfseries \normalsize LOJA -- ECUADOR}\\[0.15cm]
+    {\bfseries \normalsize $if(year)$$year$$else$2026$endif$}
+\end{center}
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
 $endif$
 
 \onehalfspacing

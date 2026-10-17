@@ -2,10 +2,10 @@
 title: "INDICADORES SOCIALES, ECONÓMICOS, AMBIENTALES E INSTITUCIONALES"
 subtitle: "MATRIZ DE LEVANTAMIENTO DE INFORMACIÓN Y LÍNEA BASE TERRITORIAL - PARROQUIA GUAYQUICHUMA"
 author:
-  - "Lizeth Correa"
-  - "David Perez"
-  - "Erick Condoy"
-  - "Gustavo Hurtado"
+  - "Lizeth Camila Correa Sanchez"
+  - "David Andres Perez Castillo"
+  - "Erick Fabricio Condoy Seraquive"
+  - "Luis Gustavo Hurtado Cuenca"
 date: "2026-09-30"
 professor: "Econ. Jose Job Chamba Tandazo"
 assignment: "Proyectos de Inversión Pública - Séptimo Ciclo"
@@ -46,8 +46,10 @@ format:
             textfont={it},
             skip=3pt
           }
-          \setlength{\tabcolsep}{5pt}
-          \renewcommand{\arraystretch}{1.2}
+          \AtBeginEnvironment{longtable}{\singlespacing\fontsize{8}{10}\selectfont}
+          \AtBeginEnvironment{tabular}{\singlespacing\fontsize{8}{10}\selectfont}
+          \setlength{\tabcolsep}{4pt}
+          \renewcommand{\arraystretch}{1.15}
           \pagestyle{fancy}
           \fancyhf{}
           \fancyhead[L]{\small UNL - Carrera de Economía | Proyectos de Inversión Pública}
@@ -61,10 +63,6 @@ format:
 
 \justifying
 
-{{< include chapters/00-datos-institucionales.qmd >}}
-
-\vspace{0.5cm}
-
 {{< include chapters/01-datos-territorio.qmd >}}
 
 \newpage
@@ -74,3 +72,10 @@ format:
 \vspace{0.8cm}
 
 {{< include chapters/03-validacion-academica.qmd >}}
+
+\newpage
+
+# Referencias {.unnumbered}
+
+::: {#refs}
+:::

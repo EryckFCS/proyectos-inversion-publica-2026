@@ -1,11 +1,11 @@
 ---
-title: "PROYECTO DE INVERSIÓN PÚBLICA: GAD PARROQUIAL RURAL DE GUAYQUICHUMA"
+title: "PROYECTO DE INVERSIÓN PÚBLICA: MEJORAMIENTO DEL SANEAMIENTO BÁSICO EN LA PARROQUIA GUAYQUICHUMA"
 subtitle: "ESTUDIO DE FACTIBILIDAD Y METODOLOGÍA OFICIAL PLANIFICA ECUADOR"
 author:
-  - "Lizeth Correa"
-  - "David Perez"
-  - "Erick Condoy"
-  - "Gustavo Hurtado"
+  - "David Andres Perez Castillo"
+  - "Erick Fabricio Condoy Seraquive"
+  - "Lizeth Camila Correa Sanchez"
+  - "Luis Gustavo Hurtado Cuenca"
 date: "2026-09-30"
 professor: "Econ. Jose Job Chamba Tandazo"
 assignment: "Proyectos de Inversión Pública - Séptimo Ciclo"
