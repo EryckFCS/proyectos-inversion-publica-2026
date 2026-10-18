@@ -1,0 +1,16 @@
+% ============================================================
+% PORTADA INSTITUCIONAL: imagen a sangre completa (sin márgenes, sin numeración)
+% ============================================================
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \includegraphics[%
+      width=\paperwidth,%
+      height=\paperheight,%
+      keepaspectratio=false%
+    ]{asset/portada_torata.png}%
+  }%
+}
+\thispagestyle{empty}
+\leavevmode
+\clearpage
+\setcounter{page}{1}

@@ -1,0 +1,61 @@
+# Datos iniciales del proyecto
+
+## Tipo de solicitud de dictamen
+
+Prioridad. La solicitud asegura la incorporación y elegibilidad técnica del proyecto en la programación de inversión pública provincial y cantonal para el cierre de brechas de conectividad vial rural, reducción de costos de transporte agropecuario y mitigación del aislamiento estacional de los productores en la cuenca del río Carne Amarga, en concordancia con los lineamientos de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
+
+## Nombre del Proyecto
+
+Construcción del puente vehicular sobre el río Carne Amarga y mejoramiento de los accesos viales en el sector El Guayabo - La Chilca, parroquia rural Torata, cantón Santa Rosa, provincia de El Oro.
+
+## Entidad (UDAF)
+
+Gobierno Autónomo Descentralizado Provincial de El Oro (Prefectura de El Oro), entidad rectora de la competencia exclusiva de vialidad rural conforme al artículo 263 (literal b) de la Constitución de la República y el artículo 42 (literal b) del COOTAD @cootad2010, en concurrencia y convenio de cooperación con el Gobierno Autónomo Descentralizado Municipal de Santa Rosa y el Gobierno Autónomo Descentralizado Parroquial Rural de Torata.
+
+## Entidad Operativa Desconcentrada (EOD)
+
+Dirección de Obras Públicas y Vialidad del GAD Provincial de El Oro, en articulación técnica con la Dirección de Obras Públicas del GAD Municipal de Santa Rosa y la Unidad Técnica del GADPR Torata.
+
+## Gabinete Sectorial
+
+Gabinete Sectorial de Desarrollo Productivo e Infraestructura.
+
+## Sector, subsector y tipo de inversión
+
+De acuerdo con el clasificador oficial de intervenciones de la Secretaría Nacional de Planificación (Planifica Ecuador) @guia_planifica2021:
+
+::: {#tbl-sectores}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.30\linewidth}p{0.25\linewidth}p{0.12\linewidth}p{0.33\linewidth}@{}}
+\caption{Sectores y subsectores de intervención definidos} \label{tbl-sectores} \\
+\toprule
+\textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
+\midrule
+Infraestructura y Conectividad & Transporte y Vialidad & 10.01 & Red Vial Rural, Puentes y Pasos de Agua \\
+\bottomrule
+\end{longtable}
+\fuente{Catálogo de Clasificación Sectorial de Inversión Pública - Planifica Ecuador.}
+:::
+
+::: {#tbl-tipologias}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.10\linewidth}p{0.25\linewidth}p{0.35\linewidth}p{0.30\linewidth}@{}}
+\caption{Tipologías de intervención definidas} \label{tbl-tipologias} \\
+\toprule
+\textbf{Cód.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
+\midrule
+T01 & Infraestructura / Obra Pública & Construcción de estribos de hormigón armado, montaje de estructura metálica tipo Bailey y obras de drenaje vial. & Ensayos geotécnicos y estudios de suelos, cimentaciones profundas, colocación de tablero y accesos. \\
+\addlinespace
+T03 & Desarrollo de Capacidades & Gestión vial comunitaria, conformación de comités de mantenimiento rutinario y seguridad vial rural. & Talleres con asociaciones de ganaderos y productores de cacao/café sobre conservación de accesos. \\
+\bottomrule
+\end{longtable}
+\fuente{Guía General para la Presentación de Programas y Proyectos de Inversión Pública.}
+:::
+
+## Plazo de ejecución
+
+10 meses calendario (distribuidos en 2 meses de cierre de estudios geotécnicos y permisos ambientales, 7 meses de ejecución constructiva de estribos, montaje estructural y accesos, y 1 mes de pruebas de carga, señalización y entrega-recepción formal).
+
+## Monto total
+
+$180.000,00 USD (Ciento ochenta mil dólares de los Estados Unidos de América). Este monto integra los estudios de mecánica de suelos y geotecnia contratados en cooperación con el GAD Municipal de Santa Rosa ($15.000,00 USD), la construcción de estribos de hormigón y gaviones de protección ($65.000,00 USD), la provisión, traslado y montaje de la superestructura metálica de celosía tipo Bailey ($80.000,00 USD) aportada por la Prefectura de El Oro, y las obras de terraplén, ensanche de accesos y fiscalización ($20.000,00 USD), articulados mediante convenio tripartito formal.

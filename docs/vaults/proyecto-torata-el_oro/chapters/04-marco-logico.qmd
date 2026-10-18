@@ -1,0 +1,113 @@
+# Matriz de Marco Lógico
+
+## Objetivo general y objetivos específicos
+
+### Objetivo General
+
+Garantizar la conectividad vial terrestre ininterrumpida y segura entre los sectores productivos de El Guayabo, La Chilca y Torata mediante la construcción de un puente vehicular sobre el río Carne Amarga y obras de estabilización en sus accesos, dinamizando la productividad agropecuaria y reduciendo los costos logísticos de transporte.
+
+### Objetivos Específicos
+
+#### Objetivo específico 1
+
+Construir la infraestructura civil de soporte y protección hidrodinámica (estribos macizos de hormigón armado y muros de gaviones) y ensamblar una superestructura metálica modular tipo Bailey de 30 metros de luz sobre el río Carne Amarga para asegurar el paso continuo de transporte pesado y liviano.
+
+#### Objetivo específico 2
+
+Establecer un modelo participativo de mantenimiento rutinario y conservación vial comunitaria con las asociaciones de productores de Torata para preservar la vida útil de la estructura y asegurar la transitabilidad permanente.
+
+## Indicadores de resultados
+
+Los indicadores de resultados en el nivel de propósito evalúan la efectividad de la intervención durante su fase operativa:
+
+El primer indicador evalúa la continuidad del paso vehicular durante los 365 días del año. Frente a una línea base de 260 días habilitados por causa de las inundaciones invernales, la meta establece alcanzar 365 días continuos de conectividad segura al término del primer año de funcionamiento del puente, eliminando los episodios de aislamiento en los sectores productivos.
+
+El segundo indicador mide la eficiencia temporal en el cruce del río Carne Amarga. La línea base registra un tiempo de cruce de 45 minutos en invierno debido a rodeos y trasbordos a pie. La meta plantea reducir este tiempo a 3 minutos mediante el tránsito vehicular directo sobre la calzada del puente.
+
+El tercer indicador registra la reducción de pérdidas económicas en la producción lechera campesina. Con una línea base de 3.500 litros diarios derramados o descompuestos en picos invernales, la meta exige reducir estas mermas a cero litros al finalizar el segundo año de operación del puente.
+
+## Marco Lógico
+
+De acuerdo con los lineamientos de Planifica Ecuador @guia_planifica2021, la Matriz de Marco Lógico (MML) organiza de forma coherente los objetivos, indicadores, medios de verificación y supuestos del proyecto (Tabla \ref{tbl-marco-logico-puente}).
+
+::: {#tbl-marco-logico-puente}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.24\linewidth}p{0.26\linewidth}p{0.26\linewidth}p{0.24\linewidth}@{}}
+\caption{Matriz de Marco Lógico para el Puente Vehicular sobre el Río Carne Amarga} \label{tbl-marco-logico-puente} \\
+\toprule
+\textbf{Resumen Narrativo} & \textbf{Indicadores Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endfirsthead
+\caption[]{Matriz de Marco Lógico para el Puente Vehicular sobre el Río Carne Amarga (continuación)} \\
+\toprule
+\textbf{Resumen Narrativo} & \textbf{Indicadores Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\textbf{Fin:} \par
+Dinamizar la productividad agropecuaria, reducir los costos logísticos y elevar el nivel de ingresos de los productores rurales de la parroquia Torata. &
+Pérdidas de producción de leche y cacao en invierno reducidas en al menos 85\% en los primeros 2 años. \par
+Incremento del 18\% en el volumen comercializado de ganado bovino en pie hacia mercados cantonales. &
+Estadísticas del MAG / Agrocalidad El Oro e informes de rendición de cuentas del GADPR Torata. &
+Los precios de los productos agropecuarios se mantienen dentro de los rangos históricos de mercado. \\
+\addlinespace
+\textbf{Propósito:} \par
+Comunidades y sectores productivos de El Guayabo, La Chilca y Torata cuentan con transitabilidad vehicular ininterrumpida y segura durante los 365 días del año. &
+100\% de días del año con paso vehicular habilitado sobre el río Carne Amarga (0 días de aislamiento por crecientes). \par
+Tiempo promedio de cruce del afluente reducido de 45 a 3 minutos. &
+Aforos de tráfico vehicular de la Dirección de Obras Públicas de la Prefectura e inspecciones técnicas del GADPR Torata. &
+Las condiciones geológicas e hidrológicas no superan el periodo de retorno de diseño (Tr = 100 años). \\
+\addlinespace
+\textbf{Componentes:} \par
+1. Estudios geotécnicos, de suelos e hidráulicos concluidos y aprobados. \par
+2. Estribos de hormigón armado, muros de encauzamiento y terraplenes de acceso construidos. \par
+3. Superestructura metálica modular tipo Bailey montada, asegurada y señalizada. \par
+4. Comité comunitario de conservación y mantenimiento vial constituido. &
+C1: 1 informe geotécnico y memorias de cálculo validadas por el GAD Municipal de Santa Rosa. \par
+C2: 2 estribos macizos (aprox. 180 m³ de hormigón f'c=280 kg/cm²) y 45 m lineales de gaviones ejecutados. \par
+C3: 1 puente de 30 metros de longitud de un carril montado con capacidad de carga HS-20 (AASHTO). \par
+C4: 1 comité comunitario activo con manual de operación entregado. &
+Actas de aprobación de estudios de suelos y mecánica de rocas. \par
+Planillas de avance de obra y fiscalización técnica de la Prefectura de El Oro. \par
+Certificados de calidad de materiales y ensayos a compresión de probetas de hormigón. \par
+Acta de entrega-recepción provisional y definitiva de la obra. &
+El Municipio de Santa Rosa entrega oportunamente los resultados del estudio de suelos. \par
+La Prefectura de El Oro asigna los paneles modulares de puente Bailey comprometidos. \par
+Los propietarios locales respetan los límites de derecho de vía cedidos para los accesos. \\
+\addlinespace
+\textbf{Actividades:} \par
+1.1 Sondeos geotécnicos y toma de muestras de suelo. \par
+2.1 Excavación bajo agua y cimentación profunda de estribos. \par
+2.2 Colocación de gaviones y enrocado de protección contra socavación. \par
+3.1 Traslado, ensamblaje y lanzamiento de paneles Bailey. \par
+3.2 Fundición de losetas de rodadura y bordillos. \par
+4.1 Talleres de veeduría y mantenimiento vial. &
+Presupuesto total ejecutado de \$180.000,00 USD en un plazo de ejecución de 10 meses. &
+Cédulas de ejecución presupuestaria del GAD Provincial de El Oro y del GAD Municipal de Santa Rosa. \par
+Facturas y contratos liquidados en el portal del SERCOP. &
+Flujo regular de asignaciones presupuestarias concurrentes entre las entidades participantes. \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica conforme a la metodología de Marco Lógico de Planifica Ecuador.}
+:::
+
+### Anualización de las metas de los indicadores del propósito
+
+La programación temporal de las metas de propósito se proyecta a lo largo del horizonte operativo inicial del proyecto, asegurando el seguimiento sistemático de la transitabilidad vehicular y la mitigación de pérdidas de transporte (Tabla \ref{tbl-anualizacion-metas-puente}).
+
+::: {#tbl-anualizacion-metas-puente}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{@{}p{0.36\linewidth}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}@{}}
+\caption{Anualización de metas para los indicadores de propósito (2026-2029)} \label{tbl-anualizacion-metas-puente} \\
+\toprule
+\textbf{Indicador de Propósito} & \textbf{Línea Base} & \textbf{Año 1 (2026)} & \textbf{Año 2 (2027)} & \textbf{Año 3 (2028)} & \textbf{Año 4 (2029)} \\
+\midrule
+Días al año con tránsito continuo (días) & 260 días & 300 días & 365 días & 365 días & 365 días \\
+Tiempo promedio de cruce del afluente (min) & 45 min & 15 min & 3 min & 3 min & 3 min \\
+Pérdidas de leche por aislamiento (litros/año) & 105.000 l & 25.000 l & 0 l & 0 l & 0 l \\
+Costo promedio de flete por quintal (USD) & \$3,50 & \$2,80 & \$2,20 & \$2,20 & \$2,20 \\
+\bottomrule
+\end{longtable}
+\fuente{Programación anual de metas de desempeño de infraestructura de la Dirección de Obras Públicas.}
+:::

@@ -1,0 +1,83 @@
+# Estrategia de ejecución
+
+## Estructura operativa
+
+El proyecto se ejecuta bajo la rectoría y competencia exclusiva de vialidad rural del Gobierno Autónomo Descentralizado Provincial de El Oro, conforme al artículo 263, literal b) de la Constitución y artículo 42 del COOTAD @cootad2010. Se adopta una estrategia de ejecución concurrente y articulada en un periodo de diez meses:
+
+* GAD Provincial de El Oro (Entidad Financiera y Rectora de Obra Civil): Suministro, transporte y supervisión del montaje de la estructura Bailey de 30 metros, y dirección de la fiscalización técnica.
+* GAD Municipal del Cantón Santa Rosa (Entidad Cooperante Técnica): Financiamiento y contratación de los estudios geotécnicos y provisión de equipo caminero para la conformación de los terraplenes de acceso.
+* GAD Parroquial Rural de Torata (Entidad Coordinadora Territorial): Gestión de acuerdos prediales con finqueros, veeduría ciudadana y administración de la contraparte local.
+* Comunidad de Beneficiarios (Comité de Apoyo): Custodia social y faenas comunitarias para desbroce de fajas de terreno y conservación de cunetas.
+
+## Arreglos institucionales y modalidad de ejecución
+
+El proyecto se implementa a través de la modalidad de Convenio de Delegación de Competencias y Cooperación Interinstitucional Concurrente. Los procesos de contratación de obras civiles de cimentación, fiscalización y ensayos de laboratorio se canalizan por los procedimientos formales del Sistema Oficial de Contratación Pública (SERCOP) conforme a la Ley Orgánica del Sistema Nacional de Contratación Pública (LOSNCP).
+
+La articulación de responsabilidades y la estructura organizativa se sintetizan en la Tabla \ref{tbl-organizacion-puente}.
+
+::: {#tbl-organizacion-puente}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.25\linewidth}p{0.30\linewidth}p{0.45\linewidth}@{}}
+\caption{Roles y responsabilidades institucionales en el puente Torata} \label{tbl-organizacion-puente} \\
+\toprule
+\textbf{Rol / Instancia} & \textbf{Entidad Responsable} & \textbf{Responsabilidad Principal} \\
+\midrule
+Entidad Rectora & GAD Provincial de El Oro & Suministro de estructura Bailey, dirección técnica del lanzamiento y recepción final. \\
+\addlinespace
+Entidad Cooperante Técnica & GAD Municipal de Santa Rosa & Financiamiento de estudios de mecánica de suelos y asignación de maquinaria pesada. \\
+\addlinespace
+Entidad Coordinadora Local & GADPR Torata & Gestión de fajas de terreno, enlace comunitario y seguimiento administrativo diario. \\
+\addlinespace
+Fiscalización Técnica & Ingeniero Civil Designado & Certificación de la calidad del hormigón, ensayos de laboratorio y seguridad laboral. \\
+\addlinespace
+Veeduría Ciudadana & Junta de Productores de Torata & Acompañamiento social y control de cumplimiento de plazos de obra. \\
+\bottomrule
+\end{longtable}
+\fuente{Términos de Referencia del Convenio Tripartito de Conectividad Rural.}
+:::
+
+## Cronograma valorado por componentes y actividades
+
+El flujo de inversiones se distribuye a lo largo de los diez meses de plazo de ejecución contractual (Tabla \ref{tbl-cronograma-valorado-puente}). Las mayores asignaciones financieras se concentran entre los meses 3 y 7, coincidiendo con la temporada de estiaje del río Carne Amarga para asegurar el fraguado adecuado de las cimentaciones masivas y el montaje de los paneles de acero.
+
+::: {#tbl-cronograma-valorado-puente}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{@{}p{0.34\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.14\linewidth}@{}}
+\caption{Cronograma valorado de ejecución de inversión mensual (extracto en USD)} \label{tbl-cronograma-valorado-puente} \\
+\toprule
+\textbf{Fase de Ejecución} & \textbf{Mes 1-2} & \textbf{Mes 3-4} & \textbf{Mes 5-6} & \textbf{Mes 7-8} & \textbf{Mes 9-10} \\
+\midrule
+Estudios Geotécnicos & \$15.000 & \$0 & \$0 & \$0 & \$0 \\
+Subestructura y Estribos & \$0 & \$35.000 & \$30.000 & \$0 & \$0 \\
+Superestructura Bailey & \$0 & \$0 & \$20.000 & \$50.000 & \$10.000 \\
+Accesos y Obras Ribereñas & \$0 & \$0 & \$0 & \$5.000 & \$5.000 \\
+Fiscalización y Ambiente & \$2.000 & \$2.000 & \$2.000 & \$2.000 & \$2.000 \\
+\midrule
+\textbf{Desembolso por Periodo} & \textbf{\$17.000} & \textbf{\$37.000} & \textbf{\$52.000} & \textbf{\$57.000} & \textbf{\$17.000} \\
+\bottomrule
+\end{longtable}
+\fuente{Programación física y financiera de obras viales del GAD Provincial de El Oro.}
+:::
+
+## Demanda pública nacional plurianual
+
+La contratación de obras y adquisición de bienes y servicios se programa conforme al Clasificador Central de Productos (CPC) del SERCOP. La totalidad de los insumos y rubros de obra civil corresponden a compras públicas de origen nacional ejecutadas durante el Año 1 de implementación (Tabla \ref{tbl-demanda-publica-puente}).
+
+::: {#tbl-demanda-publica-puente}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{@{}p{0.18\linewidth}p{0.14\linewidth}p{0.36\linewidth}p{0.14\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}@{}}
+\caption{Demanda pública nacional y codificación CPC del proyecto} \label{tbl-demanda-publica-puente} \\
+\toprule
+\textbf{Código CPC} & \textbf{Tipo Compra} & \textbf{Detalle del Producto o Servicio} & \textbf{Origen Insumos} & \textbf{Monto Año 1 (USD)} \\
+\midrule
+83324.01.1 & Servicio & Consultoría geotécnica y mecánica de suelos & 100\% Nacional & \$15.000,00 \\
+54122.00.1 & Obra & Construcción de estribos y cimentaciones de hormigón & 100\% Nacional & \$65.000,00 \\
+42111.01.2 & Bien & Paneles de superestructura metálica modular tipo Bailey & 100\% Nacional & \$80.000,00 \\
+54210.00.1 & Obra & Obras de accesos, terraplenes y gaviones fluviales & 100\% Nacional & \$10.000,00 \\
+83331.02.1 & Servicio & Fiscalización técnica de obra civil y ambiente & 100\% Nacional & \$10.000,00 \\
+\midrule
+\textbf{TOTAL} & & \textbf{Presupuesto Plurianual a Contratar} & & \textbf{\$180.000,00} \\
+\bottomrule
+\end{longtable}
+\fuente{Plan Anual de Contratación (PAC) referencial SERCOP de las entidades ejecutoras.}
+:::

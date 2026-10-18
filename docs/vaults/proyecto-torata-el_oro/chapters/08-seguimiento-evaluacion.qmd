@@ -1,0 +1,60 @@
+# Estrategia de seguimiento y evaluación
+
+## Seguimiento a la ejecución del programa y proyecto
+
+El seguimiento a la ejecución física y financiera corresponde al proceso sistemático y continuo que realizarán conjuntamente la Prefectura de El Oro, el GAD Municipal de Santa Rosa y el GAD Parroquial Rural de Torata para verificar el cumplimiento oportuno de las actividades y la correcta aplicación de los recursos públicos.
+
+Este seguimiento se articulará a través del Sistema de Información para Gobiernos Autónomos Descentralizados (SIGAD) de la Secretaría Nacional de Planificación y los sistemas contables e-SIGEF institucionales. Las acciones específicas comprenden:
+
+* Verificación de Calidad y Ensayos de Obra: La fiscalización técnica inspeccionará semanalmente la calidad de los agregados pétreos, la consistencia del hormigón mediante ensayos de cono de Abrams y la rotura de probetas cilíndricas a los 7, 14 y 28 días de curado.
+* Monitoreo Topográfico y Geotécnico: Nivelación periódica de cotas de desplante y verificación de la estabilidad de taludes ribereños durante la excavación bajo agua en el estiaje.
+* Seguimiento Presupuestario y Liquidación de Planillas: Revisión mensual de planillas de avance de obra y desembolsos concurrentes contra avance físico certificado.
+
+## Evaluación de resultados e impacto
+
+La evaluación se estructura en dos fases complementarias orientadas a determinar el cumplimiento del fin y del propósito de la intervención:
+
+### Evaluación de resultados
+
+Se ejecutará dentro de los seis meses posteriores a la entrega-recepción formal y apertura al tráfico del puente vehicular. Evaluará de manera directa los indicadores del nivel de propósito:
+
+* Transitabilidad Continua: Verificación del cumplimiento del 100 % de días del año con paso vehicular habilitado sobre el río Carne Amarga, registrando cero días de incomunicación en el ciclo invernal.
+* Reducción de Tiempos de Desplazamiento: Comprobación de la disminución del tiempo de cruce de 45 minutos a 3 minutos mediante aforos de tráfico y encuestas de velocidad a camionetas y transporte pesado.
+* Eficiencia Logística Rural: Constatación de la eliminación del trasbordo manual a pie o a lomo de bestia y la normalización de las frecuencias de recolección de los camiones lecheros en los sitios El Guayabo y La Chilca.
+
+### Evaluación de impacto
+
+Analizará los efectos económicos, productivos y sociales en un horizonte de dos a cuatro años posteriores a la inauguración de la infraestructura:
+
+* Impacto Económico: Reducción efectiva mínima del 35 % en la tarifa de los fletes de transporte de carga agropecuaria hacia los mercados de Santa Rosa y Machala, y erradicación de las pérdidas estacionales por descomposición de leche y productos agrícolas.
+* Impacto Social y Conectividad: Cero siniestros viales por intento de vadeo del río en creciente y normalización de la asistencia escolar y traslados de emergencia hacia el centro de salud parroquial.
+* Dinamización del Tejido Productivo: Incremento del 18 % en el volumen de ganado comercializado en pie gracias al acceso seguro de camiones de carga pesada.
+
+La Tabla \ref{tbl-evaluacion-puente} presenta el ciclo temporal de evaluación del proyecto.
+
+::: {#tbl-evaluacion-puente}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.18\linewidth}p{0.20\linewidth}p{0.36\linewidth}p{0.26\linewidth}@{}}
+\caption{Ciclo de evaluación ex-ante, durante y ex-post del proyecto vial} \label{tbl-evaluacion-puente} \\
+\toprule
+\textbf{Etapa} & \textbf{Momento} & \textbf{Criterios Evaluados} & \textbf{Instrumento / Responsable} \\
+\midrule
+Ex-Ante & Previo al inicio de obras & Factibilidad estructural, hidráulica (NAME), geotecnia y dictamen de prioridad. & Prefectura de El Oro / Municipio Santa Rosa. \\
+\addlinespace
+Durante & Mes 5 (Fundición de estribos) & Cumplimiento de especificaciones de materiales, seguridad en ribera y avance físico. & Informes de Fiscalización y Administración de Convenio. \\
+\addlinespace
+Ex-Post (Cierre) & Mes 10 (Habilitación) & Prueba de carga reglamentaria HS-20, operatividad de accesos y señalización. & Acta de Entrega-Recepción Definitiva. \\
+\addlinespace
+Ex-Post (Impacto) & Años 2 y 4 de operación & Incremento en volumen de comercialización agropecuaria y reducción de costos de fletes. & Evaluación de Impacto / GADPR Torata - MAG - Academia. \\
+\bottomrule
+\end{longtable}
+\fuente{Guía de Seguimiento y Evaluación de Inversión Pública - Planifica Ecuador.}
+:::
+
+## Actualización de Línea Base
+
+Al término de la construcción y puesta en operación del puente sobre el río Carne Amarga, la Dirección de Planificación del GADPR Torata y la Prefectura de El Oro actualizarán los indicadores territoriales en la ficha parroquial y en el SIGAD:
+
+* La red vial habilitada permanente se actualizará de 34,20 % a 48,50 % al incorporar este eje estructurante libre de cortes por crecidas.
+* El tiempo promedio de viaje hacia Santa Rosa se ajustará en el inventario vial a 22 minutos constantes durante todo el año.
+* El volumen de pérdidas pecuarias invernales quedará registrado en cero litros por factores de incomunicación fluvial, consolidando la sostenibilidad territorial y el bienestar socioeconómico de las familias beneficiarias.

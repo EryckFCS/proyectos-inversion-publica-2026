@@ -1,0 +1,45 @@
+# Financiamiento y presupuesto
+
+El presupuesto consolidado de inversión pública para la construcción del puente vehicular sobre el río Carne Amarga asciende a $180.000,00 USD (ciento ochenta mil dólares de los Estados Unidos de América), financiado de manera concurrente entre la Prefectura de El Oro, el GAD Municipal de Santa Rosa, el GAD Parroquial Rural de Torata y el aporte valorado comunitario.
+
+La Tabla \ref{tbl-presupuesto-puente} presenta el presupuesto de inversión desagregado por componente, actividad, grupo de gasto y fuente de financiamiento.
+
+::: {#tbl-presupuesto-puente}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.14\linewidth}p{0.50\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}@{}}
+\caption{Presupuesto consolidado por rubro y componente del puente Torata} \label{tbl-presupuesto-puente} \\
+\toprule
+\textbf{Código} & \textbf{Componente / Rubro de Obra} & \textbf{Monto (USD)} & \textbf{Participación (\%)} \\
+\midrule
+EST & Estudios Geotécnicos de Suelos, Hidráulica y Diseño Estructural & \$15.000,00 & 8,33 \% \\
+SUB & Subestructura (2 Estribos de Hormigón Armado f'c=280 kg/cm² y Zapatas) & \$65.000,00 & 36,11 \% \\
+SUP & Superestructura Metálica Tipo Bailey (30 m, Ensamblaje y Tablero) & \$80.000,00 & 44,44 \% \\
+ACC & Obras de Acceso, Terraplenes, Gaviones y Defensas Ribereñas & \$10.000,00 & 5,56 \% \\
+FISC & Fiscalización Técnica de Obras Civiles y Control de Calidad & \$7.000,00 & 3,89 \% \\
+PMA & Plan de Manejo Ambiental y Medidas de Mitigación en Riberas & \$3.000,00 & 1,67 \% \\
+\midrule
+\textbf{TOTAL} & \textbf{Presupuesto de Inversión Pública del Proyecto} & \textbf{\$180.000,00} & \textbf{100,00 \%} \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir de análisis de precios unitarios y presupuestos del GAD Provincial de El Oro.}
+:::
+
+La viabilidad financiera del proyecto se estructura mediante concurrencia interinstitucional al amparo del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), estableciendo los compromisos de aporte de cada entidad (Tabla \ref{tbl-fuentes-puente}).
+
+::: {#tbl-fuentes-puente}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.32\linewidth}p{0.36\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}@{}}
+\caption{Estructura de financiamiento concurrente interinstitucional} \label{tbl-fuentes-puente} \\
+\toprule
+\textbf{Institución Participante} & \textbf{Mecanismo y Naturaleza del Aporte} & \textbf{Monto (USD)} & \textbf{Porcentaje (\%)} \\
+\midrule
+GAD Provincial de El Oro (Prefectura) & Provisión de superestructura modular Bailey y montaje técnico & \$100.000,00 & 55,56 \% \\
+GAD Municipal del Cantón Santa Rosa & Contratación de estudios de suelos y maquinaria pesada para terraplenes & \$45.000,00 & 25,00 \% \\
+GAD Parroquial Rural de Torata & Contraparte local en obras preliminares, hormigón y fiscalización & \$25.000,00 & 13,89 \% \\
+Comunidad / Finqueros Beneficiarios & Aporte valorado en cesión de fajas de terreno y faenas de desbroce & \$10.000,00 & 5,55 \% \\
+\midrule
+\textbf{TOTAL} & \textbf{Fuentes de Financiamiento Comprometidas} & \textbf{\$180.000,00} & \textbf{100,00 \%} \\
+\bottomrule
+\end{longtable}
+\fuente{Convenio Específico de Cooperación Interinstitucional Prefectura - Municipio - GAD Parroquial Torata.}
+:::

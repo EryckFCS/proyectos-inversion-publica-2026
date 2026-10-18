@@ -1,0 +1,118 @@
+# Diagnóstico del problema
+
+## Descripción de la situación actual del área de intervención del proyecto
+
+La parroquia rural Torata pertenece a la jurisdicción cantonal de Santa Rosa en la provincia de El Oro. Cuenta con una superficie de 8.538,00 hectáreas (85,38 km² de demarcación general y 22 km² de consolidación territorial desconcentrada entre la cabecera parroquial, El Guayabo, La Chilca, El Playón y Sabayán) y una población de 2.174 habitantes de acuerdo con el Censo de Población y Vivienda 2022 del Instituto Nacional de Estadística y Censos @inec_censo_2022, desagregada en 1.109 hombres (51,0 %) y 1.065 mujeres (49,0 %) conforme al Plan de Desarrollo y Ordenamiento Territorial de Torata 2023-2027 @pdot_torata_2024. La economía parroquial se sustenta estructuralmente en el sector primario: el 55,00 % de la Población Económicamente Activa (PEA) ocupada labora en el sector primario, registrando el 39,44 % en agricultura y ganadería (489 empleos directos) y el 15,56 % en minería artesanal. Los pastos cultivados abarcan 2.478,45 hectáreas (37,29 % del uso de suelo), sustentando un inventario ganadero bovino censado de 3.898 cabezas (1.386 vacas de ordeño, 933 toretes, 798 vaconas, 376 terneras, 313 terneros y 92 toros), complementado con 528 hectáreas de café y granjas avícolas con capacidad instalada para 109.000 aves.
+
+El territorio parroquial está atravesado por la cuenca alta del río Santa Rosa, denominado históricamente en esta zona como río Carne Amarga, el cual tiene sus nacientes en las estribaciones montañosas entre los cerros Fénix y del Oso. Este cauce hídrico divide físicamente la cabecera parroquial de Torata y el eje vial arterial E50 (Carretera Transversal Sur) respecto de sectores productivos esenciales como El Guayabo, La Chilca, El Playón y Sabayán.
+
+En la actualidad, las familias campesinas y los productores ganaderos deben cruzar el afluente a través de un paso a nivel rústico o mediante puentes provisionales de madera construidos comunalmente. Estas estructuras precarias colapsan o quedan sumergidas con regularidad durante el ciclo invernal (diciembre a mayo) debido a las crecidas súbitas y al arrastre de palizadas, dejando aisladas a más de 340 unidades de producción familiar durante periodos prolongados.
+
+![Macro-localización Satelital: Parroquia Torata en el Cantón Santa Rosa](asset/mapa_macro_torata.png){#fig-macro width=65%}
+\vspace{-0.3cm}
+
+![Micro-localización Satelital: Emplazamiento del Puente Bailey sobre el Río Carne Amarga](asset/mapa_micro_torata.png){#fig-micro width=60%}
+
+## Identificación, descripción y diagnóstico del problema
+
+El problema central identificado en el diagnóstico territorial participativo y corroborado en el Plan de Desarrollo y Ordenamiento Territorial cantonal @pdot_santarosa_2024 consiste en la incomunicación vial recurrente y los elevados costos de transporte para la comercialización agropecuaria en los sectores productivos de Torata, provocados por la ausencia de un puente vehicular seguro y definitivo sobre el río Carne Amarga.
+
+Las causas principales que configuran el problema central se agrupan en tres vertientes técnicas y de gestión:
+
+* Causa Directa 1: Inexistencia de infraestructura fija de cruce vehicular sobre el río Carne Amarga.
+  * Causa Indirecta 1.1: Uso forzoso de un vado a nivel y pasarelas de madera vulnerables a la fuerza de arrastre hídrico.
+  * Causa Indirecta 1.2: Crecidas torrenciales estacionales con arrastre de rocas y palizadas desde la alta montaña.
+* Causa Directa 2: Ausencia de obras de estabilización geotécnica y encauzamiento en las márgenes ribereñas.
+  * Causa Indirecta 2.1: Socavación activa de los taludes de aproximación en el tramo El Guayabo - La Chilca.
+  * Causa Indirecta 2.2: Carencia previa de estudios mecánicos de suelos para cimentaciones profundas de estribos.
+* Causa Directa 3: Limitación presupuestaria del gobierno parroquial rural para solventar obras de ingeniería mayor.
+  * Causa Indirecta 3.1: Monto de inversión requerido supera el presupuesto anual total de transferencias del GADPR Torata.
+
+Los efectos derivados de la situación descrita impactan directamente en las condiciones de vida de la población:
+
+* Efecto Directo 1: Paralización del transporte de productos perecibles (leche, queso, cacao y café) hacia centros de consumo.
+* Efecto Directo 2: Riesgo de siniestros y pérdidas humanas al intentar cruzar el afluente crecido de forma rudimentaria.
+* Efecto Directo 3: Encarecimiento del transporte rural y desabastecimiento de insumos agropecuarios esenciales.
+* Efectos Finales: Reducción drástica del margen de ganancia campesino, acentuación de la pobreza por Necesidades Básicas Insatisfechas (67,40 %) y abandono paulatino de los predios agropecuarios.
+
+## Línea base del proyecto
+
+### Construcción de la narrativa
+
+La red vial de la parroquia comprende 46,20 km de longitud, de los cuales únicamente el 34,20 % (15,8 km pertenecientes a la carretera intercantonal E585) cuenta con capa de rodadura asfaltada. El 65,80 % restante está constituido por vías lastradas secundarias y caminos de herradura o de verano que pierden transitabilidad por socavaciones en época lluviosa.
+
+La carencia de un paso vehicular permanente provoca cuantiosas pérdidas en el sector agroproductivo. Durante los meses de mayor pluviosidad, la imposibilidad de que ingresen los camiones lecheros y camionetas de carga genera el derrame o fermentación de aproximadamente 3.500 litros de leche diarios, además de pérdidas en cosechas de cacao fino de aroma y plátano. Los productores se ven forzados a realizar trasbordos manuales a lomo de bestia o cargando sacos a pie por orillas inestables, encareciendo los fletes hasta en un 60 %.
+
+En el ámbito social, la incomunicación limita el traslado de pacientes hacia el Centro de Salud Tipo A de Torata y origina un ausentismo escolar del 45 % en estudiantes que habitan en los recintos La Chilca y El Guayabo.
+
+![Distribución del Uso y Aptitud del Suelo en Torata (Presión Agropecuaria)](asset/grafico_suelo_torata.png){#fig-suelo width=75%}
+
+![Brecha Territorial de Pobreza por NBI en Torata](asset/grafico_nbi_torata.png){#fig-nbi width=80%}
+
+## Análisis de oferta y demanda
+
+### Demanda
+
+La demanda de transporte vial y conectividad física en la zona de intervención proviene de los volúmenes de producción agropecuaria y del flujo habitual de movilidad de pasajeros y bienes entre las comunidades de El Guayabo, La Chilca, Sabayán y El Playón hacia el centro urbano de Torata y los mercados de Santa Rosa y Machala. En la actualidad, el Tráfico Promedio Diario Anual (TPDA) en el paso sobre el río Carne Amarga alcanza 60 vehículos por día en época seca, de los cuales 42 corresponden a camionetas y vehículos livianos, y 18 a camiones medianos y lecheros. Asimismo, la producción pecuaria transportada supera los 3.650 litros diarios de leche cruda y 45 quintales semanales de productos agrícolas perecibles.
+
+Para proyectar la demanda en el horizonte de vida útil del proyecto (20 años, 2026-2046), se consideró una tasa de crecimiento anual del tráfico vehicular del 2,50 % sustentada en la expansión ganadera y una tasa intercensal poblacional del 0,94 % anual (Tabla \ref{tbl-proyecciones-demanda}).
+
+::: {#tbl-proyecciones-demanda}
+\fontsize{8.5}{10.5}\selectfont
+\begin{longtable}{@{}p{0.36\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}>{\raggedleft\arraybackslash}p{0.12\linewidth}@{}}
+\caption{Proyecciones demográficas y de demanda de tráfico vehicular (2026-2046)} \label{tbl-proyecciones-demanda} \\
+\toprule
+\textbf{Variable / Indicador Proyectado} & \textbf{Año 0 (2026)} & \textbf{Año 5 (2031)} & \textbf{Año 10 (2036)} & \textbf{Año 15 (2041)} & \textbf{Año 20 (2046)} \\
+\midrule
+Población Parroquial Total (hab.) & 2.256 & 2.364 & 2.477 & 2.596 & 2.721 \\
+Población Beneficiaria Directa (hab.) & 1.328 & 1.392 & 1.459 & 1.529 & 1.602 \\
+Hogares Productores Beneficiarios & 340 & 356 & 373 & 391 & 410 \\
+Producción Láctea Diaria Estimada (litros) & 3.650 & 4.130 & 4.670 & 5.280 & 5.970 \\
+TPDA Vehículos Ligeros (camionetas/autos) & 42 & 48 & 54 & 61 & 69 \\
+TPDA Transporte Pesado (camiones lecheros/carga) & 18 & 20 & 23 & 26 & 29 \\
+TPDA Total Proyectado (vehículos/día) & 60 & 68 & 77 & 87 & 98 \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir de tasas intercensales INEC y aforos de tránsito rural.}
+:::
+
+### Oferta
+
+La oferta vial actual en el paso sobre el río Carne Amarga es de capacidad nula durante los eventos de crecidas invernales. El cruce opera mediante un vado natural de lecho de piedra y arena, complementado esporádicamente por pasarelas provisionales de madera construidas por la comunidad sin criterios de diseño hidráulico. Esta precaria infraestructura solo permite el paso de vehículos con tracción 4x4 y camiones durante el periodo de estiaje (junio a noviembre), mientras que durante el periodo de invierno (diciembre a mayo) el tránsito se interrumpe de manera intempestiva por crecidas que superan los 2,50 metros de calado hidrodinámico. La oferta efectiva de transitabilidad segura en la situación sin proyecto equivale a únicamente 260 días al año, generando 105 días de aislamiento e interrupción logística periódica.
+
+### Demanda insatisfecha
+
+La brecha entre la demanda continua de transporte (365 días al año y 60 a 98 vehículos diarios) y la oferta precaria actual define una demanda insatisfecha estacional crítica de 105 días al año de transitabilidad vehicular denegada. Durante estos meses de aislamiento, la demanda insatisfecha se traduce en 3.500 litros diarios de leche que no logran ingresar a la cadena agroindustrial, obligando a los productores a malvender el producto como queso artesanal a precios de liquidación o desecharlo, con pérdidas económicas directas cuantificadas en más de $18.500 USD por temporada invernal. La construcción del puente modular Bailey con gálibo superior a la cota NAME cierra en un 100 % esta demanda insatisfecha, garantizando 365 días ininterrumpidos de servicio vial.
+
+## Identificación y caracterización de la población objetivo
+
+La determinación de la población beneficiaria se sustenta en los registros censales del cantón y las actas de empadronamiento agropecuario de la zona de intervención, detalladas en la Tabla \ref{tbl-poblacion-beneficiaria}.
+
+::: {#tbl-poblacion-beneficiaria}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.30\linewidth}p{0.18\linewidth}p{0.52\linewidth}@{}}
+\caption{Segmentación de la población beneficiaria del proyecto vial} \label{tbl-poblacion-beneficiaria} \\
+\toprule
+\textbf{Categoría} & \textbf{Población (hab.)} & \textbf{Criterio y Alcance Territorial} \\
+\midrule
+Población de Referencia & 80.299 & Total de habitantes del cantón Santa Rosa (Censo INEC 2022). \\
+\addlinespace
+Población Afectada & 2.174 & Total de habitantes de la parroquia rural Torata articulados a la economía cantonal. \\
+\addlinespace
+Población Objetivo Directa & 1.280 & Productores y familias de los sitios El Guayabo, La Chilca, Sabayán y El Playón que cruzan directamente por el paso sobre el río Carne Amarga. \\
+\addlinespace
+Población Beneficiaria Indirecta & 894 & Pobladores de la cabecera parroquial de Torata y transportistas de Santa Rosa favorecidos por el flujo comercial ininterrumpido. \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir de Censo INEC 2022 y registros del GADPR Torata.}
+:::
+
+## Ubicación geográfica
+
+El emplazamiento del proyecto se localiza en la provincia de El Oro, cantón Santa Rosa, parroquia rural Torata, específicamente en el cruce de la vía de tercer orden El Guayabo - La Chilca sobre el cauce del río Carne Amarga. Las coordenadas geográficas de implantación del eje central del puente corresponden a:
+
+* Coordenadas Geográficas: Latitud 03°34'32" S, Longitud 79°46'59" W.
+* Coordenadas UTM (WGS 84, Zona 17S): Este 626.450 m, Norte 9.608.920 m.
+* Altitud sobre el nivel del mar: 307 msnm.
+
+Los límites territoriales de la parroquia Torata establecidos en la delimitación oficial del PDOT 2023-2027 @pdot_torata_2024 corresponden a: al norte la parroquia Saracay (cantón Piñas), al sur la parroquia La Avanzada, al este las parroquias Bellamaría, San Juan de Cerro Azul y Ayapamba (cantón Atahualpa), y al oeste la parroquia Piedras. La articulación vial estratégica a través de la Carretera Transversal Sur (E50) y los caminos vecinales de segundo y tercer orden garantiza la conexión logística continua de la producción pecuaria hacia los centros de consumo cantonal y provincial.

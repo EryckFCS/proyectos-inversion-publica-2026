@@ -1,0 +1,36 @@
+# Articulación con la planificación
+
+## Alineación con el objetivo estratégico institucional
+
+El proyecto se sustenta en el marco institucional y las competencias exclusivas del Gobierno Autónomo Descentralizado Provincial de El Oro para planificar, construir y mantener el sistema vial rural provincial, de conformidad con el artículo 263 (numeral 2) de la Constitución de la República y el artículo 42 (literal b) del Código Orgánico de Organización Territorial, Autonomía y Descentralización @cootad2010. Asimismo, se ampara en los artículos 55 y 65 del COOTAD, que facultan a los Gobiernos Municipales y Parroquiales Rurales a suscribir convenios de concurrencia y cooperación técnica para cofinanciar obras de infraestructura de beneficio territorial directo.
+
+A nivel de planificación local, la intervención se alinea con los instrumentos territoriales descentralizados:
+
+* PDOT Provincial de El Oro (2024-2027): Programa de Conectividad Rural y Resiliencia de Cuencas Hidrográficas, cuyo objetivo estratégico institucional es garantizar la transitabilidad continua y la reducción de costos logísticos en las zonas agroproductivas de la provincia.
+* PDOT Cantonal de Santa Rosa (2023-2027): Clasifica la ruta Torata - El Guayabo - La Chilca como eje estructurante terciario para el abastecimiento alimentario cantonal, disponiendo la concurrencia intergubernamental para salvar el paso sobre el río Carne Amarga @pdot_santarosa_2024.
+* PDOT Parroquial Rural de Torata (2023-2027): El plan oficial aprobado @pdot_torata_2024 establece en su Tabla 133 (Matriz de Proyectos de Gestión del GAD Parroquial, pág. 333) el programa estructurante "Mantenimiento y construcción de infraestructura colectiva, acceso a conectividad y mejoramiento vial", con el proyecto "Gestión para la construcción de puentes en la parroquia rural Torata en convenio con el GAD Municipal y Provincial" con una asignación plurianual programada de $200.000,00 USD, complementado con las obras de ducto cajón y muros de gaviones en la vía Torata - El Guayabo en convenio con la Prefectura de El Oro (Tabla 133, pág. 333) y la priorización histórica ratificada en la evaluación del plan precedente (Tabla 2, pág. 48).
+
+En el marco de la Agenda 2030, la intervención aporta a los Objetivos de Desarrollo Sostenible: ODS 9 (Industria, Innovación e Infraestructura) al edificar obras viales fiables y resilientes, ODS 8 (Trabajo Decente y Crecimiento Económico) mediante el fortalecimiento de los ingresos campesinos, y ODS 11 (Comunidades Sostenibles) mediante la mitigación de riesgos de aislamiento por crecidas fluviales.
+
+## Contribución del proyecto a la meta del Plan Nacional de Desarrollo
+
+El proyecto se articula directamente con los lineamientos del Plan Nacional de Desarrollo "Ecuador No Se Detiene" 2025-2029 @pnd2025, el cual prioriza la modernización de la infraestructura vial rural y el fomento de la competitividad de las cadenas de valor agropecuarias (Tabla \ref{tbl-articulacion-pnd}).
+
+::: {#tbl-articulacion-pnd}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.22\linewidth}p{0.38\linewidth}p{0.40\linewidth}@{}}
+\caption{Alineación y contribución con el Plan Nacional de Desarrollo} \label{tbl-articulacion-pnd} \\
+\toprule
+\textbf{Nivel PND} & \textbf{Denominación Oficial} & \textbf{Contribución Específica del Proyecto} \\
+\midrule
+Eje Estratégico & Eje Económico y Productivo & Conectividad física continua para la salida de la producción ganadera y agrícola de Torata. \\
+\addlinespace
+Objetivo Nacional & Objetivo 4: Fomentar la productividad, competitividad e integración de las economías rurales a los mercados nacionales. & Conexión vial permanente de más de 4.800 cabezas de ganado y áreas de cultivo hacia la red estatal E585. \\
+\addlinespace
+Política Pública & Política 4.2: Mejorar y mantener la red vial rural secundaria y terciaria con enfoque de resiliencia climática. & Sustitución de un paso a nivel inundable por un puente vehicular con gálibo seguro ante crecidas extraordinarias. \\
+\addlinespace
+Meta Nacional & Reducir en 25\% el tiempo de traslado y costos logísticos de las cadenas de valor agropecuarias rurales. & Reducción del tiempo de cruce de 45 minutos a 3 minutos y eliminación de pérdidas por descomposición de productos. \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica con base en el Plan Nacional de Desarrollo 2025-2029.}
+:::

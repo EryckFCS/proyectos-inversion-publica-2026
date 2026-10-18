@@ -1,0 +1,189 @@
+---
+title: "INFORME DE AVANCE DE PROYECTO DE VINCULACIÓN CON LA SOCIEDAD"
+subtitle: "EVALUACIÓN PERIÓDICA TRIMESTRAL - ESTUDIO DE FACTIBILIDAD PUENTE RÍO CARNE AMARGA, TORATA"
+author:
+  - "David Andrés Pérez Castillo"
+  - "Luis Gustavo Hurtado Cuenca"
+  - "Erick Fabricio Condoy Seraquive"
+  - "Lizeth Camila Correa Sánchez"
+date: "2026-10-18"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Proyectos de Inversión Pública - Séptimo Ciclo"
+submission_date: "Octubre de 2026"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+bibliography: ../references.bib
+csl: ../apa.csl
+lang: es
+fontsize: 11pt
+format:
+  pdf:
+    template: ../template.tex
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    geometry:
+      - top=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=25.4mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \usepackage{pdflscape}
+          \justifying
+          \usepackage{setspace}
+          \onehalfspacing
+          \usepackage{etoolbox}
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \AtBeginEnvironment{longtable}{\singlespacing\fontsize{8.5}{10.5}\selectfont}
+          \AtBeginEnvironment{tabular}{\singlespacing\fontsize{9}{11}\selectfont}
+          \setlength{\tabcolsep}{4pt}
+          \renewcommand{\arraystretch}{1.2}
+          \newcommand{\logoUNL}{../asset/logo_unl.png}
+          \newcommand{\logoTORATA}{../asset/logo_torata_actualizado.png}
+          \newcommand{\logoECONOMIA}{../asset/logo_economia.jpg}
+          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
+---
+
+\justifying
+
+# DATOS INFORMATIVOS
+
+::: {#tbl-datos-avance}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{9.5cm}}
+\caption{Ficha técnica informativa del informe de avance} \label{tbl-datos-avance} \\
+\toprule
+\textbf{Campo Institucional} & \textbf{Detalle Técnico y Académico} \\
+\midrule
+Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata \\
+\addlinespace
+Programa de Vinculación: & Desarrollo socioeconómico, fomento productivo rural y fortalecimiento institucional de los gobiernos locales \\
+\addlinespace
+Línea de Investigación: & Gestión jurídica, social, administrativa, financiera, inclusión y emprendimiento \\
+\addlinespace
+Facultad / Carrera: & Facultad Jurídica, Social y Administrativa / Carrera de Economía \\
+\addlinespace
+Nivel Académico / Ciclo: & Pregrado / Séptimo Ciclo \\
+\addlinespace
+Código del Proyecto: & UNL-VINC-FJSA-ECO-2026-03 \\
+\addlinespace
+Fecha de Inicio / Fin: & 01 de abril de 2026 al 31 de marzo de 2027 \\
+\addlinespace
+Periodo Académico Reportado: & Periodo Académico Ordinario 2026-2 (Reporte Trimestral Q2) \\
+\addlinespace
+Fecha Entrega de Informe: & 18 de octubre de 2026 \\
+\addlinespace
+Presupuesto Ejecutado: & \$27.000,00 USD (incluye \$15.000 de estudios geotécnicos contratados por Municipio y \$12.000 valorados UNL) \\
+\addlinespace
+Cobertura y Localización: & Parroquia rural Torata, cantón Santa Rosa, sectores El Guayabo y La Chilca \\
+\addlinespace
+Docente Responsable: & Econ. José Job Chamba Tandazo, Mgs. \\
+\addlinespace
+Correo / Teléfono: & jose.chamba@unl.edu.ec / 0991234567 \\
+\bottomrule
+\end{longtable}
+\fuente{Coordinación de Vinculación con la Sociedad - Carrera de Economía UNL.}
+:::
+
+# INSTITUCIONES PARTICIPANTES EN EL PROYECTO
+
+::: {#tbl-instituciones-avance}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{9.5cm}}
+\caption{Instituciones aliadas y nivel de participación efectiva} \label{tbl-instituciones-avance} \\
+\toprule
+\textbf{Institución Participante} & \textbf{Aporte Efectivo en el Periodo} \\
+\midrule
+GAD Parroquial Rural de Torata & Facilitación logística de recorridos territoriales, entrevistas con finqueros, acuerdos de cesión de fajas y entrega de bases censales del PDOT 2023-2027. \\
+\addlinespace
+GAD Municipal de Santa Rosa & Adjudicación de la consultoría de mecánica de suelos y estudios geotécnicos de perforación profunda en el lecho del río Carne Amarga. \\
+\addlinespace
+GAD Provincial de El Oro & Inspección preliminar de cota hidrodinámica y pre-asignación en bodega de los módulos de celosía de acero tipo Bailey de 30 metros de longitud. \\
+\bottomrule
+\end{longtable}
+\fuente{Informes de campo y minutas de coordinación interinstitucional.}
+:::
+
+# BENEFICIARIOS REPORTADOS
+
+Durante el presente periodo se completó el empadronamiento georreferenciado y la validación de la población atendida:
+
+* **Beneficiarios Directos:** Se ratifican 1.280 habitantes agrupados en 340 familias de pequeños y medianos productores agropecuarios asentados en El Guayabo, La Chilca, Sabayán y El Playón.
+* **Beneficiarios Indirectos:** Se consolidan 894 habitantes de la cabecera parroquial de Torata y aproximadamente 80.000 pobladores del cantón Santa Rosa beneficiados por la regularización de la oferta de leche y productos agrícolas perecibles.
+
+# RESULTADOS Y AVANCE POR COMPONENTES Y ACTIVIDADES
+
+El estado de avance físico y metodológico del proyecto al cierre del segundo trimestre se sintetiza en la Tabla \ref{tbl-matriz-avance-unl}.
+
+::: {#tbl-matriz-avance-unl}
+\fontsize{8}{9.5}\selectfont
+\begin{longtable}{p{1.2cm}p{2.2cm}p{2.8cm}p{2.0cm}p{1.8cm}p{1.4cm}p{2.2cm}}
+\caption{Matriz oficial de avance de resultados y actividades} \label{tbl-matriz-avance-unl} \\
+\toprule
+\textbf{Cód.} & \textbf{Actividad} & \textbf{Indicador Verificable} & \textbf{Responsable} & \textbf{Periodo} & \textbf{\% Avance} & \textbf{Observaciones / Acciones} \\
+\midrule
+C1.A1 & Levantamiento topográfico del cauce & Plano topográfico de detalle y curvas de nivel a escala 1:500 & Equipo Técnico GADPR Torata & T1 & 100 \% & Culminado. Eje central del puente ubicado en coordenadas UTM 626450 E, 9608920 N. \\
+\addlinespace
+C1.A2 & Ensayos geotécnicos y sondeos SPT & Informe de mecánica de suelos y capacidad portante del lecho & Consultor GAD Santa Rosa & T1-T2 & 85 \% & En fase de ensayos de laboratorio de compresión y granulometría de testigos. \\
+\addlinespace
+C1.A3 & Formulación del estudio de factibilidad Planifica Ecuador & Documento técnico de 8 capítulos con evaluación financiera/social & Equipo Académico UNL (Estudiantes y Docentes) & T1-T2 & 100 \% & Culminado. VANS de \$92.450 USD y TIRS de 16,85 \% formalmente validados. \\
+\addlinespace
+C2.A1 & Replanteo y diseño de estribos masivos & Planos estructurales de estribos f'c=280 kg/cm² & Dirección Obras Prefectura El Oro & T2-T3 & 50 \% & Planos de encofrado listos; se aguarda cierre de informe geotécnico para zapatas. \\
+\addlinespace
+C2.A2 & Cesión formal de servidumbres de paso & Actas de compromiso suscritas por finqueros frentistas & Junta Parroquial de Torata & T2 & 100 \% & Culminado. 100 \% de propietarios ribereños cedieron fajas de 12 m sin litigios. \\
+\addlinespace
+C3.A1 & Inspección y despacho de paneles Bailey & Acta de disponibilidad de estructura modular en bodega provincial & Prefectura de El Oro & T2-T3 & 40 \% & Módulos inspeccionados físicamente por la dirección técnica provincial. \\
+\addlinespace
+C4.A1 & Constitución del comité vial comunitario & Acta constitutiva y designación de veedores comunitarios & GADPR Torata / Estudiantes UNL & T2 & 100 \% & Comité legalmente posesionado con 20 directivos de El Guayabo y La Chilca. \\
+\bottomrule
+\end{longtable}
+\fuente{Matriz de Monitoreo Trimestral - Coordinación de Vinculación UNL.}
+:::
+
+# IMPACTOS ALCANZADOS A LA FECHA
+
+1. **Impacto Social:** Empoderamiento de 340 familias rurales de la cuenca alta de Torata que pasaron de la incertidumbre del aislamiento estacional a contar con un expediente formal de factibilidad reconocido por las autoridades provinciales y municipales.
+2. **Impacto Científico y Metodológico:** Formulación técnica rigurosa de un modelo de evaluación socioeconómica rural en software libre (Quarto/LaTeX) que integra datos sanitizados del Censo INEC 2022 y del PDOT Torata 2023-2027, garantizando trazabilidad paramétrica.
+3. **Impacto en Políticas Públicas:** Generación de una alianza intergubernamental efectiva entre los tres niveles de gobierno (Provincial, Cantonal y Parroquial) mediada por la solvencia técnica de la Universidad Nacional de Loja, superando la limitación fiscal parroquial.
+
+# FIRMAS DE RESPONSABILIDAD
+
+\vspace{1.5cm}
+
+\begin{center}
+\begin{tabular}{cc}
+\rule{6.5cm}{0.4pt} & \rule{6.5cm}{0.4pt} \\
+\textbf{Econ. José Job Chamba Tandazo, Mgs.} & \textbf{Econ. Priscila Johana Méndez Montaño} \\
+Docente Responsable del Proyecto & Docente de Apoyo Técnico \\
+C.I. 1103489214 & C.I. 1104589632 \\
+\vspace{1.5cm} & \vspace{1.5cm} \\
+\rule{6.5cm}{0.4pt} & \rule{6.5cm}{0.4pt} \\
+\textbf{Econ. Jessica Ivanova Guamán Coronel} & \textbf{Abg. Rolando Patricio Román Torres} \\
+Docente de Apoyo Técnico & Presidente del GADPR Torata \\
+C.I. 1104875219 & C.I. 0702847591 \\
+\end{tabular}
+\end{center}
+
+# ANEXOS
+
+## Nómina de Participantes
+
+::: {#tbl-nomina-estudiantes-avance}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{llllr}
+\caption{Estudiantes y horas reportadas en el periodo} \label{tbl-nomina-estudiantes-avance} \\
+\toprule
+\textbf{N°} & \textbf{Apellidos y Nombres} & \textbf{Cédula} & \textbf{Carrera / Ciclo} & \textbf{Horas Ejecutadas} \\
+\midrule
+1 & Pérez Castillo David Andrés & 1105847291 & Economía - 7mo Ciclo & 60 / 120 h \\
+2 & Hurtado Cuenca Luis Gustavo & 1105938402 & Economía - 7mo Ciclo & 60 / 120 h \\
+3 & Condoy Seraquive Erick Fabricio & 1105748392 & Economía - 7mo Ciclo & 60 / 120 h \\
+4 & Correa Sánchez Lizeth Camila & 1106029384 & Economía - 7mo Ciclo & 60 / 120 h \\
+\bottomrule
+\end{longtable}
+\fuente{Control de horas de prácticas y vinculación con la sociedad - UNL.}
+:::

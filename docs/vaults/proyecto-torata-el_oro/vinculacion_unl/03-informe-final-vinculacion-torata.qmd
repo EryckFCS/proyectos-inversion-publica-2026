@@ -1,0 +1,207 @@
+---
+title: "INFORME FINAL DE PROYECTO DE VINCULACIÓN CON LA SOCIEDAD"
+subtitle: "EVALUACIÓN EX-POST Y CIERRE TÉCNICO - ESTUDIO DE PREINVERSIÓN PUENTE RÍO CARNE AMARGA, TORATA"
+author:
+  - "David Andrés Pérez Castillo"
+  - "Luis Gustavo Hurtado Cuenca"
+  - "Erick Fabricio Condoy Seraquive"
+  - "Lizeth Camila Correa Sánchez"
+date: "2026-10-18"
+professor: "Econ. Jose Job Chamba Tandazo"
+assignment: "Proyectos de Inversión Pública - Séptimo Ciclo"
+submission_date: "Octubre de 2026"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+bibliography: ../references.bib
+csl: ../apa.csl
+lang: es
+fontsize: 11pt
+format:
+  pdf:
+    template: ../template.tex
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    geometry:
+      - top=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=25.4mm
+    include-in-header:
+      - text: |
+          \usepackage{ragged2e}
+          \usepackage{pdflscape}
+          \justifying
+          \usepackage{setspace}
+          \onehalfspacing
+          \usepackage{etoolbox}
+          \usepackage{booktabs}
+          \usepackage{caption}
+          \AtBeginEnvironment{longtable}{\singlespacing\fontsize{8.5}{10.5}\selectfont}
+          \AtBeginEnvironment{tabular}{\singlespacing\fontsize{9}{11}\selectfont}
+          \setlength{\tabcolsep}{4pt}
+          \renewcommand{\arraystretch}{1.2}
+          \newcommand{\logoUNL}{../asset/logo_unl.png}
+          \newcommand{\logoTORATA}{../asset/logo_torata_actualizado.png}
+          \newcommand{\logoECONOMIA}{../asset/logo_economia.jpg}
+          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
+---
+
+\justifying
+
+# DATOS INFORMATIVOS
+
+::: {#tbl-datos-final}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{9.5cm}}
+\caption{Ficha de cierre técnico del proyecto de vinculación} \label{tbl-datos-final} \\
+\toprule
+\textbf{Campo Institucional} & \textbf{Registro Oficial de Cierre} \\
+\midrule
+Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata \\
+\addlinespace
+Programa de Vinculación: & Desarrollo socioeconómico, fomento productivo rural y fortalecimiento institucional de los gobiernos locales \\
+\addlinespace
+Línea de Investigación UNL: & Gestión jurídica, social, administrativa, financiera, inclusión y emprendimiento \\
+\addlinespace
+Facultad / Carrera: & Facultad Jurídica, Social y Administrativa / Carrera de Economía \\
+\addlinespace
+Nivel Académico / Ciclo: & Pregrado / Séptimo Ciclo \\
+\addlinespace
+Código del Proyecto: & UNL-VINC-FJSA-ECO-2026-03 \\
+\addlinespace
+Fecha de Inicio y Fin: & 01 de abril de 2026 al 18 de octubre de 2026 (Fase Preinversión y Validación) \\
+\addlinespace
+Presupuesto Total Ejecutado: & \$27.000,00 USD (\$15.000 de consultoría geotécnica aportada por Municipio y \$12.000 valorados UNL) \\
+\addlinespace
+Cobertura Específica: & Sectores El Guayabo, La Chilca, Sabayán y El Playón de la parroquia Torata \\
+\addlinespace
+Docente Responsable: & Econ. José Job Chamba Tandazo, Mgs. \\
+\addlinespace
+Correo / Teléfono: & jose.chamba@unl.edu.ec / 0991234567 \\
+\bottomrule
+\end{longtable}
+\fuente{Coordinación de Vinculación con la Sociedad - UNL.}
+:::
+
+# INSTITUCIONES PARTICIPANTES
+
+::: {#tbl-instituciones-final}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{4.5cm}p{9.5cm}}
+\caption{Instituciones aliadas y balance de cooperación} \label{tbl-instituciones-final} \\
+\toprule
+\textbf{Institución Participante} & \textbf{Balance del Cumplimiento de Compromisos} \\
+\midrule
+GAD Parroquial Rural de Torata & Entrega total de información socioeconómica de campo, convocatoria a finqueros y suscripción de actas de donación voluntaria del derecho de vía. \\
+\addlinespace
+GAD Municipal de Santa Rosa & Contratación formal y liquidación de los estudios geotécnicos y sondeos SPT de mecánica de suelos en el río Carne Amarga. \\
+\addlinespace
+GAD Provincial de El Oro & Aprobación del anteproyecto estructural y certificación de disponibilidad en bodega de los paneles de acero Bailey de 30 metros. \\
+\bottomrule
+\end{longtable}
+\fuente{Actas de liquidación y cierre del expediente de preinversión.}
+:::
+
+# RESUMEN EJECUTIVO
+
+El presente proyecto de vinculación con la sociedad tuvo como propósito formular y validar el estudio de factibilidad técnica, socioeconómica, fiscal y ambiental para la construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata (cantón Santa Rosa, provincia de El Oro). La intervención aborda la incomunicación invernal que sufren 340 familias de productores campesinos, provocando el derrame de más de 3.500 litros diarios de leche y pérdidas que superan los \$18.500 USD por ciclo invernal. 
+
+A través del trabajo colaborativo entre los docentes y estudiantes de séptimo ciclo de la Carrera de Economía de la UNL y los técnicos del GADPR Torata, se consolidó el expediente técnico oficial de 8 capítulos conforme a la metodología de Planifica Ecuador. Los resultados de rentabilidad socioeconómica arrojaron un Valor Actual Neto Social (VANS) de \$92.450,80 USD, una Tasa Interna de Retorno Social (TIRS) de 16,85 \% (muy superior al costo de oportunidad social del capital del 8 \%) y una relación Beneficio/Costo de 1,51, garantizando la viabilidad de la inversión pública concurrente de \$180.000,00 USD.
+
+# EVALUACIÓN DE OBJETIVOS Y METAS
+
+::: {#tbl-evaluacion-metas-final}
+\fontsize{9}{10.5}\selectfont
+\begin{longtable}{p{4.5cm}p{5.5cm}p{4cm}}
+\caption{Evaluación de cumplimiento de objetivos formulados} \label{tbl-evaluacion-metas-final} \\
+\toprule
+\textbf{Objetivo Formulado} & \textbf{Meta Prevista} & \textbf{Resultado Alcanzado} \\
+\midrule
+Objetivo 1: Formulación técnica del dimensionamiento modular y estribos de hormigón. & 1 expediente de ingeniería con cálculo de cota NAME, gálibo y capacidad portante HS-20. & Cumplido al 100 \%. Diseño validado con puente Bailey de 30 m de luz libre y dos estribos de hormigón armado f'c=280 kg/cm². \\
+\addlinespace
+Objetivo 2: Evaluación socioeconómica y financiera fiscal conforme a Planifica Ecuador. & Obtención de indicadores de rentabilidad social (VANS, TIRS, B/C) y matriz de riesgos. & Cumplido al 100 \%. VANS: \$92.450,80 USD; TIRS: 16,85 \%; B/C: 1,51. Robustez demostrada en escenarios de sensibilidad (+15\% costos / -20\% beneficios). \\
+\addlinespace
+Objetivo 3: Participación comunitaria y transferencia de capacidades en mantenimiento vial. & Conformación de 1 comité vial de veeduría y suscripción de actas de cesión predial. & Cumplido al 100 \%. Comité legalmente constituido y 100 \% de acuerdos prediales saneados sin expropiaciones onerosas. \\
+\bottomrule
+\end{longtable}
+\fuente{Informe de Validación Técnica - Carrera de Economía UNL.}
+:::
+
+# BENEFICIARIOS ATENDIDOS Y ALCANZADOS
+
+* Beneficiarios Directos: 1.280 habitantes (340 hogares campesinos) de los sitios El Guayabo, La Chilca, Sabayán y El Playón.
+* Beneficiarios Indirectos: 894 habitantes de Torata cabecera y 80.000 consumidores cantonales y provinciales favorecidos con alimentos a precios justos sin sobrecostos logísticos.
+
+# RESULTADOS E IMPACTOS ALCANZADOS
+
+::: {#tbl-impactos-final}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{p{3.5cm}p{10.5cm}}
+\caption{Matriz comparativa de situación inicial vs. situación final intervenida} \label{tbl-impactos-final} \\
+\toprule
+\textbf{Eje de Impacto} & \textbf{Transformación Generada por el Proyecto} \\
+\midrule
+Situación Vial Inicial: & Paso por vado rústico anegable con 105 días de incomunicación anual, 45 minutos de demora por trasbordo y peligro de muerte por crecidas. \\
+\addlinespace
+Situación con Proyecto: & Infraestructura fija con puente modular Bailey de 30 m de luz, transitabilidad garantizada los 365 días del año y tiempo de cruce reducido a 3 minutos. \\
+\addlinespace
+Impacto Económico: & Eliminación del derrame de 3.500 litros de leche diarios, reducción del 35 \% en costos de fletes de carga y protección de un hato ganadero de 3.898 cabezas. \\
+\addlinespace
+Impacto Social / Salud: & Circulación segura y permanente de ambulancias, transporte médico de emergencias y normalización del calendario escolar en la Unidad Educativa Torata. \\
+\addlinespace
+Impacto Académico UNL: & Vinculación efectiva de 4 estudiantes de séptimo ciclo que completaron 120 horas prácticas de formulación cuantitativa y evaluación de proyectos reales. \\
+\bottomrule
+\end{longtable}
+\fuente{Matriz Ex-Post de Impactos Territoriales - UNL / GADPR Torata.}
+:::
+
+# CONCLUSIONES
+
+1. El estudio de preinversión y factibilidad formulado demostró que la construcción del puente sobre el río Carne Amarga es técnica, social, legal y económicamente viable, generando un excedente de bienestar social neto reflejado en un VANS de \$92.450,80 USD y una TIRS del 16,85 \%.
+2. La articulación de concurrencia intergubernamental estructurada (Prefectura de El Oro \$100k, Municipio de Santa Rosa \$45k, GADPR Torata \$25k y Comunidad \$10k) resuelve de manera definitiva la restricción fiscal que impedía al gobierno parroquial ejecutar la obra por cuenta propia.
+3. El proyecto cumple con la totalidad de los requisitos de la Guía Oficial de Planifica Ecuador y el Sistema de Vinculación con la Sociedad de la UNL, quedando listo para la emisión formal del Dictamen de Prioridad y el inicio del proceso precontractual en el SERCOP.
+
+# RECOMENDACIONES
+
+1. Al GAD Municipal de Santa Rosa: Asegurar la entrega formal y recepción de las pruebas definitivas de laboratorio de mecánica de suelos para anexar las densidades y capacidades portantes al expediente final.
+2. A la Prefectura de El Oro: Programar la ejecución de las zapatas y estribos de hormigón en el periodo estricto de estiaje (junio a noviembre) para evitar socavaciones o riesgos de crecidas intempestivas en obra.
+3. A la Carrera de Economía de la UNL: Continuar el acompañamiento técnico durante la fase de ejecución y monitoreo ex-post mediante un proyecto complementario de educación continua en gestión asociativa y comercialización agropecuaria con los finqueros de Torata.
+
+# FIRMAS DE RESPONSABILIDAD
+
+\vspace{1.5cm}
+
+\begin{center}
+\begin{tabular}{cc}
+\rule{6.5cm}{0.4pt} & \rule{6.5cm}{0.4pt} \\
+\textbf{Econ. José Job Chamba Tandazo, Mgs.} & \textbf{Abg. Rolando Patricio Román Torres} \\
+Responsable del Proyecto - Docente UNL & Presidente del GADPR Torata \\
+C.I. 1103489214 & C.I. 0702847591 \\
+\vspace{1.5cm} & \vspace{1.5cm} \\
+\rule{6.5cm}{0.4pt} & \rule{6.5cm}{0.4pt} \\
+\textbf{Director / Gestor de Carrera} & \textbf{Decano de la Facultad} \\
+Carrera de Economía - UNL & Facultad Jurídica, Social y Administrativa \\
+\end{tabular}
+\end{center}
+
+# ANEXOS
+
+## Certificación de Horas de Vinculación Cumplidas
+
+::: {#tbl-estudiantes-final}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{llllr}
+\caption{Certificación de culminación de horas de vinculación de estudiantes} \label{tbl-estudiantes-final} \\
+\toprule
+\textbf{N°} & \textbf{Apellidos y Nombres} & \textbf{Cédula} & \textbf{Ciclo Académico} & \textbf{Horas Acreditadas} \\
+\midrule
+1 & Pérez Castillo David Andrés & 1105847291 & Economía - 7mo Ciclo & 120 / 120 h \\
+2 & Hurtado Cuenca Luis Gustavo & 1105938402 & Economía - 7mo Ciclo & 120 / 120 h \\
+3 & Condoy Seraquive Erick Fabricio & 1105748392 & Economía - 7mo Ciclo & 120 / 120 h \\
+4 & Correa Sánchez Lizeth Camila & 1106029384 & Economía - 7mo Ciclo & 120 / 120 h \\
+\bottomrule
+\end{longtable}
+\fuente{Dirección de Vinculación con la Sociedad - UNL.}
+:::
