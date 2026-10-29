@@ -1,0 +1,17 @@
+# Validación Académica
+
+Certificación de revisión metodológica conforme a los estándares de la Carrera de Economía y las directrices de formulación de proyectos de inversión pública.
+
+\vspace{2.5cm}
+
+\begin{center}
+\begin{minipage}{0.75\textwidth}
+\centering
+\rule{8.5cm}{0.6pt} \\ \vspace{0.25cm}
+\textbf{Econ. José Job Chamba Tandazo} \\
+DIRECTOR DE LA CARRERA DE ECONOMÍA \\
+DOCENTE DE LA ASIGNATURA DE PROYECTOS DE INVERSIÓN PÚBLICA \\
+FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA \\
+UNIVERSIDAD NACIONAL DE LOJA
+\end{minipage}
+\end{center}

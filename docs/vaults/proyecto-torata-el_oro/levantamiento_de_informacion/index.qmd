@@ -1,0 +1,127 @@
+---
+title: "INDICADORES SOCIALES, ECONÓMICOS, AMBIENTALES E INSTITUCIONALES"
+subtitle: "MATRIZ DE LEVANTAMIENTO DE INFORMACIÓN Y LÍNEA BASE TERRITORIAL - PARROQUIA TORATA"
+author:
+  - "David Andrés Pérez Castillo"
+  - "Luis Gustavo Hurtado Cuenca"
+  - "Erick Fabricio Condoy Seraquive"
+  - "Lizeth Camila Correa Sánchez"
+date: "2026-10-18"
+professor: "Econ. Jose Job Chamba Tandazo"
+advisor-role: "DOCENTE:"
+course: "VINCULACIÓN CON LA SOCIEDAD"
+assignment: "VINCULACIÓN CON LA SOCIEDAD - OCTAVO CICLO"
+university: "UNIVERSIDAD NACIONAL DE LOJA"
+faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
+school: "CARRERA DE ECONOMÍA"
+city: "LOJA -- ECUADOR"
+year: "2026"
+bibliography: references.bib
+csl: apa.csl
+link-citations: true
+lang: es
+fontsize: 12pt
+format:
+  pdf:
+    template: pip_levantamiento.tex
+    pdf-engine: xelatex
+    citeproc: true
+    toc: false
+    number-sections: true
+    geometry:
+      - top=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=25.4mm
+  html:
+    theme: cosmo
+    css: custom_style.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contenido del Documento"
+    number-sections: true
+    embed-resources: true
+    page-layout: article
+  docx:
+    toc: false
+    number-sections: true
+    reference-doc: custom_template.docx
+    highlight-style: github
+---
+
+::: {.content-visible unless-format="pdf"}
+
+::: {align="center"}
+
+![](asset/logo_unl.png){width=35%}
+
+\
+
+**UNIVERSIDAD NACIONAL DE LOJA**  
+**FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA**  
+**CARRERA DE ECONOMÍA**  
+
+\
+\
+
+**ASIGNATURA:**  
+**VINCULACIÓN CON LA SOCIEDAD**  
+
+\
+\
+
+**INDICADORES SOCIALES, ECONÓMICOS, AMBIENTALES E INSTITUCIONALES**  
+*MATRIZ DE LEVANTAMIENTO DE INFORMACIÓN Y LÍNEA BASE TERRITORIAL - PARROQUIA TORATA*
+
+\
+\
+
+**AUTORES:**  
+David Andrés Pérez Castillo  
+Luis Gustavo Hurtado Cuenca  
+Erick Fabricio Condoy Seraquive  
+Lizeth Camila Correa Sánchez  
+
+\
+
+**DOCENTE:**  
+Econ. Jose Job Chamba Tandazo  
+
+\
+\
+
+**LOJA -- ECUADOR**  
+**2026**
+
+:::
+
+\newpage
+
+:::
+
+\justifying
+
+{{< include chapters/01-datos-territorio.qmd >}}
+
+\newpage
+
+{{< include chapters/02-indicadores-diagnostico.qmd >}}
+
+\vspace{0.8cm}
+
+{{< include chapters/03-validacion-academica.qmd >}}
+
+\newpage
+
+{{< include chapters/04-anexos-calculos-proyecciones.qmd >}}
+
+\newpage
+
+{{< include chapters/05-indice-pdot-torata.qmd >}}
+
+\newpage
+
+# Referencias {.unnumbered}
+
+::: {#refs}
+:::

@@ -1,0 +1,91 @@
+% --- PIP_LEVANTAMIENTO TEMPLATE ---
+% Plantilla de Quarto/Pandoc exclusiva para levantamientos de informacion de Proyectos de Inversion Publica
+% Utiliza la clase personalizada 'pip_levantamiento.cls'
+
+\documentclass[$if(fontsize)$$fontsize$$else$11pt$endif$,spanish]{pip_levantamiento}
+
+% Configuración de metadatos desde YAML
+$if(university)$\university{$university$}$endif$
+$if(faculty)$\faculty{$faculty$}$endif$
+$if(school)$\school{$school$}$endif$
+$if(course)$\course{$course$}$endif$
+$if(assignment)$\assignment{$assignment$}$endif$
+$if(title)$\title{$title$}$endif$
+$if(subtitle)$\subtitle{$subtitle$}$endif$
+$if(professor)$\professor{$professor$}$endif$
+$if(advisor-role)$\advisorrole{$advisor-role$}$endif$
+$if(city)$\city{$city$}$endif$
+$if(year)$\year{$year$}$endif$
+
+% Formato de autores para maketitle
+$if(author)$
+\author{%
+$for(author)$
+  $if(author.name)$$author.name$$else$$author$$endif$$sep$ \\ $endfor$
+}
+$endif$
+
+% --- Pandoc Compatibility Block ---
+\usepackage{etoolbox}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\pandocbounded}[1]{#1}
+
+\usepackage{fancyvrb}
+\usepackage{framed}
+
+% Highlighting macros
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+% --- Pandoc Citeproc (CSL) compatibility ---
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.27cm} 
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newcommand{\citeproctext}{} 
+\newcommand{\citeprocitem}[2]{\item} 
+
+\makeatletter
+\DeclareRobustCommand\citeproc[2]{%
+  \leavevmode{\color{WordBlue}\hyperlink{#1}{#2}}%
+}
+\makeatother
+
+\newenvironment{CSLReferences}[2]
+  {\setlength{\parindent}{0pt}
+   \fontsize{11pt}{16pt}\selectfont
+   \onehalfspacing
+   \setlength{\parskip}{6pt}
+   \def\bibitem[##1]##2{\par\noindent\hangindent=\cslhangindent\hypertarget{##2}{}}
+  }
+  {}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{#1\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+% Fix no counter none in longtable
+\makeatletter
+\newcounter{none}
+\@ifpackageloaded{caption}{
+  \DeclareCaptionType{none}
+  \captionsetup[none]{name=Tabla}
+}{}
+\makeatother
+
+\makeatletter
+\@ifundefined{paragraph}{\newcounter{paragraph}}{}
+\@ifundefined{subparagraph}{\newcounter{subparagraph}}{}
+\makeatother
+
+$header-includes$
+
+\begin{document}
+
+\maketitle
+
+$body$
+
+\end{document}

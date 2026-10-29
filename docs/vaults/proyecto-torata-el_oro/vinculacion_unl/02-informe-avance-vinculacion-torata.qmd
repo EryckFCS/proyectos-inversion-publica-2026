@@ -1,6 +1,6 @@
 ---
 title: "INFORME DE AVANCE DE PROYECTO DE VINCULACIÓN CON LA SOCIEDAD"
-subtitle: "EVALUACIÓN PERIÓDICA TRIMESTRAL - ESTUDIO DE FACTIBILIDAD PUENTE RÍO CARNE AMARGA, TORATA"
+subtitle: "EVALUACIÓN PERIÓDICA TRIMESTRAL - ESTUDIO DE FACTIBILIDAD PUENTE RÍO SANTA ROSA, TORATA"
 author:
   - "David Andrés Pérez Castillo"
   - "Luis Gustavo Hurtado Cuenca"
@@ -59,7 +59,7 @@ format:
 \toprule
 \textbf{Campo Institucional} & \textbf{Detalle Técnico y Académico} \\
 \midrule
-Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata \\
+Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Santa Rosa en el sector El Guayabo - La Chilca, parroquia rural Torata \\
 \addlinespace
 Programa de Vinculación: & Desarrollo socioeconómico, fomento productivo rural y fortalecimiento institucional de los gobiernos locales \\
 \addlinespace
@@ -100,7 +100,7 @@ Correo / Teléfono: & jose.chamba@unl.edu.ec / 0991234567 \\
 \midrule
 GAD Parroquial Rural de Torata & Facilitación logística de recorridos territoriales, entrevistas con finqueros, acuerdos de cesión de fajas y entrega de bases censales del PDOT 2023-2027. \\
 \addlinespace
-GAD Municipal de Santa Rosa & Adjudicación de la consultoría de mecánica de suelos y estudios geotécnicos de perforación profunda en el lecho del río Carne Amarga. \\
+GAD Municipal de Santa Rosa & Adjudicación de la consultoría de mecánica de suelos y estudios geotécnicos de perforación profunda en el lecho del río Santa Rosa. \\
 \addlinespace
 GAD Provincial de El Oro & Inspección preliminar de cota hidrodinámica y pre-asignación en bodega de los módulos de celosía de acero tipo Bailey de 30 metros de longitud. \\
 \bottomrule

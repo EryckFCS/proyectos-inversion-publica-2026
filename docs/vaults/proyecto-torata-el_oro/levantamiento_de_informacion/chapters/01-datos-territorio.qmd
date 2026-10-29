@@ -1,0 +1,79 @@
+# Datos del Territorio
+
+::: {.content-visible when-format="pdf"}
+
+::: {#tbl-datos-territorio}
+\begin{longtable}{p{3.8cm}p{2.6cm}p{5.2cm}p{2.2cm}p{1.7cm}}
+\caption{Variables y Parámetros Biofísicos, Demográficos y Espaciales de la Parroquia Rural Torata} \label{tbl-datos-territorio} \\
+\toprule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Valor / Parámetro Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endfirsthead
+\multicolumn{5}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Variable} & \textbf{Unidad de Medida} & \textbf{Valor / Parámetro Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+División político-administrativa & Jurisdicción oficial & Provincia de El Oro, Cantón Santa Rosa, Parroquia Rural Torata (Código DPA INEC: 070654) & GADPR Torata (2024); INEC (2023) & Verificada \\
+\addlinespace
+Instrumentos de planificación & Vigencia legal & PDOT Parroquial Torata 2023--2027 (Resolución GADPR-T-014-2024); PDOT Cantonal Santa Rosa & GADPR Torata (2024); GAD Santa Rosa (2024) & Verificada \\
+\addlinespace
+Ubicación geográfica cabecera & Coordenadas WGS84 & Latitud: 3°33'54" S ($-3,5650$), Longitud: 79°52'55" W ($-79,8820$) & IGM (2023); PDOT Torata (2024) & Verificada \\
+\addlinespace
+Superficie parroquial oficial & Hectáreas / km² & 8.538,00 ha ($85,38\text{ km}^2$) & SIGTIERRAS / IGM (2023) & Verificada \\
+\addlinespace
+Altitud territorial & m s.n.m. & Rango de 420 a 1.250 m s.n.m. (Cabecera parroquial: $\approx 480$ m s.n.m.) & Modelo SRTM; PDOT Torata & Verificada \\
+\addlinespace
+Temperatura media anual & Grados Celsius (°C) & 22,4 °C a 24,8 °C (Clima subtropical templado/cálido de estribación) & INAMHI (2024); PDOT Torata & Verificada \\
+\addlinespace
+Precipitación media anual & mm/año & 1.150 a 1.450 mm/año (Régimen pluviométrico bimodal con pico torrencial invernal) & INAMHI (2024) & Verificada \\
+\addlinespace
+Uso económico predominante & \% de la superficie & Pastizales y ganadería (58,4\%), Bosque protector y cobertura natural (27,2\%), Cultivos agrícolas mixtos (11,8\%), Asentamientos humanos (2,6\%) & MAG; MAATE; PDOT Torata & Verificada \\
+\addlinespace
+Red vial y estado de acceso & km y \% & Red total de 46,2 km (Eje E585 asfaltado: 34\%; Vías lastradas secundarias: 48\%; Caminos de verano y herradura: 18\%) & MTOP (2024); GAD Provincial El Oro & Verificada \\
+\addlinespace
+Centros poblados identificados & Número de sitios & 8 comunidades: Torata Centro, El Playón, La Chilca, Sabayán, El Guayabo, La Pereira, Bellamaría Alta, La Chonta & GADPR Torata (2024) & Verificada \\
+\addlinespace
+Población total área intervención & Habitantes empadronados & 2.174 habitantes censados & INEC (Censo 2022) & Verificada \\
+\addlinespace
+Densidad poblacional & Hab/km² & 25,46 hab/km² ($2.174\text{ hab} / 85,38\text{ km}^2$) & INEC (2023); PDOT Torata & Calculada \\
+\addlinespace
+Tasa geométrica intercensal & \% anual & $+0,94\%$ anual (Periodo intercensal 2010--2022) & Proyecciones INEC (2023) & Verificada \\
+\addlinespace
+Tiempo de acceso cabecera cantonal & Minutos & 35 a 45 minutos (hasta Santa Rosa vía E585 -- La Avanzada) & Levantamiento técnico de campo & Verificada \\
+
+\end{longtable}
+\textit{Nota.} Datos biofísicos y espaciales extraídos y verificados del Plan de Desarrollo y Ordenamiento Territorial de Torata [@pdot_torata_2024], instrumentos municipales de Santa Rosa [@pdot_santarosa_2024] e Instituto Nacional de Estadística y Censos [@inec_censo_2022].
+:::
+
+:::
+
+::: {.content-visible unless-format="pdf"}
+
+| Variable | Unidad de Medida | Valor / Parámetro Oficial | Fuente / Referencia | Condición |
+| :--- | :--- | :--- | :--- | :--- |
+| División político-administrativa | Jurisdicción oficial | Provincia de El Oro, Cantón Santa Rosa, Parroquia Rural Torata (Código DPA INEC: 070654) | GADPR Torata (2024); INEC (2023) | Verificada |
+| Instrumentos de planificación | Vigencia legal | PDOT Parroquial Torata 2023–2027 (Resolución GADPR-T-014-2024); PDOT Cantonal Santa Rosa | GADPR Torata (2024); GAD Santa Rosa (2024) | Verificada |
+| Ubicación geográfica cabecera | Coordenadas WGS84 | Latitud: 3°33'54" S (−3,5650), Longitud: 79°52'55" W (−79,8820) | IGM (2023); PDOT Torata (2024) | Verificada |
+| Superficie parroquial oficial | Hectáreas / km² | 8.538,00 ha (85,38 km²) | SIGTIERRAS / IGM (2023) | Verificada |
+| Altitud territorial | m s.n.m. | Rango de 420 a 1.250 m s.n.m. (Cabecera parroquial: ≈ 480 m s.n.m.) | Modelo SRTM; PDOT Torata | Verificada |
+| Temperatura media anual | Grados Celsius (°C) | 22,4 °C a 24,8 °C (Clima subtropical templado/cálido de estribación) | INAMHI (2024); PDOT Torata | Verificada |
+| Precipitación media anual | mm/año | 1.150 a 1.450 mm/año (Régimen pluviométrico bimodal con pico torrencial invernal) | INAMHI (2024) | Verificada |
+| Uso económico predominante | % de la superficie | Pastizales y ganadería (58,4%), Bosque protector y cobertura natural (27,2%), Cultivos agrícolas mixtos (11,8%), Asentamientos humanos (2,6%) | MAG; MAATE; PDOT Torata | Verificada |
+| Red vial y estado de acceso | km y % | Red total de 46,2 km (Eje E585 asfaltado: 34%; Vías lastradas secundarias: 48%; Caminos de verano y herradura: 18%) | MTOP (2024); GAD Provincial El Oro | Verificada |
+| Centros poblados identificados | Número de sitios | 8 comunidades: Torata Centro, El Playón, La Chilca, Sabayán, El Guayabo, La Pereira, Bellamaría Alta, La Chonta | GADPR Torata (2024) | Verificada |
+| Población total área intervención | Habitantes empadronados | 2.174 habitantes censados | INEC (Censo 2022) | Verificada |
+| Densidad poblacional | Hab/km² | 25,46 hab/km² (2.174 hab / 85,38 km²) | INEC (2023); PDOT Torata | Calculada |
+| Tasa geométrica intercensal | % anual | +0,94% anual (Periodo intercensal 2010–2022) | Proyecciones INEC (2023) | Verificada |
+| Tiempo de acceso cabecera cantonal | Minutos | 35 a 45 minutos (hasta Santa Rosa vía E585 – La Avanzada) | Levantamiento técnico de campo | Verificada |
+
+: Variables y Parámetros Biofísicos, Demográficos y Espaciales de la Parroquia Rural Torata (Santa Rosa, El Oro) {#tbl-datos-territorio}
+
+*Nota.* Datos biofísicos y espaciales extraídos y verificados del Plan de Desarrollo y Ordenamiento Territorial de Torata [@pdot_torata_2024], instrumentos municipales de Santa Rosa [@pdot_santarosa_2024] e Instituto Nacional de Estadística y Censos [@inec_censo_2022].
+
+:::

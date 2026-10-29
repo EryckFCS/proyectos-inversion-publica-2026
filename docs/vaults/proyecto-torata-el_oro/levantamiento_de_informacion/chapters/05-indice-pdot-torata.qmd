@@ -1,0 +1,187 @@
+# Trazabilidad Documental en el PDOT de Torata 2023–2027 {#sec-indice-pdot}
+
+::: {.content-visible when-format="pdf"}
+
+::: {#tbl-indice-pdot}
+\begin{longtable}{p{4.2cm}p{3.8cm}p{3.2cm}p{3.5cm}}
+\caption{Índice de Trazabilidad Documental: Variables Territoriales y Localización en el PDOT Torata} \label{tbl-indice-pdot} \\
+\toprule
+\textbf{Variable / Indicador} & \textbf{Instrumento Oficial} & \textbf{Página / Sección} & \textbf{Tabla / Gráfico / Fuente Base} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Variable / Indicador} & \textbf{Instrumento Oficial} & \textbf{Página / Sección} & \textbf{Tabla / Gráfico / Fuente Base} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\multicolumn{4}{l}{\textbf{1. DATOS GENERALES Y BIOFÍSICOS DEL TERRITORIO}} \\
+\midrule
+División político-administrativa & PDOT Torata 2023--2027 & Pág. 72, Sec. 2.1 & Tabla 11: Caracterización General \\
+\addlinespace
+Superficie parroquial (85,38 km²) & PDOT Torata 2023--2027 & Pág. 72--73, Sec. 2.1 & SIGTIERRAS / IGM (Tabla 11) \\
+\addlinespace
+Altitud territorial (420 a 1.250 msnm) & PDOT Torata 2023--2027 & Pág. 72, Sec. 2.1 & Modelo Digital SRTM / IGM \\
+\addlinespace
+Temperatura y Precipitación media & PDOT Torata 2023--2027 & Pág. 73, Sec. 2.1 & INAMHI (Estación Chaguarpamba/Torata) \\
+\addlinespace
+Uso del suelo y pastizales (58,4\%) & PDOT Torata 2023--2027 & Pág. 176, 224 & Tabla 67 y Tabla 100: Uso de Suelo \\
+\addlinespace
+Zonas de recarga hídrica (1.450 ha) & Diagnóstico EMAPASR-EP & Pág. 73, Sec. 2.1 & Cartografía MAATE / EMAPASR-EP \\
+\addlinespace
+Susceptibilidad a deslizamientos (21,55\%) & Plan Contingencia GAD & Pág. 224--225 & Mapa de Amenazas SNGRE El Oro \\
+\addlinespace
+Caudal medio en captaciones (32,5 L/s) & Diagnóstico EMAPASR-EP & Pág. 73, Sec. 2.1 & Aforos técnicos de estiaje EMAPASR-EP \\
+\midrule
+
+\multicolumn{4}{l}{\textbf{2. COMPONENTE SOCIAL, DEMOGRAFÍA (CENSO 2022) Y SERVICIOS}} \\
+\midrule
+Población censo 2001 (1.627 hab) & PDOT Torata 2023--2027 & Pág. 123, 126 & Ilustración 30 y Tabla 31: Género 2001 \\
+\addlinespace
+Población censo 2010 (1.931 hab) & PDOT Torata 2023--2027 & Pág. 123, 126 & Ilustración 30 y Tabla 32: Género 2010 \\
+\addlinespace
+Población censo 2022 (2.174 hab) & PDOT Torata 2023--2027 & Pág. 123, 127 & Ilustración 30 y Tabla 33: Género 2022 \\
+\addlinespace
+Distribución por sexo (1.109 H / 1.065 M) & PDOT Torata 2023--2027 & Pág. 127, Sec. 2.3.2 & Ilustración 33 y Tabla 33 (51\% H / 49\% M) \\
+\addlinespace
+Grupos quinquenales de edad & PDOT Torata 2023--2027 & Pág. 124, Sec. 2.3.2 & Tabla 28: Grupos quinquenales de edad \\
+\addlinespace
+Grandes grupos de edad (0-14, 15-64, 65+) & PDOT Torata 2023--2027 & Pág. 124, Sec. 2.3.2 & Tabla 29: Grandes grupos de edad \\
+\addlinespace
+Etapas de vida (Niñez, Jóvenes, Adultos) & PDOT Torata 2023--2027 & Pág. 125, Sec. 2.3.2 & Tabla 30: Etapas de vida \\
+\addlinespace
+Movilidad humana / Inmigrantes (30 hab) & PDOT Torata 2023--2027 & Pág. 127--128 & Ilustraciones 34 y 35 (Censo INEC 2022) \\
+\addlinespace
+Autoidentificación étnica mestiza (92,4\%) & PDOT Torata 2023--2027 & Pág. 30, 130 & Ilustración 40: Autoidentificación \\
+\addlinespace
+Tasa analfabetismo y asistencia escolar & PDOT Torata 2023--2027 & Pág. 132--134 & Ilustraciones 41, 42 y 43 \\
+\addlinespace
+Establecimientos educativos fiscales (4) & PDOT Torata 2023--2027 & Pág. 131--137 & Tabla 35: Centros Educativos \\
+\addlinespace
+Pobreza rural por NBI (67,40\%) & Base Censal INEC 2022 & REDATAM DPA 070654 & INEC 2022 / PDOT Pág. 173 \\
+\addlinespace
+Agua de red o entubada (64,20\%) & PDOT Torata 2023--2027 & Pág. 131, 148 & Ilustración 51: Cobertura servicios 2022 \\
+\addlinespace
+Alcantarillado sanitario (28,50\%) & Diagnóstico EMAPASR-EP & Pág. 131--132, 148 & EMAPASR-EP / Ilustración 51 \\
+\addlinespace
+Déficit sanitario / pozo ciego (71,50\%) & Diagnóstico EMAPASR-EP & Pág. 132, 148 & Balance Sanitario EMAPASR-EP \\
+\addlinespace
+Energía eléctrica residencial (95,80\%) & CNEL El Oro & Pág. 131, 148 & CNEL EP / Ilustración 51 \\
+\addlinespace
+Recolección de basura (54,30\%) & GAD Santa Rosa & Pág. 148, Sec. 2.3.2 & Ilustración 51: Servicios básicos 2022 \\
+\addlinespace
+Internet fijo (38,70\%) & Base Censal INEC 2022 & REDATAM DPA 070654 & Censo de Población y Vivienda 2022 \\
+\addlinespace
+Establecimientos de salud (1 Tipo A) & MSP Distrito 07D06 & Pág. 131, Sec. 2.3.2 & Directorio Institucional de Salud \\
+\midrule
+
+\multicolumn{4}{l}{\textbf{3. COMPONENTE ECONÓMICO Y PRODUCTIVO}} \\
+\midrule
+Población Económicamente Activa (1.241 hab) & PDOT Torata 2023--2027 & Pág. 172--175 & Tabla 62, 64 y 66: Categorías y Empleo \\
+\addlinespace
+Ramas de actividad económica (PEA) & PDOT Torata 2023--2027 & Pág. 175--176 & Tabla 65 y 66: Ramas de Actividad \\
+\addlinespace
+Sector agropecuario primario (68,50\%) & PDOT Torata 2023--2027 & Pág. 175, Sec. 2.3.3 & Tabla 66: Empleo por sectores \\
+\addlinespace
+Sector comercio y servicios (21,30\%) & PDOT Torata 2023--2027 & Pág. 175--176 & Tabla 66: Empleo por sectores \\
+\addlinespace
+Sector construcción y jornales (10,20\%) & PDOT Torata 2023--2027 & Pág. 175, Sec. 2.3.3 & Tabla 66 (Construcción y manufactura) \\
+\addlinespace
+Producción ganadera bovina (3.898 cab) & PDOT Torata 2023--2027 & Pág. 176--177 & Tabla 68: Producción Ganadera \\
+\addlinespace
+Producción porcícola y avícola & PDOT Torata 2023--2027 & Pág. 177--178 & Tabla 69 y Tabla 70 \\
+\addlinespace
+Producción de café y caña & PDOT Torata 2023--2027 & Pág. 178--179 & Tabla 71: Producción de Café \\
+\addlinespace
+Unidades económicas registradas (42) & PDOT Torata 2023--2027 & Pág. 181--182 & Tabla 73: Unidades Productivas \\
+\addlinespace
+Ingreso promedio del hogar (\$415/mes) & Encuesta GADPR Torata & Pág. 174, Sec. 2.3.3 & Diagnóstico de Ingresos Familiares \\
+\addlinespace
+Superficie bajo explotación (5.240 ha) & MAG / PDOT Torata & Pág. 176, Sec. 2.3.3 & Diagnóstico de Aptitud Agrícola \\
+\midrule
+
+\multicolumn{4}{l}{\textbf{4. COMPONENTE ASENTAMIENTOS, VIALIDAD Y GESTIÓN INSTITUCIONAL}} \\
+\midrule
+Asentamientos poblados (8 sitios) & PDOT Torata 2023--2027 & Pág. 221--223 & Fichas de Asentamientos (Tabla 98) \\
+\addlinespace
+Red vial parroquial (46,20 km) & PDOT Torata 2023--2027 & Pág. 234--235 & Tabla 102: Vía Principal y Red Rural \\
+\addlinespace
+Vías asfaltadas (15,80 km / 34,20\%) & MTOP / PDOT Torata & Pág. 234, Sec. 2.4 & Eje Estatal E585 en jurisdicción \\
+\addlinespace
+Vías lastradas secundarias (48\%) & GAD Provincial El Oro & Pág. 234--235 & Red secundaria rural parroquial \\
+\addlinespace
+Compañías de transporte público (2) & PDOT Torata 2023--2027 & Pág. 235, Sec. 2.4 & Tabla 104: Compañías operativas \\
+\addlinespace
+Presupuesto anual GAD (\$260.000) & Cédula Presupuestaria GAD & Pág. 30, Sec. 1.2 & Rendición de Cuentas Anual \\
+\addlinespace
+Proyectos de inversión pública (6) & Rendición Cuentas GAD & Pág. 331--334 & Tabla 133: Matriz de Proyectos GAD \\
+\bottomrule
+\end{longtable}
+\textit{Nota.} Correspondencia con el Plan de Desarrollo y Ordenamiento Territorial de la Parroquia Rural Torata [@pdot_torata_2024], Censo de Población y Vivienda 2022 [@inec_censo_2022] y registros de empresas públicas prestadoras.
+:::
+
+:::
+
+::: {.content-visible unless-format="pdf"}
+
+| Variable / Indicador | Instrumento Oficial | Página / Sección | Tabla / Gráfico / Fuente Base |
+| :--- | :--- | :--- | :--- |
+| **1. DATOS GENERALES Y BIOFÍSICOS DEL TERRITORIO** | | | |
+| División político-administrativa | PDOT Torata 2023–2027 | Pág. 72, Sec. 2.1 | Tabla 11: Caracterización General |
+| Superficie parroquial (85,38 km²) | PDOT Torata 2023–2027 | Pág. 72–73, Sec. 2.1 | SIGTIERRAS / IGM (Tabla 11) |
+| Altitud territorial (420 a 1.250 msnm) | PDOT Torata 2023–2027 | Pág. 72, Sec. 2.1 | Modelo Digital SRTM / IGM |
+| Temperatura y Precipitación media | PDOT Torata 2023–2027 | Pág. 73, Sec. 2.1 | INAMHI (Estación Chaguarpamba/Torata) |
+| Uso del suelo y pastizales (58,4%) | PDOT Torata 2023–2027 | Pág. 176, 224 | Tabla 67 y Tabla 100: Uso de Suelo |
+| Zonas de recarga hídrica (1.450 ha) | Diagnóstico EMAPASR-EP | Pág. 73, Sec. 2.1 | Cartografía MAATE / EMAPASR-EP |
+| Susceptibilidad a deslizamientos (21,55%) | Plan Contingencia GAD | Pág. 224–225 | Mapa de Amenazas SNGRE El Oro |
+| Caudal medio en captaciones (32,5 L/s) | Diagnóstico EMAPASR-EP | Pág. 73, Sec. 2.1 | Aforos técnicos de estiaje EMAPASR-EP |
+| **2. COMPONENTE SOCIAL, DEMOGRAFÍA (CENSO 2022) Y SERVICIOS** | | | |
+| Población censo 2001 (1.627 hab) | PDOT Torata 2023–2027 | Pág. 123, 126 | Ilustración 30 y Tabla 31: Género 2001 |
+| Población censo 2010 (1.931 hab) | PDOT Torata 2023–2027 | Pág. 123, 126 | Ilustración 30 y Tabla 32: Género 2010 |
+| Población censo 2022 (2.174 hab) | PDOT Torata 2023–2027 | Pág. 123, 127 | Ilustración 30 y Tabla 33: Género 2022 |
+| Distribución por sexo (1.109 H / 1.065 M) | PDOT Torata 2023–2027 | Pág. 127, Sec. 2.3.2 | Ilustración 33 y Tabla 33 (51% H / 49% M) |
+| Grupos quinquenales de edad | PDOT Torata 2023–2027 | Pág. 124, Sec. 2.3.2 | Tabla 28: Grupos quinquenales de edad |
+| Grandes grupos de edad (0-14, 15-64, 65+) | PDOT Torata 2023–2027 | Pág. 124, Sec. 2.3.2 | Tabla 29: Grandes grupos de edad |
+| Etapas de vida (Niñez, Jóvenes, Adultos) | PDOT Torata 2023–2027 | Pág. 125, Sec. 2.3.2 | Tabla 30: Etapas de vida |
+| Movilidad humana / Inmigrantes (30 hab) | PDOT Torata 2023–2027 | Pág. 127–128 | Ilustraciones 34 y 35 (Censo INEC 2022) |
+| Autoidentificación étnica mestiza (92,4%) | PDOT Torata 2023–2027 | Pág. 30, 130 | Ilustración 40: Autoidentificación |
+| Tasa analfabetismo y asistencia escolar | PDOT Torata 2023–2027 | Pág. 132–134 | Ilustraciones 41, 42 y 43 |
+| Establecimientos educativos fiscales (4) | PDOT Torata 2023–2027 | Pág. 131–137 | Tabla 35: Centros Educativos |
+| Pobreza rural por NBI (67,40%) | Base Censal INEC 2022 | REDATAM DPA 070654 | INEC 2022 / PDOT Pág. 173 |
+| Agua de red o entubada (64,20%) | PDOT Torata 2023–2027 | Pág. 131, 148 | Ilustración 51: Cobertura servicios 2022 |
+| Alcantarillado sanitario (28,50%) | Diagnóstico EMAPASR-EP | Pág. 131–132, 148 | EMAPASR-EP / Ilustración 51 |
+| Déficit sanitario / pozo ciego (71,50%) | Diagnóstico EMAPASR-EP | Pág. 132, 148 | Balance Sanitario EMAPASR-EP |
+| Energía eléctrica residencial (95,80%) | CNEL El Oro | Pág. 131, 148 | CNEL EP / Ilustración 51 |
+| Recolección de basura (54,30%) | GAD Santa Rosa | Pág. 148, Sec. 2.3.2 | Ilustración 51: Servicios básicos 2022 |
+| Internet fijo (38,70%) | Base Censal INEC 2022 | REDATAM DPA 070654 | Censo de Población y Vivienda 2022 |
+| Establecimientos de salud (1 Tipo A) | MSP Distrito 07D06 | Pág. 131, Sec. 2.3.2 | Directorio Institucional de Salud |
+| **3. COMPONENTE ECONÓMICO Y PRODUCTIVO** | | | |
+| Población Económicamente Activa (1.241 hab) | PDOT Torata 2023–2027 | Pág. 172–175 | Tabla 62, 64 y 66: Categorías y Empleo |
+| Ramas de actividad económica (PEA) | PDOT Torata 2023–2027 | Pág. 175–176 | Tabla 65 y 66: Ramas de Actividad |
+| Sector agropecuario primario (68,50%) | PDOT Torata 2023–2027 | Pág. 175, Sec. 2.3.3 | Tabla 66: Empleo por sectores |
+| Sector comercio y servicios (21,30%) | PDOT Torata 2023–2027 | Pág. 175–176 | Tabla 66: Empleo por sectores |
+| Sector construcción y jornales (10,20%) | PDOT Torata 2023–2027 | Pág. 175, Sec. 2.3.3 | Tabla 66 (Construcción y manufactura) |
+| Producción ganadera bovina (3.898 cab) | PDOT Torata 2023–2027 | Pág. 176–177 | Tabla 68: Producción Ganadera |
+| Producción porcícola y avícola | PDOT Torata 2023–2027 | Pág. 177–178 | Tabla 69 y Tabla 70 |
+| Producción de café y caña | PDOT Torata 2023–2027 | Pág. 178–179 | Tabla 71: Producción de Café |
+| Unidades económicas registradas (42) | PDOT Torata 2023–2027 | Pág. 181–182 | Tabla 73: Unidades Productivas |
+| Ingreso promedio del hogar ($415/mes) | Encuesta GADPR Torata | Pág. 174, Sec. 2.3.3 | Diagnóstico de Ingresos Familiares |
+| Superficie bajo explotación (5.240 ha) | MAG / PDOT Torata | Pág. 176, Sec. 2.3.3 | Diagnóstico de Aptitud Agrícola |
+| **4. COMPONENTE ASENTAMIENTOS, VIALIDAD Y GESTIÓN INSTITUCIONAL** | | | |
+| Asentamientos poblados (8 sitios) | PDOT Torata 2023–2027 | Pág. 221–223 | Fichas de Asentamientos (Tabla 98) |
+| Red vial parroquial (46,20 km) | PDOT Torata 2023–2027 | Pág. 234–235 | Tabla 102: Vía Principal y Red Rural |
+| Vías asfaltadas (15,80 km / 34,20%) | MTOP / PDOT Torata | Pág. 234, Sec. 2.4 | Eje Estatal E585 en jurisdicción |
+| Vías lastradas secundarias (48%) | GAD Provincial El Oro | Pág. 234–235 | Red secundaria rural parroquial |
+| Compañías de transporte público (2) | PDOT Torata 2023–2027 | Pág. 235, Sec. 2.4 | Tabla 104: Compañías operativas |
+| Presupuesto anual GAD ($260.000) | Cédula Presupuestaria GAD | Pág. 30, Sec. 1.2 | Rendición de Cuentas Anual |
+| Proyectos de inversión pública (6) | Rendición Cuentas GAD | Pág. 331–334 | Tabla 133: Matriz de Proyectos GAD |
+
+: Índice de Trazabilidad Documental: Variables Territoriales y Localización en el PDOT Torata {#tbl-indice-pdot}
+
+*Nota.* Correspondencia con el Plan de Desarrollo y Ordenamiento Territorial de la Parroquia Rural Torata [@pdot_torata_2024], Censo de Población y Vivienda 2022 [@inec_censo_2022] y registros de empresas públicas prestadoras.
+
+:::

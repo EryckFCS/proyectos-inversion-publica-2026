@@ -1,0 +1,101 @@
+# Anexos: Memorias de Cálculo, Proyecciones Demográficas y Cartera de Inversiones {#sec-anexos}
+
+## Anexo 1: Metodología y Fórmulas Demográficas con Base Censal INEC 2022 {#sec-anexo-calculos}
+
+### 1. Densidad Poblacional Oficial (25,46 hab/km²)
+A partir de la superficie catastral y física de la parroquia Torata de $85,38\text{ km}^2$ ($8.538,00\text{ ha}$) verificada por el Instituto Geográfico Militar (IGM) y SIGTIERRAS, contrastada con la población empadronada en el **VIII Censo de Población y VII de Vivienda 2022 del INEC** ($P_{2022} = 2.174\text{ habitantes}$):
+\begin{equation}
+\text{Densidad Poblacional}_{2022} = \frac{2.174\text{ habitantes}}{85,38\text{ km}^2} = 25,46\text{ hab/km}^2
+\end{equation}
+
+### 2. Modelo Geométrico de Proyección Demográfica
+Tomando como punto de partida exclusivo la **base de datos del Censo de Población INEC 2022** ($P_0 = 2.174\text{ habitantes}$) y la tasa oficial de crecimiento intercensal de la Parroquia Torata validada en el PDOT 2023--2027 ($r = +0,94\%$ anual, equivalente a $r = 0,0094$), el modelo exponencial discreto adoptado institucionalmente por Planifica Ecuador se formula como:
+\begin{equation}
+P_t = P_{2022} \cdot (1 + r)^t = 2.174 \cdot (1 + 0,0094)^t
+\end{equation}
+donde $t$ representa el número de años transcurridos desde el censo base 2022 ($t = \text{Año} - 2022$).
+
+### 3. Estimación de Hogares y Demanda de Movilidad Rural
+Conforme a la estructura demográfica del Censo 2022, el tamaño promedio familiar en la parroquia Torata es de 3,6 miembros por hogar, y la tasa de generación de viajes rurales de intercambio y comercio agropecuario hacia la cabecera cantonal de Santa Rosa se estima en 0,20 viajes/habitante/día:
+\begin{align}
+\text{Hogares}_t &= \frac{P_t}{3,6} \\
+\text{Viajes Diarios}_t &= P_t \times 0,20
+\end{align}
+
+\newpage
+
+## Anexo 2: Proyecciones Demográficas (2022--2042) {#sec-anexo-proyecciones}
+
+::: {#tbl-proyecciones-demograficas}
+| Periodo / Año | Horizonte ($t$) | Población Proyectada ($P_t$) | Hogares Estimados | Demanda de Movilidad Rural (Viajes/día) |
+| :--- | :--- | :--- | :--- | :--- |
+| **2022 (Línea Base Censal INEC)** | $t = 0$ | **2.174 hab** | 604 hogares | 435 viajes/día |
+| **2024 (Diagnóstico en Territorio)** | $t = 2$ | **2.215 hab** | 615 hogares | 443 viajes/día |
+| **2026 (Año Base Inversión)** | $t = 4$ | **2.257 hab** | 627 hogares | 451 viajes/día |
+| **2028 (Operación Temprana)** | $t = 6$ | **2.300 hab** | 639 hogares | 460 viajes/día |
+| **2030 (Consolidación)** | $t = 8$ | **2.343 hab** | 651 hogares | 469 viajes/día |
+| **2032 (Horizonte 10 años)** | $t = 10$ | **2.388 hab** | 663 hogares | 478 viajes/día |
+| **2034** | $t = 12$ | **2.433 hab** | 676 hogares | 487 viajes/día |
+| **2036** | $t = 14$ | **2.479 hab** | 689 hogares | 496 viajes/día |
+| **2038** | $t = 16$ | **2.526 hab** | 702 hogares | 505 viajes/día |
+| **2040** | $t = 18$ | **2.574 hab** | 715 hogares | 515 viajes/día |
+| **2042 (Horizonte 20 años)** | $t = 20$ | **2.622 hab** | 728 hogares | 524 viajes/día |
+
+: Proyección Demográfica y Demanda de Tráfico Rural en Torata con Base en el Censo INEC 2022 {#tbl-proyecciones-demograficas}
+:::
+
+\vspace{0.4cm}
+
+::: {#fig-proyeccion-demografica}
+![](asset/grafico_proyeccion_demografica_stata.png){width=95%}
+
+Proyección Demográfica de la Parroquia Rural Torata (2022--2042) con base en el Censo INEC 2022.
+:::
+
+\newpage
+
+## Anexo 3: Diagnóstico Gráfico de Servicios Básicos y Estructura Laboral {#sec-anexo-graficos}
+
+::: {#fig-cobertura-servicios}
+![](asset/grafico_cobertura_servicios_stata.png){width=95%}
+
+Cobertura de Servicios Básicos y Brechas de Saneamiento en Hogares de Torata (Censo INEC 2022).
+:::
+
+\vspace{0.5cm}
+
+::: {#fig-pea-sectores}
+![](asset/grafico_pea_sectores_stata.png){width=95%}
+
+Distribución Sectorial de la Población Económicamente Activa (PEA) en la Parroquia Torata.
+:::
+
+\newpage
+
+## Anexo 4: Ficha Institucional de Contraparte Territorial {#sec-anexo-ficha-contraparte}
+
+| Variable / Dimensión | Registro Institucional Oficial | Observación / Fuente de Verificación |
+| :--- | :--- | :--- |
+| **Entidad Territorial** | GAD Parroquial Rural de Torata | Sede: Centro Parroquial Torata, Calle Principal y 10 de Agosto |
+| **Presidente del GADPR** | Abg. Rolando Patricio Torres Román | Periodo Constitucional de Gestión 2023--2027 |
+| **Jurisdicción Cantonal** | Cantón Santa Rosa, Provincia de El Oro | Código Territorial INEC: DPA 070654 |
+| **Intervención Priorizada** | Puente vehicular sobre el Río Santa Rosa | Conexión estratégica entre los sectores El Guayabo y La Chilca |
+| **Población Beneficiaria Directa** | 340 familias campesinas y productoras | Comunidades El Guayabo, La Chilca, Sabayán y El Playón |
+| **Instrumento Territorial Vigente** | PDOT Parroquial Torata 2023--2027 | Aprobado mediante Resolución GADPR-T-014-2024 |
+| **Presupuesto Institucional GAD** | \$245.000,00 a \$280.000,00 USD/año | Cédula presupuestaria oficial de ingresos y transferencias |
+
+: Ficha Resumen de la Contraparte Territorial - GAD Parroquial Rural de Torata {#tbl-ficha-contraparte}
+
+\newpage
+
+## Anexo 5: Cartera de Proyectos Públicos e Inversiones en Torata (2023--2026) {#sec-anexo-cartera}
+
+| Nombre de la Intervención | Entidad Financiadora / Ejecutora | Estado de Avance | Componente / Impacto Territorial |
+| :--- | :--- | :--- | :--- |
+| **Construcción del Puente Vehicular sobre el Río Santa Rosa (El Guayabo -- La Chilca)** | Prefectura de El Oro en concurrencia con GAD Municipal Santa Rosa y GADPR Torata | **En formulación / Prioridad 1** | **Conectividad Vial:** Garantiza paso seguro los 365 días del año para 340 familias y el transporte de 3.500 litros de leche diarios. |
+| **Mantenimiento y Bacheo Tecnificado del Eje Vial E585 Torata -- Santa Rosa** | Ministerio de Transporte y Obras Públicas (MTOP) / Prefectura de El Oro | **Activo / Rutinario (2024--2025)** | **Transporte Interparroquial:** Conservación del corredor asfaltado principal de salida hacia la Troncal de la Costa. |
+| **Rehabilitación de Redes de Agua Entubada y Captaciones en Microcuenca** | EMAPASR-EP y GAD Parroquial Rural de Torata | **Ejecutado parcial (2023--2024)** | **Saneamiento Básico:** Protección de tomas de captación frente a crecidas y deslizamientos invernales. |
+| **Construcción de Muros de Escollera y Gaviones en Márgenes Fluviales Críticos** | GAD Municipal de Santa Rosa / SNGRE | **En ejecución (2024)** | **Gestión de Riesgos:** Mitigación de socavaciones en riberas del río Santa Rosa. |
+| **Mantenimiento Periódico de Caminos Vecinales de Verano y Herradura** | GAD Parroquial Torata con maquinaria de Prefectura de El Oro | **Permanente (POA anual)** | **Fomento Productivo:** Acceso a fincas ganaderas en Bellamaría Alta, La Chonta y La Pereira. |
+
+: Cartera de Inversiones Públicas y Obras Estratégicas en la Parroquia Torata {#tbl-cartera-inversiones-torata}

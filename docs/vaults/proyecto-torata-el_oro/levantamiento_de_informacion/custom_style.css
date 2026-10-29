@@ -1,0 +1,85 @@
+/* Estilo Institucional UNL - Proyectos de Inversión Pública */
+:root {
+  --unl-blue: #1B365D;
+  --unl-gold: #C5A059;
+  --unl-light-bg: #F8FAFC;
+  --unl-border: #E2E8F0;
+  --unl-text: #1E293B;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--unl-text);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--unl-blue);
+  font-weight: 700;
+}
+
+h1.title {
+  color: var(--unl-blue);
+  font-size: 1.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 3px solid var(--unl-gold);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: #475569;
+  font-size: 1.15rem;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+/* Tablas Institucionales */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin: 1.5rem 0 !important;
+  font-size: 0.92rem !important;
+}
+
+table thead th {
+  background-color: var(--unl-blue) !important;
+  color: #FFFFFF !important;
+  font-weight: 600 !important;
+  text-align: left !important;
+  padding: 10px 12px !important;
+  border: 1px solid var(--unl-blue) !important;
+}
+
+table tbody td {
+  padding: 8px 12px !important;
+  border-bottom: 1px solid var(--unl-border) !important;
+  border-top: 1px solid var(--unl-border) !important;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: var(--unl-light-bg) !important;
+}
+
+table tbody tr:hover {
+  background-color: #EDF2F7 !important;
+}
+
+caption, .caption {
+  color: var(--unl-blue) !important;
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  text-align: left !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Callouts y bloques destacados */
+.callout {
+  border-left-width: 4px !important;
+  border-radius: 4px !important;
+}
+
+.callout-note {
+  border-left-color: var(--unl-blue) !important;
+}

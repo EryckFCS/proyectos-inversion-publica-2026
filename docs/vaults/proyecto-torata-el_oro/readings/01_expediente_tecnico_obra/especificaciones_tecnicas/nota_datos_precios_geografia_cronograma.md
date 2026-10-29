@@ -1,0 +1,1 @@
+los datos recien añadidos, como lo son los precios, el autrocad, y especificaciones del playon estan desactualizadas, au asi, necesito que los saniticemos para usarla como informacion complementaria para nuestro proyecto y la definicion clara del arbol de problemas en cuestion

@@ -2,11 +2,11 @@
 
 ## Tipo de solicitud de dictamen
 
-Prioridad. La solicitud asegura la incorporación y elegibilidad técnica del proyecto en la programación de inversión pública provincial y cantonal para el cierre de brechas de conectividad vial rural, reducción de costos de transporte agropecuario y mitigación del aislamiento estacional de los productores en la cuenca del río Carne Amarga, en concordancia con los lineamientos de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
+Prioridad. La solicitud asegura la incorporación y elegibilidad técnica del proyecto en la programación de inversión pública provincial y cantonal para el cierre de brechas de conectividad vial rural, reducción de costos de transporte agropecuario y mitigación del aislamiento estacional de los productores en la cuenca del río Santa Rosa, en concordancia con los lineamientos de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública de Planifica Ecuador @guia_planifica2021 y el Código Orgánico de Planificación y Finanzas Públicas @coopfip2010.
 
 ## Nombre del Proyecto
 
-Construcción del puente vehicular sobre el río Carne Amarga y mejoramiento de los accesos viales en el sector El Guayabo - La Chilca, parroquia rural Torata, cantón Santa Rosa, provincia de El Oro.
+Construcción del puente vehicular sobre el río Santa Rosa y mejoramiento de los accesos viales en el sector El Guayabo - La Chilca, parroquia rural Torata, cantón Santa Rosa, provincia de El Oro.
 
 ## Entidad (UDAF)
 
@@ -14,29 +14,44 @@ Gobierno Autónomo Descentralizado Provincial de El Oro (Prefectura de El Oro), 
 
 ## Entidad Operativa Desconcentrada (EOD)
 
-Dirección de Obras Públicas y Vialidad del GAD Provincial de El Oro, en articulación técnica con la Dirección de Obras Públicas del GAD Municipal de Santa Rosa y la Unidad Técnica del GADPR Torata.
+No aplica
 
 ## Gabinete Sectorial
 
-Gabinete Sectorial de Desarrollo Productivo e Infraestructura.
+De conformidad con el Decreto Ejecutivo Nro. 491 @decreto_ejecutivo_491 y el Decreto Ejecutivo Nro. 91 @decreto_ejecutivo_91 que norman la organización y funcionamiento de las instancias de coordinación intersectorial de la Función Ejecutiva, el presente proyecto se articula al **Gabinete Sectorial de Desarrollo Productivo**, instancia encargada de armonizar las políticas públicas, inversiones e infraestructura vial de soporte para el fomento de la producción y el transporte en el país.
 
 ## Sector, subsector y tipo de inversión
 
-De acuerdo con el clasificador oficial de intervenciones de la Secretaría Nacional de Planificación (Planifica Ecuador) @guia_planifica2021:
+De acuerdo al Anexo 1 de la *Guía General para la Presentación de Programas y Proyectos de Inversión Pública* @guia_planifica2021 y a las directrices de clasificación sectorial vigentes, el sector y subsector al que pertenece el proyecto es conforme @tbl-sectores.
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-sectores}
 \fontsize{9.5}{11.5}\selectfont
-\begin{longtable}{@{}p{0.30\linewidth}p{0.25\linewidth}p{0.12\linewidth}p{0.33\linewidth}@{}}
+\begin{longtable}{@{}p{0.28\linewidth}p{0.25\linewidth}p{0.14\linewidth}p{0.33\linewidth}@{}}
 \caption{Sectores y subsectores de intervención definidos} \label{tbl-sectores} \\
 \toprule
 \textbf{Macro sector} & \textbf{Sector} & \textbf{Código} & \textbf{Subsector} \\
 \midrule
-Infraestructura y Conectividad & Transporte y Vialidad & 10.01 & Red Vial Rural, Puentes y Pasos de Agua \\
+Fomento a la Producción & Vialidad y Transporte & C1305 & Transporte Terrestre \\
 \bottomrule
 \end{longtable}
-\fuente{Catálogo de Clasificación Sectorial de Inversión Pública - Planifica Ecuador.}
+\fuente{Catálogo de Clasificación Sectorial de Inversión Pública (Anexo 1) de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador, 2021).}
+:::
 :::
 
+::: {.content-visible unless-format="pdf"}
+| Macro sector | Sector | Código | Subsector |
+| :--- | :--- | :---: | :--- |
+| Fomento a la Producción | Vialidad y Transporte | C1305 | Transporte Terrestre |
+
+: Sectores y subsectores de intervención definidos {#tbl-sectores}
+
+*Nota.* Catálogo de Clasificación Sectorial de Inversión Pública (Anexo 1) de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador, 2021).
+:::
+
+Conforme al Anexo 2 de la *Guía General para la Presentación de Programas y Proyectos de Inversión Pública* @guia_planifica2021, la tipología de intervención del proyecto es conforme @tbl-tipologias.
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-tipologias}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.10\linewidth}p{0.25\linewidth}p{0.35\linewidth}p{0.30\linewidth}@{}}
@@ -44,18 +59,36 @@ Infraestructura y Conectividad & Transporte y Vialidad & 10.01 & Red Vial Rural,
 \toprule
 \textbf{Cód.} & \textbf{Tipología} & \textbf{Conceptualización} & \textbf{Actividades relacionadas} \\
 \midrule
-T01 & Infraestructura / Obra Pública & Construcción de estribos de hormigón armado, montaje de estructura metálica tipo Bailey y obras de drenaje vial. & Ensayos geotécnicos y estudios de suelos, cimentaciones profundas, colocación de tablero y accesos. \\
-\addlinespace
-T03 & Desarrollo de Capacidades & Gestión vial comunitaria, conformación de comités de mantenimiento rutinario y seguridad vial rural. & Talleres con asociaciones de ganaderos y productores de cacao/café sobre conservación de accesos. \\
+T01 & Infraestructura & Son todos aquellos procesos
+encaminados a la adquisición,
+construcción, ampliación,
+mantenimiento, reparación, reposición,
+restauración de acervo físico que
+permitirá la prestación de servicios.
+Generalmente relacionadas con:
+carreteras, ferrocarriles, puentes,represas, alcantarillado, vivienda hospitales, centros educativos,suministro de energía y agua potable,
+etc.
+ & Construcción de estribos de hormigón armado, montaje de superestructura metálica modular y obras de drenaje vial y accesos. \\
 \bottomrule
 \end{longtable}
-\fuente{Guía General para la Presentación de Programas y Proyectos de Inversión Pública.}
+\fuente{Catálogo de Tipologías de Intervención (Anexo 2) de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Cód. | Tipología | Conceptualización | Actividades relacionadas |
+| :---: | :--- | :--- | :--- |
+| T01 | Infraestructura | Son todos aquellos procesos encaminados a la adquisición, construcción, ampliación, mantenimiento, reparación, reposición, restauración de acervo físico que permitirá la prestación de servicios. Generalmente relacionadas con: carreteras, ferrocarriles, puentes, represas, alcantarillado, vivienda, hospitales, centros educativos, suministro de energía y agua potable, etc. | Construcción de estribos de hormigón armado, montaje de superestructura metálica modular y obras de drenaje vial y accesos. |
+
+: Tipologías de intervención definidas {#tbl-tipologias}
+
+*Nota.* Catálogo de Tipologías de Intervención (Anexo 2) de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública.
 :::
 
 ## Plazo de ejecución
 
-10 meses calendario (distribuidos en 2 meses de cierre de estudios geotécnicos y permisos ambientales, 7 meses de ejecución constructiva de estribos, montaje estructural y accesos, y 1 mes de pruebas de carga, señalización y entrega-recepción formal).
+120 días calendario (4 meses, distribuidos en 30 días para obras preliminares, excavaciones iniciales y señalización; 30 días para cimentaciones de hormigón armado y acopio de acero; 30 días para fabricación y premontaje de la estructura metálica; y 30 días para montaje definitivo de vigas, tablero, pintura protectora y mitigación ambiental).
 
 ## Monto total
 
-$180.000,00 USD (Ciento ochenta mil dólares de los Estados Unidos de América). Este monto integra los estudios de mecánica de suelos y geotecnia contratados en cooperación con el GAD Municipal de Santa Rosa ($15.000,00 USD), la construcción de estribos de hormigón y gaviones de protección ($65.000,00 USD), la provisión, traslado y montaje de la superestructura metálica de celosía tipo Bailey ($80.000,00 USD) aportada por la Prefectura de El Oro, y las obras de terraplén, ensanche de accesos y fiscalización ($20.000,00 USD), articulados mediante convenio tripartito formal.
+$380.274,58 USD (Trescientos ochenta mil doscientos setenta y cuatro dólares con 58/100 de los Estados Unidos de América). Este monto integra el subtotal de costo directo e indirecto de obra civil por $330.673,55 USD y el 15% del Impuesto al Valor Agregado (IVA) correspondiente a $49.601,03 USD, desglosado en obras preliminares ($3.827,74 USD), infraestructura y superestructura de acero estructural ASTM A-588 ($324.069,22 USD) y medidas de mitigación de impactos ambientales ($2.776,59 USD).

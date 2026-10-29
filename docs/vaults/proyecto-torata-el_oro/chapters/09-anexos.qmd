@@ -1,179 +1,214 @@
 # Anexos
 
-## Anexo 1: Árbol de problemas del proyecto
+## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda
 
-La estructura causal del diagnóstico participativo y territorial de la parroquia Torata se modela vectorialmente mediante la metodología de análisis de causas y efectos (Figura \ref{fig-arbol-problemas-torata}).
+Conforme a la normativa ambiental vigente y al Sistema Único de Información Ambiental (SUIA) del Ministerio del Ambiente, Agua y Transición Ecológica (MAATE):
 
-\begin{figure}[H]
-\centering
+* **Certificado Ambiental de Intervención Vial Rural:** El proyecto se categoriza dentro del Catálogo de Actividades del MAATE como obra de mejoramiento y reposición de infraestructura de conectividad rural de bajo impacto (Categoría II), contando con el Certificado y Guía de Buenas Prácticas Ambientales correspondiente.
+* **Permiso de Afectación de Cauces e Implantación Fluvial:** Autorización administrativa de la Dirección Zonal del MAATE y de la Secretaría del Agua para la ocupación del dominio hídrico en la cuenca alta del río Santa Rosa durante los meses de estiaje para la construcción de estribos y muros de gaviones.
+* **Acuerdos Comunitarios de Servidumbre y Fajas de Terreno:** Actas notariales y acuerdos de cesión voluntaria suscritos con los propietarios ribereños de los sitios El Guayabo y La Chilca para garantizar el derecho de vía de 12 metros y los terraplenes de acceso sin litigios prediales.
+
+## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras
+
+El expediente de preinversión e inversión pública cuenta con las certificaciones y respaldos institucionales correspondientes:
+
+* **Certificación Técnica de Viabilidad Vial y de Ingeniería:** Emitida por la Dirección de Estudios, Proyectos y Cooperación del GAD Provincial de El Oro, avalando el diseño de estribos en hormigón simple ($f'c = 240\text{ kg/cm}^2$), acero de refuerzo ($fy = 4.200\text{ kg/cm}^2$), superestructura de acero estructural ASTM A-588 y las especificaciones de carga vehicular AASHTO HS-20.
+* **Certificación Presupuestaria Plurianual:** Certificación de disponibilidad de fondos y partida de inversión pública plurianual emitida por la Dirección Financiera del GAD Provincial de El Oro por \$310.274,58 USD (Fuente 001 - Recursos Fiscales / Prefectura).
+* **Certificación de Concurrencia Municipal:** Dictamen financiero y administrativo del GAD Municipal de Santa Rosa por \$45.000,00 USD bajo Convenio de Concurrencia Interinstitucional (Art. 55 COOTAD).
+* **Certificación de Contraparte Parroquial:** Asignación presupuestaria y minga comunitaria del GADPR Torata por \$25.000,00 USD (Fuente 002 - Recursos Fiscales Parroquiales y Aporte Comunitario).
+* **Certificación SERCOP de Inexistencia de Catálogo Electrónico:** Constancia de pertinencia para la contratación de obra pública y servicios de consultoría bajo procedimientos de Régimen Común (Cotización / Menor Cuantía) según la LOSNCP.
+
+### Anexo Complementario 1: Árbol de problemas del proyecto
+
+La estructura causal del diagnóstico participativo y territorial de la parroquia Torata se modela vectorialmente mediante la metodología de análisis de causas y efectos (@fig-arbol-problemas-torata).
+
+::: {.content-visible when-format="pdf"}
+::: {#fig-arbol-problemas-torata}
+\definecolor{ticnavy}{HTML}{1C3144}
 \begin{tikzpicture}[
-  node distance=0.7cm and 0.2cm,
   box/.style={
-    draw=blue!60, 
-    fill=blue!10, 
+    draw=ticnavy, 
+    fill=white, 
     rectangle, 
-    rounded corners=3pt,
-    text width=3.4cm, 
+    line width=1.1pt,
+    text width=3.2cm, 
     align=center, 
-    minimum height=0.8cm, 
-    font=\singlespacing\fontsize{8}{9}\selectfont
+    minimum height=1.15cm, 
+    font=\singlespacing\fontsize{7.5}{9}\selectfont
   },
   central/.style={
-    draw=blue!80, 
-    fill=blue!30, 
+    draw=black, 
+    fill=white, 
     rectangle, 
-    rounded corners=4pt,
-    text width=8.5cm, 
+    line width=2pt,
+    text width=10.2cm, 
     align=center, 
-    minimum height=1.1cm, 
-    font=\singlespacing\bfseries\fontsize{9}{10}\selectfont
+    minimum height=1.3cm, 
+    font=\singlespacing\fontsize{8.5}{10.5}\selectfont
   },
-  arrow/.style={-latex, thick, draw=black!70}
+  implicacion/.style={
+    draw=ticnavy, 
+    fill=white, 
+    rectangle, 
+    line width=1.8pt,
+    text width=9.2cm, 
+    align=center, 
+    minimum height=1.2cm, 
+    font=\singlespacing\fontsize{8.5}{10.5}\selectfont
+  },
+  arrow/.style={-latex, line width=0.9pt, draw=ticnavy}
 ]
 
-% Problema Central
-\node (PC) [central] {Incomunicación vial recurrente y elevados costos de transporte para la comercialización agropecuaria por ausencia de puente vehicular sobre el río Carne Amarga};
+% ================= Nivel 3: Problema Central =================
+\node (PC) [central] {\textbf{PROBLEMA CENTRAL}\\[2pt] Aislamiento físico y nulo acceso vehicular y peatonal seguro en el sitio El Playón de la parroquia Torata};
 
-% Efectos Directos
-\node (ED2) [box, above=1.4cm of PC] {Riesgo de siniestros y pérdidas humanas en vadeo fluvial};
-\node (ED1) [box, left=0.3cm of ED2] {Pérdida y derrame de leche y cosechas perecibles};
-\node (ED3) [box, right=0.3cm of ED2] {Encarecimiento del flete de transporte en un 60 \%};
+% ================= Nivel 2: Efectos Directos =================
+\node (E1) [box, above=1.4cm of PC, xshift=-3.7cm] {\textbf{Efecto Directo 1}\\[1pt] Paralización del transporte agropecuario y pérdida de ingresos familiares};
+\node (E2) [box, above=1.4cm of PC, xshift=0cm] {\textbf{Efecto Directo 2}\\[1pt] Inaccesibilidad a servicios de salud y educación para grupos vulnerables};
+\node (E3) [box, above=1.4cm of PC, xshift=3.7cm] {\textbf{Efecto Directo 3}\\[1pt] Alto riesgo para la integridad física al intentar vadear el río desbordado};
 
-% Efectos Indirectos
-\node (EI1) [box, above=of ED1] {Disminución crítica de ingresos campesinos};
-\node (EI2) [box, above=of ED2] {Aislamiento e inasistencia escolar y de salud};
-\node (EI3) [box, above=of ED3] {Desabastecimiento de insumos agropecuarios};
+% ================= Nivel 1: Implicación Final =================
+\node (EF) [implicacion, above=1.3cm of E2] {\textbf{EFECTO FINAL}\\[2pt] Estancamiento del desarrollo socioeconómico local y profundización de la vulnerabilidad de las familias en el sitio El Playón};
 
-% Efecto Final
-\node (EF) [box, above=1.1cm of EI2, text width=7.5cm, fill=blue!20] {Estancamiento productivo, acentuación de la pobreza rural por NBI (67,40 \%) y migración};
+% ================= Nivel 4: Causas Directas (2 ramas) =================
+\node (C1) [box, below=1.4cm of PC, xshift=-3.2cm] {\textbf{Causa Directa 1}\\[1pt] Carencia absoluta de infraestructura de puente definitiva y segura sobre el río};
+\node (C2) [box, below=1.4cm of PC, xshift=3.2cm] {\textbf{Causa Directa 2}\\[1pt] Imposibilidad física y vial de cruzar el cauce natural del río la mayor parte del año};
 
-% Causas Directas
-\node (CD2) [box, below=1.4cm of PC] {Ausencia de obras de estabilización y muros ribereños};
-\node (CD1) [box, left=0.3cm of CD2] {Inexistencia de puente fijo sobre el afluente};
-\node (CD3) [box, right=0.3cm of CD2] {Presupuesto parroquial limitado para obras mayores};
+% ================= Nivel 5: Subcausas =================
+\node (SC11) [box, below=1.0cm of C1] {\textbf{Subcausa 1.1}\\[1pt] Histórico rezago en la priorización de inversión pública vial para este sector};
 
-% Causas Indirectas
-\node (CI1) [box, below=of CD1] {Paso forzoso por vado rústico anegable en invierno};
-\node (CI2) [box, below=of CD2] {Socavación activa de márgenes por crecidas torrenciales};
-\node (CI3) [box, below=of CD3] {Carencia de convenios previos de concurrencia fiscal};
+\node (SC21) [box, below=1.0cm of C2] {\textbf{Subcausa 2.1}\\[1pt] Ausencia de vías alternativas o rutas de conexión en el entorno geográfico};
 
-% Flechas Causas
-\draw [arrow] (CI1) -- (CD1);
-\draw [arrow] (CI2) -- (CD2);
-\draw [arrow] (CI3) -- (CD3);
+% ================= Conexiones Bottom-Up =================
+% De Subcausas a Causas Directas
+\draw [arrow] (SC11.north) -- (C1.south);
+\draw [arrow] (SC21.north) -- (C2.south);
 
-\draw [arrow] (CD1.north) -- ([xshift=-3.0cm]PC.south);
-\draw [arrow] (CD2.north) -- (PC.south);
-\draw [arrow] (CD3.north) -- ([xshift=3.0cm]PC.south);
+% De Causas Directas a Problema Central
+\draw [arrow] (C1.north) -- ([xshift=-3.2cm]PC.south);
+\draw [arrow] (C2.north) -- ([xshift=3.2cm]PC.south);
 
-% Flechas Efectos
-\draw [arrow] ([xshift=-3.0cm]PC.north) -- (ED1.south);
-\draw [arrow] (PC.north) -- (ED2.south);
-\draw [arrow] ([xshift=3.0cm]PC.north) -- (ED3.south);
+% De Problema Central a Efectos
+\draw [arrow] ([xshift=-3.7cm]PC.north) -- (E1.south);
+\draw [arrow] (PC.north) -- (E2.south);
+\draw [arrow] ([xshift=3.7cm]PC.north) -- (E3.south);
 
-\draw [arrow] (ED1) -- (EI1);
-\draw [arrow] (ED2) -- (EI2);
-\draw [arrow] (ED3) -- (EI3);
-
-\draw [arrow] (EI1.north) -- ([xshift=-2.0cm]EF.south);
-\draw [arrow] (EI2.north) -- (EF.south);
-\draw [arrow] (EI3.north) -- ([xshift=2.0cm]EF.south);
+% De Efectos a Implicación Final
+\draw [arrow] (E1.north) -- ([xshift=-3.0cm]EF.south);
+\draw [arrow] (E2.north) -- (EF.south);
+\draw [arrow] (E3.north) -- ([xshift=3.0cm]EF.south);
 
 \end{tikzpicture}
-\caption{Árbol de problemas del proyecto de conectividad vial en Torata}
-\label{fig-arbol-problemas-torata}
-\end{figure}
-\fuente{Elaboración técnica a partir del diagnóstico de campo y talleres comunitarios en Torata.}
 
-## Anexo 2: Árbol de objetivos del proyecto
+Árbol de problemas del proyecto en el sitio El Playón - Torata
+:::
+\fuente{Elaboración técnica a partir de las observaciones docentes y diagnóstico territorial participativo.}
+:::
 
-La transformación de las condiciones negativas en situaciones deseadas y medios de intervención se esquematiza en el Árbol de Objetivos del proyecto (Figura \ref{fig-arbol-objetivos-torata}).
+::: {.content-visible unless-format="pdf"}
+![Árbol de problemas del proyecto en el sitio El Playón - Torata](asset/arbol_de_problemas.png){#fig-arbol-problemas-torata width=90%}
 
-\begin{figure}[H]
-\centering
+*Nota.* Elaboración técnica a partir de las observaciones docentes y diagnóstico territorial participativo.
+:::
+
+### Anexo Complementario 2: Árbol de objetivos del proyecto
+
+La transformación de las condiciones negativas en situaciones deseadas y medios de intervención se esquematiza en el Árbol de Objetivos del proyecto (@fig-arbol-objetivos-torata).
+
+::: {.content-visible when-format="pdf"}
+::: {#fig-arbol-objetivos-torata}
+\definecolor{ticnavy}{HTML}{1C3144}
 \begin{tikzpicture}[
-  node distance=0.7cm and 0.2cm,
   box/.style={
-    draw=teal!60, 
-    fill=teal!10, 
+    draw=ticnavy, 
+    fill=white, 
     rectangle, 
-    rounded corners=3pt,
-    text width=3.4cm, 
+    line width=1.1pt,
+    text width=3.2cm, 
     align=center, 
-    minimum height=0.8cm, 
-    font=\singlespacing\fontsize{8}{9}\selectfont
+    minimum height=1.15cm, 
+    font=\singlespacing\fontsize{7.5}{9}\selectfont
   },
   central/.style={
-    draw=teal!80, 
-    fill=teal!30, 
+    draw=black, 
+    fill=white, 
     rectangle, 
-    rounded corners=4pt,
-    text width=8.5cm, 
+    line width=2pt,
+    text width=10.2cm, 
     align=center, 
-    minimum height=1.1cm, 
-    font=\singlespacing\bfseries\fontsize{9}{10}\selectfont
+    minimum height=1.3cm, 
+    font=\singlespacing\fontsize{8.5}{10.5}\selectfont
   },
-  arrow/.style={-latex, thick, draw=black!70}
+  implicacion/.style={
+    draw=ticnavy, 
+    fill=white, 
+    rectangle, 
+    line width=1.8pt,
+    text width=9.2cm, 
+    align=center, 
+    minimum height=1.2cm, 
+    font=\singlespacing\fontsize{8.5}{10.5}\selectfont
+  },
+  arrow/.style={-latex, line width=0.9pt, draw=ticnavy}
 ]
 
-% Objetivo Central
-\node (OC) [central] {Transitabilidad vehicular continua y segura y reducción de costos de transporte agropecuario mediante puente definitivo sobre el río Carne Amarga};
+% ================= Nivel 3: Objetivo Central =================
+\node (OC) [central] {\textbf{OBJETIVO CENTRAL}\\[2pt] Garantizar la conectividad física y el acceso vehicular y peatonal seguro y permanente en el sitio El Playón de la parroquia Torata};
 
-% Fines Directos
-\node (FD2) [box, above=1.4cm of OC] {Eliminación del riesgo de siniestros por cruce de río};
-\node (FD1) [box, left=0.3cm of FD2] {Preservación del 100 \% de la producción láctea};
-\node (FD3) [box, right=0.3cm of FD2] {Reducción de tarifas de fletes rurales en un 35 \%};
+% ================= Nivel 2: Fines Directos =================
+\node (FD1) [box, above=1.4cm of OC, xshift=-3.7cm] {\textbf{Fin Directo 1}\\[1pt] Normalización del transporte agropecuario y protección de los ingresos familiares};
+\node (FD2) [box, above=1.4cm of OC, xshift=0cm] {\textbf{Fin Directo 2}\\[1pt] Accesibilidad permanente a servicios de salud y educación para grupos vulnerables};
+\node (FD3) [box, above=1.4cm of OC, xshift=3.7cm] {\textbf{Fin Directo 3}\\[1pt] Salvaguarda de la integridad física eliminando el vadeo peligroso del río};
 
-% Fines Indirectos
-\node (FI1) [box, above=of FD1] {Incremento sostenido de ingresos de productores};
-\node (FI2) [box, above=of FD2] {Acceso ininterrumpido a centros de salud y escuelas};
-\node (FI3) [box, above=of FD3] {Abastecimiento continuo y oportuno de insumos};
+% ================= Nivel 1: Fin Último =================
+\node (FU) [implicacion, above=1.3cm of FD2] {\textbf{FIN ÚLTIMO}\\[2pt] Impulso al desarrollo socioeconómico local y reducción de la vulnerabilidad de las familias en el sitio El Playón};
 
-% Fin Último
-\node (FU) [box, above=1.1cm of FI2, text width=7.5cm, fill=teal!20] {Dinamización socioeconómica, reducción de brechas de pobreza por NBI y arraigo productivo rural};
+% ================= Nivel 4: Medios Directos (2 ramas) =================
+\node (MD1) [box, below=1.4cm of OC, xshift=-3.2cm] {\textbf{Medio Directo 1}\\[1pt] Dotación de infraestructura definitiva de puente vehicular y peatonal sobre el río};
+\node (MD2) [box, below=1.4cm of OC, xshift=3.2cm] {\textbf{Medio Directo 2}\\[1pt] Habilitación y consolidación de la ruta vial de conexión sobre el cauce natural};
 
-% Medios Directos
-\node (MD2) [box, below=1.4cm of OC] {Construcción de estribos y defensas de gaviones};
-\node (MD1) [box, left=0.3cm of MD2] {Instalación de superestructura metálica modular Bailey};
-\node (MD3) [box, right=0.3cm of MD2] {Financiamiento concurrente tripartito garantizado};
+% ================= Nivel 5: Medios Indirectos =================
+\node (MI11) [box, below=1.0cm of MD1] {\textbf{Medio Indirecto 1.1}\\[1pt] Priorización y asignación eficiente de inversión pública vial para este sector};
 
-% Medios Indirectos
-\node (MI1) [box, below=of MD1] {Montaje de puente de 30 m con carga HS-20 (32 tn)};
-\node (MI2) [box, below=of MD2] {Obras de protección hidráulica y terraplenes de acceso};
-\node (MI3) [box, below=of MD3] {Convenio Prefectura - Municipio - GADPR Torata};
+\node (MI21) [box, below=1.0cm of MD2] {\textbf{Medio Indirecto 2.1}\\[1pt] Adecuación técnica y apertura de accesos viales integrados a la red parroquial};
 
-% Flechas Medios
-\draw [arrow] (MI1) -- (MD1);
-\draw [arrow] (MI2) -- (MD2);
-\draw [arrow] (MI3) -- (MD3);
+% ================= Conexiones Bottom-Up =================
+% De Medios Indirectos a Medios Directos
+\draw [arrow] (MI11.north) -- (MD1.south);
+\draw [arrow] (MI21.north) -- (MD2.south);
 
-\draw [arrow] (MD1.north) -- ([xshift=-3.0cm]OC.south);
-\draw [arrow] (MD2.north) -- (OC.south);
-\draw [arrow] (MD3.north) -- ([xshift=3.0cm]OC.south);
+% De Medios Directos a Objetivo Central
+\draw [arrow] (MD1.north) -- ([xshift=-3.2cm]OC.south);
+\draw [arrow] (MD2.north) -- ([xshift=3.2cm]OC.south);
 
-% Flechas Fines
-\draw [arrow] ([xshift=-3.0cm]OC.north) -- (FD1.south);
+% De Objetivo Central a Fines Directos
+\draw [arrow] ([xshift=-3.7cm]OC.north) -- (FD1.south);
 \draw [arrow] (OC.north) -- (FD2.south);
-\draw [arrow] ([xshift=3.0cm]OC.north) -- (FD3.south);
+\draw [arrow] ([xshift=3.7cm]OC.north) -- (FD3.south);
 
-\draw [arrow] (FD1) -- (FI1);
-\draw [arrow] (FD2) -- (FI2);
-\draw [arrow] (FD3) -- (FI3);
-
-\draw [arrow] (FI1.north) -- ([xshift=-2.0cm]FU.south);
-\draw [arrow] (FI2.north) -- (FU.south);
-\draw [arrow] (FI3.north) -- ([xshift=2.0cm]FU.south);
+% De Fines Directos a Fin Último
+\draw [arrow] (FD1.north) -- ([xshift=-3.0cm]FU.south);
+\draw [arrow] (FD2.north) -- (FU.south);
+\draw [arrow] (FD3.north) -- ([xshift=3.0cm]FU.south);
 
 \end{tikzpicture}
-\caption{Árbol de objetivos del proyecto de conectividad vial en Torata}
-\label{fig-arbol-objetivos-torata}
-\end{figure}
+
+Árbol de objetivos del proyecto en el sitio El Playón - Torata
+:::
 \fuente{Elaboración técnica conforme a la metodología de Marco Lógico de Planifica Ecuador.}
+:::
 
-## Anexo 3: Ficha técnica del levantamiento de indicadores territoriales
+::: {.content-visible unless-format="pdf"}
+![Árbol de objetivos del proyecto en el sitio El Playón - Torata](asset/arbol_de_objetivos.png){#fig-arbol-objetivos-torata width=90%}
 
-La matriz técnica territorial recopilada refleja el peso predominante de la economía pecuaria y la red vial en Torata, resumiendo los parámetros de diagnóstico en la Tabla \ref{tbl-anexo-indicadores-puente}.
+*Nota.* Elaboración técnica conforme a la metodología de Marco Lógico de Planifica Ecuador.
+:::
 
+### Anexo Complementario 3: Ficha técnica del levantamiento de indicadores territoriales
+
+La matriz técnica territorial recopilada refleja el peso predominante de la economía pecuaria y la red vial en Torata, resumiendo los parámetros de diagnóstico en la @tbl-anexo-indicadores-puente.
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-anexo-indicadores-puente}
 \fontsize{9}{11}\selectfont
 \begin{longtable}{@{}p{0.20\linewidth}p{0.36\linewidth}p{0.18\linewidth}p{0.26\linewidth}@{}}
@@ -191,19 +226,43 @@ Vial & Red vial parroquial total censada & Kilómetros & 46,20 km (11,33 km señ
 Vial & Vías no pavimentadas (lastradas y de tierra) & \% de la red & 65,80 \% \\
 Demográfico & Población de la parroquia rural Torata & Habitantes & 2.174 hab. (1.109 hombres y 1.065 mujeres) \\
 Demográfico & Población directamente beneficiada en zona de cruce & Habitantes & 1.280 hab. \\
-Institucional & Presupuesto estimado proyecto puente & USD & \$180.000,00 USD \\
+Institucional & Presupuesto estimado proyecto puente & USD & \$380.274,58 USD \\
 \bottomrule
 \end{longtable}
 \fuente{Matriz Oficial de Indicadores de Levantamiento Territorial y PDOT Torata 2023-2027.}
 :::
+:::
 
-## Anexo 4: Matriz de caracterización y gestión de actores involucrados
+::: {.content-visible unless-format="pdf"}
+| Componente | Variable Principal | Unidad | Valor Base Oficial |
+| :--- | :--- | :--- | :--- |
+| Territorial | Superficie parroquial catastrada | Hectáreas | 8.538,00 ha (22 km² desconcentrados) |
+| Económico | Suelo en pastos cultivados (directo y mixto) | % del territorio | 37,29 % (2.478,45 ha) |
+| Económico | Inventario ganadero bovino censado | Cabezas de ganado | 3.898 cabezas (1.386 vacas de ordeño) |
+| Económico | Población Económicamente Activa (PEA) | Personas | 1.241 ocupados |
+| Económico | Empleo en sector primario (agropecuario y minería) | % de la PEA | 55,00 % (683 empleos) |
+| Económico | Empleo específico en agricultura y ganadería | % de la PEA | 39,44 % (489 empleos directos) |
+| Vial | Red vial parroquial total censada | Kilómetros | 46,20 km (11,33 km señalizados) |
+| Vial | Vías no pavimentadas (lastradas y de tierra) | % de la red | 65,80 % |
+| Demográfico | Población de la parroquia rural Torata | Habitantes | 2.174 hab. (1.109 hombres y 1.065 mujeres) |
+| Demográfico | Población directamente beneficiada en zona de cruce | Habitantes | 1.280 hab. |
+| Institucional | Presupuesto estimado proyecto puente | USD | $380.274,58 USD |
 
-La sostenibilidad y viabilidad institucional del proyecto se asegura mediante la articulación permanente de competencias, expectativas y funciones de cada grupo involucrado (Tabla \ref{tbl-actores-torata}).
+: Resumen de indicadores territoriales base para el proyecto vial {#tbl-anexo-indicadores-puente}
 
+*Nota.* Matriz Oficial de Indicadores de Levantamiento Territorial y PDOT Torata 2023-2027.
+:::
+
+### Anexo Complementario 4: Matriz de caracterización y gestión de actores involucrados
+
+La sostenibilidad y viabilidad institucional del proyecto se asegura mediante la articulación permanente de competencias, expectativas y funciones de cada grupo involucrado (@tbl-actores-torata).
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-actores-torata}
-\fontsize{8.5}{10.5}\selectfont
-\begin{longtable}{@{}p{0.16\linewidth}p{0.20\linewidth}p{0.20\linewidth}p{0.18\linewidth}p{0.08\linewidth}p{0.16\linewidth}@{}}
+\begin{landscapepage}
+\fontsize{9}{11.5}\selectfont
+\setlength{\tabcolsep}{5pt}
+\begin{longtable}{@{}p{0.18\linewidth}p{0.20\linewidth}p{0.20\linewidth}p{0.17\linewidth}p{0.08\linewidth}p{0.17\linewidth}@{}}
 \caption{Matriz de caracterización y gestión de actores involucrados} \label{tbl-actores-torata} \\
 \toprule
 \textbf{Actor / Grupo} & \textbf{Intereses y Expectativas} & \textbf{Problemas Percibidos} & \textbf{Recursos y Mandatos} & \textbf{Posición} & \textbf{Estrategia de Gestión} \\
@@ -220,23 +279,27 @@ Transportistas de Carga Rural & Rutas transitables todo el año sin roturas de m
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir de actas de coordinación territorial y talleres de campo.}
+\end{landscapepage}
+:::
 :::
 
-## Anexo 5: Evidencias de campo, entrevistas y antecedentes técnicos
+::: {.content-visible unless-format="pdf"}
+| Actor / Grupo | Intereses y Expectativas | Problemas Percibidos | Recursos y Mandatos | Posición | Estrategia de Gestión |
+| :--- | :--- | :--- | :--- | :---: | :--- |
+| Productores de El Guayabo y La Chilca | Salida ininterrumpida de leche y cosechas; fletes justos; seguridad vial. | Incomunicación estacional; pérdida de 3.500 l/día de leche; trasbordos a pie. | Cesión voluntaria de fajas de terreno y faenas de mantenimiento. | Apoyo Total | Inclusión en comités de veeduría y jornadas de mantenimiento de accesos. |
+| GAD Provincial de El Oro | Cerrar brechas viales rurales; cumplir competencias de vialidad provincial. | Recursos financieros dispersos; alta demanda vial en cantones ribereños. | Competencia exclusiva (Art. 263 CRE); maquinaria y paneles Bailey. | Liderazgo | Dirección de fiscalización, entrega de paneles y supervisión del montaje. |
+| GAD Municipal de Santa Rosa | Impulsar el desarrollo productivo y la articulación cantonal con Torata. | Deterioro vial que afecta el abastecimiento de los mercados urbanos. | Convenio de concurrencia (Art. 55 COOTAD); equipo caminero. | Cooperante | Financiamiento de estudios de mecánica de suelos y maquinaria de terraplén. |
+| GADPR Torata | Garantizar la seguridad y bienestar de las comunidades parroquiales. | Presupuesto de transferencias insuficiente para puentes vehiculares mayores. | Articulación territorial (Art. 65 COOTAD); personal técnico local. | Coordinador | Seguimiento diario en obra, enlace vecinal y contraparte de fiscalización. |
+| Transportistas de Carga Rural | Rutas transitables todo el año sin roturas de muelles o atascamientos. | Riesgo de volteo en el vado; demoras de hasta 45 minutos por paso. | Flota de camionetas y camiones lecheros en cooperativas cantonales. | Beneficiario | Socialización de pesos y dimensiones máximas (AASHTO HS-20). |
 
-Los registros sonoros y documentales recabados en la parroquia Torata que respaldan el estudio de preinversión comprenden:
+: Matriz de caracterización y gestión de actores involucrados {#tbl-actores-torata}
 
-* Entrevista Técnica con el Presidente del GAD Parroquial Rural de Torata: El archivo sonoro y su transcripción oficial constan en el repositorio del proyecto bajo las rutas relativas:
-  * Registro de Audio: `evidencia/vie 11.00 enteevista_torata.m4a`
-  * Transcripción Textual: `evidencia/vie 11.00 enteevista_torata.md`
-* Acuerdos Comunitarios de Servidumbre y Fajas de Terreno: En el sector de implantación de los estribos, los propietarios ribereños han suscrito actas de compromiso voluntario para la ampliación del derecho de vía y los terraplenes de aproximación al puente.
+*Nota.* Elaboración técnica a partir de actas de coordinación territorial y talleres de campo.
+:::
 
-## Anexo 6: Enlaces a fuentes oficiales y cartografía técnica
-
-Las fuentes institucionales y normativas que sustentan el expediente técnico son:
-
-* GAD Parroquial Rural de Torata: https://torata.gob.ec
-* GAD Municipal de Santa Rosa: https://santarosa.gob.ec
-* Prefectura de El Oro (Dirección de Vialidad): https://eloro.gob.ec
-* Instituto Nacional de Estadística y Censos (INEC): https://www.censoecuador.gob.ec
-* Norma Técnica de Puentes: AASHTO Standard Specifications for Highway Bridges (Diseño HS-20).
+* **Certificación de Viabilidad Técnica:** Informe técnico de factibilidad emitido por la Dirección de Estudios, Proyectos y Cooperación de la Prefectura de El Oro, validando el diseño estructural en acero ASTM A-588 (Norma AASHTO HS-20) y los estudios de mecánica de suelos.
+* **Disponibilidad Presupuestaria y Asignación Concurrente:** Certificaciones de partida presupuestaria plurianual emitidas por las direcciones financieras del GAD Provincial de El Oro ($310.274,58 USD), GAD Municipal de Santa Rosa ($45.000,00 USD) y GADPR Torata ($25.000,00 USD).
+* **Convenio Tripartito de Concurrencia de Competencias:** Instrumento jurídico interinstitucional formalizado bajo los Arts. 55 y 65 del COOTAD para la coejecución y fiscalización de la obra vial.
+* **Registros de Campo y Fuentes Oficiales:**
+  * Entrevista Técnica con el Presidente del GAD Parroquial Rural de Torata (Audio: `evidencia/vie 11.00 enteevista_torata.m4a`; Transcripción: `evidencia/vie 11.00 enteevista_torata.md`).
+  * Enlaces institucionales: GADPR Torata (https://torata.gob.ec), Municipio de Santa Rosa (https://santarosa.gob.ec), Prefectura de El Oro (https://eloro.gob.ec), INEC (https://www.censoecuador.gob.ec).

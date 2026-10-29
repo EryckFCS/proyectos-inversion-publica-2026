@@ -1,0 +1,2324 @@
+# Análisis de Precios Unitarios (APU) Sanitizado
+**Obra:** Construcción de Puente en el Sitio El Playón, Parroquia Torata, Cantón Santa Rosa
+**Fecha:** Octubre 2026
+
+---
+
+## Rubro Folio 1
+
+Rubro Nro.:
+1
+RUBRO:
+UNIDAD:
+m2
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.07
+0.07
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.15000
+1.30
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.10000
+4.87
+0.49
+0.15000
+0.07
+1.37
+Unidad
+Cantidad
+Precio
+Total
+0.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+1.44
+20 %
+0.29
+1.73
+1.73
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 1 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+LIMPIEZA Y DESBROCE
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 2
+
+Rubro Nro.:
+2
+RUBRO:
+UNIDAD:
+m2
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.01
+Equipo topografico (Estación Total)
+1.00000
+5.00
+5.00
+0.01500
+0.08
+0.09
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Topógrafo (En Construcción - 
+Estr.Oc.C1)
+1.00000
+4.87
+4.87
+0.01500
+0.07
+Cadenero (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.01500
+0.07
+0.14
+Unidad
+Cantidad
+Precio
+Total
+U
+2.00000
+0.65
+1.30
+Kg
+0.10000
+1.62
+0.16
+galón(US)
+0.01200
+15.00
+0.18
+1.64
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+1.87
+20 %
+0.37
+2.24
+2.24
+MATERIALES
+Estacas de madera
+Clavos
+Pintura de esmalte
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 2 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+TRAZADO Y REPLANTEO
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 3
+
+Rubro Nro.:
+3
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Bomba de agua 3"
+1.00000
+4.51
+4.51
+0.05880
+0.27
+Volquete 8 m3
+1.00000
+20.00
+20.00
+0.05880
+1.18
+Compactador manual tipo plancha, 
+5HP
+1.00000
+3.00
+3.00
+0.05880
+0.18
+Excavadora de Oruga 135HP
+1.00000
+50.00
+50.00
+0.05880
+2.94
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.16
+4.73
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Op. de Excavadora (Estr.Oc.C1)
+1.00000
+4.87
+4.87
+0.05880
+0.29
+Peón (Estr.Oc.E2)
+5.00000
+4.34
+21.70
+0.05880
+1.28
+Engrasador o abastecedor 
+responsable en construcción (En 
+Construcción - Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.05880
+0.26
+Albañil (Estr.Oc.D2)
+3.00000
+4.39
+13.17
+0.05880
+0.77
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+1.00000
+4.87
+4.87
+0.05880
+0.29
+CHOFER: Volquetas (Estr.Oc.C1)
+1.00000
+6.38
+6.38
+0.05880
+0.38
+3.27
+Unidad
+Cantidad
+Precio
+Total
+m3
+0.25000
+2.25
+0.56
+u
+1.00000
+0.60
+0.60
+1.16
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+9.16
+20 %
+1.83
+10.99
+10.99
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 3 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+EXCAVACIÓN Y RELLENO PARA PUENTES
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Material para relleno estructural
+Tablestacada
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 4
+
+
+
+---
+
+## Rubro Folio 5
+
+Rubro Nro.:
+4
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.39
+0.39
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.55000
+4.77
+Albañil (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.55000
+2.41
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.20000
+4.87
+0.97
+0.55000
+0.54
+7.72
+Unidad
+Cantidad
+Precio
+Total
+0.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+8.11
+20 %
+1.62
+9.73
+9.73
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 4 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+EXCAVACIÓN MANUAL
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 6
+
+Rubro Nro.:
+5
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.10
+Rotomartillo 2100 Watts
+1.00000
+5.00
+5.00
+0.15940
+0.80
+Generador electrico 300 KVA
+1.00000
+40.00
+40.00
+0.15940
+6.38
+7.28
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.15940
+1.38
+Operador de Equipo Liviano 
+(Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.15940
+0.70
+2.08
+Unidad
+Cantidad
+Precio
+Total
+kg
+0.55000
+3.00
+1.65
+u
+0.35000
+0.15
+0.05
+m
+0.95000
+0.10
+0.10
+Kg
+0.25000
+0.40
+0.10
+1.90
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+11.26
+20 %
+2.25
+13.51
+13.51
+MATERIALES
+Dinamita
+Fulminante
+Mecha Lenta
+Nitrato de amonio
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 5 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+EXCAVACION EN ROCA
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 7
+
+Rubro Nro.:
+6
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.04
+Retroexcavadora 75HP
+1.00000
+25.00
+25.00
+0.05890
+1.47
+1.51
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.05890
+0.51
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.10000
+4.87
+0.49
+0.05890
+0.03
+Op. de Retroexcavadora 
+(Estr.Oc.C1)
+1.00000
+4.87
+4.87
+0.05890
+0.29
+0.83
+Unidad
+Cantidad
+Precio
+Total
+m3.
+1.00000
+22.32
+22.32
+22.32
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+24.66
+20 %
+4.93
+29.59
+29.59
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 6 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+EMPEDRADO BASE Ø<=40cm
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Piedra bola Ø<=40cm
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 8
+
+Rubro Nro.:
+7
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.16
+Compactador manual tipo plancha, 
+5HP
+1.00000
+3.00
+3.00
+0.14000
+0.42
+0.58
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+4.00000
+4.34
+17.36
+0.14000
+2.43
+Operador de Equipo Liviano 
+(Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.14000
+0.61
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.10000
+4.87
+0.49
+0.14000
+0.07
+3.11
+Unidad
+Cantidad
+Precio
+Total
+M3
+1.20000
+10.00
+12.00
+m3
+0.05000
+1.60
+0.08
+12.08
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+15.77
+20 %
+3.15
+18.92
+18.92
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 7 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+RELLENO COMPACTADO CON MATERIAL DE MEJORAMIENTO
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Material de mejoramiento
+Agua
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 9
+
+Rubro Nro.:
+8
+RUBRO:
+UNIDAD:
+m3-km
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Volqueta 12 Tn
+1.00000
+35.00
+35.00
+0.00550
+0.19
+0.19
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+CHOFER: Volquetas (Estr.Oc.C1)
+1.00000
+6.38
+6.38
+0.00550
+0.04
+0.04
+Unidad
+Cantidad
+Precio
+Total
+0.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+0.23
+20 %
+0.05
+0.28
+0.28
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 8 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+TRANSPORTE DE MATERIAL DE MEJORAMIENTO
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 10
+
+Rubro Nro.:
+9
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+3.65
+Concretera 12HP
+1.00000
+4.00
+4.00
+1.23775
+4.95
+Vibrador de hormigón 5 HP
+1.00000
+3.50
+3.50
+1.23775
+4.33
+12.93
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+10.00000
+4.34
+43.40
+1.23775
+53.72
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.50000
+4.87
+2.44
+1.23775
+3.01
+Albañil (Estr.Oc.D2)
+2.00000
+4.39
+8.78
+1.23775
+10.87
+Carpintero (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+1.23775
+5.43
+73.03
+Unidad
+Cantidad
+Precio
+Total
+m3
+0.10000
+1.60
+0.16
+kg
+405.00000
+0.20
+81.00
+Kg
+1.00000
+1.62
+1.62
+m
+18.00000
+1.00
+18.00
+m
+10.00000
+0.80
+8.00
+kg
+0.50000
+2.32
+1.16
+m3
+0.65000
+19.00
+12.35
+m3
+0.95000
+27.00
+25.65
+147.94
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+233.90
+20 %
+46.78
+280.68
+280.68
+Cuarton semiduro
+Aditivo plastificante e impermeabilizante
+Arena  gruesa (Incluye Transporte)
+Ripio triturado de 3/4" (Incluye Transporte)
+MATERIALES
+Agua
+Cemento
+Clavos
+Tabla semidura
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 9 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+HORMIGÓN SIMPLE f´c=240 kg/cm2
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 11
+
+Rubro Nro.:
+10
+RUBRO:
+UNIDAD:
+Kg
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.02
+Cortadora de hierro
+1.00000
+1.00
+1.00
+0.03380
+0.03
+0.05
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.03380
+0.29
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.10000
+4.87
+0.49
+0.03380
+0.02
+Fierrero (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.03380
+0.15
+0.46
+Unidad
+Cantidad
+Precio
+Total
+kg.
+1.05000
+1.44
+1.51
+Kg.
+0.10000
+1.50
+0.15
+1.66
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+2.17
+20 %
+0.43
+2.60
+2.60
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 10 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+ACERO DE REFUERZO fy=4200kg/cm2.
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Acero de Refuerzo
+Alambre de Amarre #18
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 12
+
+Rubro Nro.:
+11
+RUBRO:
+UNIDAD:
+Kg
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+0.00
+0.00
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+0.00
+0.00
+Unidad
+Cantidad
+Precio
+Total
+Kg
+1.10000
+2.10
+2.31
+2.31
+Unidad
+Cantidad
+Tarifa/U
+Total
+Kg
+1.00000
+0.05
+0.05
+0.05
+2.36
+20 %
+0.47
+2.83
+2.83
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 11 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+Suministro de acero estructural ASTM A-588
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Acero estructural ASTM A-588
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+Acero estructural ASTM A-588
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 13
+
+Rubro Nro.:
+12
+RUBRO:
+UNIDAD:
+Kg
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Motosoldadora
+1.00000
+5.74
+5.74
+0.01333
+0.08
+Equipo de oxicorte
+1.00000
+4.60
+4.60
+0.01333
+0.06
+Equipo de taller
+1.00000
+2.24
+2.24
+0.01333
+0.03
+Grúa de patio
+1.00000
+46.00
+46.00
+0.01333
+0.61
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.03
+0.81
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+5.00000
+4.34
+21.70
+0.01333
+0.29
+Maestro soldador especializado (En 
+Construcción - Estr.Oc.C1)
+2.00000
+4.87
+9.74
+0.01333
+0.13
+Grúa estacionaria
+1.00000
+4.87
+4.87
+0.01333
+0.06
+Ayudante de maquinaria
+1.00000
+4.46
+4.46
+0.01333
+0.06
+0.54
+Unidad
+Cantidad
+Precio
+Total
+Kg
+0.02000
+2.62
+0.05
+m3
+0.01000
+2.68
+0.03
+0.08
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+1.43
+20 %
+0.29
+1.72
+1.72
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 12 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+Fabricación de acero estructural ASTM A-588
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Electrodos
+Oxígeno
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 14
+
+Rubro Nro.:
+13
+RUBRO:
+UNIDAD:
+kg
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Motosoldadora
+1.00000
+5.74
+5.74
+0.01000
+0.06
+Equipo de oxicorte
+1.00000
+4.60
+4.60
+0.01000
+0.05
+Equipo de campo
+1.00000
+2.87
+2.87
+0.01000
+0.03
+Grúa telescópica
+1.00000
+60.00
+60.00
+0.01000
+0.60
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.02
+0.76
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+4.00000
+4.34
+17.36
+0.01000
+0.17
+Maestro soldador especializado (En 
+Construcción - Estr.Oc.C1)
+2.00000
+4.87
+9.74
+0.01000
+0.10
+Engrasador o abastecedor 
+responsable en construcción (En 
+Construcción - Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.01000
+0.04
+Ayudante de maquinaria
+1.00000
+4.46
+4.46
+0.01000
+0.04
+Grúa estacionaria
+1.00000
+4.87
+4.87
+0.01000
+0.05
+0.40
+Unidad
+Cantidad
+Precio
+Total
+u
+1.00000
+0.08
+0.08
+0.08
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+1.24
+20 %
+0.25
+1.49
+1.49
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 13 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+Montaje de acero estructural  ASTM A-588
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Material obra falsa
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 15
+
+Rubro Nro.:
+14
+RUBRO:
+UNIDAD:
+Kg
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.00
+Compresor de aire 375 cfm. de 125 
+HP
+1.00000
+16.79
+16.79
+0.00250
+0.04
+Equipo de pintura
+1.00000
+1.75
+1.75
+0.00250
+0.00
+Andamios
+2.00000
+0.45
+0.90
+0.00250
+0.00
+0.04
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Pintor
+1.00000
+4.39
+4.39
+0.00250
+0.01
+Electricista o instalador de 
+revestimiento en general
+1.00000
+4.39
+4.39
+0.00250
+0.01
+Albañil (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+0.00250
+0.01
+0.03
+Unidad
+Cantidad
+Precio
+Total
+galón
+0.00150
+16.70
+0.03
+galón
+0.00150
+18.70
+0.03
+galón(US)
+0.00250
+13.95
+0.03
+0.09
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+0.16
+20 %
+0.03
+0.19
+0.19
+MATERIALES
+Pintura anticorrosiva cromato de zinc
+Pintura de aluminio
+Diluyente
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 14 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+Pintura acero estructural  ASTM A-588
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 16
+
+Rubro Nro.:
+15
+RUBRO:
+UNIDAD:
+m3
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.87
+0.87
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+1.28000
+5.56
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+1.00000
+4.87
+4.87
+1.28000
+6.23
+Albañil (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+1.28000
+5.62
+17.41
+Unidad
+Cantidad
+Precio
+Total
+u
+0.07210
+62.33
+4.49
+u
+0.28500
+89.96
+25.64
+m3
+1.00000
+30.50
+30.50
+Kg
+0.20000
+4.25
+0.85
+61.48
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+79.76
+20 %
+15.95
+95.71
+95.71
+MATERIALES
+GAVIÓN TRIPLE TORSIÓN 2X1X1
+GAVIÓN TRIPLE TORSIÓN 3X1X1
+Piedra Bola > 8"
+ALAMBRE NO. 12
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 15 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+GAVIONES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 17
+
+Rubro Nro.:
+16
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.29
+0.29
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+1.33800
+5.81
+5.81
+Unidad
+Cantidad
+Precio
+Total
+u
+1.00000
+143.02
+143.02
+143.02
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+149.12
+20 %
+29.82
+178.94
+178.94
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 16 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+SEÑALIZACIÓN TIPO CABALLETE DE 1,20X0,60m. (HOMBRES TRABAJANDO)
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+SEÑALIZACION TIPO CABALLETE (120X60 cm)
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 18
+
+Rubro Nro.:
+17
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.29
+0.29
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+1.33800
+5.81
+5.81
+Unidad
+Cantidad
+Precio
+Total
+u.
+1.00000
+145.11
+145.11
+145.11
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+151.21
+20 %
+30.24
+181.45
+181.45
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 17 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+RÓTULOS AMBIENTALES DE 1,20X0,80 TIPO PEDESTAL
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+SEÑALES AMBIENTALES (1,20X0,80)M
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 19
+
+Rubro Nro.:
+18
+RUBRO:
+UNIDAD:
+m
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.00
+0.00
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.00001
+0.00
+0.00
+Unidad
+Cantidad
+Precio
+Total
+m
+1.00000
+0.22
+0.22
+0.22
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+0.22
+20 %
+0.04
+0.26
+0.26
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 18 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+CINTA PLÁSTICA DE SEÑALIZACIÓN "PELIGRO"
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Cinta de Peligro
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 20
+
+Rubro Nro.:
+19
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.19
+0.19
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+2.00000
+4.34
+8.68
+0.44263
+3.84
+3.84
+Unidad
+Cantidad
+Precio
+Total
+u.
+0.14000
+12.00
+1.68
+U
+1.00000
+1.06
+1.06
+m
+0.80000
+1.25
+1.00
+3.74
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+7.77
+20 %
+1.55
+9.32
+9.32
+MATERIALES
+Mojón de hormigón simple 40x40x40 cm
+PARANTE CAÑA H=1.20m.
+Cinta de material reflectivo
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 19 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+PITUTOS DE DELIMITACIÓN CON CINTA REFLECTIVA
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 21
+
+Rubro Nro.:
+20
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.01
+0.01
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+0.05000
+0.22
+0.22
+Unidad
+Cantidad
+Precio
+Total
+u
+1.00000
+18.00
+18.00
+18.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+18.23
+20 %
+3.65
+21.88
+21.88
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 20 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+CONOS EN POLIETILENO
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Conos de seguridad  h=0.70-0.90m
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 22
+
+Rubro Nro.:
+21
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+0.00
+0.00
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+0.00423
+0.02
+0.02
+Unidad
+Cantidad
+Precio
+Total
+u
+1.00000
+12.00
+12.00
+12.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+12.02
+20 %
+2.40
+14.42
+14.42
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 21 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+PALETAS DE SIGA Y PARE
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Paletas de sigue-pare
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 23
+
+Rubro Nro.:
+22
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+1.97
+1.97
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+9.07720
+39.40
+39.40
+Unidad
+Cantidad
+Precio
+Total
+u.
+1.00000
+250.00
+250.00
+250.00
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+291.37
+20 %
+58.27
+349.64
+349.64
+Descripción
+MATERIALES
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 22 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+BATERÍA SANITARIA MÓVIL (u/mes)
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+Bateria sanitaria Móvil (Incluye transporte e inst. de 
+accesorios)
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---
+
+## Rubro Folio 24
+
+Rubro Nro.:
+23
+RUBRO:
+UNIDAD:
+u
+DETALLE:
+Descripción
+Cantidad
+Tarifa
+Costo Hora
+Rendim.
+Total
+Herramientas Manuales (5% mano 
+de obra)
+5%MO
+0.00
+1.16
+Soldadora 200V/300Amp.
+1.00000
+2.50
+2.50
+1.69900
+4.25
+Camion 4 Tn
+1.00000
+15.00
+15.00
+1.69900
+25.49
+30.90
+Descripción
+Cantidad
+Jornal / HR
+Costo Hora
+Rendim.
+Total
+Peón (Estr.Oc.E2)
+1.00000
+4.34
+4.34
+1.69900
+7.37
+Técnico electromecánico de 
+construcción (Estr.Oc.D2)
+1.00000
+4.39
+4.39
+1.69900
+7.46
+Maestro mayor en ejecución de 
+obras civiles (Estr.Oc.C1)
+0.10000
+4.87
+0.49
+1.69900
+0.83
+Electricista o instalador de 
+revestimiento en general
+1.00000
+4.39
+4.39
+1.69900
+7.46
+23.12
+Unidad
+Cantidad
+Precio
+Total
+u
+148.28000
+4.29
+636.12
+u
+0.13200
+83.42
+11.01
+u
+14.00000
+3.00
+42.00
+u
+134.00000
+0.04
+5.36
+gl.
+1.48000
+18.00
+26.64
+m3
+0.36000
+141.33
+50.88
+kg.
+4.40000
+4.90
+21.56
+kg.
+66.34000
+1.44
+95.53
+Kg.
+3.32500
+1.50
+4.99
+m2
+24.00000
+11.95
+286.80
+1,180.89
+Unidad
+Cantidad
+Tarifa/U
+Total
+0.00
+1,234.91
+20 %
+246.98
+1,481.89
+1,481.89
+LONA IMPRESA FULL COLOR ( 14OZ, respaldo 
+negro, resistencia UV, durabilidad min. 2 años)
+Pintura esmalte
+HORMIGON SIMPLE f´c=210kg/cm2 Ø30cm
+Suelda  6011
+Acero de Refuerzo
+Alambre de Amarre #18
+MATERIALES
+ACERO ESTRUCTURAL A36 (inc. Inhibidor de 
+corrosion)
+BASE/SOP.PLANCHA 1.22x2.44x3mm
+PERNO DE REFUERZO
+REMACHES
+Descripción
+TRANSPORTE
+SUBTOTAL (O)
+GOBIERNO AUTONOMO DESCENTRALIZADO
+ PROVINCIAL DE EL ORO
+DIRECCIÓN DE ESTUDIOS, PROYECTOS Y COOPERACIÓN
+Hoja 23 de 23
+ANÁLISIS DE PRECIOS UNITARIOS
+LETRERO DE OBRA 6.00 X4.00m (inc. estructura metalica, lona con impresión 
+color)
+EQUIPOS
+SUBTOTAL (M)
+MANO DE OBRA
+SUBTOTAL (N)
+Descripción
+VALOR OFERTADO
+SUBTOTAL (P)
+COSTO TOTAL DEL RUBRO
+TOTAL COSTO DIRECTO (M+N+O+P)
+INDIRECTOS Y UTILIDADES
+TÉCNICO 3 DE ESTUDIOS Y PROYECTOS
+ING. JOSÉ MANUEL CARPIO ROSALES
+
+---

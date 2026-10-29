@@ -2,82 +2,181 @@
 
 ## Estructura operativa
 
-El proyecto se ejecuta bajo la rectoría y competencia exclusiva de vialidad rural del Gobierno Autónomo Descentralizado Provincial de El Oro, conforme al artículo 263, literal b) de la Constitución y artículo 42 del COOTAD @cootad2010. Se adopta una estrategia de ejecución concurrente y articulada en un periodo de diez meses:
+El proyecto se ejecuta bajo la rectoría y competencia exclusiva de vialidad rural del Gobierno Autónomo Descentralizado Provincial de El Oro, conforme al artículo 263, literal b) de la Constitución y artículo 42 del COOTAD @cootad2010. Se adopta una estrategia de ejecución concurrente y articulada en un periodo de 120 días calendario (cuatro meses):
 
-* GAD Provincial de El Oro (Entidad Financiera y Rectora de Obra Civil): Suministro, transporte y supervisión del montaje de la estructura Bailey de 30 metros, y dirección de la fiscalización técnica.
-* GAD Municipal del Cantón Santa Rosa (Entidad Cooperante Técnica): Financiamiento y contratación de los estudios geotécnicos y provisión de equipo caminero para la conformación de los terraplenes de acceso.
-* GAD Parroquial Rural de Torata (Entidad Coordinadora Territorial): Gestión de acuerdos prediales con finqueros, veeduría ciudadana y administración de la contraparte local.
-* Comunidad de Beneficiarios (Comité de Apoyo): Custodia social y faenas comunitarias para desbroce de fajas de terreno y conservación de cunetas.
+* GAD Provincial de El Oro (Entidad Financiera y Rectora de Obra Civil): Ejecución y fiscalización de la obra civil integral, montaje de la estructura metálica ASTM A-588 de 30 metros y obras de cimentación.
+* GAD Municipal del Cantón Santa Rosa (Entidad Cooperante Técnica): Aporte concurrente en maquinaria pesada para terraplenes de acceso y obras de drenaje.
+* GAD Parroquial Rural de Torata (Entidad Coordinadora Territorial): Gestión predial comunitaria, veeduría social y aporte en obras preliminares y mitigación.
 
 ## Arreglos institucionales y modalidad de ejecución
 
-El proyecto se implementa a través de la modalidad de Convenio de Delegación de Competencias y Cooperación Interinstitucional Concurrente. Los procesos de contratación de obras civiles de cimentación, fiscalización y ensayos de laboratorio se canalizan por los procedimientos formales del Sistema Oficial de Contratación Pública (SERCOP) conforme a la Ley Orgánica del Sistema Nacional de Contratación Pública (LOSNCP).
+De existir acuerdos con instituciones públicas y/o privadas para la ejecución del proyecto, describir los mismos a continuación.
 
-La articulación de responsabilidades y la estructura organizativa se sintetizan en la Tabla \ref{tbl-organizacion-puente}.
+La @tbl-arreglos-institucionales-oficial resume los arreglos institucionales y la modalidad de ejecución formalizada.
 
-::: {#tbl-organizacion-puente}
+::: {.content-visible when-format="pdf"}
+::: {#tbl-arreglos-institucionales-oficial}
 \fontsize{9.5}{11.5}\selectfont
-\begin{longtable}{@{}p{0.25\linewidth}p{0.30\linewidth}p{0.45\linewidth}@{}}
-\caption{Roles y responsabilidades institucionales en el puente Torata} \label{tbl-organizacion-puente} \\
+\begin{longtable}{@{}p{0.32\linewidth}p{0.34\linewidth}p{0.34\linewidth}@{}}
+\caption{Arreglos institucionales y modalidad de ejecución} \label{tbl-arreglos-institucionales-oficial} \\
 \toprule
-\textbf{Rol / Instancia} & \textbf{Entidad Responsable} & \textbf{Responsabilidad Principal} \\
+\multicolumn{2}{c}{\textbf{Tipo de ejecución}} & \\
+\cmidrule(lr){1-2}
+\textbf{Directa (D) o Indirecta (I)*} & \textbf{Tipo de arreglo**} & \textbf{Instituciones Involucradas} \\
 \midrule
-Entidad Rectora & GAD Provincial de El Oro & Suministro de estructura Bailey, dirección técnica del lanzamiento y recepción final. \\
+Directa (D) & Competencia Exclusiva y Fiscalización & GAD Provincial de El Oro \\
 \addlinespace
-Entidad Cooperante Técnica & GAD Municipal de Santa Rosa & Financiamiento de estudios de mecánica de suelos y asignación de maquinaria pesada. \\
+Indirecta (I) & Convenio de Concurrencia (Art. 55 COOTAD) & GAD Municipal de Santa Rosa \\
 \addlinespace
-Entidad Coordinadora Local & GADPR Torata & Gestión de fajas de terreno, enlace comunitario y seguimiento administrativo diario. \\
+Indirecta (I) & Convenio de Cooperación (Art. 65 COOTAD) & GAD Parroquial Rural de Torata \\
 \addlinespace
-Fiscalización Técnica & Ingeniero Civil Designado & Certificación de la calidad del hormigón, ensayos de laboratorio y seguridad laboral. \\
-\addlinespace
-Veeduría Ciudadana & Junta de Productores de Torata & Acompañamiento social y control de cumplimiento de plazos de obra. \\
+Directa (D) & Contratación Pública Obras Civiles (LOSNCP) & Empresa Contratista / SERCOP \\
 \bottomrule
 \end{longtable}
-\fuente{Términos de Referencia del Convenio Tripartito de Conectividad Rural.}
+\fuente{* Ejecución Directa: La institución que presenta el proyecto lo ejecuta; sin la intervención de otra institución, aunque exista un convenio. \\ * Ejecución Indirecta: Existe un convenio con otra institución para la ejecución. \\ ** Convenio, contrato u otra forma de arreglo con otra entidad para la ejecución del componente.}
 :::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Directa (D) o Indirecta (I)* | Tipo de arreglo** | Instituciones Involucradas |
+| :--- | :--- | :--- |
+| Directa (D) | Competencia Exclusiva y Fiscalización | GAD Provincial de El Oro |
+| Indirecta (I) | Convenio de Concurrencia (Art. 55 COOTAD) | GAD Municipal de Santa Rosa |
+| Indirecta (I) | Convenio de Cooperación (Art. 65 COOTAD) | GAD Parroquial Rural de Torata |
+| Directa (D) | Contratación Pública Obras Civiles (LOSNCP) | Empresa Contratista / SERCOP |
+
+: Arreglos institucionales y modalidad de ejecución {#tbl-arreglos-institucionales-oficial}
+
+*Nota.* \* Ejecución Directa: La institución que presenta el proyecto lo ejecuta; sin la intervención de otra institución, aunque exista un convenio. \* Ejecución Indirecta: Existe un convenio con otra institución para la ejecución. \*\* Convenio, contrato u otra forma de arreglo con otra entidad para la ejecución del componente.
+:::
+
+Adicionalmente, se establecen estrategias para la coordinación interinstitucional orientadas a formar alianzas que favorezcan la ejecución, garantizando el cumplimiento estricto del cronograma de obra y la correcta liquidación de transferencias concurrentes.
 
 ## Cronograma valorado por componentes y actividades
 
-El flujo de inversiones se distribuye a lo largo de los diez meses de plazo de ejecución contractual (Tabla \ref{tbl-cronograma-valorado-puente}). Las mayores asignaciones financieras se concentran entre los meses 3 y 7, coincidiendo con la temporada de estiaje del río Carne Amarga para asegurar el fraguado adecuado de las cimentaciones masivas y el montaje de los paneles de acero.
+Se establecerá la valoración de cada acción a ser ejecutada por el proyecto de forma cronológica. Los proyectos con plazo de ejecución mayor a un año, deben presentar el cronograma valorado a nivel de grupo de gasto, mensualmente para el primer año y anualmente para los años siguientes, según el catálogo presupuestario del Ministerio de Economía y Finanzas.
 
-::: {#tbl-cronograma-valorado-puente}
-\fontsize{9}{11}\selectfont
-\begin{longtable}{@{}p{0.34\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.14\linewidth}@{}}
-\caption{Cronograma valorado de ejecución de inversión mensual (extracto en USD)} \label{tbl-cronograma-valorado-puente} \\
+La @tbl-cronograma-valorado-oficial presenta el cronograma valorado por componente y fuente de financiamiento para el periodo de ejecución de la obra.
+
+::: {.content-visible when-format="pdf"}
+::: {#tbl-cronograma-valorado-oficial}
+\begin{landscapepage}
+\fontsize{8.5}{10.5}\selectfont
+\setlength{\tabcolsep}{5pt}
+\begin{longtable}{@{}p{0.32\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.13\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}@{}}
+\caption{Cronograma valorado por componente y fuente de financiamiento (en dólares)} \label{tbl-cronograma-valorado-oficial} \\
 \toprule
-\textbf{Fase de Ejecución} & \textbf{Mes 1-2} & \textbf{Mes 3-4} & \textbf{Mes 5-6} & \textbf{Mes 7-8} & \textbf{Mes 9-10} \\
+\textbf{Componentes / Rubros} & \textbf{Mes 1 (USD)} & \textbf{Mes 2 (USD)} & \textbf{Mes 3 (USD)} & \textbf{Mes 4 (USD)} & \textbf{TOTAL (USD)} \\
 \midrule
-Estudios Geotécnicos & \$15.000 & \$0 & \$0 & \$0 & \$0 \\
-Subestructura y Estribos & \$0 & \$35.000 & \$30.000 & \$0 & \$0 \\
-Superestructura Bailey & \$0 & \$0 & \$20.000 & \$50.000 & \$10.000 \\
-Accesos y Obras Ribereñas & \$0 & \$0 & \$0 & \$5.000 & \$5.000 \\
-Fiscalización y Ambiente & \$2.000 & \$2.000 & \$2.000 & \$2.000 & \$2.000 \\
+\endfirsthead
+\caption[]{Cronograma valorado por componente y fuente de financiamiento (continuación)} \\
+\toprule
+\textbf{Componentes / Rubros} & \textbf{Mes 1 (USD)} & \textbf{Mes 2 (USD)} & \textbf{Mes 3 (USD)} & \textbf{Mes 4 (USD)} & \textbf{TOTAL (USD)} \\
 \midrule
-\textbf{Desembolso por Periodo} & \textbf{\$17.000} & \textbf{\$37.000} & \textbf{\$52.000} & \textbf{\$57.000} & \textbf{\$17.000} \\
+\endhead
+\bottomrule
+\endfoot
+\textbf{Componente 1: Obras Preliminares} & \$3.827,74 & \$0,00 & \$0,00 & \$0,00 & \$3.827,74 \\
+\textbf{Componente 2: Infraestructura Fluvial} & \$30.000,00 & \$45.041,65 & \$0,00 & \$0,00 & \$75.041,65 \\
+\textbf{Componente 3: Superestructura Acero A-588} & \$35.000,00 & \$50.000,00 & \$75.000,00 & \$89.025,56 & \$249.025,56 \\
+\textbf{Componente 4: Mitigación Ambiental e IVA} & \$2.776,59 & \$0,00 & \$0,00 & \$49.601,03 & \$52.377,62 \\
+\midrule
+\textbf{Inversión Mensual Programada} & \textbf{\$71.604,33} & \textbf{\$95.041,65} & \textbf{\$75.000,00} & \textbf{\$138.626,59} & \textbf{\$380.274,58} \\
+\midrule
+\textbf{Avance Físico-Financiero Acumulado} & \textbf{18,83 \%} & \textbf{43,82 \%} & \textbf{63,55 \%} & \textbf{100,00 \%} & \textbf{100,00 \%} \\
 \bottomrule
 \end{longtable}
-\fuente{Programación física y financiera de obras viales del GAD Provincial de El Oro.}
+\fuente{Elaboración técnica conforme al Cronograma Valorado Oficial del Expediente Técnico (GAD Provincial de El Oro, 2026).}
+\end{landscapepage}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Componentes / Rubros | Mes 1 (USD) | Mes 2 (USD) | Mes 3 (USD) | Mes 4 (USD) | TOTAL (USD) |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| **Componente 1: Obras Preliminares** | $3.827,74 | $0,00 | $0,00 | $0,00 | $3.827,74 |
+| **Componente 2: Infraestructura Fluvial** | $30.000,00 | $45.041,65 | $0,00 | $0,00 | $75.041,65 |
+| **Componente 3: Superestructura Acero A-588** | $35.000,00 | $50.000,00 | $75.000,00 | $89.025,56 | $249.025,56 |
+| **Componente 4: Mitigación Ambiental e IVA** | $2.776,59 | $0,00 | $0,00 | $49.601,03 | $52.377,62 |
+| **Inversión Mensual Programada** | **$71.604,33** | **$95.041,65** | **$75.000,00** | **$138.626,59** | **$380.274,58** |
+| **Avance Físico-Financiero Acumulado** | **18,83 %** | **43,82 %** | **63,55 %** | **100,00 %** | **100,00 %** |
+
+: Cronograma valorado por componente y fuente de financiamiento (en dólares) {#tbl-cronograma-valorado-oficial}
+
+*Nota.* Elaboración técnica conforme al Cronograma Valorado Oficial del Expediente Técnico (GAD Provincial de El Oro, 2026).
 :::
 
 ## Demanda pública nacional plurianual
 
-La contratación de obras y adquisición de bienes y servicios se programa conforme al Clasificador Central de Productos (CPC) del SERCOP. La totalidad de los insumos y rubros de obra civil corresponden a compras públicas de origen nacional ejecutadas durante el Año 1 de implementación (Tabla \ref{tbl-demanda-publica-puente}).
+En las compras públicas se debe dar cumplimiento a lo establecido en el artículo 288 de la Constitución de la República, los artículos 9 y 52 de la Ley Orgánica del Sistema Nacional de Contratación Pública y el artículo 64 del Código Orgánico de Planificación y Finanzas Públicas.
 
+La determinación de la demanda pública nacional plurianual de cada proyecto, deberá contemplar lo señalado en la normativa emitida por la Secretaría Técnica de Planificación "Planifica Ecuador" para el efecto; y se presentará bajo el siguiente formato:
+
+### Determinación de la demanda pública nacional plurianual
+
+La demanda pública se desagrega conforme a los códigos CPC de 9 dígitos del SERCOP, detallando rubro, unidad, costo y origen de los insumos (@tbl-demanda-publica-puente).
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-demanda-publica-puente}
-\fontsize{9}{11}\selectfont
-\begin{longtable}{@{}p{0.18\linewidth}p{0.14\linewidth}p{0.36\linewidth}p{0.14\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}@{}}
-\caption{Demanda pública nacional y codificación CPC del proyecto} \label{tbl-demanda-publica-puente} \\
+\begin{landscapepage}
+\fontsize{8}{10}\selectfont
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{@{}p{0.11\linewidth}p{0.09\linewidth}p{0.27\linewidth}>{\raggedleft\arraybackslash}p{0.08\linewidth}p{0.06\linewidth}>{\raggedleft\arraybackslash}p{0.08\linewidth}p{0.08\linewidth}p{0.08\linewidth}>{\raggedleft\arraybackslash}p{0.09\linewidth}>{\raggedleft\arraybackslash}p{0.09\linewidth}@{}}
+\caption{Matriz oficial de demanda pública plurianual del proyecto} \label{tbl-demanda-publica-puente} \\
 \toprule
-\textbf{Código CPC} & \textbf{Tipo Compra} & \textbf{Detalle del Producto o Servicio} & \textbf{Origen Insumos} & \textbf{Monto Año 1 (USD)} \\
+\multicolumn{10}{c}{\textbf{DEMANDA PÚBLICA PLURIANUAL}} \\
 \midrule
-83324.01.1 & Servicio & Consultoría geotécnica y mecánica de suelos & 100\% Nacional & \$15.000,00 \\
-54122.00.1 & Obra & Construcción de estribos y cimentaciones de hormigón & 100\% Nacional & \$65.000,00 \\
-42111.01.2 & Bien & Paneles de superestructura metálica modular tipo Bailey & 100\% Nacional & \$80.000,00 \\
-54210.00.1 & Obra & Obras de accesos, terraplenes y gaviones fluviales & 100\% Nacional & \$10.000,00 \\
-83331.02.1 & Servicio & Fiscalización técnica de obra civil y ambiente & 100\% Nacional & \$10.000,00 \\
+\textbf{CÓDIGO} & \textbf{TIPO} & \textbf{DETALLE DEL} & \textbf{CANTIDAD} & \textbf{UNIDAD} & \textbf{COSTO} & \multicolumn{2}{c}{\textbf{ORIGEN DE INSUMOS}} & \textbf{Monto Año 1} & \textbf{TOTAL} \\
+\cmidrule(lr){7-8}
+\textbf{CPC} & \textbf{COMPRA} & \textbf{PRODUCTO} & \textbf{ANUAL} & & \textbf{UNITARIO} & \textbf{NACIONAL} & \textbf{IMPORT.} & \textbf{(USD)} & \textbf{(USD)} \\
 \midrule
-\textbf{TOTAL} & & \textbf{Presupuesto Plurianual a Contratar} & & \textbf{\$180.000,00} \\
+\endfirsthead
+\caption[]{Matriz oficial de demanda pública plurianual del proyecto (continuación)} \\
+\toprule
+\multicolumn{10}{c}{\textbf{DEMANDA PÚBLICA PLURIANUAL}} \\
+\midrule
+\textbf{CÓDIGO} & \textbf{TIPO} & \textbf{DETALLE DEL} & \textbf{CANTIDAD} & \textbf{UNIDAD} & \textbf{COSTO} & \multicolumn{2}{c}{\textbf{ORIGEN DE INSUMOS}} & \textbf{Monto Año 1} & \textbf{TOTAL} \\
+\cmidrule(lr){7-8}
+\textbf{CPC} & \textbf{COMPRA} & \textbf{PRODUCTO} & \textbf{ANUAL} & & \textbf{UNITARIO} & \textbf{NACIONAL} & \textbf{IMPORT.} & \textbf{(USD)} & \textbf{(USD)} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+853400432 & Servicio & Limpieza y desbroce vegetal & 1.352,42 & m² & \$1,73 & 97,08\% & 2,92\% & \$2.339,69 & \$2.339,69 \\
+511400013 & Obra & Trazado y replanteo topográfico & 664,31 & m² & \$2,24 & 80,64\% & 19,36\% & \$1.488,05 & \$1.488,05 \\
+541220013 & Obra & Movimiento tierras y cimentaciones & 1.190,88 & m³ & \$18,84 & 85,00\% & 15,00\% & \$22.433,04 & \$22.433,04 \\
+375100014 & Bien & Hormigón simple f'c=240 kg/cm² & 68,50 & m³ & \$280,68 & 75,00\% & 25,00\% & \$19.226,58 & \$19.226,58 \\
+412610012 & Bien & Acero de refuerzo fy=4200 kg/cm² & 10.736,50 & kg & \$2,60 & 65,00\% & 35,00\% & \$27.914,90 & \$27.914,90 \\
+421110012 & Bien/Obra & Suministro y fab. acero ASTM A-588 & 39.972,00 & kg & \$4,55 & 45,00\% & 55,00\% & \$181.872,60 & \$181.872,60 \\
+541290013 & Obra & Montaje y pintura acero ASTM A-588 & 39.972,00 & kg & \$1,68 & 70,00\% & 30,00\% & \$67.152,96 & \$67.152,96 \\
+542100013 & Obra & Gaviones y obras ribereñas & 55,70 & m³ & \$95,71 & 80,00\% & 20,00\% & \$5.331,05 & \$5.331,05 \\
+421901063 & Bien & Mitigación ambiental y señalización & 1,00 & Global & \$2.776,59 & 60,00\% & 40,00\% & \$2.776,59 & \$2.776,59 \\
+- & Impuesto & Impuesto al Valor Agregado (IVA 15\%) & 1,00 & Global & \$49.601,03 & 100,00\% & 0,00\% & \$49.601,03 & \$49.601,03 \\
+\midrule
+\textbf{TOTAL} & & \multicolumn{5}{l}{\textbf{Presupuesto Plurianual Oficial a Contratar}} & & \textbf{\$380.274,58} & \textbf{\$380.274,58} \\
 \bottomrule
 \end{longtable}
-\fuente{Plan Anual de Contratación (PAC) referencial SERCOP de las entidades ejecutoras.}
+\fuente{Elaboración técnica a partir de la Matriz de Valor Agregado Ecuatoriano (VAE 48,00\%) y PAC SERCOP.}
+\end{landscapepage}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| CÓDIGO CPC | TIPO COMPRA | DETALLE DEL PRODUCTO | CANTIDAD ANUAL | UNIDAD | COSTO UNITARIO | ORIGEN NACIONAL | ORIGEN IMPORT. | Monto Año 1 (USD) | TOTAL (USD) |
+| :---: | :---: | :--- | ---: | :---: | ---: | :---: | :---: | ---: | ---: |
+| 853400432 | Servicio | Limpieza y desbroce vegetal | 1.352,42 | m² | $1,73 | 97,08% | 2,92% | $2.339,69 | $2.339,69 |
+| 511400013 | Obra | Trazado y replanteo topográfico | 664,31 | m² | $2,24 | 80,64% | 19,36% | $1.488,05 | $1.488,05 |
+| 541220013 | Obra | Movimiento tierras y cimentaciones | 1.190,88 | m³ | $18,84 | 85,00% | 15,00% | $22.433,04 | $22.433,04 |
+| 375100014 | Bien | Hormigón simple f'c=240 kg/cm² | 68,50 | m³ | $280,68 | 75,00% | 25,00% | $19.226,58 | $19.226,58 |
+| 412610012 | Bien | Acero de refuerzo fy=4200 kg/cm² | 10.736,50 | kg | $2,60 | 65,00% | 35,00% | $27.914,90 | $27.914,90 |
+| 421110012 | Bien/Obra | Suministro y fab. acero ASTM A-588 | 39.972,00 | kg | $4,55 | 45,00% | 55,00% | $181.872,60 | $181.872,60 |
+| 541290013 | Obra | Montaje y pintura acero ASTM A-588 | 39.972,00 | kg | $1,68 | 70,00% | 30,00% | $67.152,96 | $67.152,96 |
+| 542100013 | Obra | Gaviones y obras ribereñas | 55,70 | m³ | $95,71 | 80,00% | 20,00% | $5.331,05 | $5.331,05 |
+| 421901063 | Bien | Mitigación ambiental y señalización | 1,00 | Global | $2.776,59 | 60,00% | 40,00% | $2.776,59 | $2.776,59 |
+| - | Impuesto | Impuesto al Valor Agregado (IVA 15%) | 1,00 | Global | $49.601,03 | 100,00% | 0,00% | $49.601,03 | $49.601,03 |
+| **TOTAL** | | **Presupuesto Plurianual Oficial a Contratar** | | | | | | **$380.274,58** | **$380.274,58** |
+
+: Matriz oficial de demanda pública plurianual del proyecto {#tbl-demanda-publica-puente}
+
+*Nota.* Elaboración técnica a partir del Plan Anual de Contratación (PAC) referencial SERCOP de las entidades ejecutoras.
 :::

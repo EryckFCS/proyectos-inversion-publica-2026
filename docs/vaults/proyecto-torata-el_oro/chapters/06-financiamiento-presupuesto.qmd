@@ -1,31 +1,90 @@
 # Financiamiento y presupuesto
 
-El presupuesto consolidado de inversión pública para la construcción del puente vehicular sobre el río Carne Amarga asciende a $180.000,00 USD (ciento ochenta mil dólares de los Estados Unidos de América), financiado de manera concurrente entre la Prefectura de El Oro, el GAD Municipal de Santa Rosa, el GAD Parroquial Rural de Torata y el aporte valorado comunitario.
+El presupuesto deberá presentarse por componente, actividad, grupo de gasto y fuente de financiamiento. Cada uno de los valores del presupuesto contará con su cálculo respectivo, para lo cual las entidades detallarán el cálculo de dichos valores con los sustentos respectivos.
 
-La Tabla \ref{tbl-presupuesto-puente} presenta el presupuesto de inversión desagregado por componente, actividad, grupo de gasto y fuente de financiamiento.
+Adicionalmente se deberá efectuar una descripción del organismo u organismos que financian el proyecto de acuerdo a cada fuente de financiamiento. En el caso de que el proyecto se financie con crédito externo y/o interno, o requiera de un aval, se deberá establecer el organismo a cargo del pago del crédito y la entidad que concede el crédito o el aval.
 
-::: {#tbl-presupuesto-puente}
-\fontsize{9.5}{11.5}\selectfont
-\begin{longtable}{@{}p{0.14\linewidth}p{0.50\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}@{}}
-\caption{Presupuesto consolidado por rubro y componente del puente Torata} \label{tbl-presupuesto-puente} \\
+En caso de que el proyecto sea coejecutado el presupuesto deberá detallar la entidad coejecutora y los montos y el período en el que ejecutará el proyecto.
+
+Para el caso de proyectos de construcción de infraestructura, su presupuesto debe incluir costos para adquisición de terrenos (de ser necesario), gastos administrativos, fiscalización, entre otros, de tal forma que el presupuesto contenga todos los rubros necesarios para la construcción y administración del proyecto en cuestión. También se debe incluir el Impuesto al Valor Agregado IVA.
+
+La @tbl-presupuesto-fuentes-oficial presenta la matriz oficial de financiamiento y presupuesto estructurada conforme a la Guía de Planifica Ecuador.
+
+::: {.content-visible when-format="pdf"}
+::: {#tbl-presupuesto-fuentes-oficial}
+\begin{landscapepage}
+\fontsize{8.5}{10.5}\selectfont
+\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{@{}p{0.24\linewidth}p{0.14\linewidth}>{\raggedleft\arraybackslash}p{0.07\linewidth}>{\raggedleft\arraybackslash}p{0.08\linewidth}>{\raggedleft\arraybackslash}p{0.07\linewidth}>{\raggedleft\arraybackslash}p{0.09\linewidth}>{\raggedleft\arraybackslash}p{0.08\linewidth}>{\raggedleft\arraybackslash}p{0.09\linewidth}>{\raggedleft\arraybackslash}p{0.09\linewidth}@{}}
+\caption{Presupuesto y fuentes de financiamiento por componente y actividad (en USD)} \label{tbl-presupuesto-fuentes-oficial} \\
 \toprule
-\textbf{Código} & \textbf{Componente / Rubro de Obra} & \textbf{Monto (USD)} & \textbf{Participación (\%)} \\
+\multicolumn{2}{@{}l}{} & \multicolumn{6}{c}{\textbf{FUENTES DE FINANCIAMIENTO (dólares)}} & \\
+\cmidrule(lr){3-8}
+\textbf{Componentes /} & \textbf{Grupo de} & \multicolumn{2}{c}{Externas} & \multicolumn{4}{c}{Internas} & \textbf{TOTAL} \\
+\cmidrule(lr){3-4} \cmidrule(lr){5-8}
+\textbf{Rubros} & \textbf{gasto} & Crédito & Cooperación & Crédito & Fiscales & Autogestión & A. Comunidad & \\
 \midrule
-EST & Estudios Geotécnicos de Suelos, Hidráulica y Diseño Estructural & \$15.000,00 & 8,33 \% \\
-SUB & Subestructura (2 Estribos de Hormigón Armado f'c=280 kg/cm² y Zapatas) & \$65.000,00 & 36,11 \% \\
-SUP & Superestructura Metálica Tipo Bailey (30 m, Ensamblaje y Tablero) & \$80.000,00 & 44,44 \% \\
-ACC & Obras de Acceso, Terraplenes, Gaviones y Defensas Ribereñas & \$10.000,00 & 5,56 \% \\
-FISC & Fiscalización Técnica de Obras Civiles y Control de Calidad & \$7.000,00 & 3,89 \% \\
-PMA & Plan de Manejo Ambiental y Medidas de Mitigación en Riberas & \$3.000,00 & 1,67 \% \\
+\endfirsthead
+\caption[]{Presupuesto y fuentes de financiamiento por componente y actividad (continuación)} \\
+\toprule
+\multicolumn{2}{@{}l}{} & \multicolumn{6}{c}{\textbf{FUENTES DE FINANCIAMIENTO (dólares)}} & \\
+\cmidrule(lr){3-8}
+\textbf{Componentes /} & \textbf{Grupo de} & \multicolumn{2}{c}{Externas} & \multicolumn{4}{c}{Internas} & \textbf{TOTAL} \\
+\cmidrule(lr){3-4} \cmidrule(lr){5-8}
+\textbf{Rubros} & \textbf{gasto} & Crédito & Cooperación & Crédito & Fiscales & Autogestión & A. Comunidad & \\
 \midrule
-\textbf{TOTAL} & \textbf{Presupuesto de Inversión Pública del Proyecto} & \textbf{\$180.000,00} & \textbf{100,00 \%} \\
+\endhead
+\bottomrule
+\endfoot
+\textbf{Componente 1} & \multicolumn{8}{l}{\textbf{Obras Preliminares y Preparación}} \\
+Actividad 1.1: Limpieza, desbroce y replanteo & 75 Obras Públicas & \$0 & \$0 & \$0 & \$3.827,74 & \$0 & \$0 & \$3.827,74 \\
+\midrule
+\textbf{Componente 2} & \multicolumn{8}{l}{\textbf{Infraestructura y Cimentaciones Fluviales}} \\
+Actividad 2.1: Excavaciones, rellenos y empedrado & 75 Obras Públicas & \$0 & \$0 & \$0 & \$22.569,12 & \$0 & \$0 & \$22.569,12 \\
+Actividad 2.2: Hormigón f'c=240 kg/cm² y acero fy=4200 & 75 Obras Públicas & \$0 & \$0 & \$0 & \$47.141,48 & \$0 & \$0 & \$47.141,48 \\
+Actividad 2.3: Gaviones de protección ribereña & 75 Obras Públicas & \$0 & \$0 & \$0 & \$5.331,05 & \$0 & \$0 & \$5.331,05 \\
+\midrule
+\textbf{Componente 3} & \multicolumn{8}{l}{\textbf{Superestructura de Acero Estructural ASTM A-588}} \\
+Actividad 3.1: Suministro y fabricación acero A-588 & 75 Obras Públicas & \$0 & \$0 & \$0 & \$181.872,60 & \$0 & \$0 & \$181.872,60 \\
+Actividad 3.2: Montaje y pintura protectora acero A-588 & 75 Obras Públicas & \$0 & \$0 & \$0 & \$67.152,96 & \$0 & \$0 & \$67.152,96 \\
+\midrule
+\textbf{Componente 4} & \multicolumn{8}{l}{\textbf{Mitigación Ambiental, Seguridad Vial e IVA}} \\
+Actividad 4.1: Señalización, letrero y mitigación ambiental & 75 Obras Públicas & \$0 & \$0 & \$0 & \$2.776,59 & \$0 & \$0 & \$2.776,59 \\
+Actividad 4.2: Impuesto al Valor Agregado (IVA 15\%) & 75 Obras Públicas & \$0 & \$0 & \$0 & \$49.601,03 & \$0 & \$0 & \$49.601,03 \\
+\midrule
+\textbf{Total} & & \textbf{\$0} & \textbf{\$0} & \textbf{\$0} & \textbf{\$380.274,58} & \textbf{\$0} & \textbf{\$0} & \textbf{\$380.274,58} \\
 \bottomrule
 \end{longtable}
-\fuente{Elaboración técnica a partir de análisis de precios unitarios y presupuestos del GAD Provincial de El Oro.}
+\fuente{Elaboración conforme al formato oficial de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador, 2021).}
+\end{landscapepage}
+:::
 :::
 
-La viabilidad financiera del proyecto se estructura mediante concurrencia interinstitucional al amparo del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), estableciendo los compromisos de aporte de cada entidad (Tabla \ref{tbl-fuentes-puente}).
+::: {.content-visible unless-format="pdf"}
+| Componentes / Rubros | Grupo de gasto | Ext. Crédito | Ext. Cooperación | Int. Crédito | Int. Fiscales | Int. Autogestión | Int. A. Comunidad | TOTAL |
+| :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Componente 1: Obras Preliminares y Preparación** | | | | | | | | |
+| Actividad 1.1: Limpieza, desbroce y replanteo | 75 Obras Públicas | $0 | $0 | $0 | $3.827,74 | $0 | $0 | $3.827,74 |
+| **Componente 2: Infraestructura y Cimentaciones Fluviales** | | | | | | | | |
+| Actividad 2.1: Excavaciones, rellenos y empedrado | 75 Obras Públicas | $0 | $0 | $0 | $22.569,12 | $0 | $0 | $22.569,12 |
+| Actividad 2.2: Hormigón f'c=240 kg/cm² y acero fy=4200 | 75 Obras Públicas | $0 | $0 | $0 | $47.141,48 | $0 | $0 | $47.141,48 |
+| Actividad 2.3: Gaviones de protección ribereña | 75 Obras Públicas | $0 | $0 | $0 | $5.331,05 | $0 | $0 | $5.331,05 |
+| **Componente 3: Superestructura de Acero Estructural ASTM A-588** | | | | | | | | |
+| Actividad 3.1: Suministro y fabricación acero A-588 | 75 Obras Públicas | $0 | $0 | $0 | $181.872,60 | $0 | $0 | $181.872,60 |
+| Actividad 3.2: Montaje y pintura protectora acero A-588 | 75 Obras Públicas | $0 | $0 | $0 | $67.152,96 | $0 | $0 | $67.152,96 |
+| **Componente 4: Mitigación Ambiental, Seguridad Vial e IVA** | | | | | | | | |
+| Actividad 4.1: Señalización, letrero y mitigación ambiental | 75 Obras Públicas | $0 | $0 | $0 | $2.776,59 | $0 | $0 | $2.776,59 |
+| Actividad 4.2: Impuesto al Valor Agregado (IVA 15%) | 75 Obras Públicas | $0 | $0 | $0 | $49.601,03 | $0 | $0 | $49.601,03 |
+| **Total** | | **$0** | **$0** | **$0** | **$380.274,58** | **$0** | **$0** | **$380.274,58** |
 
+: Presupuesto y fuentes de financiamiento por componente y actividad (en USD) {#tbl-presupuesto-fuentes-oficial}
+
+*Nota.* Elaboración conforme al formato oficial de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador, 2021).
+:::
+
+La viabilidad financiera del proyecto se estructura mediante concurrencia interinstitucional al amparo del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), estableciendo los compromisos de aporte de cada entidad (@tbl-fuentes-puente).
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-fuentes-puente}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.32\linewidth}p{0.36\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}@{}}
@@ -33,13 +92,26 @@ La viabilidad financiera del proyecto se estructura mediante concurrencia interi
 \toprule
 \textbf{Institución Participante} & \textbf{Mecanismo y Naturaleza del Aporte} & \textbf{Monto (USD)} & \textbf{Porcentaje (\%)} \\
 \midrule
-GAD Provincial de El Oro (Prefectura) & Provisión de superestructura modular Bailey y montaje técnico & \$100.000,00 & 55,56 \% \\
-GAD Municipal del Cantón Santa Rosa & Contratación de estudios de suelos y maquinaria pesada para terraplenes & \$45.000,00 & 25,00 \% \\
-GAD Parroquial Rural de Torata & Contraparte local en obras preliminares, hormigón y fiscalización & \$25.000,00 & 13,89 \% \\
-Comunidad / Finqueros Beneficiarios & Aporte valorado en cesión de fajas de terreno y faenas de desbroce & \$10.000,00 & 5,55 \% \\
+GAD Provincial de El Oro (Prefectura) & Ejecución de obra civil, acero estructural A-588 e IVA & \$310.274,58 & 81,59 \% \\
+GAD Municipal del Cantón Santa Rosa & Aporte concurrente en cimentaciones y terraplenes & \$45.000,00 & 11,83 \% \\
+GAD Parroquial Rural de Torata & Contraparte local en obras preliminares y mitigación & \$25.000,00 & 6,58 \% \\
 \midrule
-\textbf{TOTAL} & \textbf{Fuentes de Financiamiento Comprometidas} & \textbf{\$180.000,00} & \textbf{100,00 \%} \\
+\textbf{TOTAL} & \textbf{Fuentes de Financiamiento Comprometidas} & \textbf{\$380.274,58} & \textbf{100,00 \%} \\
 \bottomrule
 \end{longtable}
 \fuente{Convenio Específico de Cooperación Interinstitucional Prefectura - Municipio - GAD Parroquial Torata.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Institución Participante | Mecanismo y Naturaleza del Aporte | Monto (USD) | Porcentaje (%) |
+| :--- | :--- | ---: | ---: |
+| GAD Provincial de El Oro (Prefectura) | Ejecución de obra civil, acero estructural A-588 e IVA | $310.274,58 | 81,59 % |
+| GAD Municipal del Cantón Santa Rosa | Aporte concurrente en cimentaciones y terraplenes | $45.000,00 | 11,83 % |
+| GAD Parroquial Rural de Torata | Contraparte local en obras preliminares y mitigación | $25.000,00 | 6,58 % |
+| **TOTAL** | **Fuentes de Financiamiento Comprometidas** | **$380.274,58** | **100,00 %** |
+
+: Estructura de financiamiento concurrente interinstitucional {#tbl-fuentes-puente}
+
+*Nota.* Convenio Específico de Cooperación Interinstitucional Prefectura - Municipio - GAD Parroquial Torata.
 :::

@@ -1,5 +1,5 @@
 ---
-title: "PROYECTO DE INVERSIÓN PÚBLICA: CONECTIVIDAD VIAL Y CONSTRUCCIÓN DEL PUENTE VEHICULAR SOBRE EL RÍO CARNE AMARGA EN EL SECTOR EL GUAYABO - LA CHILCA, PARROQUIA RURAL TORATA"
+title: "PROYECTO DE INVERSIÓN PÚBLICA: CONECTIVIDAD VIAL Y CONSTRUCCIÓN DEL PUENTE VEHICULAR SOBRE EL RÍO SANTA ROSA EN EL SECTOR EL GUAYABO - LA CHILCA, PARROQUIA RURAL TORATA"
 author:
   - "David Andrés Pérez Castillo"
   - "Luis Gustavo Hurtado Cuenca"
@@ -14,12 +14,31 @@ faculty: "FACULTAD JURÍDICA, SOCIAL Y ADMINISTRATIVA"
 school: "CARRERA DE ECONOMÍA"
 bibliography: references.bib
 csl: apa.csl
+link-citations: true
 lang: es
 fontsize: 12pt
 has-cover-image: true
+filters:
+  - filters/bold-headers.lua
+crossref:
+  fig-title: Figura
+  tbl-title: Tabla
+  title-delim: "."
 format:
+  docx:
+    reference-doc: custom-reference.docx
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    highlight-style: github
+    tbl-cap-location: top
+    fig-cap-location: top
+    post-render:
+      - scripts/format_apa_docx.py
   pdf:
     template: template.tex
+    pdf-engine: lualatex
+    citeproc: true
     toc: true
     toc-depth: 3
     number-sections: true
@@ -34,6 +53,7 @@ format:
       - bottom=25.4mm
     include-before-body:
       - portada.tex
+      - metadatos.tex
       - presentacion.tex
     include-in-header:
       - text: |
@@ -45,26 +65,34 @@ format:
           \usepackage{etoolbox}
           \usepackage{booktabs}
           \usepackage{caption}
+          \usepackage{titlesec}
+          \titleformat{\section}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\centering}{\thesection}{1em}{}
+          \titleformat{\subsection}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries}{\thesubsection}{1em}{}
+          \titleformat{\subsubsection}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\itshape}{\thesubsubsection}{1em}{}
+          \titleformat{\paragraph}[runin]{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries}{\theparagraph}{1em}{}[.]
+          \titleformat{\subparagraph}[runin]{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\itshape}{\thesubparagraph}{1em}{}[.]
           \usepackage{tikz}
           \usetikzlibrary{arrows,positioning,calc}
-          \DeclareCaptionLabelSeparator{period}{. }
+          \DeclareCaptionLabelSeparator{newline}{\\ \vspace{2pt}}
           \captionsetup[table]{
-            labelsep=period,
+            position=top,
+            labelsep=newline,
             justification=RaggedRight,
             singlelinecheck=false,
-            font={bf,small,singlespacing},
             labelfont={bf},
             textfont={it},
-            skip=2pt
+            font={small,singlespacing},
+            skip=4pt
           }
           \captionsetup[figure]{
-            labelsep=period,
+            position=top,
+            labelsep=newline,
             justification=RaggedRight,
             singlelinecheck=false,
-            font={bf,small,singlespacing},
             labelfont={bf},
             textfont={it},
-            skip=2pt
+            font={small,singlespacing},
+            skip=4pt
           }
           \AtBeginEnvironment{longtable}{\singlespacing\fontsize{10}{12}\selectfont}
           \AtBeginEnvironment{tabular}{\singlespacing\fontsize{10}{12}\selectfont}
@@ -75,11 +103,12 @@ format:
           \newcommand{\logoUNL}{asset/logo_unl.png}
           \newcommand{\logoTORATA}{asset/logo_torata_actualizado.png}
           \newcommand{\logoECONOMIA}{asset/logo_economia.jpg}
-          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
-          \newcommand{\nota}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par}}
+          \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par\vspace{6pt}}\fontsize{12pt}{18pt}\selectfont\onehalfspacing}
+          \newcommand{\nota}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par\vspace{6pt}}\fontsize{12pt}{18pt}\selectfont\onehalfspacing}
 ---
 
 \justifying
+\fontsize{12}{18}\selectfont
 \onehalfspacing
 
 \newpage

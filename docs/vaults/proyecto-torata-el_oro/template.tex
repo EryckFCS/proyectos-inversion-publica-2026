@@ -15,6 +15,7 @@
 
 \usepackage{booktabs}
 \usepackage{float}
+\usepackage[section]{placeins}
 \usepackage{longtable}
 \usepackage{threeparttable}
 \usepackage{array}
@@ -28,13 +29,22 @@
 \usepackage{titlesec}
 \usepackage{url}
 \def\UrlBreaks{\do\/\do-\do\.\do\_\do\?\do\=\do\&\do\%}
-\usepackage[hidelinks,breaklinks]{hyperref}
+\usepackage{xcolor}
+% Color institucional y enlaces (Estándar unlthesis.cls / WordBlue)
+\definecolor{WordBlue}{HTML}{0563C1}
+
+\usepackage[colorlinks=true,
+            linkcolor=WordBlue,
+            citecolor=WordBlue,
+            urlcolor=WordBlue,
+            filecolor=WordBlue,
+            breaklinks=true,
+            pdfborder={0 0 0}]{hyperref}
+\urlstyle{same}
 
 % --- Pandoc Compatibility Block (Iron Clad) ---
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-\usepackage{xcolor}
 \usepackage{fancyvrb}
 \usepackage{framed}
 
@@ -57,7 +67,7 @@ $endif$
 % Definición de macro \citeproc para enlaces dinámicos (Solución Tesis UNL)
 \makeatletter
 \DeclareRobustCommand\citeproc[2]{%
-  \leavevmode\hyperlink{#1}{#2}%
+  \leavevmode{\color{WordBlue}\hyperlink{#1}{#2}}%
 }
 \makeatother
 
@@ -71,6 +81,8 @@ $endif$
 
 \newenvironment{CSLReferences}[2]
   {\setlength{\parindent}{0pt}
+   \fontsize{12pt}{18pt}\selectfont
+   \onehalfspacing
    \setlength{\parskip}{6pt}
    \def\bibitem[##1]##2{\par\noindent\hangindent=\cslhangindent\hypertarget{##2}{}}
   }
@@ -168,10 +180,10 @@ $endif$
 $if(colorlinks)$
 \hypersetup{
   colorlinks=true,
-  linkcolor=$if(linkcolor)$$linkcolor$$else$blue$endif$,
-  filecolor=$if(filecolor)$$filecolor$$else$blue$endif$,
-  citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-  urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$
+  linkcolor=$if(linkcolor)$$linkcolor$$else$WordBlue$endif$,
+  filecolor=$if(filecolor)$$filecolor$$else$WordBlue$endif$,
+  citecolor=$if(citecolor)$$citecolor$$else$WordBlue$endif$,
+  urlcolor=$if(urlcolor)$$urlcolor$$else$WordBlue$endif$
 }
 $endif$
 
@@ -182,6 +194,7 @@ $endif$
     \small
     \textit{Nota.} #1
   \end{flushleft}
+  \fontsize{12pt}{18pt}\selectfont\onehalfspacing
 }
 
 % --- Localización Manual Determinista (Sin Babel) ---
@@ -195,8 +208,10 @@ $endif$
   \renewcommand{\refname}{Referencias}
   
   \RaggedRight
+  \fontsize{12pt}{18pt}\selectfont
   \setlength{\parindent}{1.27cm}
   \setlength{\parskip}{0pt}
+  \urlstyle{same}
 }
 
 \DeclareCaptionLabelSeparator{newline}{\\ \vspace{2pt}}
@@ -233,22 +248,52 @@ $endif$
 \renewcommand{\headrulewidth}{0pt}
 \fancyfoot[R]{\thepage}
 
-\fancypagestyle{plain}{
+\fancypagestyle{metadatos}{
   \fancyhf{}
   \fancyhead[L]{\includegraphics[height=1.2cm]{\logoUNL}}
   \fancyhead[C]{\ifdefined\logoTORATA\includegraphics[height=1.2cm]{\logoTORATA}\fi}
   \fancyhead[R]{\includegraphics[height=1.2cm]{\logoECONOMIA}}
-  \fancyfoot[R]{\thepage}
   \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+  \fancyfoot[L]{%
+    \begin{minipage}[b]{0.45\textwidth}
+      \includegraphics[height=1.1cm]{\logoUNL}
+    \end{minipage}%
+    \hspace{0.05\textwidth}%
+    \begin{minipage}[b]{0.50\textwidth}
+      \fontsize{7.5pt}{9.5pt}\selectfont
+      \textbf{Vinculación con la Sociedad} \\
+      Carrera de Economía--UNL \\
+      Correo: \href{mailto:vinculacion.economia@unl.edu.ec}{vinculacion.economia@unl.edu.ec} \\
+      Octubre 2026 \\
+      Loja--Ecuador
+    \end{minipage}%
+  }
 }
 
-% --- Títulos ---
-\titleformat{\section}{\normalfont\normalsize\bfseries\centering}{\thesection}{1em}{}
-\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{\thesubsubsection}{1em}{}
-\titlespacing*{\section}{0pt}{12pt}{6pt}
+% --- Configuración de títulos APA 7 (Estándar unlthesis.cls - 12pt Universal) ---
+\titleformat{\section}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\centering}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\itshape}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}[runin]{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries}{\theparagraph}{1em}{}[.]
+\titleformat{\subparagraph}[runin]{\normalfont\fontsize{12pt}{18pt}\selectfont\bfseries\itshape}{\thesubparagraph}{1em}{}[.]
+
+\titlespacing*{\section}{0pt}{18pt}{12pt}
 \titlespacing*{\subsection}{0pt}{12pt}{6pt}
 \titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+\titlespacing*{\paragraph}{1.27cm}{12pt}{0.5em}
+\titlespacing*{\subparagraph}{1.27cm}{12pt}{0.5em}
+
+% Desactivar separación silábica / guiones de división de palabras
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\righthyphenmin=62
+\lefthyphenmin=62
+\tolerance=1500
+\emergencystretch=3em
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
 
 \newenvironment{referenciasAPA}{
   \setlength{\parindent}{-1.27cm}
@@ -300,7 +345,10 @@ $if(toc)$
 \hypersetup{linkcolor=black}
 \tableofcontents
 \newpage
+\hypersetup{linkcolor=WordBlue}
 $endif$
+
+\fontsize{12pt}{18pt}\selectfont
 
 $body$
 

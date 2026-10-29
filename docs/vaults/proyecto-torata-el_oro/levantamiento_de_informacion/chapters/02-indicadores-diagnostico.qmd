@@ -1,0 +1,211 @@
+# Indicadores para el Diagnóstico del Espacio Territorial
+
+::: {.content-visible when-format="pdf"}
+
+::: {#tbl-matriz-diagnostico}
+\begin{longtable}{p{4.2cm}p{2.6cm}p{4.4cm}p{2.5cm}p{1.8cm}}
+\caption{Matriz Multidimensional de Indicadores Territoriales - Línea Base Torata (Santa Rosa, El Oro)} \label{tbl-matriz-diagnostico} \\
+\toprule
+\textbf{Variable / Indicador} & \textbf{Unidad de Medida} & \textbf{Valor Observado Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endfirsthead
+\multicolumn{5}{r}{\textit{Sigue en la página siguiente...}} \\
+\midrule
+\textbf{Variable / Indicador} & \textbf{Unidad de Medida} & \textbf{Valor Observado Oficial} & \textbf{Fuente / Ref.} & \textbf{Condición} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\bottomrule
+\endlastfoot
+
+\multicolumn{5}{l}{\textbf{1. COMPONENTE SOCIAL-CULTURAL Y ASENTAMIENTOS HUMANOS}} \\
+\midrule
+Población total por sexo (Hombres) & Habitantes (\%) & 1.109 hab (51,01\%) & INEC (2022) & Verificada \\
+\addlinespace
+Población total por sexo (Mujeres) & Habitantes (\%) & 1.065 hab (48,99\%) & INEC (2022) & Verificada \\
+\addlinespace
+Densidad poblacional territorial & hab/km² & 25,46 hab/km² & PDOT Torata (2024) & Calculada \\
+\addlinespace
+Estructura por edad: 0 a 14 años & \% de población & 21,80\% (474 personas) & INEC (2022) / PDOT & Verificada \\
+\addlinespace
+Estructura por edad: 15 a 64 años & \% de población & 67,71\% (1.472 personas) & INEC (2022) / PDOT & Verificada \\
+\addlinespace
+Estructura por edad: 65 años y más & \% de población & 10,49\% (228 personas) & INEC (2022) / PDOT & Verificada \\
+\addlinespace
+Autoidentificación étnica: Mestizo & \% de población & 92,40\% & INEC (2022) & Verificada \\
+\addlinespace
+Autoidentificación étnica: Otras & \% de población & 7,60\% (Montubio, Afroecuatoriano, Blanco) & INEC (2022) & Verificada \\
+\addlinespace
+Tasa de crecimiento poblacional & \% anual & 0,94\% anual intercensal & INEC (2022) & Calculada \\
+\addlinespace
+Escolaridad promedio & Años lectivos & 7,8 años promedio & INEC (2022) & Verificada \\
+\addlinespace
+Tasa de alfabetización & \% de población & 92,60\% & INEC (2022) & Verificada \\
+\addlinespace
+Pobreza por NBI & \% de población & 67,40\% en situación de pobreza & INEC (2022) / PDOT & Verificada \\
+\addlinespace
+Cobertura de agua por red pública & \% de viviendas & 64,20\% red pública / entubada & EMAPASR-EP / PDOT & Verificada \\
+\addlinespace
+Cobertura alcantarillado sanitario & \% de viviendas & 28,50\% red alcantarillado & EMAPASR-EP / PDOT & Verificada \\
+\addlinespace
+Déficit sanitario (pozo ciego/letrina) & \% de viviendas & 71,50\% sin sistema formal higiénico & Diagnóstico EMAPASR-EP & Verificada \\
+\addlinespace
+Cobertura de energía eléctrica & \% de viviendas & 95,80\% & CNEL El Oro (2024) & Verificada \\
+\addlinespace
+Recolección de residuos sólidos & \% de viviendas & 54,30\% cobertura cantonal & GAD Santa Rosa (2024) & Verificada \\
+\addlinespace
+Cobertura de internet fijo & \% de hogares & 38,70\% & INEC (2022) & Verificada \\
+\addlinespace
+Establecimientos educativos & Número & 4 unidades educativas fiscales & Distrito Educación & Verificada \\
+\addlinespace
+Establecimientos de salud pública & Número & 1 Centro de Salud Tipo A & MSP Distrito 07D06 & Verificada \\
+\addlinespace
+Tiempo de acceso al centro cantonal & Minutos & 40 minutos (Santa Rosa vía E585) & Levantamiento en campo & Verificada \\
+\addlinespace
+Longitud total de red vial parroquial & km & 46,20 km de trazado vial & MTOP / GAD Provincial & Verificada \\
+\addlinespace
+Vías pavimentadas / asfaltadas & \% de la red & 34,20\% pavimentada / asfalto & PDOT Torata (2024) & Verificada \\
+\midrule
+
+\multicolumn{5}{l}{\textbf{2. COMPONENTE ECONÓMICO-PRODUCTIVO}} \\
+\midrule
+Población Económicamente Activa & Personas (\%) & 1.241 personas (57,08\% de la población) & ENEMDU / PDOT Torata (2024) & Verificada \\
+\addlinespace
+Tasa de empleo adecuado / pleno & \% de la PEA & 18,10\% (220 personas) & ENEMDU / PDOT Torata (2024) & Verificada \\
+\addlinespace
+Tasa de subempleo y empleo no remunerado & \% de la PEA & 57,70\% (Subempleo 22,3\% + No remun. 35,4\%) & ENEMDU / PDOT Torata (2024) & Verificada \\
+\addlinespace
+Tasa de desempleo abierto & \% de la PEA & 1,90\% (24 personas estimadas) & ENEMDU / PDOT Torata (2024) & Verificada \\
+\addlinespace
+Sector primario (Agropecuario y Minero) & \% de PEA ocupada & 55,00\% (683 ocupados: Agro 39,44\%, Minería 15,56\%) & PDOT Torata (2024) / INEC & Verificada \\
+\addlinespace
+Sector secundario (Construcción y manufactura) & \% de PEA ocupada & 7,50\% (93 ocupados) & PDOT Torata (2024) / INEC & Verificada \\
+\addlinespace
+Sector terciario (Comercio y servicios) & \% de PEA ocupada & 37,50\% (465 ocupados) & PDOT Torata (2024) / INEC & Verificada \\
+\addlinespace
+Unidades económicas registradas & Número activas & 42 establecimientos formales & SRI Santa Rosa (2024) & Verificada \\
+\addlinespace
+Ingreso promedio mensual del hogar & USD / mes & 415,00 USD / mes & Encuesta GADPR Torata & Verificada \\
+\addlinespace
+Producción ganadera bovina & Cabezas de ganado & 3.898 cabezas censadas (1.386 vacas ordeño) & PDOT Torata (2024) / MAG & Verificada \\
+\addlinespace
+Producción agrícola comercial & Toneladas / año & $\approx 1.650$ ton/año (cacao, café, caña, cítricos) & MAG El Oro (2024) & Verificada \\
+\addlinespace
+Llegada de excursionistas / visitantes & Personas / año & $\approx 1.200$ visitantes al año & Unidad Turismo GAD & Estimada \\
+\addlinespace
+Superficie aptitud agropecuaria & Hectáreas & 5.240 ha bajo explotación activa & MAG / PDOT Torata & Verificada \\
+\midrule
+
+\multicolumn{5}{l}{\textbf{3. COMPONENTE FÍSICO-AMBIENTAL Y RECURSOS NATURALES}} \\
+\midrule
+Superficie total territorial & Hectáreas / km² & 8.538,00 ha ($85,38\text{ km}^2$) & SIGTIERRAS / IGM & Verificada \\
+\addlinespace
+Altitud promedio de cabecera & m s.n.m. & 480 m s.n.m. (cabecera parroquial) & Modelo Digital SRTM & Verificada \\
+\addlinespace
+Pendiente media del relieve & \% & 28\% (paisaje colinado-escarpado de estribación) & SIG Tierras / PDOT & Verificada \\
+\addlinespace
+Temperatura media anual & Grados Celsius & 23,6 °C & INAMHI (2024) & Verificada \\
+\addlinespace
+Precipitación media anual & mm / año & 1.280 mm/año & INAMHI (2024) & Verificada \\
+\addlinespace
+Bosque natural y vegetación protectora & Hectáreas (\%) & 2.322 ha (27,20\% de la superficie) & MAATE (2024) & Verificada \\
+\addlinespace
+Pastizales para producción pecuaria & Hectáreas (\%) & 4.986 ha (58,40\% de la superficie) & MAG / MAATE (2024) & Verificada \\
+\addlinespace
+Zonas de recarga hídrica ricas & Hectáreas & 1.450 ha (Microcuenca alta del Río Santa Rosa) & EMAPASR-EP / MAATE & Verificada \\
+\addlinespace
+Área expuesta a amenazas naturales & Hectáreas (\%) & 1.840 ha (21,55\% de la parroquia) & SNGRE El Oro (2024) & Verificada \\
+\addlinespace
+Amenazas prioritarias identificadas & Tipología & Deslizamientos en taludes viales y crecidas torrenciales estacionales & SNGRE / Plan GAD & Verificada \\
+\addlinespace
+Caudal medio en tomas locales & Litros / segundo & 32,5 L/s (aforo en estiaje verificado) & EMAPASR-EP (2024) & Verificada \\
+\midrule
+
+\multicolumn{5}{l}{\textbf{4. COMPONENTE POLÍTICO-INSTITUCIONAL Y GOBERNANZA}} \\
+\midrule
+Organizaciones comunitarias de base & Número activas & 11 entidades (Juntas de Agua, Comités Pro-Mejoras, Asoc. Ganaderos) & GADPR Torata / MIES & Verificada \\
+\addlinespace
+Presupuesto anual GAD Parroquial & USD / año & \$245.000,00 a \$280.000,00 USD/año & Cédula Presupuestaria GAD & Verificada \\
+\addlinespace
+Proyectos de inversión pública trienio & Número ejecutados & 6 proyectos (alcantarillado parcial, agua entubada, canchas) & Rendición Cuentas GAD & Verificada \\
+\addlinespace
+Instrumentos de planificación vigentes & Número oficiales & 2 (PDOT Parroquial Torata 2023--2027 y PUGS Santa Rosa) & Registro Oficial & Verificada \\
+\addlinespace
+Instituciones con presencia territorial & Número entidades & 6 (GAD Santa Rosa, GADPR, EMAPASR-EP, MSP, Min. Educación, Tenencia) & Directorio GAD & Verificada \\
+\addlinespace
+Emprendimientos productivos activos & Número unidades & 5 microempresas (queserías artesanales, centros acopio de cacao) & MIPRO / GADPR & Verificada \\
+
+\end{longtable}
+\textit{Fuente:} GAD Parroquial Rural de Torata [@pdot_torata_2024], GAD Municipal del Cantón Santa Rosa [@pdot_santarosa_2024], Instituto Nacional de Estadística y Censos [@inec_censo_2022] y EMAPASR-EP [@emapasr_diagnostico_2024].
+:::
+
+:::
+
+::: {.content-visible unless-format="pdf"}
+
+| Variable / Indicador | Unidad de Medida | Valor Observado Oficial | Fuente / Referencia | Condición |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. COMPONENTE SOCIAL-CULTURAL Y ASENTAMIENTOS HUMANOS** | | | | |
+| Población total por sexo (Hombres) | Habitantes (%) | 1.109 hab (51,01%) | INEC (2022) | Verificada |
+| Población total por sexo (Mujeres) | Habitantes (%) | 1.065 hab (48,99%) | INEC (2022) | Verificada |
+| Densidad poblacional territorial | hab/km² | 25,46 hab/km² | PDOT Torata (2024) | Calculada |
+| Estructura por edad: 0 a 14 años | % de población | 21,80% (474 personas) | INEC (2022) / PDOT | Verificada |
+| Estructura por edad: 15 a 64 años | % de población | 67,71% (1.472 personas) | INEC (2022) / PDOT | Verificada |
+| Estructura por edad: 65 años y más | % de población | 10,49% (228 personas) | INEC (2022) / PDOT | Verificada |
+| Autoidentificación étnica: Mestizo | % de población | 92,40% | INEC (2022) | Verificada |
+| Autoidentificación étnica: Otras | % de población | 7,60% (Montubio, Afroecuatoriano, Blanco) | INEC (2022) | Verificada |
+| Tasa de crecimiento poblacional | % anual | 0,94% anual intercensal | INEC (2022) | Calculada |
+| Escolaridad promedio | Años lectivos | 7,8 años promedio | INEC (2022) | Verificada |
+| Tasa de alfabetización | % de población | 92,60% | INEC (2022) | Verificada |
+| Pobreza por NBI | % de población | 67,40% en situación de pobreza | INEC (2022) / PDOT | Verificada |
+| Cobertura de agua por red pública | % de viviendas | 64,20% red pública / entubada | EMAPASR-EP / PDOT | Verificada |
+| Cobertura alcantarillado sanitario | % de viviendas | 28,50% red alcantarillado | EMAPASR-EP / PDOT | Verificada |
+| Déficit sanitario (pozo ciego/letrina) | % de viviendas | 71,50% sin sistema formal higiénico | Diagnóstico EMAPASR-EP | Verificada |
+| Cobertura de energía eléctrica | % de viviendas | 95,80% | CNEL El Oro (2024) | Verificada |
+| Recolección de residuos sólidos | % de viviendas | 54,30% cobertura cantonal | GAD Santa Rosa (2024) | Verificada |
+| Cobertura de internet fijo | % de hogares | 38,70% | INEC (2022) | Verificada |
+| Establecimientos educativos | Número | 4 unidades educativas fiscales | Distrito Educación | Verificada |
+| Establecimientos de salud pública | Número | 1 Centro de Salud Tipo A | MSP Distrito 07D06 | Verificada |
+| Tiempo de acceso al centro cantonal | Minutos | 40 minutos (Santa Rosa vía E585) | Levantamiento en campo | Verificada |
+| Longitud total de red vial parroquial | km | 46,20 km de trazado vial | MTOP / GAD Provincial | Verificada |
+| Vías pavimentadas / asfaltadas | % de la red | 34,20% pavimentada / asfalto | PDOT Torata (2024) | Verificada |
+| **2. COMPONENTE ECONÓMICO-PRODUCTIVO** | | | | |
+| Población Económicamente Activa | Personas (%) | 1.241 personas (57,08% de la población) | ENEMDU / PDOT Torata (2024) | Verificada |
+| Tasa de empleo adecuado / pleno | % de la PEA | 18,10% (220 personas) | ENEMDU / PDOT Torata (2024) | Verificada |
+| Tasa de subempleo y empleo no remunerado | % de la PEA | 57,70% (Subempleo 22,3% + No remun. 35,4%) | ENEMDU / PDOT Torata (2024) | Verificada |
+| Tasa de desempleo abierto | % de la PEA | 1,90% (24 personas estimadas) | ENEMDU / PDOT Torata (2024) | Verificada |
+| Sector primario (Agropecuario y Minero) | % de PEA ocupada | 55,00% (683 ocupados: Agro 39,44%, Minería 15,56%) | PDOT Torata (2024) / INEC | Verificada |
+| Sector secundario (Construcción y manufactura) | % de PEA ocupada | 7,50% (93 ocupados) | PDOT Torata (2024) / INEC | Verificada |
+| Sector terciario (Comercio y servicios) | % de PEA ocupada | 37,50% (465 ocupados) | PDOT Torata (2024) / INEC | Verificada |
+| Unidades económicas registradas | Número activas | 42 establecimientos formales | SRI Santa Rosa (2024) | Verificada |
+| Ingreso promedio mensual del hogar | USD / mes | 415,00 USD / mes | Encuesta GADPR Torata | Verificada |
+| Producción ganadera bovina | Cabezas de ganado | 3.898 cabezas censadas (1.386 vacas ordeño) | PDOT Torata (2024) / MAG | Verificada |
+| Producción agrícola comercial | Toneladas / año | ≈ 1.650 ton/año (cacao, café, caña, cítricos) | MAG El Oro (2024) | Verificada |
+| Llegada de excursionistas / visitantes | Personas / año | ≈ 1.200 visitantes al año | Unidad Turismo GAD | Estimada |
+| Superficie aptitud agropecuaria | Hectáreas | 5.240 ha bajo explotación activa | MAG / PDOT Torata | Verificada |
+| **3. COMPONENTE FÍSICO-AMBIENTAL Y RECURSOS NATURALES** | | | | |
+| Superficie total territorial | Hectáreas / km² | 8.538,00 ha (85,38 km²) | SIGTIERRAS / IGM | Verificada |
+| Altitud promedio de cabecera | m s.n.m. | 480 m s.n.m. (cabecera parroquial) | Modelo Digital SRTM | Verificada |
+| Pendiente media del relieve | % | 28% (paisaje colinado-escarpado de estribación) | SIG Tierras / PDOT | Verificada |
+| Temperatura media anual | Grados Celsius | 23,6 °C | INAMHI (2024) | Verificada |
+| Precipitación media anual | mm / año | 1.280 mm/año | INAMHI (2024) | Verificada |
+| Bosque natural y vegetación protectora | Hectáreas (%) | 2.322 ha (27,20% de la superficie) | MAATE (2024) | Verificada |
+| Pastizales para producción pecuaria | Hectáreas (%) | 4.986 ha (58,40% de la superficie) | MAG / MAATE (2024) | Verificada |
+| Zonas de recarga hídrica ricas | Hectáreas | 1.450 ha (Microcuenca alta del Río Santa Rosa) | EMAPASR-EP / MAATE | Verificada |
+| Área expuesta a amenazas naturales | Hectáreas (%) | 1.840 ha (21,55% de la parroquia) | SNGRE El Oro (2024) | Verificada |
+| Amenazas prioritarias identificadas | Tipología | Deslizamientos en taludes viales y crecidas torrenciales estacionales | SNGRE / Plan GAD | Verificada |
+| Caudal medio en tomas locales | Litros / segundo | 32,5 L/s (aforo en estiaje verificado) | EMAPASR-EP (2024) | Verificada |
+| **4. COMPONENTE POLÍTICO-INSTITUCIONAL Y GOBERNANZA** | | | | |
+| Organizaciones comunitarias de base | Número activas | 11 entidades (Juntas de Agua, Comités Pro-Mejoras, Asoc. Ganaderos) | GADPR Torata / MIES | Verificada |
+| Presupuesto anual GAD Parroquial | USD / año | $245.000,00 a $280.000,00 USD/año | Cédula Presupuestaria GAD | Verificada |
+| Proyectos de inversión pública trienio | Número ejecutados | 6 proyectos (alcantarillado parcial, agua entubada, canchas) | Rendición Cuentas GAD | Verificada |
+| Instrumentos de planificación vigentes | Número oficiales | 2 (PDOT Parroquial Torata 2023–2027 y PUGS Santa Rosa) | Registro Oficial | Verificada |
+| Instituciones con presencia territorial | Número entidades | 6 (GAD Santa Rosa, GADPR, EMAPASR-EP, MSP, Min. Educación, Tenencia) | Directorio GAD | Verificada |
+| Emprendimientos productivos activos | Número unidades | 5 microempresas (queserías artesanales, centros acopio de cacao) | MIPRO / GADPR | Verificada |
+
+: Matriz Multidimensional de Indicadores Territoriales - Línea Base Torata (Santa Rosa, El Oro) {#tbl-matriz-diagnostico}
+
+*Fuente:* GAD Parroquial Rural de Torata [@pdot_torata_2024], GAD Municipal del Cantón Santa Rosa [@pdot_santarosa_2024], Instituto Nacional de Estadística y Censos [@inec_censo_2022] y EMAPASR-EP [@emapasr_diagnostico_2024].
+
+:::

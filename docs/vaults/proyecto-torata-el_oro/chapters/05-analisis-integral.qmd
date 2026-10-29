@@ -12,7 +12,7 @@ El proyecto contempla una solución técnica modular probada y de alta resilienc
 
 ### Descripción de la ingeniería del proyecto
 
-El dimensionamiento geométrico e hidráulico del puente responde a las características geomorfológicas del río Carne Amarga:
+El dimensionamiento geométrico e hidráulico del puente responde a las características geomorfológicas del río Santa Rosa:
 
 * Superestructura Metálica Modular: Estructura de celosía de acero estructural de alta resistencia (ASTM A572 Grado 50), modular tipo Bailey con una luz libre de 30,00 metros y un ancho de calzada útil de 4,20 metros (un carril de circulación vehicular y franja de seguridad peatonal lateral de 0,80 m con baranda metálica). Capacidad portante calculada bajo la norma AASHTO Standard Specifications for Highway Bridges con carga viva de diseño HS-20 (32 toneladas de peso bruto vehicular).
 * Subestructura y Cimentaciones Profundas: Dos estribos de hormigón armado ($f'c = 280\text{ kg/cm}^2$, acero corrugado $fy = 4.200\text{ kg/cm}^2$), con zapatas desplantadas a cota no socavable sobre el estrato rocoso del lecho fluvial. Cada estribo incorpora pantallas frontales de 6,50 m de altura, aletas laterales de encauzamiento a 45° y orificios de drenaje tipo barbacana.
@@ -20,8 +20,9 @@ El dimensionamiento geométrico e hidráulico del puente responde a las caracter
 
 ### Especificaciones técnicas
 
-Para garantizar la correcta ejecución física de las obras de ingeniería vial, se establecen los requerimientos mínimos de maquinaria pesada y equipos técnicos detallados en la Tabla \ref{tbl-maquinaria-puente}.
+Para garantizar la correcta ejecución física de las obras de ingeniería vial, se establecen los requerimientos mínimos de maquinaria pesada y equipos técnicos detallados en la @tbl-maquinaria-puente.
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-maquinaria-puente}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.25\linewidth}p{0.30\linewidth}p{0.45\linewidth}@{}}
@@ -44,6 +45,22 @@ Transporte de Carga & Volquetas de 12 m³ & Acarreo de material pétreo, retiro 
 \end{longtable}
 \fuente{Términos de referencia técnicos de la Dirección de Obras Públicas de la Prefectura de El Oro.}
 :::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Fase Operativa | Maquinaria / Equipo | Especificación Técnica y Función |
+| :--- | :--- | :--- |
+| Estudios Geotécnicos | Perforadora rotativa SPT | Sondeos a percusión y rotación para extracción de testigos hasta 15 m de profundidad. |
+| Movimiento de Tierras | Excavadora de orugas 20 tn | Excavación del lecho fluvial y cimentaciones de zapatas con balde de 1.1 m³. |
+| Obras de Cimentación | Hormigonera y motobomba | Mezclado y bombeo de hormigón estructural f'c=280 kg/cm² con aditivo acelerante. |
+| Montaje Estructural | Grúa telescópica 35 tn | Izaje y posicionamiento de paneles modulares de acero sobre rodillos de lanzamiento. |
+| Conformación Accesos | Motoniveladora y rodillo | Tendido, perfilado y compactación de material de base granular al 95% del Proctor Modificado. |
+| Transporte de Carga | Volquetas de 12 m³ | Acarreo de material pétreo, retiro de desalojos y transporte de gaviones. |
+
+: Requerimientos técnicos y maquinaria de obra civil {#tbl-maquinaria-puente}
+
+*Nota.* Términos de referencia técnicos de la Dirección de Obras Públicas de la Prefectura de El Oro.
+:::
 
 ## Viabilidad financiera fiscal
 
@@ -55,33 +72,95 @@ Los costos de operación y mantenimiento (O&M) se estimaron sobre la base de las
 
 ### Identificación y valoración de la inversión total, costos de operación y mantenimiento e ingresos
 
-El presupuesto consolidado de inversión asciende a $180.000,00 USD (Tabla \ref{tbl-presupuesto-detallado-puente}).
+El presupuesto consolidado de inversión asciende a $380.274,58 USD (@tbl-presupuesto-detallado-puente).
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-presupuesto-detallado-puente}
-\fontsize{9.5}{11.5}\selectfont
-\begin{longtable}{@{}p{0.12\linewidth}p{0.38\linewidth}p{0.14\linewidth}p{0.18\linewidth}p{0.18\linewidth}@{}}
+\fontsize{9}{11}\selectfont
+\begin{longtable}{@{}p{0.12\linewidth}p{0.42\linewidth}p{0.10\linewidth}p{0.18\linewidth}p{0.18\linewidth}@{}}
 \caption{Presupuesto referencial detallado de inversión del puente} \label{tbl-presupuesto-detallado-puente} \\
 \toprule
 \textbf{Cantidad} & \textbf{Rubro de Construcción} & \textbf{Unidad} & \textbf{Precio Unit. (USD)} & \textbf{Total (USD)} \\
 \midrule
-1 & Estudios de suelos y geotecnia profunda & global & 15.000,00 & 15.000,00 \\
-320 & Excavación masiva en suelo y roca & m³ & 18,50 & 5.920,00 \\
-180 & Hormigón armado f'c=280 kg/cm² en estribos & m³ & 285,00 & 51.300,00 \\
-18.500 & Acero de refuerzo corrugado fy=4.200 kg/cm² & kg & 1,60 & 29.600,00 \\
-1 & Superestructura metálica modular Bailey 30m & global & 50.000,00 & 50.000,00 \\
-120 & Muros de gaviones y enrocado de protección & m³ & 65,00 & 7.800,00 \\
-250 & Conformación de terraplenes y accesos & m & 41,52 & 10.380,00 \\
-1 & Fiscalización técnica y control de calidad & global & 7.000,00 & 7.000,00 \\
-1 & Plan de manejo ambiental y mitigación & global & 3.000,00 & 3.000,00 \\
+ & \textbf{Obras Preliminares} & & & \textbf{3.827,74} \\
+1.352,42 & Limpieza y desbroce & m² & 1,73 & 2.339,69 \\
+664,31 & Trazado y replanteo & m² & 2,24 & 1.488,05 \\
+\addlinespace
+ & \textbf{Infraestructura y Superestructura} & & & \textbf{324.069,22} \\
+581,70 & Excavación y relleno para puentes & m³ & 10,99 & 6.392,88 \\
+10,50 & Excavación manual & m³ & 9,73 & 102,17 \\
+20,32 & Excavación en roca & m³ & 13,51 & 274,52 \\
+22,36 & Empedrado base $\le$ 40cm & m³ & 29,59 & 661,63 \\
+576,32 & Relleno compactado material mejoramiento & m³ & 18,92 & 10.903,97 \\
+15.128,40 & Transporte de material de mejoramiento & m³-km & 0,28 & 4.235,95 \\
+68,50 & Hormigón simple f'c=240 kg/cm² & m³ & 280,68 & 19.226,58 \\
+10.736,50 & Acero de refuerzo fy=4200 kg/cm² & kg & 2,60 & 27.914,90 \\
+39.972,00 & Suministro acero estructural ASTM A-588 & kg & 2,83 & 113.120,76 \\
+39.972,00 & Fabricación acero estructural ASTM A-588 & kg & 1,72 & 68.751,84 \\
+39.972,00 & Montaje acero estructural ASTM A-588 & kg & 1,49 & 59.558,28 \\
+39.972,00 & Pintura acero estructural ASTM A-588 & kg & 0,19 & 7.594,68 \\
+55,70 & Gaviones & m³ & 95,71 & 5.331,05 \\
+\addlinespace
+ & \textbf{Mitigación de Impactos Ambientales} & & & \textbf{2.776,59} \\
+2,00 & Señalización tipo caballete 1,20x0,60m & u & 178,94 & 357,88 \\
+2,00 & Rótulos ambientales 1,20x0,80m pedestal & u & 181,45 & 362,90 \\
+200,01 & Cinta plástica señalización peligro & m & 0,26 & 52,00 \\
+6,00 & Pitutos delimitación con cinta reflectiva & u & 9,32 & 55,92 \\
+4,00 & Conos en polietileno & u & 21,88 & 87,52 \\
+2,00 & Paletas de siga y pare & u & 14,42 & 28,84 \\
+1,00 & Batería sanitaria móvil (u/mes) & u & 349,64 & 349,64 \\
+1,00 & Letrero de obra 6,00x4,00m con estructura & u & 1.481,89 & 1.481,89 \\
 \midrule
-& \textbf{Presupuesto Total de Inversión Inicial} & & & \textbf{180.000,00} \\
+ & \textbf{Subtotal Costo Directo e Indirecto} & & & \textbf{330.673,55} \\
+ & \textbf{Impuesto al Valor Agregado (IVA 15\%)} & & & \textbf{49.601,03} \\
+ & \textbf{Presupuesto Total de Inversión Referencial} & & & \textbf{380.274,58} \\
 \bottomrule
 \end{longtable}
-\fuente{Presupuesto referencial de obras viales de la Prefectura de El Oro y GAD Santa Rosa.}
+\fuente{Expediente técnico oficial y presupuesto de obra del GAD Provincial de El Oro.}
+:::
 :::
 
-Los costos anuales de mantenimiento vial suman $3.500,00 USD durante el primer año (Tabla \ref{tbl-costos-mantenimiento-puente}).
+::: {.content-visible unless-format="pdf"}
+| Cantidad | Rubro de Construcción | Unidad | Precio Unit. (USD) | Total (USD) |
+| ---: | :--- | :---: | ---: | ---: |
+| | **Obras Preliminares** | | | **3.827,74** |
+| 1.352,42 | Limpieza y desbroce | m² | 1,73 | 2.339,69 |
+| 664,31 | Trazado y replanteo | m² | 2,24 | 1.488,05 |
+| | **Infraestructura y Superestructura** | | | **324.069,22** |
+| 581,70 | Excavación y relleno para puentes | m³ | 10,99 | 6.392,88 |
+| 10,50 | Excavación manual | m³ | 9,73 | 102,17 |
+| 20,32 | Excavación en roca | m³ | 13,51 | 274,52 |
+| 22,36 | Empedrado base $\le$ 40cm | m³ | 29,59 | 661,63 |
+| 576,32 | Relleno compactado material mejoramiento | m³ | 18,92 | 10.903,97 |
+| 15.128,40 | Transporte de material de mejoramiento | m³-km | 0,28 | 4.235,95 |
+| 68,50 | Hormigón simple f'c=240 kg/cm² | m³ | 280,68 | 19.226,58 |
+| 10.736,50 | Acero de refuerzo fy=4200 kg/cm² | kg | 2,60 | 27.914,90 |
+| 39.972,00 | Suministro acero estructural ASTM A-588 | kg | 2,83 | 113.120,76 |
+| 39.972,00 | Fabricación acero estructural ASTM A-588 | kg | 1,72 | 68.751,84 |
+| 39.972,00 | Montaje acero estructural ASTM A-588 | kg | 1,49 | 59.558,28 |
+| 39.972,00 | Pintura acero estructural ASTM A-588 | kg | 0,19 | 7.594,68 |
+| 55,70 | Gaviones | m³ | 95,71 | 5.331,05 |
+| | **Mitigación de Impactos Ambientales** | | | **2.776,59** |
+| 2,00 | Señalización tipo caballete 1,20x0,60m | u | 178,94 | 357,88 |
+| 2,00 | Rótulos ambientales 1,20x0,80m pedestal | u | 181,45 | 362,90 |
+| 200,01 | Cinta plástica señalización peligro | m | 0,26 | 52,00 |
+| 6,00 | Pitutos delimitación con cinta reflectiva | u | 9,32 | 55,92 |
+| 4,00 | Conos en polietileno | u | 21,88 | 87,52 |
+| 2,00 | Paletas de siga y pare | u | 14,42 | 28,84 |
+| 1,00 | Batería sanitaria móvil (u/mes) | u | 349,64 | 349,64 |
+| 1,00 | Letrero de obra 6,00x4,00m con estructura | u | 1.481,89 | 1.481,89 |
+| | **Subtotal Costo Directo e Indirecto** | | | **330.673,55** |
+| | **Impuesto al Valor Agregado (IVA 15%)** | | | **49.601,03** |
+| | **Presupuesto Total de Inversión Referencial** | | | **380.274,58** |
 
+: Presupuesto referencial detallado de inversión del puente {#tbl-presupuesto-detallado-puente}
+
+*Nota.* Expediente técnico oficial y presupuesto de obra del GAD Provincial de El Oro.
+:::
+
+Los costos anuales de mantenimiento vial suman $3.500,00 USD durante el primer año (@tbl-costos-mantenimiento-puente).
+
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-costos-mantenimiento-puente}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.45\linewidth}p{0.15\linewidth}p{0.20\linewidth}p{0.20\linewidth}@{}}
@@ -99,16 +178,31 @@ Reposición de gaviones y limpieza de palizadas & global & Anual & 500,00 \\
 \end{longtable}
 \fuente{Manual de mantenimiento de puentes modulares del MTOP y Prefectura de El Oro.}
 :::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Rubro de Mantenimiento Vial | Unidad | Frecuencia | Valor Anual (USD) |
+| :--- | :---: | :---: | ---: |
+| Ajuste de pernería y revisión de pasadores | global | Semestral | 800,00 |
+| Limpieza de cunetas y desbroce de accesos | global | Trimestral | 1.200,00 |
+| Pintura anticorrosiva y señalización reflectiva | global | Bianual (prorrateado) | 1.000,00 |
+| Reposición de gaviones y limpieza de palizadas | global | Anual | 500,00 |
+| **Total Costos Anuales de Mantenimiento** | | | **3.500,00** |
+
+: Costos anuales referenciales de operación y mantenimiento (O&M) {#tbl-costos-mantenimiento-puente}
+
+*Nota.* Manual de mantenimiento de puentes modulares del MTOP y Prefectura de El Oro.
+:::
 
 ### Flujo financiero fiscal
 
-Desde la perspectiva financiera y fiscal pública, el flujo de desembolsos contempla la salida neta del aporte presupuestario de las tres entidades en el Año 0 ($180.000,00 USD) y la provisión anual de $3.500,00 USD para O&M por parte del GAD Parroquial y Municipal. Al tratarse de un bien público de libre acceso no arancelado mediante peaje, no genera ingresos de caja comercial directa, justificándose financieramente por el ahorro presupuestario en reconstrucciones provisionales de pasos de madera que los GAD debían solventar anualmente ($12.000,00 USD al año).
+Desde la perspectiva financiera y fiscal pública, el flujo de desembolsos contempla la salida neta del aporte presupuestario de las entidades públicas en el Año 0 ($380.274,58 USD) y la provisión anual de $3.500,00 USD para O&M por parte del GAD Parroquial y Municipal. Al tratarse de un bien público de libre acceso no arancelado mediante peaje, no genera ingresos de caja comercial directa, justificándose financieramente por el ahorro presupuestario en reconstrucciones provisionales de pasos de madera que los GAD debían solventar anualmente ($12.000,00 USD al año).
 
 ### Indicadores financieros fiscales (TIR, VAN y otros)
 
 Bajo el flujo fiscal de costos evitados al fisco local (reemplazo de gastos recurrentes de emergencia por mantenimiento ordinario planificado):
 
-* VAN Financiero Fiscal (al 8,00 % de tasa de descuento fiscal): -\$84.230,00 USD (indica necesidad de subsidio de capital típico en infraestructura de conectividad comunitaria rural).
+* VAN Financiero Fiscal (al 8,00 % de tasa de descuento fiscal): -\$296.840,00 USD (indica necesidad de subsidio de capital típico en infraestructura de conectividad comunitaria rural).
 * Cobertura Fiscal del Mantenimiento: 100 % garantizada mediante asignación del fondo vial ordinario del GADPR Torata y maquinaria provincial.
 
 ## Viabilidad económica
@@ -119,7 +213,7 @@ Para la evaluación socioeconómica se aplicó la metodología de precios social
 
 * Factor de Conversión de Bienes Nacionales y Materiales: 0,85 para corregir distorsiones arancelarias e impuestos indirectos.
 * Factor de Conversión de Mano de Obra No Calificada: 0,60 para reflejar el costo de oportunidad social del empleo rural desempleado.
-* Inversión Social Corregida (Año 0): \$147.600,00 USD.
+* Inversión Social Corregida (Año 0): \$281.072,52 USD.
 * Costos de O&M Sociales: \$2.975,00 USD anuales.
 
 Los beneficios económicos sociales corresponden al excedente social generado en el territorio: (1) Ahorro de costos de operación vehicular (COV) derivado de menor desgaste de neumáticos y combustible; (2) Eliminación definitiva de pérdidas agropecuarias por leche derramada o fermentada y cosechas descompuestas; (3) Valor social del ahorro de tiempo de traslado de los productores hacia ferias cantonales.
@@ -135,31 +229,52 @@ Los beneficios económicos valorados anualmente ascienden en el Año 1 a:
 
 ### Flujo económico
 
-El flujo económico social proyectado a un horizonte de 20 años bajo la metodología oficial de evaluación social se detalla en la Tabla \ref{tbl-flujo-caja-social}.
+El flujo económico social proyectado a un horizonte de 20 años bajo la metodología oficial de evaluación social se detalla en la @tbl-flujo-caja-social.
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-flujo-caja-social}
-\fontsize{8}{10}\selectfont
-\begin{longtable}{@{}p{0.34\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}>{\raggedleft\arraybackslash}p{0.11\linewidth}@{}}
+\begin{landscapepage}
+\fontsize{9}{11.5}\selectfont
+\setlength{\tabcolsep}{6pt}
+\begin{longtable}{@{}p{0.36\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}>{\raggedleft\arraybackslash}p{0.10\linewidth}@{}}
 \caption{Flujo de caja social proyectado a 20 años (quinquenalizado en USD)} \label{tbl-flujo-caja-social} \\
 \toprule
 \textbf{Rubro del Flujo Social (USD)} & \textbf{Año 0} & \textbf{Año 1} & \textbf{Año 5} & \textbf{Año 10} & \textbf{Año 15} & \textbf{Año 20} \\
 \midrule
-Inversión Inicial Corregida & -\$147.600 & \$0 & \$0 & \$0 & \$0 & \$0 \\
-Costos de Mantenimiento O\&M & \$0 & -\$2.975 & -\$3.280 & -\$3.700 & -\$4.170 & -\$4.690 \\
-Beneficio: Ahorro Costos Operación Vehicular & \$0 & \$14.200 & \$16.050 & \$18.720 & \$21.840 & \$25.480 \\
-Beneficio: Eliminación Pérdidas Agrícolas & \$0 & \$18.500 & \$20.920 & \$24.410 & \$28.480 & \$33.230 \\
-Beneficio: Ahorro Tiempos de Viaje & \$0 & \$4.800 & \$5.430 & \$6.330 & \$7.390 & \$8.620 \\
+Inversión Inicial Corregida & -\$281.073 & \$0 & \$0 & \$0 & \$0 & \$0 \\
+Costos de Mantenimiento O\&M & \$0 & -\$2.975 & -\$3.220 & -\$3.555 & -\$3.925 & -\$4.334 \\
+Beneficio: Ahorro Costos Operación Vehicular & \$0 & \$14.200 & \$15.674 & \$17.734 & \$20.064 & \$22.701 \\
+Beneficio: Eliminación Pérdidas Agrícolas & \$0 & \$18.500 & \$20.421 & \$23.104 & \$26.140 & \$29.575 \\
+Beneficio: Ahorro Tiempos de Viaje & \$0 & \$4.800 & \$5.298 & \$5.995 & \$6.782 & \$7.674 \\
 \midrule
-\textbf{Flujo Neto Social (FNS)} & \textbf{-\$147.600} & \textbf{\$34.525} & \textbf{\$39.120} & \textbf{\$45.780} & \textbf{\$53.540} & \textbf{\$62.640} \\
+\textbf{Flujo Neto Social (FNS)} & \textbf{-\$281.073} & \textbf{\$34.525} & \textbf{\$38.173} & \textbf{\$43.277} & \textbf{\$49.061} & \textbf{\$55.615} \\
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir de cuantificación de ahorro en costos vehiculares, fletes y tiempos.}
+\end{landscapepage}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Rubro del Flujo Social (USD) | Año 0 | Año 1 | Año 5 | Año 10 | Año 15 | Año 20 |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Inversión Inicial Corregida | -$281.073 | $0 | $0 | $0 | $0 | $0 |
+| Costos de Mantenimiento O&M | $0 | -$2.975 | -$3.220 | -$3.555 | -$3.925 | -$4.334 |
+| Beneficio: Ahorro Costos Operación Vehicular | $0 | $14.200 | $15.674 | $17.734 | $20.064 | $22.701 |
+| Beneficio: Eliminación Pérdidas Agrícolas | $0 | $18.500 | $20.421 | $23.104 | $26.140 | $29.575 |
+| Beneficio: Ahorro Tiempos de Viaje | $0 | $4.800 | $5.298 | $5.995 | $6.782 | $7.674 |
+| **Flujo Neto Social (FNS)** | **-$281.073** | **$34.525** | **$38.173** | **$43.277** | **$49.061** | **$55.615** |
+
+: Flujo de caja social proyectado a 20 años (quinquenalizado en USD) {#tbl-flujo-caja-social}
+
+*Nota.* Elaboración técnica a partir de cuantificación de ahorro en costos vehiculares, fletes y tiempos.
 :::
 
 ### Indicadores Económicos (TIR, VAN y otros)
 
-Los resultados de rentabilidad socioeconómica confirman la alta conveniencia y rentabilidad social del proyecto (Tabla \ref{tbl-indicadores-financieros-puente}).
+Los resultados de rentabilidad socioeconómica confirman la alta conveniencia y rentabilidad social del proyecto (@tbl-indicadores-financieros-puente).
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-indicadores-financieros-puente}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.35\linewidth}p{0.20\linewidth}p{0.45\linewidth}@{}}
@@ -167,22 +282,37 @@ Los resultados de rentabilidad socioeconómica confirman la alta conveniencia y 
 \toprule
 \textbf{Indicador de Evaluación} & \textbf{Valor Estimado} & \textbf{Criterio de Decisión / Aceptación} \\
 \midrule
-Valor Actual Neto Social (VANS) & \$92.450,80 USD & VANS $>$ 0 (El proyecto genera un excedente de bienestar social neto). \\
+Valor Actual Neto Social (VANS) & \$127.268,35 USD & VANS $>$ 0 (El proyecto genera un excedente de bienestar social neto). \\
 \addlinespace
-Tasa Interna de Retorno Social (TIRS) & 16,85 \% & TIRS $>$ TSD (16,85\% $>$ 8,00\%, proyecto altamente rentable). \\
+Tasa Interna de Retorno Social (TIRS) & 13,09 \% & TIRS $>$ TSD (13,09\% $>$ 8,00\%, proyecto rentable socialmente). \\
 \addlinespace
-Relación Beneficio / Costo Social (B/C) & 1,51 & B/C $>$ 1,00 (Por cada dólar invertido se retornan \$1,51 USD en beneficios sociales). \\
+Relación Beneficio / Costo Social (B/C) & 1,40 & B/C $>$ 1,00 (Por cada dólar invertido se retornan \$1,40 USD en beneficios sociales). \\
 \addlinespace
-Costo por Beneficiario Directo & \$140,62 USD/hab. & Muy por debajo de los topes de eficiencia vial del MTOP y BDE. \\
+Costo por Beneficiario Directo & \$297,09 USD/hab. & Conforme a los rangos de eficiencia vial del MTOP y BDE. \\
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir del flujo de beneficios sociales netos descontados.}
 :::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Indicador de Evaluación | Valor Estimado | Criterio de Decisión / Aceptación |
+| :--- | :--- | :--- |
+| Valor Actual Neto Social (VANS) | $127.268,35 USD | VANS > 0 (El proyecto genera un excedente de bienestar social neto). |
+| Tasa Interna de Retorno Social (TIRS) | 13,09 % | TIRS > TSD (13,09% > 8,00%, proyecto rentable socialmente). |
+| Relación Beneficio / Costo Social (B/C) | 1,40 | B/C > 1,00 (Por cada dólar invertido se retornan $1,40 USD en beneficios sociales). |
+| Costo por Beneficiario Directo | $297,09 USD/hab. | Conforme a los rangos de eficiencia vial del MTOP y BDE. |
+
+: Evaluación socioeconómica y rentabilidad social del puente Torata {#tbl-indicadores-financieros-puente}
+
+*Nota.* Elaboración técnica a partir del flujo de beneficios sociales netos descontados.
+:::
 
 ### Análisis de sensibilidad
 
-Con el propósito de evaluar la robustez de la rentabilidad socioeconómica del proyecto ante perturbaciones en las variables críticas de costos y beneficios, se formularon tres escenarios desfavorables conforme a los lineamientos metodológicos de Planifica Ecuador @guia_planifica2021 (Tabla \ref{tbl-analisis-sensibilidad-puente}):
+Con el propósito de evaluar la robustez de la rentabilidad socioeconómica del proyecto ante perturbaciones en las variables críticas de costos y beneficios, se formularon tres escenarios desfavorables conforme a los lineamientos metodológicos de Planifica Ecuador @guia_planifica2021 (@tbl-analisis-sensibilidad-puente):
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-analisis-sensibilidad-puente}
 \fontsize{9.5}{12}\selectfont
 \begin{longtable}{@{}p{0.50\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}@{}}
@@ -190,24 +320,39 @@ Con el propósito de evaluar la robustez de la rentabilidad socioeconómica del 
 \toprule
 \textbf{Escenario de Evaluación} & \textbf{VANS (USD)} & \textbf{TIRS (\%)} & \textbf{Relación B/C} \\
 \midrule
-Escenario Base & \$92.450,80 & 16,85 \% & 1,51 \\
+Escenario Base & \$127.268,35 & 13,09 \% & 1,40 \\
 \addlinespace
-Incremento del 15 \% en Costos de Inversión y O\&M & \$70.310,00 & 14,20 \% & 1,32 \\
+Incremento del 15 \% en Costos de Inversión y O\&M & \$80.041,10 & 10,88 \% & 1,22 \\
 \addlinespace
-Disminución del 20 \% en Beneficios Socioeconómicos & \$46.120,00 & 12,65 \% & 1,21 \\
+Disminución del 20 \% en Beneficios Socioeconómicos & \$38.845,01 & 9,64 \% & 1,12 \\
 \addlinespace
-Escenario Crítico Combinado \par (+15 \% Costos y -20 \% Beneficios) & \$23.980,00 & 10,40 \% & 1,06 \\
+Escenario Crítico Combinado \par (+15 \% Costos y -20 \% Beneficios) & -\$8.382,24 & 7,68 \% & 0,98 \\
 \bottomrule
 \end{longtable}
 \fuente{Simulación cuantitativa de variaciones paramétricas sobre el flujo socioeconómico neto.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Escenario de Evaluación | VANS (USD) | TIRS (%) | Relación B/C |
+| :--- | ---: | ---: | ---: |
+| Escenario Base | $127.268,35 | 13,09 % | 1,40 |
+| Incremento del 15 % en Costos de Inversión y O&M | $80.041,10 | 10,88 % | 1,22 |
+| Disminución del 20 % en Beneficios Socioeconómicos | $38.845,01 | 9,64 % | 1,12 |
+| Escenario Crítico Combinado (+15 % Costos y -20 % Beneficios) | -$8.382,24 | 7,68 % | 0,98 |
+
+: Análisis de sensibilidad económica ante variaciones críticas {#tbl-analisis-sensibilidad-puente}
+
+*Nota.* Simulación cuantitativa de variaciones paramétricas sobre el flujo socioeconómico neto.
 :::
 
 Los resultados confirman que, incluso bajo el escenario crítico combinado simultáneo de sobrecostos constructivos (+15 %) y contracción de beneficios pecuarios (-20 %), el proyecto preserva un VANS positivo de $23.980,00 USD y una TIRS del 10,40 %, superando holgadamente la Tasa Social de Descuento mínima del 8,00 %.
 
 ### Matriz de gestión de riesgos y mitigación
 
-La identificación preventiva de amenazas técnicas, climáticas e institucionales y sus correspondientes medidas mitigadoras se sintetizan en la Tabla \ref{tbl-matriz-riesgos-puente}.
+La identificación preventiva de amenazas técnicas, climáticas e institucionales y sus correspondientes medidas mitigadoras se sintetizan en la @tbl-matriz-riesgos-puente.
 
+::: {.content-visible when-format="pdf"}
 ::: {#tbl-matriz-riesgos-puente}
 \fontsize{9}{11}\selectfont
 \begin{longtable}{@{}p{0.18\linewidth}p{0.34\linewidth}p{0.10\linewidth}p{0.38\linewidth}@{}}
@@ -215,7 +360,7 @@ La identificación preventiva de amenazas técnicas, climáticas e institucional
 \toprule
 \textbf{Tipología de Riesgo} & \textbf{Evento Identificado} & \textbf{Nivel} & \textbf{Medida de Mitigación Planificada} \\
 \midrule
-Riesgo Hidrológico & Crecidas extraordinarias del río Carne Amarga en obra & Medio & Ejecución estricta de obras de cimentación y zapatas en los meses de estiaje (junio a noviembre). \\
+Riesgo Hidrológico & Crecidas extraordinarias del río Santa Rosa en obra & Medio & Ejecución estricta de obras de cimentación y zapatas en los meses de estiaje (junio a noviembre). \\
 \addlinespace
 Riesgo Geotécnico & Asentamientos diferenciales en el lecho fluvial & Bajo & Cimentación profunda apoyada en roca firme con ensayos SPT y pantallas de gaviones de protección. \\
 \addlinespace
@@ -225,6 +370,20 @@ Riesgo Operativo & Falta de mantenimiento periódico de pernería y pintura & Ba
 \bottomrule
 \end{longtable}
 \fuente{Dirección de Gestión de Riesgos y Obras Públicas del GAD Provincial de El Oro.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Tipología de Riesgo | Evento Identificado | Nivel | Medida de Mitigación Planificada |
+| :--- | :--- | :---: | :--- |
+| Riesgo Hidrológico | Crecidas extraordinarias del río Santa Rosa en obra | Medio | Ejecución estricta de obras de cimentación y zapatas en los meses de estiaje (junio a noviembre). |
+| Riesgo Geotécnico | Asentamientos diferenciales en el lecho fluvial | Bajo | Cimentación profunda apoyada en roca firme con ensayos SPT y pantallas de gaviones de protección. |
+| Riesgo Financiero | Demora en desembolsos del convenio concurrente | Medio | Certificación presupuestaria previa plurianual de contrapartes en el GAD Provincial y Municipal. |
+| Riesgo Operativo | Falta de mantenimiento periódico de pernería y pintura | Bajo | Constitución formal del comité vial comunitario con apoyo logístico del GADPR Torata. |
+
+: Matriz de identificación, nivel de riesgo y medidas de mitigación {#tbl-matriz-riesgos-puente}
+
+*Nota.* Dirección de Gestión de Riesgos y Obras Públicas del GAD Provincial de El Oro.
 :::
 
 ## Viabilidad ambiental y sostenibilidad social
@@ -239,8 +398,64 @@ En estricto cumplimiento del Acuerdo Ministerial 061 del MAATE y la normativa de
 
 ### Sostenibilidad Social
 
-La sostenibilidad social del proyecto se apoya en la participación activa comunitaria y la equidad de acceso para los pobladores rurales:
+La contribución al mantenimiento e incremento del capital social del área de influencia del proyecto está garantizada a través del fomento a la equidad e igualdad social, según los enfoques de género, interculturalidad, grupos etarios y participación ciudadana, propendiendo al equilibrio de la sociedad en los aspectos económico, social y cultural.
 
-* Participación Comunitaria y Apropiación: Constitución formal del Comité de Mantenimiento Vial El Guayabo - La Chilca, articulado a la Junta Parroquial de Torata para faenas comunitarias trimestrales de limpieza de cunetas y drenes.
-* Enfoque de Género y Grupos Vulnerables: La regularización del transporte facilita el acceso de mujeres rurales a ferias de economía popular y solidaria para comercializar derivados lácteos, además de garantizar el traslado médico continuo de niños y adultos mayores durante el invierno.
+En este apartado se identifican los grupos de atención prioritaria, definidos en el Art. 35 de la Constitución de la República del Ecuador, atendidos directamente con el proyecto vial en la parroquia rural Torata (sitios El Guayabo, La Chilca, Sabayán y El Playón). El número de personas registradas no supera los beneficiarios directos del proyecto (666 hombres y 614 mujeres de los recintos ribereños directamente incomunicados), desagregados en la @tbl-atencion-prioritaria.
+
+::: {.content-visible when-format="pdf"}
+::: {#tbl-atencion-prioritaria}
+\fontsize{9.5}{11.5}\selectfont
+\begin{longtable}{@{}p{0.54\linewidth}>{\raggedleft\arraybackslash}p{0.22\linewidth}>{\raggedleft\arraybackslash}p{0.22\linewidth}@{}}
+\caption{Identificación de grupos de atención prioritaria atendidos por el proyecto (Art. 35 CRE)} \label{tbl-atencion-prioritaria} \\
+\toprule
+\textbf{Grupo de Atención prioritaria} & \textbf{Beneficiarios} & \textbf{Beneficiarias} \\
+\midrule
+Adolescentes & 78 & 72 \\
+Adulto mayor & 64 & 58 \\
+Edad infantil & 92 & 86 \\
+Indígenas, afro ecuatorianos y montubios & 124 & 115 \\
+Inmigrantes & 0 & 0 \\
+Migrantes & 0 & 0 \\
+Mujeres embarazadas & 0 & 14 \\
+Personas con discapacidad & 18 & 15 \\
+Personas en situación de riesgo & 210 & 195 \\
+Personas privadas de libertad & 0 & 0 \\
+Personas que adolezcan de enfermedades catastróficas o de alta complejidad & 6 & 8 \\
+Víctimas de desastres naturales o antropogénicos & 45 & 42 \\
+Víctimas de maltrato infantil & 0 & 0 \\
+Víctimas de violencia doméstica o sexual & 0 & 0 \\
+\midrule
+\textbf{Total con condición prioritaria} & \textbf{637} & \textbf{605} \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir del Censo INEC (2022), PDOT Parroquial de Torata (2024) y fichas de levantamiento territorial en El Guayabo y La Chilca.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Grupo de Atención prioritaria | Beneficiarios | Beneficiarias |
+| :--- | ---: | ---: |
+| Adolescentes | 78 | 72 |
+| Adulto mayor | 64 | 58 |
+| Edad infantil | 92 | 86 |
+| Indígenas, afro ecuatorianos y montubios | 124 | 115 |
+| Inmigrantes | 0 | 0 |
+| Migrantes | 0 | 0 |
+| Mujeres embarazadas | 0 | 14 |
+| Personas con discapacidad | 18 | 15 |
+| Personas en situación de riesgo | 210 | 195 |
+| Personas privadas de libertad | 0 | 0 |
+| Personas que adolezcan de enfermedades catastróficas o de alta complejidad | 6 | 8 |
+| Víctimas de desastres naturales o antropogénicos | 45 | 42 |
+| Víctimas de maltrato infantil | 0 | 0 |
+| Víctimas de violencia doméstica o sexual | 0 | 0 |
+| **Total con condición prioritaria** | **637** | **605** |
+
+: Identificación de grupos de atención prioritaria atendidos por el proyecto (Art. 35 CRE) {#tbl-atencion-prioritaria}
+
+*Nota.* Elaboración técnica a partir del Censo INEC (2022), PDOT Parroquial de Torata (2024) y fichas de levantamiento territorial en El Guayabo y La Chilca.
+:::
+
+* Participación Comunitaria y Apropiación: Constitución formal del Comité de Mantenimiento Vial El Guayabo - La Chilca, articulado al GADPR Torata para faenas comunitarias trimestrales de limpieza de cunetas y drenes.
+* Enfoque de Género y Grupos Vulnerables: La regularización del transporte facilita el acceso de mujeres rurales a ferias de economía popular y solidaria para comercializar derivados lácteos, además de garantizar el traslado médico continuo de niños y adultos mayores durante el invierno hacia el Centro de Salud Tipo A.
 * Acuerdos de Derecho de Vía: Plena concertación pacífica de los linderos y fajas de terreno requeridas para las rampas de aproximación, sin litigios ni reasentamientos forzosos.

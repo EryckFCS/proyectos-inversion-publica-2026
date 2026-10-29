@@ -1,5 +1,5 @@
 ---
-title: "PROYECTO DE VINCULACIÓN CON LA SOCIEDAD: FORMULACIÓN TÉCNICA DEL PUENTE VEHICULAR SOBRE EL RÍO CARNE AMARGA"
+title: "PROYECTO DE VINCULACIÓN CON LA SOCIEDAD: FORMULACIÓN TÉCNICA DEL PUENTE VEHICULAR SOBRE EL RÍO SANTA ROSA"
 subtitle: "FORMATO OFICIAL DE FORMULACIÓN DE PROYECTOS DE VINCULACIÓN CON LA SOCIEDAD - UNL"
 author:
   - "David Andrés Pérez Castillo"
@@ -59,7 +59,7 @@ format:
 \toprule
 \textbf{Campo Institucional} & \textbf{Detalle Oficial} \\
 \midrule
-Nombre del proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata \\
+Nombre del proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Santa Rosa en el sector El Guayabo - La Chilca, parroquia rural Torata \\
 \addlinespace
 Código del proyecto: & UNL-VINC-FJSA-ECO-2026-03 \\
 \addlinespace
@@ -178,13 +178,13 @@ Tipo de apoyo al proyecto: & Logístico, territorial, facilitación de informaci
 * Cantón: Santa Rosa
 * Parroquia: Rural Torata
 * Sectores / Barrios de intervención: El Guayabo, La Chilca, Sabayán, El Playón y cabecera parroquial
-* Coordenadas del eje de obra: Latitud 03°34'32" S, Longitud 79°46'59" W (Cruce sobre el río Carne Amarga)
+* Coordenadas del eje de obra: Latitud 03°34'32" S, Longitud 79°46'59" W (Cruce sobre el río Santa Rosa)
 
 # BENEFICIARIOS DEL PROYECTO
 
 ## Beneficiarios Directos
 
-Los beneficiarios directos corresponden a 1.280 habitantes agrupados en 340 familias campesinas y productoras agropecuarias radicadas en las estribaciones de El Guayabo, La Chilca y sectores adyacentes de la cuenca alta del río Carne Amarga, cuya movilidad cotidiana, transporte escolar y evacuación de productos lácteos depende del paso vehicular sobre dicho cauce.
+Los beneficiarios directos corresponden a 1.280 habitantes agrupados en 340 familias campesinas y productoras agropecuarias radicadas en las estribaciones de El Guayabo, La Chilca y sectores adyacentes de la cuenca alta del río Santa Rosa, cuya movilidad cotidiana, transporte escolar y evacuación de productos lácteos depende del paso vehicular sobre dicho cauce.
 
 ## Beneficiarios Indirectos
 
@@ -194,7 +194,7 @@ Los beneficiarios indirectos abarcan a 894 habitantes de la cabecera parroquial 
 
 ## Problema / Oportunidad
 
-Incomunicación vial recurrente y elevados costos de transporte para la comercialización agropecuaria en los sectores productivos de Torata, provocados por la ausencia de un puente vehicular seguro y definitivo sobre el río Carne Amarga.
+Incomunicación vial recurrente y elevados costos de transporte para la comercialización agropecuaria en los sectores productivos de Torata, provocados por la ausencia de un puente vehicular seguro y definitivo sobre el río Santa Rosa.
 
 Durante el invierno (diciembre a mayo), las crecidas destruyen los vados y pasos rústicos de madera, aislando a las comunidades hasta por 105 días al año. Esto ocasiona el derrame o fermentación de más de 3.500 litros de leche diarios, eleva los fletes en un 60 \% y bloquea el acceso a la Unidad Educativa Torata y al Centro de Salud Tipo A.
 
@@ -205,10 +205,10 @@ La intervención es prioritaria y viable socialmente debido a que Torata sustent
 ## Objetivos
 
 ### Objetivo General
-Garantizar la conectividad vial terrestre ininterrumpida y segura entre los sectores productivos de El Guayabo, La Chilca y Torata mediante la construcción de un puente vehicular sobre el río Carne Amarga y obras de estabilización en sus accesos, dinamizando la productividad agropecuaria y reduciendo los costos logísticos de transporte.
+Garantizar la conectividad vial terrestre ininterrumpida y segura entre los sectores productivos de El Guayabo, La Chilca y Torata mediante la construcción de un puente vehicular sobre el río Santa Rosa y obras de estabilización en sus accesos, dinamizando la productividad agropecuaria y reduciendo los costos logísticos de transporte.
 
 ### Objetivos Específicos
-1. Desarrollar y validar los estudios técnicos, geotécnicos e hidráulicos y el dimensionamiento estructural del puente tipo Bailey de 30 metros de luz libre sobre el río Carne Amarga.
+1. Desarrollar y validar los estudios técnicos, geotécnicos e hidráulicos y el dimensionamiento estructural del puente tipo Bailey de 30 metros de luz libre sobre el río Santa Rosa.
 2. Formular la factibilidad económica, social y ambiental conforme a la metodología oficial de Planifica Ecuador para viabilizar el dictamen de prioridad y la concurrencia intergubernamental de \$180.000,00 USD.
 3. Conformar y capacitar el Comité Comunitario de Conservación y Mantenimiento Vial en articulación con el GADPR Torata para garantizar la sostenibilidad operativa de la obra civil.
 
@@ -234,7 +234,7 @@ Los precios de sustentación de los productos agropecuarios se mantienen estable
 \addlinespace
 \textbf{PROPÓSITO:} \par
 Comunidades y sectores productivos de El Guayabo y La Chilca cuentan con transitabilidad vehicular continua los 365 días del año. &
-100 \% de días del año con paso vehicular habilitado sobre el río Carne Amarga (0 días de corte invernal). \par
+100 \% de días del año con paso vehicular habilitado sobre el río Santa Rosa (0 días de corte invernal). \par
 Tiempo de cruce reducido de 45 a 3 minutos. &
 Aforos de tráfico de la Prefectura de El Oro e inspecciones técnicas del GADPR Torata. &
 El régimen pluviométrico no supera el caudal de diseño para un periodo de retorno de 100 años. \\
@@ -397,7 +397,7 @@ Carrera de Economía - UNL & Facultad Jurídica, Social y Administrativa \\
 \toprule
 \textbf{Institución} & \textbf{Contacto / Cargo} & \textbf{Objetivo del Convenio} & \textbf{Compromiso Asumido} \\
 \midrule
-GAD Parroquial Rural de Torata & Abg. Rolando Patricio Román Torres (Presidente) & Cooperación técnica y académica para la formulación del estudio de factibilidad del puente sobre el río Carne Amarga. & Facilitar el acceso territorial, entregar información catastral y respaldar la gestión de fondos ante la Prefectura y el Municipio. \\
+GAD Parroquial Rural de Torata & Abg. Rolando Patricio Román Torres (Presidente) & Cooperación técnica y académica para la formulación del estudio de factibilidad del puente sobre el río Santa Rosa. & Facilitar el acceso territorial, entregar información catastral y respaldar la gestión de fondos ante la Prefectura y el Municipio. \\
 \bottomrule
 \end{longtable}
 \fuente{Convenio Específico de Vinculación con la Sociedad UNL - GADPR Torata.}

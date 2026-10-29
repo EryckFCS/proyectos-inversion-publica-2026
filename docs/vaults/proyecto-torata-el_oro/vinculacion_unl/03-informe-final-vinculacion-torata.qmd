@@ -1,6 +1,6 @@
 ---
 title: "INFORME FINAL DE PROYECTO DE VINCULACIÓN CON LA SOCIEDAD"
-subtitle: "EVALUACIÓN EX-POST Y CIERRE TÉCNICO - ESTUDIO DE PREINVERSIÓN PUENTE RÍO CARNE AMARGA, TORATA"
+subtitle: "EVALUACIÓN EX-POST Y CIERRE TÉCNICO - ESTUDIO DE PREINVERSIÓN PUENTE RÍO SANTA ROSA, TORATA"
 author:
   - "David Andrés Pérez Castillo"
   - "Luis Gustavo Hurtado Cuenca"
@@ -59,7 +59,7 @@ format:
 \toprule
 \textbf{Campo Institucional} & \textbf{Registro Oficial de Cierre} \\
 \midrule
-Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata \\
+Nombre del Proyecto: & Formulación técnica y estudio de factibilidad socioeconómica para la conectividad vial y construcción del puente vehicular sobre el río Santa Rosa en el sector El Guayabo - La Chilca, parroquia rural Torata \\
 \addlinespace
 Programa de Vinculación: & Desarrollo socioeconómico, fomento productivo rural y fortalecimiento institucional de los gobiernos locales \\
 \addlinespace
@@ -96,7 +96,7 @@ Correo / Teléfono: & jose.chamba@unl.edu.ec / 0991234567 \\
 \midrule
 GAD Parroquial Rural de Torata & Entrega total de información socioeconómica de campo, convocatoria a finqueros y suscripción de actas de donación voluntaria del derecho de vía. \\
 \addlinespace
-GAD Municipal de Santa Rosa & Contratación formal y liquidación de los estudios geotécnicos y sondeos SPT de mecánica de suelos en el río Carne Amarga. \\
+GAD Municipal de Santa Rosa & Contratación formal y liquidación de los estudios geotécnicos y sondeos SPT de mecánica de suelos en el río Santa Rosa. \\
 \addlinespace
 GAD Provincial de El Oro & Aprobación del anteproyecto estructural y certificación de disponibilidad en bodega de los paneles de acero Bailey de 30 metros. \\
 \bottomrule
@@ -106,7 +106,7 @@ GAD Provincial de El Oro & Aprobación del anteproyecto estructural y certificac
 
 # RESUMEN EJECUTIVO
 
-El presente proyecto de vinculación con la sociedad tuvo como propósito formular y validar el estudio de factibilidad técnica, socioeconómica, fiscal y ambiental para la construcción del puente vehicular sobre el río Carne Amarga en el sector El Guayabo - La Chilca, parroquia rural Torata (cantón Santa Rosa, provincia de El Oro). La intervención aborda la incomunicación invernal que sufren 340 familias de productores campesinos, provocando el derrame de más de 3.500 litros diarios de leche y pérdidas que superan los \$18.500 USD por ciclo invernal. 
+El presente proyecto de vinculación con la sociedad tuvo como propósito formular y validar el estudio de factibilidad técnica, socioeconómica, fiscal y ambiental para la construcción del puente vehicular sobre el río Santa Rosa en el sector El Guayabo - La Chilca, parroquia rural Torata (cantón Santa Rosa, provincia de El Oro). La intervención aborda la incomunicación invernal que sufren 340 familias de productores campesinos, provocando el derrame de más de 3.500 litros diarios de leche y pérdidas que superan los \$18.500 USD por ciclo invernal. 
 
 A través del trabajo colaborativo entre los docentes y estudiantes de séptimo ciclo de la Carrera de Economía de la UNL y los técnicos del GADPR Torata, se consolidó el expediente técnico oficial de 8 capítulos conforme a la metodología de Planifica Ecuador. Los resultados de rentabilidad socioeconómica arrojaron un Valor Actual Neto Social (VANS) de \$92.450,80 USD, una Tasa Interna de Retorno Social (TIRS) de 16,85 \% (muy superior al costo de oportunidad social del capital del 8 \%) y una relación Beneficio/Costo de 1,51, garantizando la viabilidad de la inversión pública concurrente de \$180.000,00 USD.
 
@@ -159,7 +159,7 @@ Impacto Académico UNL: & Vinculación efectiva de 4 estudiantes de séptimo cic
 
 # CONCLUSIONES
 
-1. El estudio de preinversión y factibilidad formulado demostró que la construcción del puente sobre el río Carne Amarga es técnica, social, legal y económicamente viable, generando un excedente de bienestar social neto reflejado en un VANS de \$92.450,80 USD y una TIRS del 16,85 \%.
+1. El estudio de preinversión y factibilidad formulado demostró que la construcción del puente sobre el río Santa Rosa es técnica, social, legal y económicamente viable, generando un excedente de bienestar social neto reflejado en un VANS de \$92.450,80 USD y una TIRS del 16,85 \%.
 2. La articulación de concurrencia intergubernamental estructurada (Prefectura de El Oro \$100k, Municipio de Santa Rosa \$45k, GADPR Torata \$25k y Comunidad \$10k) resuelve de manera definitiva la restricción fiscal que impedía al gobierno parroquial ejecutar la obra por cuenta propia.
 3. El proyecto cumple con la totalidad de los requisitos de la Guía Oficial de Planifica Ecuador y el Sistema de Vinculación con la Sociedad de la UNL, quedando listo para la emisión formal del Dictamen de Prioridad y el inicio del proceso precontractual en el SERCOP.
 

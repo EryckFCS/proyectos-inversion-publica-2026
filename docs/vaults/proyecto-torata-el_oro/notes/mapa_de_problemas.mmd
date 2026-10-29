@@ -1,67 +1,57 @@
-# ÁRBOL DE PROBLEMAS: AISLAMIENTO VIAL Y AUSENCIA DE PUENTE EN TORATA
+# ÁRBOL DE PROBLEMAS: CONECTIVIDAD VIAL EN TORATA
 
 ```mermaid
-graph TD
-    %% Problema Central
-    PC["<b>PROBLEMA CENTRAL:</b><br/>Incomunicación vial recurrente y elevados costos de transporte para la comercialización agropecuaria<br/>en los sectores productivos de Torata, provocados por la ausencia de un puente vehicular seguro sobre el río Carne Amarga"]
+%%{init: {'securityLevel': 'loose', 'flowchart': {'curve': 'linear', 'diagramPadding': 15, 'htmlLabels': true, 'rankSpacing': 35, 'nodeSpacing': 20}, 'theme': 'base', 'themeVariables': {'fontSize': '12px', 'fontFamily': 'Times New Roman, serif', 'edgeLabelBackground': '#ffffff', 'tertiaryBorderColor': '#1c3144'}}}%%
 
-    %% Causas Directas
-    C1["<b>Causa Directa 1:</b><br/>Inexistencia de infraestructura fija de cruce vehicular sobre el cauce principal del río Carne Amarga"]
-    C2["<b>Causa Directa 2:</b><br/>Vulnerabilidad geomorfológica y socavación en riberas y accesos viales en el sector El Guayabo - La Chilca"]
-    C3["<b>Causa Directa 3:</b><br/>Limitada capacidad financiera del GAD Parroquial Rural para asumir por sí solo obras de arte mayor"]
+graph BT
 
-    %% Causas Indirectas
-    C11["Dependencia de vados a nivel y pasos provisionales de madera arrasados por crecidas invernales"]
-    C12["Caudales torrenciales extraordinarios y arrastre de palizadas desde las microcuencas altas de la cordillera"]
-    C21["Ausencia previa de estudios geotécnicos y de mecánica de suelos para la cimentación de estribos"]
-    C22["Erosión regresiva en taludes ribereños por falta de gaviones y muros de encauzamiento"]
-    C31["Costo de estructura (\$180.000 USD) compromete más del 70% del presupuesto de inversión local"]
-    C32["Demoras en la articulación de convenios de concurrencia con la Prefectura y Municipio de Santa Rosa"]
+    EF["<div style='width:220px'><div style='font-weight:bold;text-align:center'>IMPLICACIÓN FINAL</div><div style='text-align:center'>Estancamiento del desarrollo económico y persistencia de la pobreza en sectores rurales de Torata</div></div>"]
 
-    %% Efectos Directos
-    E1["<b>Efecto Directo 1:</b><br/>Paralización del transporte y pérdida de productos perecibles (leche, queso y cacao)"]
-    E2["<b>Efecto Directo 2:</b><br/>Riesgo inminente de pérdidas de vidas humanas y accidentes al vadear el río en crecida"]
-    E3["<b>Efecto Directo 3:</b><br/>Incremento desmedido de los costos de fletes y desabastecimiento en comunidades rurales"]
-    E4["<b>Efecto Directo 4:</b><br/>Interrupción en el acceso a servicios de salud de emergencia y ausentismo escolar"]
+    E1["<div style='width:130px'><div style='font-weight:bold;text-align:center'>Efecto 1</div><div style='text-align:center'>Incremento sustancial en los costos de transporte de bienes y personas</div></div>"]
+    E2["<div style='width:130px'><div style='font-weight:bold;text-align:center'>Efecto 2</div><div style='text-align:center'>Deterioro y pérdidas en la comercialización de la producción agropecuaria</div></div>"]
+    E3["<div style='width:130px'><div style='font-weight:bold;text-align:center'>Efecto 3</div><div style='text-align:center'>Interrupción en el acceso a servicios básicos de salud y educación</div></div>"]
+    E4["<div style='width:130px'><div style='font-weight:bold;text-align:center'>Efecto 4</div><div style='text-align:center'>Aislamiento periódico y fragmentación territorial del sector</div></div>"]
 
-    %% Efectos Finales
-    EF1["Disminución severa de los ingresos netos de las familias ganaderas y agrícolas"]
-    EF2["Persistencia de la pobreza por Necesidades Básicas Insatisfechas (67.4%) en la parroquia"]
-    EF3["Desincentivo a la inversión tecnificada en hatos lecheros y despoblación rural"]
+    PC["<div style='width:240px'><div style='font-weight:bold;text-align:center;font-size:13px'>PROBLEMA CENTRAL</div><div style='text-align:center'>Incomunicación vial recurrente y elevados costos de transporte para la producción agropecuaria en los sectores El Guayabo, La Chilca y El Playón, parroquia Torata</div></div>"]
 
-    %% Conexiones Causas -> Problema
-    C11 --> C1
-    C12 --> C1
-    C21 --> C2
-    C22 --> C2
-    C31 --> C3
-    C32 --> C3
+    C1["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Causa Directa 1</div><div style='text-align:center'>Inexistencia de un puente vehicular seguro sobre el río Carne Amarga</div></div>"]
+    C2["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Causa Directa 2</div><div style='text-align:center'>Ausencia de obras de estabilización y muros de protección ribereña</div></div>"]
+    C3["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Causa Directa 3</div><div style='text-align:center'>Limitada capacidad presupuestaria y de inversión vial parroquial</div></div>"]
+
+    SC1["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Subcausa 1.1</div><div style='text-align:center'>Uso forzoso de vado rústico y pasarelas colapsables en invierno</div></div>"]
+    SC2["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Subcausa 2.1</div><div style='text-align:center'>Socavación activa de márgenes y accesos por crecidas torrenciales</div></div>"]
+    SC3["<div style='width:145px'><div style='font-weight:bold;text-align:center'>Subcausa 3.1</div><div style='text-align:center'>Carencia de convenios de concurrencia financiera interinstitucional</div></div>"]
+
+    %% Conexiones Bottom-Up
+    SC1 --> C1
+    SC2 --> C2
+    SC3 --> C3
 
     C1 --> PC
     C2 --> PC
     C3 --> PC
 
-    %% Conexiones Problema -> Efectos
     PC --> E1
     PC --> E2
     PC --> E3
     PC --> E4
 
-    E1 --> EF1
-    E2 --> EF1
-    E3 --> EF2
-    E4 --> EF3
+    E1 --> EF
+    E2 --> EF
+    E3 --> EF
+    E4 --> EF
 
-    %% Estilos cromáticos
-    style PC fill:#f8d7da,stroke:#721c24,stroke-width:2.5px,color:#721c24
-    style C1 fill:#fff3cd,stroke:#856404,stroke-width:1.5px,color:#856404
-    style C2 fill:#fff3cd,stroke:#856404,stroke-width:1.5px,color:#856404
-    style C3 fill:#fff3cd,stroke:#856404,stroke-width:1.5px,color:#856404
-    style E1 fill:#d1ecf1,stroke:#0c5460,stroke-width:1.5px,color:#0c5460
-    style E2 fill:#d1ecf1,stroke:#0c5460,stroke-width:1.5px,color:#0c5460
-    style E3 fill:#d1ecf1,stroke:#0c5460,stroke-width:1.5px,color:#0c5460
-    style E4 fill:#d1ecf1,stroke:#0c5460,stroke-width:1.5px,color:#0c5460
-    style EF1 fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724
-    style EF2 fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724
-    style EF3 fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724
+    %% Estilos (Estándar TIC Informalidad)
+    style EF fill:#ffffff,stroke:#1c3144,stroke-width:3px
+    style E1 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style E2 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style E3 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style E4 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style PC fill:#ffffff,stroke:#000000,stroke-width:4px,color:#000000
+    style C1 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style C2 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style C3 fill:#ffffff,stroke:#1c3144,stroke-width:2px
+    style SC1 fill:#ffffff,stroke:#1c3144,stroke-width:1.5px
+    style SC2 fill:#ffffff,stroke:#1c3144,stroke-width:1.5px
+    style SC3 fill:#ffffff,stroke:#1c3144,stroke-width:1.5px
 ```
