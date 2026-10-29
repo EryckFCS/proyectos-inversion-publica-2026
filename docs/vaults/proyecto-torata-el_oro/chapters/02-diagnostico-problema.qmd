@@ -180,7 +180,56 @@ En la situación actual sin proyecto, la oferta de infraestructura vial segura y
 
 ### Demanda insatisfecha
 
-La demanda insatisfecha se genera por la brecha estructural entre una demanda continua de movilidad agropecuaria y peatonal durante los 365 días del año y una oferta que cae a cero durante los meses de invierno. Esta demanda insatisfecha representa 105 días al año de corte total de la conectividad vial, lo cual se traduce en 3.500 litros de leche al día que quedan retenidos y descompuestos, más de 60 vehículos diarios impedidos de transitar y pérdidas económicas anuales directas para los productores estimadas en más de $18.500,00 USD por temporada. Con la construcción del puente vehicular y peatonal definitivo con gálibo superior a la crecida máxima, la oferta se eleva a 365 días al año y 77 vehículos proyectados por día al año 10, cubriendo al 100 % la demanda insatisfecha detectada.
+La demanda insatisfecha se genera por la brecha estructural entre una demanda continua de movilidad agropecuaria y peatonal durante los 365 días del año y una oferta de infraestructura vial segura que en la situación actual sin proyecto es igual a cero (oferta nula). Durante el periodo de estiaje, los pobladores cruzan caminando precariamente por el lecho del río; no obstante, durante los 105 días del periodo invernal, las crecidas fluviales anegan por completo el paso e imposibilitan todo cruce pedestre y vehicular.
+
+A partir de la tasa anual de crecimiento intercensal del 0,94 % oficial del INEC y la población objetivo directamente afectada de los sectores ribereños (1.280 habitantes en el año base 2026), se proyecta el balance entre oferta y demanda efectiva para el horizonte de evaluación de 10 años en la @tbl-balance-oferta-demanda.
+
+::: {.content-visible when-format="pdf"}
+::: {#tbl-balance-oferta-demanda}
+
+\begin{longtable}{@{}p{0.22\linewidth}>{\raggedleft\arraybackslash}p{0.26\linewidth}>{\raggedleft\arraybackslash}p{0.24\linewidth}>{\raggedleft\arraybackslash}p{0.28\linewidth}@{}}
+\caption{Balance de oferta y demanda proyectada de conectividad fluvial (2026-2036)} \label{tbl-balance-oferta-demanda} \\
+\toprule
+\textbf{Años} & \textbf{Demanda efectiva (habitantes)} & \textbf{Oferta (habitantes)} & \textbf{Demanda insatisfecha (habitantes)} \\
+\midrule
+Año 0 (2026) & 1.280 & 0 & 1.280 \\
+Año 1 (2027) & 1.292 & 0 & 1.292 \\
+Año 2 (2028) & 1.304 & 0 & 1.304 \\
+Año 3 (2029) & 1.316 & 0 & 1.316 \\
+Año 4 (2030) & 1.329 & 0 & 1.329 \\
+Año 5 (2031) & 1.341 & 0 & 1.341 \\
+Año 6 (2032) & 1.354 & 0 & 1.354 \\
+Año 7 (2033) & 1.367 & 0 & 1.367 \\
+Año 8 (2034) & 1.379 & 0 & 1.379 \\
+Año 9 (2035) & 1.392 & 0 & 1.392 \\
+Año 10 (2036) & 1.406 & 0 & 1.406 \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir de Censo INEC (2022) y proyecciones demográficas territoriales.}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Años | Demanda efectiva (habitantes) | Oferta (habitantes) | Demanda insatisfecha (habitantes) |
+| :--- | ---: | ---: | ---: |
+| Año 0 (2026) | 1.280 | 0 | 1.280 |
+| Año 1 (2027) | 1.292 | 0 | 1.292 |
+| Año 2 (2028) | 1.304 | 0 | 1.304 |
+| Año 3 (2029) | 1.316 | 0 | 1.316 |
+| Año 4 (2030) | 1.329 | 0 | 1.329 |
+| Año 5 (2031) | 1.341 | 0 | 1.341 |
+| Año 6 (2032) | 1.354 | 0 | 1.354 |
+| Año 7 (2033) | 1.367 | 0 | 1.367 |
+| Año 8 (2034) | 1.379 | 0 | 1.379 |
+| Año 9 (2035) | 1.392 | 0 | 1.392 |
+| Año 10 (2036) | 1.406 | 0 | 1.406 |
+
+: Balance de oferta y demanda proyectada de conectividad fluvial (2026-2036) {#tbl-balance-oferta-demanda}
+
+*Nota.* Elaboración técnica a partir de Censo INEC (2022) y proyecciones demográficas territoriales. En la situación sin proyecto, la oferta segura de paso fluvial formal sobre el río Santa Rosa es cero, por lo que el 100 % de la población objetivo padece de demanda insatisfecha.
+:::
+
+Esta demanda insatisfecha representa 105 días al año de aislamiento total y riesgo permanente para la vida humana, traduciéndose en más de 3.500 litros diarios de leche retenidos o descompuestos y pérdidas agropecuarias que superan los $18.500,00 USD por temporada. Con la construcción del puente vehicular y peatonal definitivo, la capacidad instalada cubre al 100 % la demanda efectiva de los habitantes y del transporte rural a lo largo de todo el ciclo de vida del proyecto.
 
 ## Identificación y caracterización de la población objetivo
 
