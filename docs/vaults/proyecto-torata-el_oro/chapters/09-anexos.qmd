@@ -275,7 +275,7 @@ GAD Municipal de Santa Rosa & Impulsar el desarrollo productivo y la articulaci�
 \addlinespace
 GADPR Torata & Garantizar la seguridad y bienestar de las comunidades parroquiales. & Presupuesto de transferencias insuficiente para puentes vehiculares mayores. & Articulación territorial (Art. 65 COOTAD); personal técnico local. & Coordinador & Seguimiento diario en obra, enlace vecinal y contraparte de fiscalización. \\
 \addlinespace
-Transportistas de Carga Rural & Rutas transitables todo el año sin roturas de muelles o atascamientos. & Riesgo de volteo en el vado; demoras de hasta 45 minutos por paso. & Flota de camionetas y camiones lecheros en cooperativas cantonales. & Beneficiario & Socialización de pesos y dimensiones máximas (AASHTO HS-20). \\
+Transportistas de Carga Rural & Rutas transitables todo el año sin roturas de muelles o atascamientos. & Imposibilidad de cruce fluvial directo; demoras de hasta 45 minutos por paso. & Flota de camionetas y camiones lecheros en cooperativas cantonales. & Beneficiario & Socialización de pesos y dimensiones máximas (AASHTO HS-20). \\
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir de actas de coordinación territorial y talleres de campo.}
@@ -290,7 +290,7 @@ Transportistas de Carga Rural & Rutas transitables todo el año sin roturas de m
 | GAD Provincial de El Oro | Cerrar brechas viales rurales; cumplir competencias de vialidad provincial. | Recursos financieros dispersos; alta demanda vial en cantones ribereños. | Competencia exclusiva (Art. 263 CRE); maquinaria y paneles Bailey. | Liderazgo | Dirección de fiscalización, entrega de paneles y supervisión del montaje. |
 | GAD Municipal de Santa Rosa | Impulsar el desarrollo productivo y la articulación cantonal con Torata. | Deterioro vial que afecta el abastecimiento de los mercados urbanos. | Convenio de concurrencia (Art. 55 COOTAD); equipo caminero. | Cooperante | Financiamiento de estudios de mecánica de suelos y maquinaria de terraplén. |
 | GADPR Torata | Garantizar la seguridad y bienestar de las comunidades parroquiales. | Presupuesto de transferencias insuficiente para puentes vehiculares mayores. | Articulación territorial (Art. 65 COOTAD); personal técnico local. | Coordinador | Seguimiento diario en obra, enlace vecinal y contraparte de fiscalización. |
-| Transportistas de Carga Rural | Rutas transitables todo el año sin roturas de muelles o atascamientos. | Riesgo de volteo en el vado; demoras de hasta 45 minutos por paso. | Flota de camionetas y camiones lecheros en cooperativas cantonales. | Beneficiario | Socialización de pesos y dimensiones máximas (AASHTO HS-20). |
+| Transportistas de Carga Rural | Rutas transitables todo el año sin roturas de muelles o atascamientos. | Imposibilidad de cruce fluvial directo; demoras de hasta 45 minutos por paso. | Flota de camionetas y camiones lecheros en cooperativas cantonales. | Beneficiario | Socialización de pesos y dimensiones máximas (AASHTO HS-20). |
 
 : Matriz de caracterización y gestión de actores involucrados {#tbl-actores-torata}
 

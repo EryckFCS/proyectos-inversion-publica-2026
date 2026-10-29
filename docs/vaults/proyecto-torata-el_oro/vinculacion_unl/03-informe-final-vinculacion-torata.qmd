@@ -143,7 +143,7 @@ Objetivo 3: Participación comunitaria y transferencia de capacidades en manteni
 \toprule
 \textbf{Eje de Impacto} & \textbf{Transformación Generada por el Proyecto} \\
 \midrule
-Situación Vial Inicial: & Paso por vado rústico anegable con 105 días de incomunicación anual, 45 minutos de demora por trasbordo y peligro de muerte por crecidas. \\
+Situación Vial Inicial: & Paso a pie por el lecho fluvial sin puente con 105 días de incomunicación anual, 45 minutos de demora por trasbordo y peligro de muerte por crecidas. \\
 \addlinespace
 Situación con Proyecto: & Infraestructura fija con puente modular Bailey de 30 m de luz, transitabilidad garantizada los 365 días del año y tiempo de cruce reducido a 3 minutos. \\
 \addlinespace

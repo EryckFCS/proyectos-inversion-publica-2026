@@ -196,7 +196,7 @@ Reposición de gaviones y limpieza de palizadas & global & Anual & 500,00 \\
 
 ### Flujo financiero fiscal
 
-Desde la perspectiva financiera y fiscal pública, el flujo de desembolsos contempla la salida neta del aporte presupuestario de las entidades públicas en el Año 0 ($380.274,58 USD) y la provisión anual de $3.500,00 USD para O&M por parte del GAD Parroquial y Municipal. Al tratarse de un bien público de libre acceso no arancelado mediante peaje, no genera ingresos de caja comercial directa, justificándose financieramente por el ahorro presupuestario en intervenciones provisionales de reconformación del vado y remediación de emergencias que los GAD debían solventar anualmente ($12.000,00 USD al año).
+Desde la perspectiva financiera y fiscal pública, el flujo de desembolsos contempla la salida neta del aporte presupuestario de las entidades públicas en el Año 0 ($380.274,58 USD) y la provisión anual de $3.500,00 USD para O&M por parte del GAD Parroquial y Municipal. Al tratarse de un bien público de libre acceso no arancelado mediante peaje, no genera ingresos de caja comercial directa, justificándose financieramente por el ahorro presupuestario en obras provisionales de emergencia y remediación de accesos fluviales que los GAD debían solventar anualmente ($12.000,00 USD al año).
 
 ### Indicadores financieros fiscales (TIR, VAN y otros)
 

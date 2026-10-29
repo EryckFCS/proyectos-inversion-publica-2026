@@ -72,7 +72,7 @@ La línea base del proyecto establece el diagnóstico paramétrico de referencia
 \midrule
 Limitado, deficiente e inseguro acceso vehicular y peatonal en el río Santa Rosa & Días al año con tránsito vehicular y peatonal seguro y continuo & 260 días/año habilitados precariamente en estiaje; 105 días/año con paso cerrado por crecidas fluviales (oferta invernal = 0). \\
 \addlinespace
-Inexistencia de puente vehicular formal definitivo sobre el río Santa Rosa & Puentes vehiculares definitivos con diseño hidráulico y gálibo normativo & 0 puentes definitivos instalados (100\% de dependencia de vado rústico de piedra y cruce directo a pie por el lecho del río). \\
+Inexistencia de puente vehicular formal definitivo sobre el río Santa Rosa & Puentes vehiculares definitivos con diseño hidráulico y gálibo normativo & 0 puentes definitivos instalados (100\% de dependencia de cruce directo a pie por el lecho del río). \\
 \addlinespace
 Incomunicación y aislamiento físico recurrente en comunidades productivas & Población rural en condición de aislamiento temporal invernal & 1.280 habitantes (más de 340 familias campesinas de El Guayabo, La Chilca, Sabayán y El Playón) incomunicados. \\
 \addlinespace
@@ -95,7 +95,7 @@ Déficit histórico de estudios técnicos y gestión interinstitucional concurre
 | Problema | Indicadores propuestos | Descripción (Situación actual / Línea base) |
 | :--- | :--- | :--- |
 | Limitado, deficiente e inseguro acceso vehicular y peatonal en el río Santa Rosa | Días al año con tránsito vehicular y peatonal seguro y continuo | 260 días/año habilitados precariamente en estiaje; 105 días/año con paso cerrado por crecidas fluviales (oferta invernal = 0). |
-| Inexistencia de puente vehicular formal definitivo sobre el río Santa Rosa | Puentes vehiculares definitivos con diseño hidráulico y gálibo normativo | 0 puentes definitivos instalados (100% de dependencia de vado rústico de piedra y cruce directo a pie por el lecho del río). |
+| Inexistencia de puente vehicular formal definitivo sobre el río Santa Rosa | Puentes vehiculares definitivos con diseño hidráulico y gálibo normativo | 0 puentes definitivos instalados (100% de dependencia de cruce directo a pie por el lecho del río). |
 | Incomunicación y aislamiento físico recurrente en comunidades productivas | Población rural en condición de aislamiento temporal invernal | 1.280 habitantes (más de 340 familias campesinas de El Guayabo, La Chilca, Sabayán y El Playón) incomunicados. |
 | Elevados tiempos de traslado y dificultades de desplazamiento hacia centros cantonales | Tiempo promedio de cruce del río Santa Rosa | 45 minutos requeridos en temporada invernal (rodeos a pie, a lomo de mula y trasbordos por senderos escarpados). |
 | Encarecimiento excesivo del flete de carga agropecuaria y productos de consumo | Tarifa de transporte y flete rural por quintal agrícola | $3,50 USD por quintal en época invernal ($1,30 USD de sobrecosto respecto a la tarifa normal de $2,20 USD, +59,1%). |
@@ -176,7 +176,7 @@ Demanda de Movilidad Rural (viajes/día) & 451 & 473 & 496 \\
 
 ### Oferta
 
-En la situación actual sin proyecto, la oferta de infraestructura vial segura y transitable sobre el río Santa Rosa es igual a cero (oferta nula). No existe ningún puente vehicular formal ni estructura definitiva en el sitio de paso; no existe ninguna construcción para el cruce peatonal ni vehicular, por lo que los pobladores y transeúntes deben cruzar caminando directamente por el lecho del río o atravesar en vehículos altos sobre un vado rústico de piedras en el lecho natural. Durante el periodo de estiaje (junio a noviembre), este paso rústico permite precariamente el tránsito peatonal a pie y el cruce de vehículos altos y camionetas 4x4, operando alrededor de 260 días al año. Sin embargo, durante el invierno (diciembre a mayo), las crecidas del afluente rebasan los 2,50 metros de calado hidrodinámico, impidiendo por completo el paso a pie y dejando a la vía con una oferta de transitabilidad efectiva de 0 vehículos y 0 peatones de manera recurrente a lo largo de 105 días al año.
+En la situación actual sin proyecto, la oferta de infraestructura vial segura y transitable sobre el río Santa Rosa es igual a cero (oferta nula). No existe ningún puente vehicular formal ni estructura definitiva en el sitio de paso; no existe ninguna construcción para el cruce, por lo que los pobladores y transeúntes deben cruzar caminando directamente por el lecho del río. Durante el periodo de estiaje (junio a noviembre), este paso a pie por el lecho natural opera precariamente alrededor de 260 días al año. Sin embargo, durante el invierno (diciembre a mayo), las crecidas del afluente rebasan los 2,50 metros de calado hidrodinámico, impidiendo por completo el cruce y dejando al sector sin transitabilidad efectiva (0 vehículos y 0 peatones) de manera recurrente a lo largo de 105 días al año.
 
 ### Demanda insatisfecha
 
