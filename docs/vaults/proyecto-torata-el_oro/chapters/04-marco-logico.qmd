@@ -34,12 +34,12 @@ De acuerdo con los lineamientos de Planifica Ecuador @guia_planifica2021, la Mat
 ::: {#tbl-marco-logico-puente}
 \fontsize{9.5}{11.5}\selectfont
 \begin{longtable}{@{}p{0.24\linewidth}p{0.26\linewidth}p{0.26\linewidth}p{0.24\linewidth}@{}}
-\caption{Matriz de Marco Lógico para el Puente Vehicular sobre el Río Santa Rosa} \label{tbl-marco-logico-puente} \\
+\caption{Matriz de Marco Lógico para el Puente en el Sitio El Playón} \label{tbl-marco-logico-puente} \\
 \toprule
 \textbf{Resumen Narrativo} & \textbf{Indicadores Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
 \midrule
 \endfirsthead
-\caption[]{Matriz de Marco Lógico para el Puente Vehicular sobre el Río Santa Rosa (continuación)} \\
+\caption[]{Matriz de Marco Lógico para el Puente en el Sitio El Playón (continuación)} \\
 \toprule
 \textbf{Resumen Narrativo} & \textbf{Indicadores Verificables} & \textbf{Medios de Verificación} & \textbf{Supuestos} \\
 \midrule
@@ -66,7 +66,7 @@ Las condiciones geológicas e hidrológicas no superan el periodo de retorno de 
 3. Superestructura metálica modular tipo Bailey montada, asegurada y señalizada. \par
 4. Comité comunitario de conservación y mantenimiento vial constituido. &
 C1: 1 informe geotécnico y memorias de cálculo validadas por el GAD Municipal de Santa Rosa. \par
-C2: 2 estribos macizos (aprox. 180 m³ de hormigón f'c=280 kg/cm²) y 45 m lineales de gaviones ejecutados. \par
+C2: 2 estribos macizos (68,5 m³ de hormigón simple f'c=240 kg/cm²) y 55,7 m³ de gaviones de protección ejecutados. \par
 C3: 1 puente de 30 metros de longitud de un carril montado con capacidad de carga HS-20 (AASHTO). \par
 C4: 1 comité comunitario activo con manual de operación entregado. &
 Actas de aprobación de estudios de suelos y mecánica de rocas. \par
@@ -99,19 +99,19 @@ Flujo regular de asignaciones presupuestarias concurrentes entre las entidades p
 | :--- | :--- | :--- | :--- |
 | **Fin:** Dinamizar la productividad agropecuaria, reducir los costos logísticos y elevar el nivel de ingresos de los productores rurales de la parroquia Torata. | Pérdidas de producción de leche y cacao en invierno reducidas en al menos 85% en los primeros 2 años. Incremento del 18% en el volumen comercializado de ganado bovino en pie hacia mercados cantonales. | Estadísticas del MAG / Agrocalidad El Oro e informes de rendición de cuentas del GADPR Torata. | Los precios de los productos agropecuarios se mantienen dentro de los rangos históricos de mercado. |
 | **Propósito:** Comunidades y sectores productivos de El Guayabo, La Chilca y Torata cuentan con transitabilidad vehicular ininterrumpida y segura durante los 365 días del año. | 100% de días del año con paso vehicular habilitado sobre el río Santa Rosa (0 días de aislamiento por crecientes). Tiempo promedio de cruce del afluente reducido de 45 a 3 minutos. | Aforos de tráfico vehicular de la Dirección de Obras Públicas de la Prefectura e inspecciones técnicas del GADPR Torata. | Las condiciones geológicas e hidrológicas no superan el periodo de retorno de diseño (Tr = 100 años). |
-| **Componentes:** 1. Estudios geotécnicos, de suelos e hidráulicos concluidos y aprobados. 2. Estribos de hormigón armado, muros de encauzamiento y terraplenes de acceso construidos. 3. Superestructura metálica modular tipo Bailey montada, asegurada y señalizada. 4. Comité comunitario de conservación y mantenimiento vial constituido. | C1: 1 informe geotécnico y memorias de cálculo validadas por el GAD Municipal de Santa Rosa. C2: 2 estribos macizos (aprox. 180 m³ de hormigón f'c=280 kg/cm²) y 45 m lineales de gaviones ejecutados. C3: 1 puente de 30 metros de longitud de un carril montado con capacidad de carga HS-20 (AASHTO). C4: 1 comité comunitario activo con manual de operación entregado. | Actas de aprobación de estudios de suelos y mecánica de rocas. Planillas de avance de obra y fiscalización técnica de la Prefectura de El Oro. Certificados de calidad de materiales y ensayos a compresión de probetas de hormigón. Acta de entrega-recepción provisional y definitiva de la obra. | El Municipio de Santa Rosa entrega oportunamente los resultados del estudio de suelos. La Prefectura de El Oro asigna los paneles modulares de puente Bailey comprometidos. Los propietarios locales respetan los límites de derecho de vía cedidos para los accesos. |
+| **Componentes:** 1. Estudios geotécnicos, de suelos e hidráulicos concluidos y aprobados. 2. Estribos de hormigón armado, muros de encauzamiento y terraplenes de acceso construidos. 3. Superestructura metálica modular tipo Bailey montada, asegurada y señalizada. 4. Comité comunitario de conservación y mantenimiento vial constituido. | C1: 1 informe geotécnico y memorias de cálculo validadas por el GAD Municipal de Santa Rosa. C2: 2 estribos macizos (68,5 m³ de hormigón simple f'c=240 kg/cm²) y 55,7 m³ de gaviones de protección ejecutados. C3: 1 puente de 30 metros de longitud de un carril montado con capacidad de carga HS-20 (AASHTO). C4: 1 comité comunitario activo con manual de operación entregado. | Actas de aprobación de estudios de suelos y mecánica de rocas. Planillas de avance de obra y fiscalización técnica de la Prefectura de El Oro. Certificados de calidad de materiales y ensayos a compresión de probetas de hormigón. Acta de entrega-recepción provisional y definitiva de la obra. | El Municipio de Santa Rosa entrega oportunamente los resultados del estudio de suelos. La Prefectura de El Oro asigna los paneles modulares de puente Bailey comprometidos. Los propietarios locales respetan los límites de derecho de vía cedidos para los accesos. |
 | **Actividades:** 1.1 Sondeos geotécnicos y toma de muestras de suelo. 2.1 Excavación bajo agua y cimentación profunda de estribos. 2.2 Colocación de gaviones y enrocado de protección contra socavación. 3.1 Traslado, ensamblaje y lanzamiento de paneles Bailey. 3.2 Fundición de losetas de rodadura y bordillos. 4.1 Talleres de veeduría y mantenimiento vial. | Presupuesto total ejecutado de $380.274,58 USD en un plazo de ejecución de 120 días calendario. | Cédulas de ejecución presupuestaria del GAD Provincial de El Oro y del GAD Municipal de Santa Rosa. Facturas y contratos liquidados en el portal del SERCOP. | Flujo regular de asignaciones presupuestarias concurrentes entre las entidades participantes. |
 
-: Matriz de Marco Lógico para el Puente Vehicular sobre el Río Santa Rosa {#tbl-marco-logico-puente}
+: Matriz de Marco Lógico para el Puente en el Sitio El Playón {#tbl-marco-logico-puente}
 
 *Nota.* Elaboración técnica conforme a la metodología de Marco Lógico de Planifica Ecuador.
 :::
 
 ### Anualización de las metas de los indicadores del propósito
 
-Las metas del propósito del proyecto se anualizarán tomando en consideración los componentes, por lo que deberán efectuar la programación de las metas hasta lograr el propósito de acuerdo al tiempo estimado de ejecución del mismo.
+Las metas del propósito del proyecto se programan considerando el cronograma constructivo (plazo de ejecución de 120 días calendario en el Periodo 1) y la entrada en régimen operativo pleno a partir de la entrega-recepción de la obra.
 
-Una vez anualizadas las metas de cada indicador del propósito, éstas deberán ser ponderadas de acuerdo al peso definido por el gestor del proyecto (@tbl-anualizacion-metas-puente).
+Una vez anualizadas las metas de cada indicador del propósito, se ponderan de acuerdo al peso asignado a cada ámbito de impacto (60,00 % para la garantía de conectividad física continua y 40,00 % para la eficiencia logística y reducción de tiempos de cruce), totalizando el 100,00 % del peso del propósito (@tbl-anualizacion-metas-puente).
 
 ::: {.content-visible when-format="pdf"}
 ::: {#tbl-anualizacion-metas-puente}
@@ -121,42 +121,50 @@ Una vez anualizadas las metas de cada indicador del propósito, éstas deberán 
 \begin{longtable}{@{}p{0.25\linewidth}p{0.14\linewidth}p{0.08\linewidth}p{0.09\linewidth}>{\raggedleft\arraybackslash}p{0.065\linewidth}>{\raggedleft\arraybackslash}p{0.065\linewidth}>{\raggedleft\arraybackslash}p{0.065\linewidth}>{\raggedleft\arraybackslash}p{0.065\linewidth}>{\raggedleft\arraybackslash}p{0.065\linewidth}>{\raggedleft\arraybackslash}p{0.07\linewidth}@{}}
 \caption{Anualización de las metas de los indicadores del propósito} \label{tbl-anualizacion-metas-puente} \\
 \toprule
-\textbf{Indicador de propósito} & \textbf{Unidad de medida} & \textbf{Meta Propósito} & \textbf{Ponderación (\%)} & \textbf{Año 1 (2026)} & \textbf{Año 2 (2027)} & \textbf{Año 3 (2028)} & \textbf{Año 4 (2029)} & \textbf{Año 5 (2030)} & \textbf{Total} \\
+\textbf{Indicador de propósito} & \textbf{Unidad de medida} & \textbf{Meta Propósito} & \textbf{Ponderación (\%)} & \textbf{Periodo 1} & \textbf{Periodo 2} & \textbf{Periodo 3} & \textbf{Periodo 4} & \textbf{Periodo 5} & \textbf{Total} \\
 \midrule
 \endfirsthead
 \caption[]{Anualización de las metas de los indicadores del propósito (continuación)} \\
 \toprule
-\textbf{Indicador de propósito} & \textbf{Unidad de medida} & \textbf{Meta Propósito} & \textbf{Ponderación (\%)} & \textbf{Año 1 (2026)} & \textbf{Año 2 (2027)} & \textbf{Año 3 (2028)} & \textbf{Año 4 (2029)} & \textbf{Año 5 (2030)} & \textbf{Total} \\
+\textbf{Indicador de propósito} & \textbf{Unidad de medida} & \textbf{Meta Propósito} & \textbf{Ponderación (\%)} & \textbf{Periodo 1} & \textbf{Periodo 2} & \textbf{Periodo 3} & \textbf{Periodo 4} & \textbf{Periodo 5} & \textbf{Total} \\
 \midrule
 \endhead
 \bottomrule
 \endfoot
 \textbf{Indicador 1:} \par
-Transitabilidad vehicular y peatonal continua y segura sobre el río Santa Rosa & Días al año con paso habilitado & 365 & 60 & 260 & 365 & 365 & 365 & 365 & 1.720 \\
+Transitabilidad vehicular y peatonal ininterrumpida sobre el río Santa Rosa & Días al año con conectividad garantizada & 365 & 60,00 & 245 & 365 & 365 & 365 & 365 & 365 \\
 \midrule
-\multicolumn{4}{l}{\textbf{Meta anual ponderada}} & 9,07 & 12,73 & 12,73 & 12,73 & 12,73 & 60,00 \\
+\multicolumn{4}{l}{\textbf{Cumplimiento anual operativo del indicador (\%)}} & 67,12 & 100,00 & 100,00 & 100,00 & 100,00 & 100,00 \\
+\multicolumn{4}{l}{\textbf{Meta anual ponderada (\%)}} & 40,27 & 60,00 & 60,00 & 60,00 & 60,00 & 60,00 \\
 \midrule
 \addlinespace
 \textbf{Indicador 2:} \par
-Tiempo promedio de cruce del cauce fluvial del río Santa Rosa & Minutos por cruce vehicular & 3 & 40 & 45 & 3 & 3 & 3 & 3 & 57 \\
+Tiempo promedio de cruce seguro del cauce fluvial & Minutos por cruce vehicular & 3 & 40,00 & 17 & 3 & 3 & 3 & 3 & 3 \\
 \midrule
-\multicolumn{4}{l}{\textbf{Meta anual ponderada}} & 31,58 & 2,11 & 2,11 & 2,11 & 2,11 & 40,00 \\
+\multicolumn{4}{l}{\textbf{Cumplimiento anual operativo del indicador (\%)}} & 66,67 & 100,00 & 100,00 & 100,00 & 100,00 & 100,00 \\
+\multicolumn{4}{l}{\textbf{Meta anual ponderada (\%)}} & 26,67 & 40,00 & 40,00 & 40,00 & 40,00 & 40,00 \\
+\midrule
+\addlinespace
+\multicolumn{4}{l}{\textbf{Cumplimiento ponderado total del propósito (\%)}} & 66,94 & 100,00 & 100,00 & 100,00 & 100,00 & 100,00 \\
 \bottomrule
 \end{longtable}
-\fuente{Elaboración técnica conforme a la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador). \textit{Nota:} Meta anual ponderada = (Meta año $\times$ Ponderación) / Meta Propósito.}
+\fuente{Elaboración técnica conforme a la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador). Cumplimiento anual ponderado = Cumplimiento operativo (\%) $\times$ Ponderación del indicador.}
 \end{landscapepage}
 :::
 :::
 
 ::: {.content-visible unless-format="pdf"}
-| Indicador de propósito | Unidad de medida | Meta Propósito | Ponderación (%) | Año 1 (2026) | Año 2 (2027) | Año 3 (2028) | Año 4 (2029) | Año 5 (2030) | Total |
+| Indicador de propósito | Unidad de medida | Meta Propósito | Ponderación (%) | Periodo 1 | Periodo 2 | Periodo 3 | Periodo 4 | Periodo 5 | Total |
 | :--- | :--- | :---: | :---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Indicador 1:** Transitabilidad vehicular y peatonal continua y segura sobre el río Santa Rosa | Días al año con paso habilitado | 365 | 60 | 260 | 365 | 365 | 365 | 365 | 1.720 |
-| **Meta anual ponderada (Ind. 1)** | % | — | — | 9,07 | 12,73 | 12,73 | 12,73 | 12,73 | 60,00 |
-| **Indicador 2:** Tiempo promedio de cruce del cauce fluvial del río Santa Rosa | Minutos por cruce vehicular | 3 | 40 | 45 | 3 | 3 | 3 | 3 | 57 |
-| **Meta anual ponderada (Ind. 2)** | % | — | — | 31,58 | 2,11 | 2,11 | 2,11 | 2,11 | 40,00 |
+| **Indicador 1:** Transitabilidad vehicular y peatonal ininterrumpida sobre el río Santa Rosa | Días al año con conectividad garantizada | 365 | 60,00 | 245 | 365 | 365 | 365 | 365 | 365 |
+| Cumplimiento anual operativo del indicador (%) | % | 100,00 | — | 67,12 | 100,00 | 100,00 | 100,00 | 100,00 | 100,00 |
+| **Meta anual ponderada (Ind. 1)** | % | — | 60,00 | 40,27 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 |
+| **Indicador 2:** Tiempo promedio de cruce seguro del cauce fluvial | Minutos por cruce vehicular | 3 | 40,00 | 17 | 3 | 3 | 3 | 3 | 3 |
+| Cumplimiento anual operativo del indicador (%) | % | 100,00 | — | 66,67 | 100,00 | 100,00 | 100,00 | 100,00 | 100,00 |
+| **Meta anual ponderada (Ind. 2)** | % | — | 40,00 | 26,67 | 40,00 | 40,00 | 40,00 | 40,00 | 40,00 |
+| **Cumplimiento ponderado total del propósito (%)** | % | 100,00 | 100,00 | 66,94 | 100,00 | 100,00 | 100,00 | 100,00 | 100,00 |
 
 : Anualización de las metas de los indicadores del propósito {#tbl-anualizacion-metas-puente}
 
-*Nota.* Elaboración técnica conforme a la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador). Meta anual ponderada = (Meta año × Ponderación) / Meta Propósito.
+*Nota.* Elaboración técnica conforme a la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador). Cumplimiento anual ponderado = Cumplimiento operativo (%) × Ponderación del indicador.
 :::

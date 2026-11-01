@@ -6,7 +6,7 @@ Prioridad. La solicitud asegura la incorporación y elegibilidad técnica del pr
 
 ## Nombre del Proyecto
 
-Construcción del puente vehicular sobre el río Santa Rosa y mejoramiento de los accesos viales en el sector El Guayabo - La Chilca, parroquia rural Torata, cantón Santa Rosa, provincia de El Oro.
+Construcción de puente en el sitio El Playón, parroquia rural Torata, cantón Santa Rosa, provincia de El Oro.
 
 ## Entidad (UDAF)
 
@@ -18,7 +18,7 @@ No aplica
 
 ## Gabinete Sectorial
 
-De conformidad con el Decreto Ejecutivo Nro. 491 @decreto_ejecutivo_491 y el Decreto Ejecutivo Nro. 91 @decreto_ejecutivo_91 que norman la organización y funcionamiento de las instancias de coordinación intersectorial de la Función Ejecutiva, el presente proyecto se articula al **Gabinete Sectorial de Desarrollo Productivo**, instancia encargada de armonizar las políticas públicas, inversiones e infraestructura vial de soporte para el fomento de la producción y el transporte en el país.
+De conformidad con el Decreto Ejecutivo Nro. 91 @decreto_ejecutivo_91 y sus reformas expedidas mediante Decreto Ejecutivo Nro. 158 @decreto_ejecutivo_158 que norman la organización y funcionamiento de las instancias de coordinación intersectorial de la Función Ejecutiva, el presente proyecto se articula al Gabinete Sectorial de Desarrollo Productivo, instancia encargada de armonizar las políticas públicas, inversiones e infraestructura vial de soporte para el fomento de la producción y el transporte en el país.
 
 ## Sector, subsector y tipo de inversión
 

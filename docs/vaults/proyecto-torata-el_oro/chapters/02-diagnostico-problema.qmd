@@ -6,51 +6,110 @@ La caracterización y diagnóstico territorial de la parroquia rural Torata (can
 
 ### Dimensión Social y Asentamientos Humanos
 
-Torata cuenta con una población censada de 2.174 habitantes (1.109 hombres que representan el 51,01 % y 1.065 mujeres equivalentes al 48,99 %), distribuida en una superficie total de 8.538,00 ha (85,38 km² de demarcación general y 22 km² de consolidación territorial desconcentrada), lo que arroja una densidad poblacional rural de 25,46 hab/km². La tasa de crecimiento intercensal se sitúa en el 0,94 % anual. La estructura etaria revela una predominancia de población en edad productiva (67,71 % entre 15 y 64 años, 21,80 % de 0 a 14 años y 10,49 % de adultos mayores de 65 años). 
+Torata cuenta con una población censada de 2.174 habitantes (1.109 hombres que representan el 51,01 % y 1.065 mujeres equivalentes al 48,99 %), distribuida en una superficie total de 8.538,00 ha (85,38 km² de demarcación general y 22 km² de consolidación territorial desconcentrada), lo que arroja una densidad poblacional rural de 25,46 hab/km². La tasa de crecimiento intercensal se sitúa en el 0,94 % anual. La estructura etaria revela una predominancia de población en edad productiva (67,71 % entre 15 y 64 años, 21,80 % de 0 a 14 años y 10,49 % de adultos mayores de 65 años). En el territorio residen 595 niños, niñas y adolescentes y 228 adultos mayores clasificados como grupos de atención prioritaria. El 67,40 % de la población vive en condiciones de pobreza por Necesidades Básicas Insatisfechas (NBI), incidiendo fuertemente el déficit de servicios y la precariedad de la conectividad vial.
 
-En el ámbito de las condiciones de vida, el 67,40 % de la población vive en condiciones de pobreza por Necesidades Básicas Insatisfechas (NBI). El acceso al agua por red pública o entubada cubre al 64,20 % de las viviendas, mientras que la red formal de alcantarillado sanitario solo alcanza al 28,50 %, persistiendo un déficit sanitario del 71,50 % donde las familias recurren a pozos ciegos o letrinas. La electrificación cubre el 95,80 % y el servicio de internet fijo al 38,70 % de los hogares. La red vial parroquial suma 46,20 km de longitud, de los cuales apenas el 34,20 % (15,8 km de la carretera intercantonal E585) está asfaltada; el 65,80 % restante son caminos lastrados y de verano vulnerables a las lluvias. El equipamiento social comprende 4 unidades educativas fiscales y 1 Centro de Salud Tipo A en la cabecera parroquial; sin embargo, en época de lluvias, la incomunicación por crecidas fluviales origina hasta un 45 % de ausentismo escolar en los sectores de La Chilca, El Guayabo y El Playón y dificulta el traslado urgente de pacientes hacia el centro de salud y hospitales de Santa Rosa (distante a 40 minutos en condiciones normales).
+#### Jerarquía de asentamientos humanos y morfología territorial
+De conformidad con el sistema de jerarquización cantonal de asentamientos humanos del Plan de Desarrollo y Ordenamiento Territorial de Santa Rosa @pdot_santarosa_2024, los centros poblados de la parroquia Torata se estructuran de la siguiente manera:
+
+* Torata (Cabecera Parroquial): Clasificada en Jerarquía 2 (*Cabecera Parroquial / Centro Urbano Menor*), presenta una delimitación de suelo urbano de 37,59 hectáreas según el PUGS cantonal y 397 viviendas consolidadas conforme al Censo 2022 @inec_censo_2022. Su morfología espacial es de carácter lineal a lo largo del eje vial intercantonal con tendencia a la nucleación en su núcleo central administrativo.
+* La Chilca: Clasificada en Jerarquía 3 (*Sitio / Asentamiento rural nucleado*), cuenta con una delimitación de suelo rural residencial de 8,79 hectáreas y 84 viviendas registradas.
+* El Guayabo: Clasificada en Jerarquía 3 (*Sitio rural lineal*), dispone de 8,43 hectáreas delimitadas y 86 viviendas a lo largo del camino rural de acceso.
+* El Playón: Clasificado en Jerarquía 4 (*Sitio / Asentamiento rural nucleado*), conforma el núcleo ribereño de concentración de fincas y viviendas rurales en torno al cruce fluvial, carente de suelo urbano delimitado por el PUGS.
+* Sabayán: Clasificado en Jerarquía 4 (*Asentamiento rural de morfología dispersa*), conformado por unidades productivas agropecuarias distantes.
+
+#### Infraestructura vial y conectividad parroquial
+La red vial parroquial suma 46,20 km de longitud, de los cuales apenas el 34,20 % (15,8 km correspondientes a la carretera intercantonal E585) se encuentra pavimentada o asfaltada; el 65,80 % restante son caminos secundarios lastrados y caminos vecinales de verano altamente vulnerables a las precipitaciones. En los sectores periféricos y productivos de El Playón, La Chilca, El Guayabo y Sabayán, la circulación depende exclusivamente de caminos de tercer orden sin drenaje adecuado y del cruce directo a nivel por el lecho del río Santa Rosa, provocando el aislamiento recurrente de las comunidades campesinas ante las crecidas torrenciales invernales.
+
+#### Servicios básicos, abastecimiento de agua y saneamiento ambiental
+* Abastecimiento de agua: A diferencia del área urbana cantonal administrada directamente por la Empresa Pública Municipal EMAPASR-EP, en la parroquia Torata la distribución comunitaria del agua de consumo recae en tres Juntas Administradoras de Agua Potable (JAAP) reconocidas formalmente en el PDOT cantonal @pdot_santarosa_2024:
+  1. *Junta Administradora de Agua Potable Torata:* Presta servicio a la cabecera parroquial con un padrón de 450 usuarios.
+  2. *Junta de Agua Playón - La Chilca:* Abastece directamente a las familias de los sitios El Playón y La Chilca con un registro de 200 usuarios. Su captación se ubica en la microcuenca de la Quebrada Los Tucanes (9 hectáreas de reserva protegida).
+  3. *Junta Administradora de Agua Potable El Guayabo - Sabayán:* Suministra agua superficial a los sectores de Sabayán y El Guayabo, sumando 78 usuarios.
+  
+  En total, las tres juntas abastecen a 728 usuarios registrados. El acceso a agua por red pública o entubada cubre formalmente al 64,20 % de los hogares parroquiales, pero en las estribaciones dispersas más del 35 % de familias depende de mangueras artesanales directas de vertientes de montaña sin desinfección continua.
+* Alcantarillado y disposición de excretas: Constituye el déficit sanitario más crítico de Torata: únicamente el 28,50 % de las viviendas cuenta con conexión formal a red pública de alcantarillado sanitario (concentrado en la cabecera parroquial). El 71,50 % de la población carece de este servicio higiénico, viéndose obligada al uso de pozos ciegos, letrinas precarias o la descarga directa sobre quebradas naturales.
+* Energía eléctrica y alumbrado público: La cobertura eléctrica domiciliaria suministrada por CNEL EP alcanza al 95,80 % de los hogares; no obstante, el alumbrado público presenta deficiencias notables en los caminos vecinales rurales, incrementando la inseguridad en los pasos fluviales durante horarios nocturnos.
+* Telecomunicaciones e internet: El acceso a internet fijo y móvil cubre apenas al 38,70 % de los hogares, registrándose importantes sombras de cobertura en las zonas de ribera montañosa.
+* Gestión de residuos sólidos: El servicio municipal de recolección de basura cubre al 54,30 % de las viviendas (dos frecuencias semanales en vías principales). En las estribaciones rurales, la falta de vías transitables impide el ingreso del vehículo recolector, forzando a los habitantes a quemar o enterrar los desechos.
+
+#### Educación y cobertura escolar
+La infraestructura educativa de la parroquia comprende cinco instituciones que albergan a una comunidad escolar de 538 estudiantes: el Colegio de Bachillerato *Lic. Fausto Molina Molina* y la Escuela de Educación Básica *Dr. Modesto Chávez Franco* en la cabecera parroquial; la Escuela *3 de Noviembre* en el sector El Guayabo; la Escuela *27 de Marzo* en el sitio El Playón; y una unidad comunitaria de educación inicial CNH. El promedio de escolaridad parroquial es de 7,8 años, con una tasa de alfabetización del 92,60 %. Durante los meses invernales, la imposibilidad de cruzar el cauce crecido del río Santa Rosa provoca hasta un 45 % de ausentismo escolar en los niños, niñas y adolescentes que deben trasladarse a pie entre las escuelas de El Playón, El Guayabo y Torata Centro.
+
+#### Salud, morbilidad y acceso a atención médica
+El sistema de salud local presenta una severa limitación estructural: Torata no dispone de un Subcentro de Salud Tipo A formal del Ministerio de Salud Pública (MSP) en operación, contando únicamente con una reserva de suelo asignada en la cabecera parroquial. La atención de salud se canaliza a través de un dispensario del *Seguro Social Campesino (IESS)*, el cual en el último año brindó 3.723 consultas ambulatorias; sin embargo, este servicio se restringe legalmente a los jefes de familia afiliados y sus dependientes acreditados. 
+
+La población general no asegurada carece de cobertura médica directa en la parroquia y debe trasladarse obligatoriamente hacia el Hospital Básico de Santa Rosa o subcentros cantonales (distantes a 40 minutos en condiciones normales). Las patologías más frecuentes corresponden a parasitosis intestinal e infecciones gastrointestinales (derivadas de la deficiente calidad del agua y la falta de alcantarillado), seguidas de afecciones respiratorias agudas e infecciones de vías urinarias. Durante la época invernal, la ausencia de un puente vehicular en el sitio El Playón impide el paso de ambulancias y vehículos de rescate, dejando incomunicadas a las familias ante emergencias obstétricas o traumatismos graves.
 
 ### Dimensión Económica y Productiva
 
 La matriz económica parroquial depende decisivamente de la actividad agropecuaria y del aprovechamiento de los recursos naturales. La Población Económicamente Activa (PEA) asciende a 1.241 personas (57,08 % de la población total), con una tasa de empleo adecuado de únicamente el 18,10 % (220 personas) y una tasa acumulada de subempleo y empleo no remunerado del 57,70 % (subempleo 22,3 % y trabajo no remunerado 35,4 %), con un desempleo abierto del 1,90 %. Por ramas de actividad, el sector primario concentra el 55,00 % de los ocupados (39,44 % en agricultura y ganadería con 489 empleos directos, y 15,56 % en minería artesanal), seguido por el sector terciario de comercio y servicios con 37,50 % (465 empleos) y el sector secundario con 7,50 %. El ingreso promedio mensual por hogar en las zonas rurales es de apenas $415,00 USD.
 
-La producción pecuaria sostiene un inventario bovino censado de 3.898 cabezas (1.386 vacas de ordeño, 933 toretes, 798 vaconas, 376 terneras, 313 terneros y 92 toros), que pastan en 2.478,45 hectáreas (37,29 % del territorio parroquial), complementado con 528 hectáreas de cultivos permanentes (café arábigo, cacao fino de aroma, caña de azúcar y cítricos con una producción comercial aproximada de 1.650 toneladas anuales) y granjas avícolas tecnificadas con capacidad de 109.000 aves. El sector lácteo genera más de 3.650 litros diarios de leche cruda destinados a la venta en pie y queserías locales. No obstante, la inexistencia de un puente seguro genera pérdidas críticas: durante los picos invernales se derraman o descomponen hasta 3.500 litros de leche al día por la imposibilidad de ingreso del transporte de acopio, forzando a los productores a realizar costosos trasbordos manuales o vender el queso a pérdida.
+La producción pecuaria sostiene un inventario bovino censado de 3.898 cabezas (1.386 vacas de ordeño, 933 toretes, 798 vaconas, 376 terneras, 313 terneros y 92 toros), que pastan en 2.478,45 hectáreas (37,29 % del territorio parroquial), complementado con 528 hectáreas de cultivos permanentes (café arábigo, cacao fino de aroma, caña de azúcar y cítricos con una producción comercial aproximada de 1.650 toneladas anuales) y granjas avícolas tecnificadas con capacidad de 109.000 aves. El sector lácteo genera más de 3.650 litros diarios de leche cruda destinados a la venta en pie y queserías locales. No obstante, la inexistencia de un puente seguro genera pérdidas críticas: durante los picos de crecida invernal la imposibilidad de ingreso regular de los camiones de acopio obliga a trasbordos manuales de alto riesgo, procesamiento forzado en quesillo con mermas de precio o pérdidas directas de leche y cosechas perecibles que alcanzan un perjuicio económico consolidado de .500,00 USD por ciclo invernal en la zona aislada.
 
 ### Dimensión Ambiental y Físico-Natural
 
 El territorio parroquial se emplaza sobre la vertiente occidental de la cordillera de los Andes, en un relieve colinado-escarpado de estribación montañosa con pendiente media del 28 % y altitudes que van desde los 307 msnm en las riberas bajas hasta los 480 msnm en la cabecera parroquial. El régimen bioclimático se caracteriza por una temperatura media anual de 23,6 °C y una precipitación media anual de 1.280 mm, concentrada en el régimen lluvioso de diciembre a mayo. El 27,20 % del territorio (2.322 ha) corresponde a bosque natural y vegetación protectora, mientras que los pastizales pecuarios abarcan 4.986 ha (58,40 %).
 
-El drenaje hidrográfico principal lo constituye la cuenca alta del río Santa Rosa (denominado localmente río Carne Amarga), cuyas nacientes se originan entre los cerros Fénix y del Oso, abarcando una zona de recarga hídrica de 1.450 hectáreas de alta importancia ecológica. El río registra un caudal medio de estiaje de 32,5 L/s, pero en invierno experimenta crecidas torrenciales extraordinarias con arrastre masivo de bolones de piedra y palizadas. El Servicio Nacional de Gestión de Riesgos y Emergencias (SNGRE) clasifica a 1.840 ha (21,55 % de la parroquia) como zonas de amenaza moderada a alta frente a deslizamientos en taludes y socavación activa de márgenes fluviales, afectando directamente al paso El Guayabo - La Chilca.
+#### Cuencas hidrográficas y Áreas de Conservación Municipal (ACMUS)
+El drenaje hidrográfico principal lo constituye la cuenca alta del río Santa Rosa (denominado localmente río Carne Amarga), cuyas nacientes se originan entre los cerros Fénix y del Oso. De acuerdo con el ordenamiento ambiental cantonal @pdot_santarosa_2024, la parroquia Torata forma parte medular de las Áreas de Conservación Municipal y Uso Sostenible (ACMUS), destacando:
+* Bloque 2 (4.345,61 ha) y Bloque 7 (10.051,99 ha): Protegen la cuenca alta y media del río Santa Rosa y la Quebrada Sabayán, sumando un área crítica de captación de 3.298 hectáreas que abastece hídricamente a Torata y al centro cantonal de Santa Rosa.
+* Captación Quebrada Los Tucanes: Comprende una zona de reserva protegida de 9 hectáreas en el límite entre Avanzada y Torata, fuente de agua superficial exclusiva para los recintos La Chilca y El Playón.
+* Predios de conservación adquiridos: EMAPASR-EP mantiene la custodia de 25 hectáreas en El Guayabo y 40 hectáreas en La Chonta, articuladas al convenio de conservación de 300 hectáreas con la Fundación Jocotoco para resguardar la vegetación nativa en cabeceras de cuenca.
+
+El río registra un caudal medio de estiaje de 32,5 L/s, pero en invierno experimenta crecidas torrenciales extraordinarias con arrastre masivo de bolones de piedra y palizadas. El Servicio Nacional de Gestión de Riesgos y Emergencias (SNGRE) clasifica a 1.840 ha (21,55 % de la parroquia) como zonas de amenaza moderada a alta frente a deslizamientos en taludes y socavación activa de márgenes fluviales, afectando directamente al cruce fluvial en el sitio El Playón.
 
 ### Dimensión Institucional y de Gobernanza
 
-El entramado institucional local se conforma por el GAD Parroquial Rural de Torata, la Tenencia Política, el GAD Municipal del Cantón Santa Rosa, el GAD Provincial de El Oro, la Empresa Pública EMAPASR-EP, y los ministerios sectoriales de Educación y Salud Pública. A nivel de sociedad civil y base comunitaria, existen 11 organizaciones activas, entre comités pro-mejoras barriales, juntas administradoras de agua potable y la Asociación de Ganaderos y Productores Agropecuarios de Torata.
+El entramado institucional local se conforma por el GAD Parroquial Rural de Torata, la Tenencia Política, el GAD Municipal del Cantón Santa Rosa, el GAD Provincial de El Oro, la Empresa Pública EMAPASR-EP, y los ministerios sectoriales de Educación y Salud Pública. A nivel de sociedad civil y base comunitaria, existen 11 organizaciones activas, entre comités pro-mejoras barriales, las tres juntas administradoras de agua potable (Torata, Playón-La Chilca y El Guayabo-Sabayán) y la Asociación de Ganaderos y Productores Agropecuarios de Torata.
+
+#### Marco de convenios y concurrencia institucional
+
+En el marco de la gestión cantonal y provincial @pdot_santarosa_2024, la parroquia Torata forma parte de instrumentos formales de concurrencia administrativa, entre los cuales destacan: el convenio vial entre el GAD Municipal de Santa Rosa y el GAD Provincial de El Oro, instrumento interinstitucional para la ejecución conjunta de mejoramiento y colocación de carpeta asfáltica en la red vial parroquial y caminos de acceso rural (modelo donde el GAD cantonal ejecuta base y subbase, y la Prefectura instala el pavimento y obras de arte mayor); el convenio de entrega de material fresado suscrito entre el MTOP y el Municipio, consistente en la asignación técnica de fresado asfáltico para el mantenimiento emergente y afirmado de accesos a barrios rurales y zonas de enlace fluvial; el convenio tripartito de gestión de ACMUS, suscrito entre el GAD Municipal de Santa Rosa, EMAPASR-EP y la Fundación Naturaleza y Cultura Internacional para la gobernanza ambiental de las zonas de recarga hídrica; y los convenios sociales y comunitarios, correspondientes a los acuerdos anuales concurrentes entre el GADPR Torata y el Municipio para el financiamiento de escuelas deportivas formativas y la atención prioritaria integral al adulto mayor.
 
 A pesar de esta densidad organizativa, el GADPR Torata cuenta con un presupuesto anual de inversión muy restringido, que oscila entre $245.000,00 y $280.000,00 USD al año, asignado mayoritariamente a competencias de saneamiento, mantenimiento menor y espacios públicos (6 proyectos ejecutados en el último trienio). Este techo presupuestario torna financieramente inviable que el gobierno parroquial afronte de forma solitaria obras de infraestructura vial mayor como el puente sobre el río Santa Rosa. De allí surge la necesidad indispensable de activar la gobernanza intergubernamental mediante convenios de concurrencia y cooperación técnica y financiera con la Prefectura de El Oro (titular de la competencia de vialidad rural) y el GAD Municipal de Santa Rosa.
 
-![Macro-localización Satelital: Parroquia Torata en el Cantón Santa Rosa](asset/mapa_macro_torata.png){#fig-macro width=65%}
+La delimitación político-administrativa, la red hidrográfica y los asentamientos humanos vinculados a la zona de intervención se detallan en la \hyperref[fig-mapa-torata]{Figura~\ref*{fig-mapa-torata}}.
 
-\vspace{-0.3cm}
+::: {.content-visible when-format="pdf"}
+\begin{landscapepage}
+\begin{figure}[H]
+\centering
+\caption{Delimitación Geográfica y Político-Administrativa de la Parroquia Torata}\label{fig-mapa-torata}
+\vspace{4pt}
+\includegraphics[width=0.96\linewidth,height=0.74\textheight,keepaspectratio]{asset/mapa_delimitacion_torata_pdot.png}
+\par\vspace{4pt}
+{\raggedright\singlespacing\footnotesize \textit{Nota.} Instituto Geográfico Militar y PDOT de la Parroquia Rural Torata 2023-2027.\par}
+\end{figure}
+\end{landscapepage}
+:::
 
-![Micro-localización Satelital: Emplazamiento del Puente Bailey sobre el Río Santa Rosa](asset/mapa_micro_torata.png){#fig-micro width=60%}
+::: {.content-visible unless-format="pdf"}
+![Delimitación Geográfica y Político-Administrativa de la Parroquia Torata](asset/mapa_delimitacion_torata_pdot.png){#fig-mapa-torata fig-align="center" width=95%}
+
+*Nota.* Instituto Geográfico Militar y PDOT de la Parroquia Rural Torata 2023-2027.
+:::
 
 ## Identificación, descripción y diagnóstico del problema
 
-El problema central identificado en el diagnóstico participativo y convalidado con la dirigencia comunitaria y el PDOT cantonal @pdot_santarosa_2024 consiste en: **Aislamiento físico y nulo acceso vehicular y peatonal seguro en el sitio El Playón de la parroquia Torata**.
+El problema central identificado en el diagnóstico participativo y convalidado con la dirigencia comunitaria y el PDOT cantonal @pdot_santarosa_2024 consiste en: Aislamiento físico y nulo acceso vehicular y peatonal seguro en el sitio El Playón de la parroquia Torata.
 
-Las causas principales que determinan esta problemática se estructuran en dos ramas causales directas:
+Las causas principales que determinan esta problemática se estructuran en las siguientes relaciones causales:
 
-* Causa Directa 1: Carencia absoluta de infraestructura de puente definitiva y segura sobre el río.
-  * Causa Indirecta 1.1: Histórico rezago en la priorización de inversión pública vial para este sector.
-* Causa Directa 2: Imposibilidad física y vial de cruzar el cauce natural del río la mayor parte del año.
-  * Causa Indirecta 2.1: Ausencia de vías alternativas o rutas de conexión en el entorno geográfico.
+* Causas Directas:
+  * Inexistencia de estudios técnicos e infraestructura de puente definitivo.
+  * Baja gestión administrativa para solucionar el déficit vial de la comunidad.
+* Causas Indirectas:
+  * Subordinada a la falta de estudios e infraestructura: Falta de presupuesto asignado para obras rurales en el sector.
+  * Subordinada a la baja gestión administrativa: Escasa organización de la población para exigir la obra pública.
 
 Los efectos derivados de esta condición de incomunicación impactan críticamente el tejido social y productivo:
 
-* Efecto Directo 1: Paralización del transporte agropecuario y pérdida de ingresos familiares (merma de hasta 3.500 litros de leche diarios y cosechas de cacao/café perecibles).
-* Efecto Directo 2: Inaccesibilidad a servicios de salud y educación para grupos vulnerables (ausentismo escolar del 45 % e imposibilidad de auxilio médico de emergencia).
-* Efecto Directo 3: Alto riesgo para la integridad física al intentar vadear el río desbordado durante la temporada invernal.
-* Efecto Final: Estancamiento del desarrollo socioeconómico local y profundización de la vulnerabilidad de las familias en el sitio El Playón.
+* Efectos Directos:
+  * Aumento de tiempos de traslado y alto riesgo físico al intentar cruzar el cauce del río.
+  * Pérdidas económicas por la paralización del transporte agropecuario.
+  * Limitado acceso a salud y educación para grupos vulnerables.
+* Efecto Final:
+  * Estancamiento socioeconómico y vulnerabilidad en el sitio El Playón.
 
 ## Línea base del proyecto
 
@@ -110,68 +169,78 @@ Déficit histórico de estudios técnicos y gestión interinstitucional concurre
 
 \FloatBarrier
 
-![Distribución del Uso y Aptitud del Suelo en Torata (Presión Agropecuaria)](asset/grafico_suelo_torata.png){#fig-suelo width=75%}
-
-![Brecha Territorial de Pobreza por NBI en Torata](asset/grafico_nbi_torata.png){#fig-nbi width=80%}
-
-\FloatBarrier
-
 ## Análisis de oferta y demanda
 
 ### Demanda
 
-La demanda de conectividad vial corresponde al flujo continuo de productores agropecuarios, familias rurales, transportistas de carga liviana y pesada, y visitantes de recreación que requieren cruzar de manera permanente sobre el cauce del río Santa Rosa entre los sectores productivos de El Guayabo, La Chilca, Sabayán y El Playón hacia la cabecera parroquial de Torata, la red arterial cantonal de Santa Rosa y los mercados de la provincia de El Oro.
+La demanda del proyecto corresponde a las necesidades de desplazamiento peatonal, vehicular y de transporte de carga agropecuaria de los habitantes y productores de la cuenca alta del río Santa Rosa. Debido a que en el sitio El Playón no existe ningún puente formal ni obra de paso permanente sobre el río Santa Rosa, la movilidad hacia la cabecera parroquial y los mercados cantonales debe realizarse en condiciones precarias mediante senderos alternos, rodeos por caminos escarpados de herradura y cruces directos a pie por el lecho pedregoso del río exclusivamente en época de estiaje. 
 
-En la situación actual sin proyecto, el Tráfico Promedio Diario Anual (TPDA) en el paso sobre el río Santa Rosa alcanza 60 vehículos por día en época seca (42 camionetas y vehículos livianos de transporte agropecuario y pasajeros, y 18 camiones medianos y lecheros). Asimismo, el volumen de carga pecuaria transportada promedia 3.650 litros diarios de leche cruda y 45 quintales semanales de productos agrícolas.
+De conformidad con la metodología oficial para la formulación de proyectos de inversión pública @guia_planifica2021, la demanda se estructura a partir de la desagregación rigurosa de la población en sus tres niveles territoriales y operativos:
+
+#### Población de referencia
+Es la población total del área de influencia macro-territorial en la cual se inserta el proyecto. Para la presente intervención, la población de referencia corresponde a los 714.592 habitantes de la Provincia de El Oro (Censo INEC 2022 @inec_censo_2022). Esta población se encuentra desagregada por sexo en 360.528 hombres (50,45 %) y 354.064 mujeres (49,55 %); por pertenencia étnica con predominancia mestiza (81,6 %), montubia (7,8 %), afroecuatoriana (6,9 %) e indígena (2,4 %); y por grupos de edad concentrando un 65,8 % en población en edad productiva (15 a 64 años), 24,1 % de 0 a 14 años y 10,1 % de adultos mayores. Representa el entorno económico provincial articulador de la demanda de alimentos, insumos agropecuarios y turismo rural de cordillera.
+
+#### Población demandante potencial
+Es la parte de la población de referencia que potencialmente requiere los bienes o servicios del sector vial y productivo; esto es, aquella que necesita la conectividad y el intercambio agroalimentario en la jurisdicción cantonal, pero que no necesariamente transita a diario por el cruce específico del proyecto. Corresponde a los 80.299 habitantes del Cantón Santa Rosa (Censo INEC 2022), lo que representa el 11,24 % de la población provincial de referencia. Se desagrega por sexo en 40.471 hombres (50,40 %) y 39.828 mujeres (49,60 %); distribuida etariamente en 66,2 % en edad productiva, 23,6 % menores de 15 años y 10,2 % de adultos mayores. Esta población demanda de forma potencial la producción de leche, cacao, café, cítricos y ganado vacuno provenientes de las zonas altas de Torata, así como el acceso a los atractivos ecoturísticos ribereños.
+
+#### Población demandante efectiva
+Es aquella población que requiere y demanda efectivamente la infraestructura del puente para sus desplazamientos cotidianos, transporte de productos, acceso a centros educativos y de salud, y comercialización permanente. La población demandante efectiva se cuantifica en los 2.174 habitantes de la Parroquia Rural Torata (Censo INEC 2022 @inec_censo_2022), desagregada por sexo en 1.109 hombres (51,01 %) y 1.065 mujeres (48,99 %), con 67,71 % de población en edad de trabajar (15 a 64 años), 21,80 % niños y adolescentes (0 a 14 años) y 10,49 % adultos mayores.
+
+Dentro de este colectivo, la demanda efectiva inmediata y prioritaria está concentrada en los 1.280 habitantes (más de 340 familias campesinas residentes en los sectores de El Playón, La Chilca, El Guayabo y Sabayán), quienes se encuentran directamente incomunicados por la inexistencia del puente vehicular sobre el río Santa Rosa. 
+
+En la actualidad, al no existir ningún puente vehicular ni pasarela peatonal formal sobre el río Santa Rosa en el sitio El Playón, el tránsito vehicular directo a través del cauce es físicamente inexistente (flujo vehicular sobre el río = 0). Durante la época seca (junio a noviembre), los pobladores cruzan a pie directamente por el lecho pedregoso (vado natural), mientras que los automotores deben permanecer en las márgenes o realizar largos rodeos. Durante la época lluviosa (diciembre a mayo, aproximadamente 105 días al año), las crecidas fluviales anegan por completo el paso e imposibilitan todo cruce pedestre, obligando a los habitantes a trasladarse a pie o a lomo de mula por senderos montañosos escarpados y trochas de verano hasta alcanzar los caminos secundarios lastrados que conectan con la carretera estatal E585.
+
+La cuantificación de la demanda latente de transporte que captará el nuevo puente se fundamenta técnica y formalmente en los registros socioeconómicos del PDOT de Torata @pdot_torata_2024:
+1. Volumen de carga pecuaria a transportar (3.650 litros/día): Conforme al diagnóstico productivo del PDOT de Torata, la parroquia sostiene un hato de 3.898 vacunos en 2.478,45 hectáreas de pastos, con 1.386 vacas en edad de ordeño. Con un rendimiento medio de 2,6 litros por vaca/día, la cuenca lechera genera una oferta real de 3.650 litros diarios de leche cruda que requiere acopio diario impostergable por su condición perecible. Durante el invierno, la imposibilidad de que los camiones de acopio ingresen directamente a las fincas obliga a trasbordos manuales y ocasiona el derrame o fermentación de hasta 3.500 litros diarios en eventos de crecida extrema.
+2. Tráfico vehicular potencial desviado y generado (60 vehículos/día): Los aforos de movilidad rural levantados en los caminos vecinales de acceso y rutas alternas del sector registran una demanda potencial de 60 vehículos diarios (42 camionetas y furgonetas de transporte campesino, y 18 camiones medianos de carga y recolección de leche). Al habilitarse el puente modular de 30 metros, dicho flujo vehicular se canalizará de manera directa, segura y continua a través de la nueva estructura sin depender de rodeos ni trasbordos.
 
 #### Criterios para la determinación y proyección de la demanda
 
-Para determinar y proyectar la demanda a lo largo del horizonte de evaluación del proyecto, se establecieron con rigor técnico los siguientes criterios fundamentales:
+Para determinar y proyectar la demanda a lo largo del horizonte de evaluación del proyecto, se establecieron los siguientes parámetros técnicos y normativos:
 
-1. **Población de referencia:** Corresponde a los **714.592 habitantes** de la **Provincia de El Oro** registrados en el Censo de Población y Vivienda INEC 2022 @inec_censo_2022, espacio macro-territorial en el cual se inserta el sistema vial rural y el flujo económico agroalimentario y turístico intercantonal.
-2. **Vida útil del proyecto:** Se adopta un horizonte de evaluación operativa de **10 años** (horizonte base estándar de inversión y amortización inicial 2026--2036, con vida útil técnica de la estructura Bailey de hasta 20 años sujeta a confirmación por fiscalización vial del MTOP y Prefectura de El Oro).
-3. **Tasa de crecimiento demográfico y vehicular:** Se aplica la tasa anual de crecimiento intercensal oficial del 0,94 % para la proyección poblacional parroquial, complementada con una tasa anual del 2,50 % para la proyección del tráfico vehicular rural derivada de la expansión agropecuaria y la dinamización del turismo recreativo.
-4. **Año base del proyecto:** Se define formalmente el año 2026 como el **Año 0** (año base de ejecución de obras civiles e instalación estructural), empezando las operaciones de conectividad plena y el conteo de beneficios a partir del Año 1 (2027), dado que en el momento actual la transitabilidad formal y oferta segura sobre el afluente arrancan desde cero.
+1. Horizonte de evaluación y vida útil: Conforme a las normas técnicas de diseño vial (AASHTO) y los lineamientos de evaluación socioeconómica para obras de arte mayor del Ministerio de Transporte y Obras Públicas (MTOP) y Planifica Ecuador, se define un horizonte de evaluación socioeconómica de 20 años en correspondencia con la vida útil estructural de la superestructura de acero modular (ASTM A-588 / A572 Grado 50) y los estribos de hormigón armado. A efectos de la planificación operativa y el balance demográfico cantonal, se establece adicionalmente un periodo quinquenal y decenal de seguimiento (2026--2036).
+2. Año base: El año 2026 se establece como Año 0 (periodo de financiamiento, contratación y construcción de estribos y montaje del puente modular). El año 2027 corresponde al Año 1 de operación continua.
+3. Tasas de crecimiento demográfico y de movilidad: Se aplica la tasa anual de crecimiento intercensal oficial del INEC del 0,94 % para la proyección de la población parroquial y de los sectores beneficiarios. Para el tráfico vehicular rural derivado por rutas alternas y aforado en la red de caminos locales se aplica una tasa conservadora del 2,50 % anual, vinculada al incremento proyectado en la producción lechera y el fomento agroproductivo de la zona.
 
-Con base en estos criterios y parámetros de cálculo, la proyección de demanda demográfica, productiva y de tráfico vehicular para el horizonte de 10 años (2026--2036) se detalla en la @tbl-proyecciones-demanda.
+Con base en estos criterios, la proyección de la demanda poblacional, productiva y de movilidad para el horizonte de 10 años (2026--2036) se resume en la @tbl-proyecciones-demanda.
 
 ::: {.content-visible when-format="pdf"}
 ::: {#tbl-proyecciones-demanda}
 
-\begin{longtable}{@{}p{0.44\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}>{\raggedleft\arraybackslash}p{0.16\linewidth}@{}}
-\caption{Proyecciones demográficas y de demanda de tráfico vehicular (Horizonte 10 años: 2026-2036)} \label{tbl-proyecciones-demanda} \\
+\begin{longtable}{@{}p{0.46\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}>{\raggedleft\arraybackslash}p{0.18\linewidth}@{}}
+\caption{Proyecciones de demanda demográfica, productiva y vehicular} \label{tbl-proyecciones-demanda} \\
 \toprule
-\textbf{Variable / Indicador Proyectado} & \textbf{Año 0 (2026)} & \textbf{Año 5 (2031)} & \textbf{Año 10 (2036)} \\
+\textbf{Variable / Indicador Proyectado} & \textbf{Año 0} & \textbf{Año 5} & \textbf{Año 10} \\
 \midrule
 Población Parroquial Total (hab.) & 2.257 & 2.365 & 2.479 \\
-Población de Productores Ribereños (hab.) & 1.328 & 1.392 & 1.459 \\
-Hogares Productores Beneficiarios & 340 & 356 & 373 \\
-Producción Láctea Diaria Estimada (litros) & 3.650 & 4.130 & 4.670 \\
-TPDA Vehículos Ligeros (camionetas/autos) & 42 & 48 & 54 \\
-TPDA Transporte Pesado (camiones lecheros/carga) & 18 & 20 & 23 \\
-TPDA Total Proyectado (vehículos/día) & 60 & 68 & 77 \\
-Demanda de Movilidad Rural (viajes/día) & 451 & 473 & 496 \\
+Población de Sectores Ribereños Directos (hab.) & 1.328 & 1.392 & 1.459 \\
+Hogares Rurales Productores Directos & 340 & 356 & 373 \\
+Producción Láctea Diaria Requerida de Transporte (litros) & 3.650 & 4.130 & 4.670 \\
+Flujo Vehicular Liviano en Red Alterna (camionetas/autos/día) & 42 & 48 & 54 \\
+Flujo Transporte Pesado en Red Alterna (camiones/día) & 18 & 20 & 23 \\
+Tráfico Vehicular Potencial Normalizado (vehículos/día) & 60 & 68 & 77 \\
+Demanda de Viajes de Población Ribereña (viajes/día) & 451 & 473 & 496 \\
 \bottomrule
 \end{longtable}
-\fuente{Elaboración técnica a partir de tasas intercensales INEC (2022), PDOT Torata (2024) y aforos de tránsito rural.}
+\fuente{Elaboración técnica a partir de tasas intercensales INEC (2022), PDOT Torata (2024) y aforos en rutas alternas.}
 :::
 :::
 
 ::: {.content-visible unless-format="pdf"}
-| Variable / Indicador Proyectado | Año 0 (2026) | Año 5 (2031) | Año 10 (2036) |
+| Variable / Indicador Proyectado | Año 0 | Año 5 | Año 10 |
 | :--- | ---: | ---: | ---: |
 | Población Parroquial Total (hab.) | 2.257 | 2.365 | 2.479 |
-| Población de Productores Ribereños (hab.) | 1.328 | 1.392 | 1.459 |
-| Hogares Productores Beneficiarios | 340 | 356 | 373 |
-| Producción Láctea Diaria Estimada (litros) | 3.650 | 4.130 | 4.670 |
-| TPDA Vehículos Ligeros (camionetas/autos) | 42 | 48 | 54 |
-| TPDA Transporte Pesado (camiones lecheros/carga) | 18 | 20 | 23 |
-| TPDA Total Proyectado (vehículos/día) | 60 | 68 | 77 |
-| Demanda de Movilidad Rural (viajes/día) | 451 | 473 | 496 |
+| Población de Sectores Ribereños Directos (hab.) | 1.328 | 1.392 | 1.459 |
+| Hogares Rurales Productores Directos | 340 | 356 | 373 |
+| Producción Láctea Diaria Requerida de Transporte (litros) | 3.650 | 4.130 | 4.670 |
+| Flujo Vehicular Liviano en Red Alterna (camionetas/autos/día) | 42 | 48 | 54 |
+| Flujo Transporte Pesado en Red Alterna (camiones/día) | 18 | 20 | 23 |
+| Tráfico Vehicular Potencial Normalizado (vehículos/día) | 60 | 68 | 77 |
+| Demanda de Viajes de Población Ribereña (viajes/día) | 451 | 473 | 496 |
 
-: Proyecciones demográficas y de demanda de tráfico vehicular (Horizonte 10 años: 2026-2036) {#tbl-proyecciones-demanda}
+: Proyecciones de demanda demográfica, productiva y vehicular {#tbl-proyecciones-demanda}
 
-*Nota.* Elaboración técnica a partir de tasas intercensales INEC (2022), PDOT Torata (2024) y aforos de tránsito rural.
+*Nota.* Elaboración técnica a partir de tasas intercensales INEC (2022), PDOT Torata (2024) y aforos en rutas alternas.
 :::
 
 ### Oferta
@@ -188,21 +257,21 @@ A partir de la tasa anual de crecimiento intercensal del 0,94 % oficial del INEC
 ::: {#tbl-balance-oferta-demanda}
 
 \begin{longtable}{@{}p{0.22\linewidth}>{\raggedleft\arraybackslash}p{0.26\linewidth}>{\raggedleft\arraybackslash}p{0.24\linewidth}>{\raggedleft\arraybackslash}p{0.28\linewidth}@{}}
-\caption{Balance de oferta y demanda proyectada de conectividad fluvial (2026-2036)} \label{tbl-balance-oferta-demanda} \\
+\caption{Balance de oferta y demanda proyectada de conectividad fluvial} \label{tbl-balance-oferta-demanda} \\
 \toprule
-\textbf{Años} & \textbf{Demanda efectiva (habitantes)} & \textbf{Oferta (habitantes)} & \textbf{Demanda insatisfecha (habitantes)} \\
+\textbf{Periodo} & \textbf{Demanda efectiva (habitantes)} & \textbf{Oferta (habitantes)} & \textbf{Demanda insatisfecha (habitantes)} \\
 \midrule
-Año 0 (2026) & 1.280 & 0 & 1.280 \\
-Año 1 (2027) & 1.292 & 0 & 1.292 \\
-Año 2 (2028) & 1.304 & 0 & 1.304 \\
-Año 3 (2029) & 1.316 & 0 & 1.316 \\
-Año 4 (2030) & 1.329 & 0 & 1.329 \\
-Año 5 (2031) & 1.341 & 0 & 1.341 \\
-Año 6 (2032) & 1.354 & 0 & 1.354 \\
-Año 7 (2033) & 1.367 & 0 & 1.367 \\
-Año 8 (2034) & 1.379 & 0 & 1.379 \\
-Año 9 (2035) & 1.392 & 0 & 1.392 \\
-Año 10 (2036) & 1.406 & 0 & 1.406 \\
+Año 0 & 1.280 & 0 & 1.280 \\
+Año 1 & 1.292 & 0 & 1.292 \\
+Año 2 & 1.304 & 0 & 1.304 \\
+Año 3 & 1.316 & 0 & 1.316 \\
+Año 4 & 1.329 & 0 & 1.329 \\
+Año 5 & 1.341 & 0 & 1.341 \\
+Año 6 & 1.354 & 0 & 1.354 \\
+Año 7 & 1.367 & 0 & 1.367 \\
+Año 8 & 1.379 & 0 & 1.379 \\
+Año 9 & 1.392 & 0 & 1.392 \\
+Año 10 & 1.406 & 0 & 1.406 \\
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir de Censo INEC (2022) y proyecciones demográficas territoriales.}
@@ -210,21 +279,21 @@ Año 10 (2036) & 1.406 & 0 & 1.406 \\
 :::
 
 ::: {.content-visible unless-format="pdf"}
-| Años | Demanda efectiva (habitantes) | Oferta (habitantes) | Demanda insatisfecha (habitantes) |
+| Periodo | Demanda efectiva (habitantes) | Oferta (habitantes) | Demanda insatisfecha (habitantes) |
 | :--- | ---: | ---: | ---: |
-| Año 0 (2026) | 1.280 | 0 | 1.280 |
-| Año 1 (2027) | 1.292 | 0 | 1.292 |
-| Año 2 (2028) | 1.304 | 0 | 1.304 |
-| Año 3 (2029) | 1.316 | 0 | 1.316 |
-| Año 4 (2030) | 1.329 | 0 | 1.329 |
-| Año 5 (2031) | 1.341 | 0 | 1.341 |
-| Año 6 (2032) | 1.354 | 0 | 1.354 |
-| Año 7 (2033) | 1.367 | 0 | 1.367 |
-| Año 8 (2034) | 1.379 | 0 | 1.379 |
-| Año 9 (2035) | 1.392 | 0 | 1.392 |
-| Año 10 (2036) | 1.406 | 0 | 1.406 |
+| Año 0 | 1.280 | 0 | 1.280 |
+| Año 1 | 1.292 | 0 | 1.292 |
+| Año 2 | 1.304 | 0 | 1.304 |
+| Año 3 | 1.316 | 0 | 1.316 |
+| Año 4 | 1.329 | 0 | 1.329 |
+| Año 5 | 1.341 | 0 | 1.341 |
+| Año 6 | 1.354 | 0 | 1.354 |
+| Año 7 | 1.367 | 0 | 1.367 |
+| Año 8 | 1.379 | 0 | 1.379 |
+| Año 9 | 1.392 | 0 | 1.392 |
+| Año 10 | 1.406 | 0 | 1.406 |
 
-: Balance de oferta y demanda proyectada de conectividad fluvial (2026-2036) {#tbl-balance-oferta-demanda}
+: Balance de oferta y demanda proyectada de conectividad fluvial {#tbl-balance-oferta-demanda}
 
 *Nota.* Elaboración técnica a partir de Censo INEC (2022) y proyecciones demográficas territoriales. En la situación sin proyecto, la oferta segura de paso fluvial formal sobre el río Santa Rosa es cero, por lo que el 100 % de la población objetivo padece de demanda insatisfecha.
 :::
@@ -235,9 +304,9 @@ Esta demanda insatisfecha representa 105 días al año de aislamiento total y ri
 
 La delimitación y caracterización de la población vinculada al proyecto se reestructura rigurosamente conforme al enfoque territorial solicitado y a las directrices de Planifica Ecuador (@tbl-poblacion-beneficiaria):
 
-1. **Población de Referencia:** Corresponde a los **714.592 habitantes de la Provincia de El Oro** (Censo INEC 2022 @inec_censo_2022), circunscripción provincial donde se inserta la conectividad vial de la cuenca alta del río Santa Rosa, involucrando el comercio de balanceados, transporte ganadero provincial y el flujo de turismo rural hacia las estribaciones cordilleranas.
-2. **Población Potencial:** Corresponde a los **80.299 habitantes del Cantón Santa Rosa** (Censo INEC 2022), delimitación cantonal y de cabecera municipal que consume la producción agrícola y pecuaria de las parroquias rurales y demanda servicios viales articulados.
-3. **Población Objetivo / Efectiva:** Abarca a los **2.174 habitantes de la Parroquia Rural Torata** (Censo INEC 2022, proyectada en 2.257 hab. para el año base 2026), dentro de la cual se ubican los 1.280 habitantes (más de 340 familias campesinas) de los sitios El Guayabo, La Chilca, Sabayán y El Playón directamente dependientes del cruce fluvial del río Santa Rosa para el transporte escolar, emergencias sanitarias y acopio de leche y cosechas, complementados por el flujo de visitantes recreacionales y turísticos de fin de semana.
+1. Población de Referencia: Corresponde a los 714.592 habitantes de la Provincia de El Oro (Censo INEC 2022 @inec_censo_2022), circunscripción provincial donde se inserta la conectividad vial de la cuenca alta del río Santa Rosa, involucrando el comercio de balanceados, transporte ganadero provincial y el flujo de turismo rural hacia las estribaciones cordilleranas.
+2. Población Potencial: Corresponde a los 80.299 habitantes del Cantón Santa Rosa (Censo INEC 2022), delimitación cantonal y de cabecera municipal que consume la producción agrícola y pecuaria de las parroquias rurales y demanda servicios viales articulados.
+3. Población Objetivo / Efectiva: Abarca a los 2.174 habitantes de la Parroquia Rural Torata (Censo INEC 2022, proyectada en 2.257 hab. para el año base 2026), dentro de la cual se ubican los 1.280 habitantes (más de 340 familias campesinas) de los sitios El Guayabo, La Chilca, Sabayán y El Playón directamente dependientes del cruce fluvial del río Santa Rosa para el transporte escolar, emergencias sanitarias y acopio de leche y cosechas, complementados por el flujo de visitantes recreacionales y turísticos de fin de semana.
 
 ::: {.content-visible when-format="pdf"}
 ::: {#tbl-poblacion-beneficiaria}
@@ -247,11 +316,11 @@ La delimitación y caracterización de la población vinculada al proyecto se re
 \toprule
 \textbf{Categoría} & \textbf{Población (hab.)} & \textbf{Criterio y Alcance Territorial} \\
 \midrule
-Población de Referencia & 714.592 & Total de habitantes de la **Provincia de El Oro** (Censo INEC 2022). Marco territorial del flujo comercial y turístico provincial. \\
+Población de Referencia & 714.592 & Total de habitantes de la Provincia de El Oro (Censo INEC 2022). Marco territorial del flujo comercial y turístico provincial. \\
 \addlinespace
-Población Potencial & 80.299 & Total de habitantes del **Cantón Santa Rosa** (Censo INEC 2022). Población demandante del abastecimiento alimentario y conectividad cantonal. \\
+Población Potencial & 80.299 & Total de habitantes del Cantón Santa Rosa (Censo INEC 2022). Población demandante del abastecimiento alimentario y conectividad cantonal. \\
 \addlinespace
-Población Objetivo / Efectiva & 2.174 & Total de habitantes de la **Parroquia Rural Torata** (Censo INEC 2022), con atención directa prioritaria a 1.280 habitantes de El Guayabo, La Chilca, Sabayán y El Playón, más turistas rurales. \\
+Población Objetivo / Efectiva & 2.174 & Total de habitantes de la Parroquia Rural Torata (Censo INEC 2022), con atención directa prioritaria a 1.280 habitantes de El Guayabo, La Chilca, Sabayán y El Playón, más turistas rurales. \\
 \bottomrule
 \end{longtable}
 \fuente{Elaboración técnica a partir de Censo INEC 2022, PDOT Santa Rosa (2024) y PDOT Parroquial de Torata (2024).}
@@ -261,9 +330,9 @@ Población Objetivo / Efectiva & 2.174 & Total de habitantes de la **Parroquia R
 ::: {.content-visible unless-format="pdf"}
 | Categoría | Población (hab.) | Criterio y Alcance Territorial |
 | :--- | :--- | :--- |
-| Población de Referencia | 714.592 | Total de habitantes de la **Provincia de El Oro** (Censo INEC 2022). Marco territorial del flujo comercial y turístico provincial. |
-| Población Potencial | 80.299 | Total de habitantes del **Cantón Santa Rosa** (Censo INEC 2022). Población demandante del abastecimiento alimentario y conectividad cantonal. |
-| Población Objetivo / Efectiva | 2.174 | Total de habitantes de la **Parroquia Rural Torata** (Censo INEC 2022), con atención directa prioritaria a 1.280 habitantes de El Guayabo, La Chilca, Sabayán y El Playón, más turistas rurales. |
+| Población de Referencia | 714.592 | Total de habitantes de la Provincia de El Oro (Censo INEC 2022). Marco territorial del flujo comercial y turístico provincial. |
+| Población Potencial | 80.299 | Total de habitantes del Cantón Santa Rosa (Censo INEC 2022). Población demandante del abastecimiento alimentario y conectividad cantonal. |
+| Población Objetivo / Efectiva | 2.174 | Total de habitantes de la Parroquia Rural Torata (Censo INEC 2022), con atención directa prioritaria a 1.280 habitantes de El Guayabo, La Chilca, Sabayán y El Playón, más turistas rurales. |
 
 : Segmentación de la población beneficiaria del proyecto vial {#tbl-poblacion-beneficiaria}
 
@@ -272,10 +341,10 @@ Población Objetivo / Efectiva & 2.174 & Total de habitantes de la **Parroquia R
 
 ## Ubicación geográfica e impacto territorial
 
-El emplazamiento del proyecto se localiza en la provincia de El Oro, cantón Santa Rosa, parroquia rural Torata, específicamente en el cruce de la vía de tercer orden El Guayabo - La Chilca sobre el cauce del río Santa Rosa. Las coordenadas geográficas de implantación del eje central del puente corresponden a:
+El emplazamiento del proyecto se localiza en la provincia de El Oro, cantón Santa Rosa, parroquia rural Torata, específicamente en el cruce de la vía de tercer orden El Guayabo - La Chilca sobre el cauce del río Santa Rosa, en el sitio El Playón. Las coordenadas geográficas de implantación del eje central del puente corresponden a:
 
 * Coordenadas Geográficas: Latitud 03°34'32" S, Longitud 79°46'59" W.
-* Coordenadas UTM (WGS 84, Zona 17S): Este 626.450 m, Norte 9.608.920 m.
+* Coordenadas UTM (WGS 84, Zona 17S): Este 635.164 m, Norte 9.604.699 m.
 * Altitud sobre el nivel del mar: 307 msnm.
 
-Los límites territoriales de la parroquia Torata establecidos en la delimitación oficial del PDOT 2023-2027 @pdot_torata_2024 corresponden a: al norte la parroquia Saracay (cantón Piñas), al sur la parroquia La Avanzada, al este las parroquias Bellamaría, San Juan de Cerro Azul y Ayapamba (cantón Atahualpa), y al oeste la parroquia Piedras. La articulación vial estratégica a través de la Carretera Transversal Sur (E50) y los caminos vecinales de segundo y tercer orden garantiza la conexión logística continua de la producción pecuaria hacia los centros de consumo cantonal y provincial.
+Los límites territoriales de la parroquia Torata establecidos en la delimitación oficial del PDOT 2023-2027 @pdot_torata_2024 corresponden a: al norte la parroquia Saracay (cantón Piñas), al sur la parroquia La Avanzada, al este las parroquias Bellamaría, San Juan de Cerro Azul y Ayapamba (cantón Atahualpa), y al oeste la parroquia Piedras (representados cartográficamente en la \hyperref[fig-mapa-torata]{Figura~\ref*{fig-mapa-torata}}). La articulación vial estratégica a través de la Carretera Transversal Sur (E50) y los caminos vecinales de segundo y tercer orden garantiza la conexión logística continua de la producción pecuaria hacia los centros de consumo cantonal y provincial.

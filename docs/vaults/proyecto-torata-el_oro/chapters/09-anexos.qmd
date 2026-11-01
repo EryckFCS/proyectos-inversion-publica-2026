@@ -1,6 +1,6 @@
-# Anexos
+# Anexos {.unnumbered}
 
-## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda
+## Autorizaciones ambientales otorgadas por el Ministerio del Ambiente y otros según corresponda {-}
 
 Conforme a la normativa ambiental vigente y al Sistema Único de Información Ambiental (SUIA) del Ministerio del Ambiente, Agua y Transición Ecológica (MAATE):
 
@@ -8,7 +8,7 @@ Conforme a la normativa ambiental vigente y al Sistema Único de Información Am
 * **Permiso de Afectación de Cauces e Implantación Fluvial:** Autorización administrativa de la Dirección Zonal del MAATE y de la Secretaría del Agua para la ocupación del dominio hídrico en la cuenca alta del río Santa Rosa durante los meses de estiaje para la construcción de estribos y muros de gaviones.
 * **Acuerdos Comunitarios de Servidumbre y Fajas de Terreno:** Actas notariales y acuerdos de cesión voluntaria suscritos con los propietarios ribereños de los sitios El Guayabo y La Chilca para garantizar el derecho de vía de 12 metros y los terraplenes de acceso sin litigios prediales.
 
-## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras
+## Certificaciones técnicas, costos, disponibilidad de financiamiento y otras {-}
 
 El expediente de preinversión e inversión pública cuenta con las certificaciones y respaldos institucionales correspondientes:
 
@@ -18,7 +18,7 @@ El expediente de preinversión e inversión pública cuenta con las certificacio
 * **Certificación de Contraparte Parroquial:** Asignación presupuestaria y minga comunitaria del GADPR Torata por \$25.000,00 USD (Fuente 002 - Recursos Fiscales Parroquiales y Aporte Comunitario).
 * **Certificación SERCOP de Inexistencia de Catálogo Electrónico:** Constancia de pertinencia para la contratación de obra pública y servicios de consultoría bajo procedimientos de Régimen Común (Cotización / Menor Cuantía) según la LOSNCP.
 
-### Anexo Complementario 1: Árbol de problemas del proyecto
+### Anexo 1: Árbol de problemas del proyecto {-}
 
 La estructura causal del diagnóstico participativo y territorial de la parroquia Torata se modela vectorialmente mediante la metodología de análisis de causas y efectos (@fig-arbol-problemas-torata).
 
@@ -63,21 +63,21 @@ La estructura causal del diagnóstico participativo y territorial de la parroqui
 \node (PC) [central] {\textbf{PROBLEMA CENTRAL}\\[2pt] Aislamiento físico y nulo acceso vehicular y peatonal seguro en el sitio El Playón de la parroquia Torata};
 
 % ================= Nivel 2: Efectos Directos =================
-\node (E1) [box, above=1.4cm of PC, xshift=-3.7cm] {\textbf{Efecto Directo 1}\\[1pt] Paralización del transporte agropecuario y pérdida de ingresos familiares};
-\node (E2) [box, above=1.4cm of PC, xshift=0cm] {\textbf{Efecto Directo 2}\\[1pt] Inaccesibilidad a servicios de salud y educación para grupos vulnerables};
-\node (E3) [box, above=1.4cm of PC, xshift=3.7cm] {\textbf{Efecto Directo 3}\\[1pt] Alto riesgo para la integridad física al intentar vadear el río desbordado};
+\node (E1) [box, above=1.4cm of PC, xshift=-3.7cm] {\textbf{Efecto Directo}\\[1pt] Aumento de tiempos de traslado y alto riesgo físico al intentar cruzar el cauce del río};
+\node (E2) [box, above=1.4cm of PC, xshift=0cm] {\textbf{Efecto Directo}\\[1pt] Pérdidas económicas por la paralización del transporte agropecuario};
+\node (E3) [box, above=1.4cm of PC, xshift=3.7cm] {\textbf{Efecto Directo}\\[1pt] Limitado acceso a salud y educación para grupos vulnerables};
 
 % ================= Nivel 1: Implicación Final =================
-\node (EF) [implicacion, above=1.3cm of E2] {\textbf{EFECTO FINAL}\\[2pt] Estancamiento del desarrollo socioeconómico local y profundización de la vulnerabilidad de las familias en el sitio El Playón};
+\node (EF) [implicacion, above=1.3cm of E2] {\textbf{EFECTO FINAL}\\[2pt] Estancamiento socioeconómico y vulnerabilidad en el sitio El Playón};
 
-% ================= Nivel 4: Causas Directas (2 ramas) =================
-\node (C1) [box, below=1.4cm of PC, xshift=-3.2cm] {\textbf{Causa Directa 1}\\[1pt] Carencia absoluta de infraestructura de puente definitiva y segura sobre el río};
-\node (C2) [box, below=1.4cm of PC, xshift=3.2cm] {\textbf{Causa Directa 2}\\[1pt] Imposibilidad física y vial de cruzar el cauce natural del río la mayor parte del año};
+% ================= Nivel 4: Causas Directas =================
+\node (C1) [box, below=1.4cm of PC, xshift=-3.2cm] {\textbf{Causa Directa}\\[1pt] Inexistencia de estudios técnicos e infraestructura de puente definitivo};
+\node (C2) [box, below=1.4cm of PC, xshift=3.2cm] {\textbf{Causa Directa}\\[1pt] Baja gestión administrativa para solucionar el déficit vial de la comunidad};
 
-% ================= Nivel 5: Subcausas =================
-\node (SC11) [box, below=1.0cm of C1] {\textbf{Subcausa 1.1}\\[1pt] Histórico rezago en la priorización de inversión pública vial para este sector};
+% ================= Nivel 5: Causas Indirectas =================
+\node (SC11) [box, below=1.0cm of C1] {\textbf{Causa Indirecta}\\[1pt] Falta de presupuesto asignado para obras rurales en el sector};
 
-\node (SC21) [box, below=1.0cm of C2] {\textbf{Subcausa 2.1}\\[1pt] Ausencia de vías alternativas o rutas de conexión en el entorno geográfico};
+\node (SC21) [box, below=1.0cm of C2] {\textbf{Causa Indirecta}\\[1pt] Escasa organización de la población para exigir la obra pública};
 
 % ================= Conexiones Bottom-Up =================
 % De Subcausas a Causas Directas
@@ -111,7 +111,7 @@ La estructura causal del diagnóstico participativo y territorial de la parroqui
 *Nota.* Elaboración técnica a partir de las observaciones docentes y diagnóstico territorial participativo.
 :::
 
-### Anexo Complementario 2: Árbol de objetivos del proyecto
+### Anexo 2: Árbol de objetivos del proyecto {-}
 
 La transformación de las condiciones negativas en situaciones deseadas y medios de intervención se esquematiza en el Árbol de Objetivos del proyecto (@fig-arbol-objetivos-torata).
 
@@ -204,7 +204,7 @@ La transformación de las condiciones negativas en situaciones deseadas y medios
 *Nota.* Elaboración técnica conforme a la metodología de Marco Lógico de Planifica Ecuador.
 :::
 
-### Anexo Complementario 3: Ficha técnica del levantamiento de indicadores territoriales
+### Anexo 3: Ficha técnica del levantamiento de indicadores territoriales {-}
 
 La matriz técnica territorial recopilada refleja el peso predominante de la economía pecuaria y la red vial en Torata, resumiendo los parámetros de diagnóstico en la @tbl-anexo-indicadores-puente.
 
@@ -253,7 +253,7 @@ Institucional & Presupuesto estimado proyecto puente & USD & \$380.274,58 USD \\
 *Nota.* Matriz Oficial de Indicadores de Levantamiento Territorial y PDOT Torata 2023-2027.
 :::
 
-### Anexo Complementario 4: Matriz de caracterización y gestión de actores involucrados
+### Anexo 4: Matriz de caracterización y gestión de actores involucrados {-}
 
 La sostenibilidad y viabilidad institucional del proyecto se asegura mediante la articulación permanente de competencias, expectativas y funciones de cada grupo involucrado (@tbl-actores-torata).
 
@@ -297,9 +297,79 @@ Transportistas de Carga Rural & Rutas transitables todo el año sin roturas de m
 *Nota.* Elaboración técnica a partir de actas de coordinación territorial y talleres de campo.
 :::
 
-* **Certificación de Viabilidad Técnica:** Informe técnico de factibilidad emitido por la Dirección de Estudios, Proyectos y Cooperación de la Prefectura de El Oro, validando el diseño estructural en acero ASTM A-588 (Norma AASHTO HS-20) y los estudios de mecánica de suelos.
-* **Disponibilidad Presupuestaria y Asignación Concurrente:** Certificaciones de partida presupuestaria plurianual emitidas por las direcciones financieras del GAD Provincial de El Oro ($310.274,58 USD), GAD Municipal de Santa Rosa ($45.000,00 USD) y GADPR Torata ($25.000,00 USD).
-* **Convenio Tripartito de Concurrencia de Competencias:** Instrumento jurídico interinstitucional formalizado bajo los Arts. 55 y 65 del COOTAD para la coejecución y fiscalización de la obra vial.
-* **Registros de Campo y Fuentes Oficiales:**
-  * Entrevista Técnica con el Presidente del GAD Parroquial Rural de Torata (Audio: `evidencia/vie 11.00 enteevista_torata.m4a`; Transcripción: `evidencia/vie 11.00 enteevista_torata.md`).
-  * Enlaces institucionales: GADPR Torata (https://torata.gob.ec), Municipio de Santa Rosa (https://santarosa.gob.ec), Prefectura de El Oro (https://eloro.gob.ec), INEC (https://www.censoecuador.gob.ec).
+### Anexo 5: Memoria de cálculo y flujo de evaluación socioeconómica detallado a 20 años {-}
+
+En cumplimiento de los lineamientos de la Guía General para la Presentación de Programas y Proyectos de Inversión Pública (Planifica Ecuador) para proyectos de infraestructura vial menor, se desglosa el flujo anual de costos de operación y mantenimiento, beneficios sociales cuantificados y flujo neto descontado a la Tasa Social de Descuento (TSD = 8,00 %) a lo largo del horizonte técnico de 20 años (@tbl-anexo-flujo-social-completo).
+
+::: {.content-visible when-format="pdf"}
+::: {#tbl-anexo-flujo-social-completo}
+\begin{landscapepage}
+\fontsize{7.5}{9.5}\selectfont
+\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{@{}crrrrrrrr@{}}
+\caption{Flujo de caja socioeconómico detallado a 20 años (Valores en USD)} \label{tbl-anexo-flujo-social-completo} \\
+\toprule
+\textbf{Periodo} & \textbf{Inv. Social} & \textbf{O\&M Social} & \textbf{COV Ahorro} & \textbf{Pérdidas Evitadas} & \textbf{Ahorro Tiempo} & \textbf{Beneficios Tot.} & \textbf{Flujo Neto Social} & \textbf{FNS Descontado (8\%)} \\
+\midrule
+Año 0 & -281.072,52 & 0,00 & 0,00 & 0,00 & 0,00 & 0,00 & -281.072,52 & -281.072,52 \\
+Año 1 & 0,00 & -2.975,00 & 14.200,00 & 18.500,00 & 4.800,00 & 37.500,00 & 34.525,00 & 31.967,59 \\
+Año 2 & 0,00 & -3.034,50 & 14.555,00 & 18.962,50 & 4.920,00 & 38.437,50 & 35.403,00 & 30.352,37 \\
+Año 3 & 0,00 & -3.095,19 & 14.918,87 & 19.436,56 & 5.043,00 & 39.398,44 & 36.303,25 & 28.818,69 \\
+Año 4 & 0,00 & -3.157,09 & 15.291,85 & 19.922,48 & 5.169,07 & 40.383,40 & 37.226,30 & 27.362,45 \\
+Año 5 & 0,00 & -3.220,24 & 15.674,14 & 20.420,54 & 5.298,30 & 41.392,98 & 38.172,75 & 25.979,73 \\
+Año 6 & 0,00 & -3.284,64 & 16.066,00 & 20.931,05 & 5.430,76 & 42.427,81 & 39.143,17 & 24.666,84 \\
+Año 7 & 0,00 & -3.350,33 & 16.467,65 & 21.454,33 & 5.566,53 & 43.488,50 & 40.138,17 & 23.420,24 \\
+Año 8 & 0,00 & -3.417,34 & 16.879,34 & 21.990,69 & 5.705,69 & 44.575,72 & 41.158,38 & 22.236,59 \\
+Año 9 & 0,00 & -3.485,69 & 17.301,32 & 22.540,45 & 5.848,33 & 45.690,11 & 42.204,42 & 21.112,72 \\
+Año 10 & 0,00 & -3.555,40 & 17.733,85 & 23.103,96 & 5.994,54 & 46.832,36 & 43.276,96 & 20.045,61 \\
+Año 11 & 0,00 & -3.626,51 & 18.177,20 & 23.681,56 & 6.144,41 & 48.003,17 & 44.376,66 & 19.032,39 \\
+Año 12 & 0,00 & -3.699,04 & 18.631,63 & 24.273,60 & 6.298,02 & 49.203,25 & 45.504,21 & 18.070,35 \\
+Año 13 & 0,00 & -3.773,02 & 19.097,42 & 24.880,44 & 6.455,47 & 50.433,33 & 46.660,31 & 17.156,90 \\
+Año 14 & 0,00 & -3.848,48 & 19.574,86 & 25.502,45 & 6.616,85 & 51.694,16 & 47.845,68 & 16.289,59 \\
+Año 15 & 0,00 & -3.925,45 & 20.064,23 & 26.140,02 & 6.782,27 & 52.986,52 & 49.061,07 & 15.466,10 \\
+Año 16 & 0,00 & -4.003,96 & 20.565,83 & 26.793,52 & 6.951,83 & 54.311,18 & 50.307,22 & 14.684,20 \\
+Año 17 & 0,00 & -4.084,04 & 21.079,98 & 27.463,35 & 7.125,63 & 55.668,96 & 51.584,92 & 13.941,80 \\
+Año 18 & 0,00 & -4.165,72 & 21.606,98 & 28.149,94 & 7.303,77 & 57.060,68 & 52.894,97 & 13.236,91 \\
+Año 19 & 0,00 & -4.249,03 & 22.147,15 & 28.853,69 & 7.486,36 & 58.487,20 & 54.238,17 & 12.567,64 \\
+Año 20 & 0,00 & -4.334,01 & 22.700,83 & 29.575,03 & 7.673,52 & 59.949,38 & 55.615,37 & 11.932,18 \\
+\midrule
+\multicolumn{7}{l}{\textbf{Valor Actual Neto Social (VANS a tasa 8,00\%)}} & \multicolumn{2}{r}{\textbf{\$127.268,35 USD}} \\
+\multicolumn{7}{l}{\textbf{Tasa Interna de Retorno Social (TIRS)}} & \multicolumn{2}{r}{\textbf{13,09\%}} \\
+\multicolumn{7}{l}{\textbf{Relación Beneficio / Costo Social (B/C)}} & \multicolumn{2}{r}{\textbf{1,40}} \\
+\multicolumn{7}{l}{\textbf{Costo por Beneficiario Directo (\$380.274,58 / 1.280 hab.)}} & \multicolumn{2}{r}{\textbf{\$297,09 USD/hab.}} \\
+\bottomrule
+\end{longtable}
+\fuente{Elaboración técnica a partir de las matrices oficiales de precios sombra de Planifica Ecuador y flujo descontado.}
+\end{landscapepage}
+:::
+:::
+
+::: {.content-visible unless-format="pdf"}
+| Periodo | Inv. Social | O&M Social | COV Ahorro | Pérdidas Evitadas | Ahorro Tiempo | Beneficios Tot. | Flujo Neto Social | FNS Descontado (8%) |
+| :---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Año 0 | -$281.072,52 | $0,00 | $0,00 | $0,00 | $0,00 | $0,00 | -$281.072,52 | -$281.072,52 |
+| Año 1 | $0,00 | -$2.975,00 | $14.200,00 | $18.500,00 | $4.800,00 | $37.500,00 | $34.525,00 | $31.967,59 |
+| Año 2 | $0,00 | -$3.034,50 | $14.555,00 | $18.962,50 | $4.920,00 | $38.437,50 | $35.403,00 | $30.352,37 |
+| Año 3 | $0,00 | -$3.095,19 | $14.918,87 | $19.436,56 | $5.043,00 | $39.398,44 | $36.303,25 | $28.818,69 |
+| Año 4 | $0,00 | -$3.157,09 | $15.291,85 | $19.922,48 | $5.169,07 | $40.383,40 | $37.226,30 | $27.362,45 |
+| Año 5 | $0,00 | -$3.220,24 | $15.674,14 | $20.420,54 | $5.298,30 | $41.392,98 | $38.172,75 | $25.979,73 |
+| Año 6 | $0,00 | -$3.284,64 | $16.066,00 | $20.931,05 | $5.430,76 | $42.427,81 | $39.143,17 | $24.666,84 |
+| Año 7 | $0,00 | -$3.350,33 | $16.467,65 | $21.454,33 | $5.566,53 | $43.488,50 | $40.138,17 | $23.420,24 |
+| Año 8 | $0,00 | -$3.417,34 | $16.879,34 | $21.990,69 | $5.705,69 | $44.575,72 | $41.158,38 | $22.236,59 |
+| Año 9 | $0,00 | -$3.485,69 | $17.301,32 | $22.540,45 | $5.848,33 | $45.690,11 | $42.204,42 | $21.112,72 |
+| Año 10 | $0,00 | -$3.555,40 | $17.733,85 | $23.103,96 | $5.994,54 | $46.832,36 | $43.276,96 | $20.045,61 |
+| Año 11 | $0,00 | -$3.626,51 | $18.177,20 | $23.681,56 | $6.144,41 | $48.003,17 | $44.376,66 | $19.032,39 |
+| Año 12 | $0,00 | -$3.699,04 | $18.631,63 | $24.273,60 | $6.298,02 | $49.203,25 | $45.504,21 | $18.070,35 |
+| Año 13 | $0,00 | -$3.773,02 | $19.097,42 | $24.880,44 | $6.455,47 | $50.433,33 | $46.660,31 | $17.156,90 |
+| Año 14 | $0,00 | -$3.848,48 | $19.574,86 | $25.502,45 | $6.616,85 | $51.694,16 | $47.845,68 | $16.289,59 |
+| Año 15 | $0,00 | -$3.925,45 | $20.064,23 | $26.140,02 | $6.782,27 | $52.986,52 | $49.061,07 | $15.466,10 |
+| Año 16 | $0,00 | -$4.003,96 | $20.565,83 | $26.793,52 | $6.951,83 | $54.311,18 | $50.307,22 | $14.684,20 |
+| Año 17 | $0,00 | -$4.084,04 | $21.079,98 | $27.463,35 | $7.125,63 | $55.668,96 | $51.584,92 | $13.941,80 |
+| Año 18 | $0,00 | -$4.165,72 | $21.606,98 | $28.149,94 | $7.303,77 | $57.060,68 | $52.894,97 | $13.236,91 |
+| Año 19 | $0,00 | -$4.249,03 | $22.147,15 | $28.853,69 | $7.486,36 | $58.487,20 | $54.238,17 | $12.567,64 |
+| Año 20 | $0,00 | -$4.334,01 | $22.700,83 | $29.575,03 | $7.673,52 | $59.949,38 | $55.615,37 | $11.932,18 |
+
+: Flujo de caja socioeconómico detallado a 20 años {#tbl-anexo-flujo-social-completo}
+
+*Nota.* VANS = $127.268,35 USD | TIRS = 13,09% | Relación B/C = 1,40 | Costo/Beneficiario Directo = $297,09 USD/hab.
+:::

@@ -1,5 +1,5 @@
 ---
-title: "PROYECTO DE INVERSIÓN PÚBLICA: CONECTIVIDAD VIAL Y CONSTRUCCIÓN DEL PUENTE VEHICULAR SOBRE EL RÍO SANTA ROSA EN EL SECTOR EL GUAYABO - LA CHILCA, PARROQUIA RURAL TORATA"
+title: "PROYECTO DE INVERSIÓN PÚBLICA: CONECTIVIDAD VIAL Y CONSTRUCCIÓN DEL PUENTE EN EL SITIO EL PLAYÓN, PARROQUIA RURAL TORATA"
 author:
   - "David Andrés Pérez Castillo"
   - "Luis Gustavo Hurtado Cuenca"
@@ -25,16 +25,6 @@ crossref:
   tbl-title: Tabla
   title-delim: "."
 format:
-  docx:
-    reference-doc: custom-reference.docx
-    toc: true
-    toc-depth: 3
-    number-sections: true
-    highlight-style: github
-    tbl-cap-location: top
-    fig-cap-location: top
-    post-render:
-      - scripts/format_apa_docx.py
   pdf:
     template: template.tex
     pdf-engine: lualatex
@@ -105,6 +95,16 @@ format:
           \newcommand{\logoECONOMIA}{asset/logo_economia.jpg}
           \renewcommand{\fuente}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par\vspace{6pt}}\fontsize{12pt}{18pt}\selectfont\onehalfspacing}
           \newcommand{\nota}[1]{\vspace{-4pt}{\raggedright\singlespacing\footnotesize \textit{Nota.} #1\par\vspace{6pt}}\fontsize{12pt}{18pt}\selectfont\onehalfspacing}
+  docx:
+    reference-doc: custom-reference.docx
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    highlight-style: github
+    tbl-cap-location: top
+    fig-cap-location: top
+    post-render:
+      - scripts/format_apa_docx.py
 ---
 
 \justifying
@@ -122,13 +122,19 @@ format:
 
 {{< include chapters/05-analisis-integral.qmd >}}
 
+::: {.content-visible unless-format="pdf"}
 {{< include chapters/06-financiamiento-presupuesto.qmd >}}
 
 {{< include chapters/07-estrategia-ejecucion.qmd >}}
 
 {{< include chapters/08-seguimiento-evaluacion.qmd >}}
+:::
 
+\newpage
 {{< include chapters/09-anexos.qmd >}}
 
 \newpage
-# Referencias Bibliográficas
+# Referencias Bibliográficas {.unnumbered}
+
+::: {#refs}
+:::

@@ -15,8 +15,8 @@ El proyecto contempla una solución técnica modular probada y de alta resilienc
 El dimensionamiento geométrico e hidráulico del puente responde a las características geomorfológicas del río Santa Rosa:
 
 * Superestructura Metálica Modular: Estructura de celosía de acero estructural de alta resistencia (ASTM A572 Grado 50), modular tipo Bailey con una luz libre de 30,00 metros y un ancho de calzada útil de 4,20 metros (un carril de circulación vehicular y franja de seguridad peatonal lateral de 0,80 m con baranda metálica). Capacidad portante calculada bajo la norma AASHTO Standard Specifications for Highway Bridges con carga viva de diseño HS-20 (32 toneladas de peso bruto vehicular).
-* Subestructura y Cimentaciones Profundas: Dos estribos de hormigón armado ($f'c = 280\text{ kg/cm}^2$, acero corrugado $fy = 4.200\text{ kg/cm}^2$), con zapatas desplantadas a cota no socavable sobre el estrato rocoso del lecho fluvial. Cada estribo incorpora pantallas frontales de 6,50 m de altura, aletas laterales de encauzamiento a 45° y orificios de drenaje tipo barbacana.
-* Obras de Protección Ribereña y Accesos: Construcción de un colchón de gaviones tipo reno y muros de escollera de piedra bola de 120 m³ en el pie de los taludes para evitar la socavación por corrientes torrenciales. Conformación de 250 metros lineales de rampas de acceso con material de base granular seleccionado compactado al 95 % del Proctor Modificado y cunetas de coronación.
+* Subestructura y Cimentaciones Profundas: Dos estribos de hormigón armado ($f'c = 240\text{ kg/cm}^2$, acero corrugado $fy = 4.200\text{ kg/cm}^2$), con zapatas desplantadas a cota no socavable sobre el estrato rocoso del lecho fluvial. Cada estribo incorpora pantallas frontales de 6,50 m de altura, aletas laterales de encauzamiento a 45° y orificios de drenaje tipo barbacana.
+* Obras de Protección Ribereña y Accesos: Construcción de un colchón de gaviones tipo reno y muros y colchones de gaviones de 55,7 m³ en el pie de los taludes para evitar la socavación por corrientes torrenciales. Conformación de 250 metros lineales de rampas de acceso con material de base granular seleccionado compactado al 95 % del Proctor Modificado y cunetas de coronación.
 
 ### Especificaciones técnicas
 
@@ -34,7 +34,7 @@ Estudios Geotécnicos & Perforadora rotativa SPT & Sondeos a percusión y rotaci
 \addlinespace
 Movimiento de Tierras & Excavadora de orugas 20 tn & Excavación del lecho fluvial y cimentaciones de zapatas con balde de 1.1 m³. \\
 \addlinespace
-Obras de Cimentación & Hormigonera y motobomba & Mezclado y bombeo de hormigón estructural f'c=280 kg/cm² con aditivo acelerante. \\
+Obras de Cimentación & Hormigonera y motobomba & Mezclado y bombeo de hormigón estructural f'c=240 kg/cm² con aditivo acelerante. \\
 \addlinespace
 Montaje Estructural & Grúa telescópica 35 tn & Izaje y posicionamiento de paneles modulares de acero sobre rodillos de lanzamiento. \\
 \addlinespace
@@ -52,7 +52,7 @@ Transporte de Carga & Volquetas de 12 m³ & Acarreo de material pétreo, retiro 
 | :--- | :--- | :--- |
 | Estudios Geotécnicos | Perforadora rotativa SPT | Sondeos a percusión y rotación para extracción de testigos hasta 15 m de profundidad. |
 | Movimiento de Tierras | Excavadora de orugas 20 tn | Excavación del lecho fluvial y cimentaciones de zapatas con balde de 1.1 m³. |
-| Obras de Cimentación | Hormigonera y motobomba | Mezclado y bombeo de hormigón estructural f'c=280 kg/cm² con aditivo acelerante. |
+| Obras de Cimentación | Hormigonera y motobomba | Mezclado y bombeo de hormigón estructural f'c=240 kg/cm² con aditivo acelerante. |
 | Montaje Estructural | Grúa telescópica 35 tn | Izaje y posicionamiento de paneles modulares de acero sobre rodillos de lanzamiento. |
 | Conformación Accesos | Motoniveladora y rodillo | Tendido, perfilado y compactación de material de base granular al 95% del Proctor Modificado. |
 | Transporte de Carga | Volquetas de 12 m³ | Acarreo de material pétreo, retiro de desalojos y transporte de gaviones. |
@@ -209,7 +209,7 @@ Bajo el flujo fiscal de costos evitados al fisco local (reemplazo de gastos recu
 
 ### Metodologías utilizadas para el cálculo de la inversión total, costos de operación y mantenimiento, ingresos y beneficios
 
-Para la evaluación socioeconómica se aplicó la metodología de precios sociales o factores de corrección de precios sombra establecida por Planifica Ecuador @guia_planifica2021:
+Para la evaluación socioeconómica se aplicó la metodología de precios sociales o factores de corrección de precios sombra establecida por Planifica Ecuador @guia_planifica2021, aplicando una Tasa Social de Descuento (TSD) oficial del 8,00 % anual, establecida normativamente por la Secretaría Nacional de Planificación y el Banco Central del Ecuador para proyectos de infraestructura vial pública:
 
 * Factor de Conversión de Bienes Nacionales y Materiales: 0,85 para corregir distorsiones arancelarias e impuestos indirectos.
 * Factor de Conversión de Mano de Obra No Calificada: 0,60 para reflejar el costo de oportunidad social del empleo rural desempleado.
@@ -346,7 +346,7 @@ Escenario Crítico Combinado \par (+15 \% Costos y -20 \% Beneficios) & -\$8.382
 *Nota.* Simulación cuantitativa de variaciones paramétricas sobre el flujo socioeconómico neto.
 :::
 
-Los resultados confirman que, incluso bajo el escenario crítico combinado simultáneo de sobrecostos constructivos (+15 %) y contracción de beneficios pecuarios (-20 %), el proyecto preserva un VANS positivo de $23.980,00 USD y una TIRS del 10,40 %, superando holgadamente la Tasa Social de Descuento mínima del 8,00 %.
+Los resultados demuestran que el proyecto mantiene su viabilidad socioeconómica y rentabilidad social de forma individual ante un incremento del 15 % en los costos de inversión y mantenimiento (VANS de $80.041,10 USD y TIRS de 10,88 %) o ante una reducción del 20 % en los beneficios estimados (VANS de $38.845,01 USD y TIRS de 9,64 %). En el caso del escenario crítico combinado simultáneo (+15 % en costos y -20 % en beneficios), el proyecto presenta un VANS de -$8.382,24 USD y una TIRS del 7,68 % (inferior a la TSD del 8,00 %, con B/C de 0,98), lo que evidencia la sensibilidad del proyecto ante choques adversos simultáneos y fundamenta la necesidad de un estricto control técnico y presupuestario durante la fase constructiva.
 
 ### Matriz de gestión de riesgos y mitigación
 
